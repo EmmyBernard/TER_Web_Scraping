@@ -27,7 +27,7 @@ La base initiale comprenait 7 tables (Driver, Grandprix, Circuit, Team, Racedriv
 *(Remplacer le lien ci-dessus par le bon chemin vers ta capture de la Figure 2)*
 
 **Base de données finale optimisée :**
-![Schéma de la base de données finale](docs/schema_final.png)
+![Schéma de la base de données finale](images/base_de_donnees_finale.png)
 *(Remplacer le lien ci-dessus par le bon chemin vers ta capture de la Figure 3)*
 
 ## 📂 Structure du Projet
