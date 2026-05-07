@@ -1,0 +1,230 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1954,Argentine Grand Prix,Juan Fangio,1,8,3,87,RAS
+1954,Argentine Grand Prix,Nino Farina,2,6,1,87,RAS
+1954,Argentine Grand Prix,José Froilán González,3,5,2,87,RAS
+1954,Argentine Grand Prix,Maurice Trintignant,4,3,5,86,RAS
+1954,Argentine Grand Prix,Élie Bayol,5,2,15,85,RAS
+1954,Argentine Grand Prix,Harry Schell,6,0,11,84,RAS
+1954,Argentine Grand Prix,Prince Bira,7,0,10,83,RAS
+1954,Argentine Grand Prix,Toulo de Graffenried,8,0,13,83,RAS
+1954,Argentine Grand Prix,Umberto Maglioli,9,0,12,82,RAS
+1954,Argentine Grand Prix,Jean Behra,10,0,17,61,DQ
+1954,Argentine Grand Prix,Mike Hawthorn,11,0,4,52,DQ
+1954,Argentine Grand Prix,Onofre Marimón,12,0,6,48,Engine
+1954,Argentine Grand Prix,Roberto Mieres,13,0,8,37,Oil leak
+1954,Argentine Grand Prix,Roger Loyer,14,0,16,19,Oil pressure
+1954,Argentine Grand Prix,Jorge Daponte,15,0,18,19,Gearbox
+1954,Argentine Grand Prix,Louis Rosier,16,0,14,1,Accident
+1954,Argentine Grand Prix,Luigi Musso,17,0,7,0,Withdrew
+1954,Argentine Grand Prix,Carlos Menditeguy,18,0,9,0,Withdrew
+1954,Indianapolis 500,Bill Vukovich,1,8,19,200,RAS
+1954,Indianapolis 500,Jimmy Bryan,2,6,3,200,RAS
+1954,Indianapolis 500,Jack McGrath,3,5,1,200,RAS
+1954,Indianapolis 500,Troy Ruttman,4,1.5,11,200,RAS
+1954,Indianapolis 500,Duane Carter,4,1.5,11,200,RAS
+1954,Indianapolis 500,Mike Nazaruk,5,2,14,200,RAS
+1954,Indianapolis 500,Fred Agabashian,6,0,24,200,RAS
+1954,Indianapolis 500,Don Freeland,7,0,6,200,RAS
+1954,Indianapolis 500,Jerry Hoyt,8,0,32,200,RAS
+1954,Indianapolis 500,Paul Russo,8,0,32,200,RAS
+1954,Indianapolis 500,Larry Crockett,9,0,25,200,RAS
+1954,Indianapolis 500,Cal Niday,10,0,13,200,RAS
+1954,Indianapolis 500,Jimmy Davies,11,0,27,200,RAS
+1954,Indianapolis 500,Art Cross,11,0,27,200,RAS
+1954,Indianapolis 500,Johnnie Parsons,11,0,27,200,RAS
+1954,Indianapolis 500,Sam Hanks,11,0,27,200,RAS
+1954,Indianapolis 500,Andy Linden,11,0,27,200,RAS
+1954,Indianapolis 500,Chuck Stevenson,12,0,5,199,RAS
+1954,Indianapolis 500,Walt Faulkner,12,0,5,199,RAS
+1954,Indianapolis 500,Manny Ayulo,13,0,22,197,RAS
+1954,Indianapolis 500,Bob Sweikert,14,0,9,197,RAS
+1954,Indianapolis 500,Duane Carter,15,0,8,196,RAS
+1954,Indianapolis 500,Tony Bettenhausen,15,0,8,196,RAS
+1954,Indianapolis 500,Jimmy Jackson,15,0,8,196,RAS
+1954,Indianapolis 500,Marshall Teague,15,0,8,196,RAS
+1954,Indianapolis 500,Ernie McCoy,16,0,20,194,RAS
+1954,Indianapolis 500,Jimmy Reece,17,0,7,194,RAS
+1954,Indianapolis 500,Ed Elisian,18,0,31,193,RAS
+1954,Indianapolis 500,Bob Scott,18,0,31,193,RAS
+1954,Indianapolis 500,Frank Armi,19,0,33,193,RAS
+1954,Indianapolis 500,George Fonder,19,0,33,193,RAS
+1954,Indianapolis 500,Jimmy Davies,20,0,10,191,Spun off
+1954,Indianapolis 500,Jim Rathmann,20,0,10,191,Spun off
+1954,Indianapolis 500,Sam Hanks,20,0,10,191,Spun off
+1954,Indianapolis 500,Pat O'Connor,21,0,12,181,Spun off
+1954,Indianapolis 500,Rodger Ward,22,0,16,172,DNF
+1954,Indianapolis 500,Eddie Johnson,22,0,16,172,DNF
+1954,Indianapolis 500,Marshall Teague,23,0,17,168,Clutch
+1954,Indianapolis 500,Gene Hartley,23,0,17,168,Clutch
+1954,Indianapolis 500,Andy Linden,24,0,4,165,DNF
+1954,Indianapolis 500,Jimmy Daywalt,24,0,4,165,DNF
+1954,Indianapolis 500,Johnny Thomson,24,0,4,165,DNF
+1954,Indianapolis 500,Andy Linden,25,0,23,165,Suspension
+1954,Indianapolis 500,Bob Scott,25,0,23,165,Suspension
+1954,Indianapolis 500,Jerry Hoyt,26,0,30,130,Engine
+1954,Indianapolis 500,Jimmy Daywalt,27,0,2,111,Accident
+1954,Indianapolis 500,Jim Rathmann,28,0,28,110,Accident
+1954,Indianapolis 500,Pat Flaherty,28,0,28,110,Accident
+1954,Indianapolis 500,Tony Bettenhausen,29,0,21,105,Wheel bearing
+1954,Indianapolis 500,Travis Webb,30,0,29,104,Fuel pump
+1954,Indianapolis 500,Danny Kladis,30,0,29,104,Fuel pump
+1954,Indianapolis 500,Len Duncan,31,0,26,101,Brakes
+1954,Indianapolis 500,George Fonder,31,0,26,101,Brakes
+1954,Indianapolis 500,Johnnie Parsons,32,0,15,79,Engine
+1954,Indianapolis 500,Bill Homeier,33,0,18,74,Accident
+1954,Belgian Grand Prix,Juan Fangio,1,9,1,36,RAS
+1954,Belgian Grand Prix,Maurice Trintignant,2,6,6,36,RAS
+1954,Belgian Grand Prix,Stirling Moss,3,4,9,35,RAS
+1954,Belgian Grand Prix,José Froilán González,4,1.5,5,35,RAS
+1954,Belgian Grand Prix,Mike Hawthorn,4,1.5,5,35,RAS
+1954,Belgian Grand Prix,André Pilette,5,2,8,35,RAS
+1954,Belgian Grand Prix,Prince Bira,6,0,13,35,RAS
+1954,Belgian Grand Prix,Sergio Mantovani,7,0,11,34,RAS
+1954,Belgian Grand Prix,Nino Farina,8,0,3,14,Ignition
+1954,Belgian Grand Prix,Paul Frère,9,0,10,14,Engine
+1954,Belgian Grand Prix,Jean Behra,10,0,7,12,Suspension
+1954,Belgian Grand Prix,Onofre Marimón,11,0,4,3,Engine
+1954,Belgian Grand Prix,José Froilán González,12,0,2,1,Engine
+1954,Belgian Grand Prix,Jacques Swaters,13,0,14,1,Engine
+1954,Belgian Grand Prix,Roberto Mieres,14,0,12,0,Heat shield fire
+1954,French Grand Prix,Juan Fangio,1,8,1,61,RAS
+1954,French Grand Prix,Karl Kling,2,6,2,61,RAS
+1954,French Grand Prix,Robert Manzon,3,4,12,60,RAS
+1954,French Grand Prix,Prince Bira,4,3,6,60,RAS
+1954,French Grand Prix,Luigi Villoresi,5,2,14,58,RAS
+1954,French Grand Prix,Jean Behra,6,0,17,56,RAS
+1954,French Grand Prix,Paul Frère,7,0,19,50,Axle
+1954,French Grand Prix,Maurice Trintignant,8,0,9,36,Engine
+1954,French Grand Prix,Louis Rosier,9,0,13,27,Engine
+1954,French Grand Prix,Onofre Marimón,10,0,5,27,Gearbox
+1954,French Grand Prix,Roberto Mieres,11,0,11,24,Engine
+1954,French Grand Prix,Ken Wharton,12,0,16,19,Transmission
+1954,French Grand Prix,Harry Schell,13,0,21,19,Fuel pump
+1954,French Grand Prix,Hans Herrmann,14,1,7,16,Engine
+1954,French Grand Prix,Roy Salvadori,15,0,10,15,Halfshaft
+1954,French Grand Prix,José Froilán González,16,0,4,13,Engine
+1954,French Grand Prix,Lance Macklin,17,0,15,10,Engine
+1954,French Grand Prix,Georges Berger,18,0,20,9,Engine
+1954,French Grand Prix,Mike Hawthorn,19,0,8,9,Engine
+1954,French Grand Prix,Jacques Pollet,20,0,18,8,Engine
+1954,French Grand Prix,Alberto Ascari,21,0,3,1,Transmission
+1954,French Grand Prix,Sergio Mantovani,22,0,0,0,Withdrew
+1954,British Grand Prix,José Froilán González,1,8.14,2,90,RAS
+1954,British Grand Prix,Mike Hawthorn,2,6.14,3,90,RAS
+1954,British Grand Prix,Onofre Marimón,3,4.14,28,89,RAS
+1954,British Grand Prix,Juan Fangio,4,3.14,1,89,RAS
+1954,British Grand Prix,Maurice Trintignant,5,2,8,87,RAS
+1954,British Grand Prix,Roberto Mieres,6,0,32,87,RAS
+1954,British Grand Prix,Karl Kling,7,0,6,87,RAS
+1954,British Grand Prix,Ken Wharton,8,0,9,86,RAS
+1954,British Grand Prix,André Pilette,9,0,12,86,RAS
+1954,British Grand Prix,Bob Gerard,10,0,18,85,RAS
+1954,British Grand Prix,Don Beauman,11,0,17,84,RAS
+1954,British Grand Prix,Harry Schell,12,0,16,83,RAS
+1954,British Grand Prix,Leslie Marr,13,0,22,82,RAS
+1954,British Grand Prix,Leslie Thorne,14,0,23,78,RAS
+1954,British Grand Prix,Horace Gould,15,0,20,44,RAS
+1954,British Grand Prix,Stirling Moss,16,0.14,4,80,Axle
+1954,British Grand Prix,Bill Whitehouse,17,0,19,63,Fuel system
+1954,British Grand Prix,Jean Behra,18,0.14,5,54,Suspension
+1954,British Grand Prix,Roy Salvadori,19,0,7,53,Transmission
+1954,British Grand Prix,Ron Flockhart,20,0,10,44,Accident
+1954,British Grand Prix,Prince Bira,20,0,10,44,Accident
+1954,British Grand Prix,Luigi Villoresi,21,0,27,40,Engine
+1954,British Grand Prix,Alberto Ascari,21,0,27,40,Engine
+1954,British Grand Prix,John Riseley-Prichard,22,0,21,40,Accident
+1954,British Grand Prix,Reg Parnell,23,0,14,25,Engine
+1954,British Grand Prix,Alberto Ascari,24,0.14,30,21,Engine
+1954,British Grand Prix,Clemar Bucci,25,0,13,18,Accident
+1954,British Grand Prix,Peter Collins,26,0,11,16,Engine
+1954,British Grand Prix,Robert Manzon,27,0,15,16,Engine
+1954,British Grand Prix,Peter Whitehead,28,0,24,4,Oil leak
+1954,British Grand Prix,Eric Brandon,29,0,25,2,Engine
+1954,British Grand Prix,Louis Rosier,30,0,31,2,Engine
+1954,British Grand Prix,Alan Brown,31,0,26,0,Withdrew
+1954,British Grand Prix,Rodney Nuckey,32,0,29,0,Withdrew
+1954,German Grand Prix,Juan Fangio,1,8,1,22,RAS
+1954,German Grand Prix,Mike Hawthorn,2,3,5,22,RAS
+1954,German Grand Prix,José Froilán González,2,3,5,22,RAS
+1954,German Grand Prix,Maurice Trintignant,3,4,7,22,RAS
+1954,German Grand Prix,Karl Kling,4,4,23,22,RAS
+1954,German Grand Prix,Sergio Mantovani,5,2,15,22,RAS
+1954,German Grand Prix,Piero Taruffi,6,0,13,21,RAS
+1954,German Grand Prix,Harry Schell,7,0,14,21,RAS
+1954,German Grand Prix,Louis Rosier,8,0,11,21,RAS
+1954,German Grand Prix,Robert Manzon,9,0,12,20,RAS
+1954,German Grand Prix,Jean Behra,10,0,9,20,RAS
+1954,German Grand Prix,Prince Bira,11,0,19,18,Steering
+1954,German Grand Prix,Hermann Lang,12,0,13,10,Spun off
+1954,German Grand Prix,Clemar Bucci,13,0,16,8,Wheel
+1954,German Grand Prix,Theo Helfrich,14,0,21,8,Engine
+1954,German Grand Prix,Hans Herrmann,15,0,4,7,Fuel leak
+1954,German Grand Prix,Paul Frère,16,0,4,4,Wheel
+1954,German Grand Prix,Mike Hawthorn,17,0,3,3,Transmission
+1954,German Grand Prix,Roberto Mieres,18,0,17,2,Fuel leak
+1954,German Grand Prix,Stirling Moss,19,0,3,1,Wheel bearing
+1954,German Grand Prix,André Pilette,20,0,20,0,Suspension
+1954,German Grand Prix,Onofre Marimón,21,0,8,0,Accident
+1954,German Grand Prix,Luigi Villoresi,22,0,10,0,Withdrew
+1954,German Grand Prix,Ken Wharton,23,0,22,0,Withdrew
+1954,Swiss Grand Prix,Juan Fangio,1,9,2,66,RAS
+1954,Swiss Grand Prix,José Froilán González,2,6,1,66,RAS
+1954,Swiss Grand Prix,Hans Herrmann,3,4,7,65,RAS
+1954,Swiss Grand Prix,Roberto Mieres,4,3,12,64,RAS
+1954,Swiss Grand Prix,Sergio Mantovani,5,2,9,64,RAS
+1954,Swiss Grand Prix,Ken Wharton,6,0,8,64,RAS
+1954,Swiss Grand Prix,Umberto Maglioli,7,0,11,61,RAS
+1954,Swiss Grand Prix,Jacques Swaters,8,0,16,58,RAS
+1954,Swiss Grand Prix,Karl Kling,9,0,5,38,Fuel system
+1954,Swiss Grand Prix,Maurice Trintignant,10,0,4,33,Engine
+1954,Swiss Grand Prix,Mike Hawthorn,11,0,6,30,Oil leak
+1954,Swiss Grand Prix,Harry Schell,12,0,13,23,Oil pump
+1954,Swiss Grand Prix,Stirling Moss,13,0,3,21,Oil pump
+1954,Swiss Grand Prix,Fred Wacker,14,0,15,10,Transmission
+1954,Swiss Grand Prix,Jean Behra,15,0,14,8,Clutch
+1954,Swiss Grand Prix,Clemar Bucci,16,0,10,0,Fuel pump
+1954,Swiss Grand Prix,Robert Manzon,17,0,0,0,Accident
+1954,Italian Grand Prix,Juan Fangio,1,8,1,80,RAS
+1954,Italian Grand Prix,Mike Hawthorn,2,6,7,79,RAS
+1954,Italian Grand Prix,José Froilán González,3,3,13,78,RAS
+1954,Italian Grand Prix,Umberto Maglioli,3,2,13,78,RAS
+1954,Italian Grand Prix,Hans Herrmann,4,3,8,77,RAS
+1954,Italian Grand Prix,Maurice Trintignant,5,2,11,75,RAS
+1954,Italian Grand Prix,Fred Wacker,6,0,18,75,RAS
+1954,Italian Grand Prix,Peter Collins,7,0,16,75,RAS
+1954,Italian Grand Prix,Louis Rosier,8,0,20,74,RAS
+1954,Italian Grand Prix,Sergio Mantovani,9,0,9,74,RAS
+1954,Italian Grand Prix,Stirling Moss,10,0,3,71,RAS
+1954,Italian Grand Prix,Jorge Daponte,11,0,19,70,RAS
+1954,Italian Grand Prix,Alberto Ascari,12,0,2,48,Engine
+1954,Italian Grand Prix,Luigi Villoresi,13,0,6,42,Clutch
+1954,Italian Grand Prix,Karl Kling,14,0,4,36,Accident
+1954,Italian Grand Prix,Roberto Mieres,15,0,10,34,Suspension
+1954,Italian Grand Prix,Luigi Musso,16,0,14,32,Transmission
+1954,Italian Grand Prix,José Froilán González,17,0,5,16,Gearbox
+1954,Italian Grand Prix,Robert Manzon,18,0,15,16,Engine
+1954,Italian Grand Prix,Clemar Bucci,19,0,17,13,Transmission
+1954,Italian Grand Prix,Jean Behra,20,0,12,2,Engine
+1954,Spanish Grand Prix,Mike Hawthorn,1,8,3,80,RAS
+1954,Spanish Grand Prix,Luigi Musso,2,6,7,80,RAS
+1954,Spanish Grand Prix,Juan Fangio,3,4,2,79,RAS
+1954,Spanish Grand Prix,Roberto Mieres,4,3,11,79,RAS
+1954,Spanish Grand Prix,Karl Kling,5,2,12,79,RAS
+1954,Spanish Grand Prix,Paco Godia,6,0,13,76,RAS
+1954,Spanish Grand Prix,Louis Rosier,7,0,20,74,RAS
+1954,Spanish Grand Prix,Ken Wharton,8,0,14,74,RAS
+1954,Spanish Grand Prix,Prince Bira,9,0,15,68,RAS
+1954,Spanish Grand Prix,Sergio Mantovani,10,0,10,58,Brakes
+1954,Spanish Grand Prix,Ottorino Volonterio,11,0,21,57,Engine
+1954,Spanish Grand Prix,Toulo de Graffenried,11,0,21,57,Engine
+1954,Spanish Grand Prix,Hans Herrmann,12,0,9,50,Injection
+1954,Spanish Grand Prix,Maurice Trintignant,13,0,8,47,Gearbox
+1954,Spanish Grand Prix,Jacques Pollet,14,0,16,37,Engine
+1954,Spanish Grand Prix,Harry Schell,15,0,4,29,Transmission
+1954,Spanish Grand Prix,Stirling Moss,16,0,6,20,Oil pump
+1954,Spanish Grand Prix,Jean Behra,17,0,18,17,Brakes
+1954,Spanish Grand Prix,Jacques Swaters,18,0,19,16,Engine
+1954,Spanish Grand Prix,Alberto Ascari,19,1,1,10,Clutch
+1954,Spanish Grand Prix,Luigi Villoresi,20,0,5,2,Brakes
+1954,Spanish Grand Prix,Robert Manzon,21,0,17,2,Engine
+1954,Spanish Grand Prix,Peter Collins,22,0,0,0,Accident

@@ -1,0 +1,341 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2009,Australian Grand Prix,Jenson Button,1,10,1,58,RAS
+2009,Australian Grand Prix,Rubens Barrichello,2,8,2,58,RAS
+2009,Australian Grand Prix,Jarno Trulli,3,6,20,58,RAS
+2009,Australian Grand Prix,Timo Glock,4,5,19,58,RAS
+2009,Australian Grand Prix,Fernando Alonso,5,4,10,58,RAS
+2009,Australian Grand Prix,Nico Rosberg,6,3,5,58,RAS
+2009,Australian Grand Prix,Sébastien Buemi,7,2,13,58,RAS
+2009,Australian Grand Prix,Sébastien Bourdais,8,1,17,58,RAS
+2009,Australian Grand Prix,Adrian Sutil,9,0,16,58,RAS
+2009,Australian Grand Prix,Nick Heidfeld,10,0,9,58,RAS
+2009,Australian Grand Prix,Giancarlo Fisichella,11,0,15,58,RAS
+2009,Australian Grand Prix,Mark Webber,12,0,8,57,RAS
+2009,Australian Grand Prix,Sebastian Vettel,13,0,3,56,Collision
+2009,Australian Grand Prix,Robert Kubica,14,0,4,55,Collision
+2009,Australian Grand Prix,Kimi Räikkönen,15,0,7,55,Differential
+2009,Australian Grand Prix,Felipe Massa,16,0,6,45,Suspension
+2009,Australian Grand Prix,Nelson Piquet Jr.,17,0,14,24,Spun off
+2009,Australian Grand Prix,Kazuki Nakajima,18,0,11,17,Accident
+2009,Australian Grand Prix,Heikki Kovalainen,19,0,12,0,Collision
+2009,Australian Grand Prix,Lewis Hamilton,20,0,18,58,DQ
+2009,Malaysian Grand Prix,Jenson Button,1,5,1,31,RAS
+2009,Malaysian Grand Prix,Nick Heidfeld,2,4,10,31,RAS
+2009,Malaysian Grand Prix,Timo Glock,3,3,3,31,RAS
+2009,Malaysian Grand Prix,Jarno Trulli,4,2.5,2,31,RAS
+2009,Malaysian Grand Prix,Rubens Barrichello,5,2,8,31,RAS
+2009,Malaysian Grand Prix,Mark Webber,6,1.5,5,31,RAS
+2009,Malaysian Grand Prix,Lewis Hamilton,7,1,12,31,RAS
+2009,Malaysian Grand Prix,Nico Rosberg,8,0.5,4,31,RAS
+2009,Malaysian Grand Prix,Felipe Massa,9,0,16,31,RAS
+2009,Malaysian Grand Prix,Sébastien Bourdais,10,0,15,31,RAS
+2009,Malaysian Grand Prix,Fernando Alonso,11,0,9,31,RAS
+2009,Malaysian Grand Prix,Kazuki Nakajima,12,0,11,31,RAS
+2009,Malaysian Grand Prix,Nelson Piquet Jr.,13,0,17,31,RAS
+2009,Malaysian Grand Prix,Kimi Räikkönen,14,0,7,31,RAS
+2009,Malaysian Grand Prix,Sebastian Vettel,15,0,13,30,Spun off
+2009,Malaysian Grand Prix,Sébastien Buemi,16,0,20,30,Spun off
+2009,Malaysian Grand Prix,Adrian Sutil,17,0,19,30,RAS
+2009,Malaysian Grand Prix,Giancarlo Fisichella,18,0,18,29,Spun off
+2009,Malaysian Grand Prix,Robert Kubica,19,0,6,1,Engine
+2009,Malaysian Grand Prix,Heikki Kovalainen,20,0,14,0,Spun off
+2009,Chinese Grand Prix,Sebastian Vettel,1,10,1,56,RAS
+2009,Chinese Grand Prix,Mark Webber,2,8,3,56,RAS
+2009,Chinese Grand Prix,Jenson Button,3,6,5,56,RAS
+2009,Chinese Grand Prix,Rubens Barrichello,4,5,4,56,RAS
+2009,Chinese Grand Prix,Heikki Kovalainen,5,4,12,56,RAS
+2009,Chinese Grand Prix,Lewis Hamilton,6,3,9,56,RAS
+2009,Chinese Grand Prix,Timo Glock,7,2,19,56,RAS
+2009,Chinese Grand Prix,Sébastien Buemi,8,1,10,56,RAS
+2009,Chinese Grand Prix,Fernando Alonso,9,0,2,56,RAS
+2009,Chinese Grand Prix,Kimi Räikkönen,10,0,8,56,RAS
+2009,Chinese Grand Prix,Sébastien Bourdais,11,0,15,56,RAS
+2009,Chinese Grand Prix,Nick Heidfeld,12,0,11,56,RAS
+2009,Chinese Grand Prix,Robert Kubica,13,0,17,56,RAS
+2009,Chinese Grand Prix,Giancarlo Fisichella,14,0,20,55,RAS
+2009,Chinese Grand Prix,Nico Rosberg,15,0,7,55,RAS
+2009,Chinese Grand Prix,Nelson Piquet Jr.,16,0,16,54,RAS
+2009,Chinese Grand Prix,Adrian Sutil,17,0,18,50,Spun off
+2009,Chinese Grand Prix,Kazuki Nakajima,18,0,14,43,DNF
+2009,Chinese Grand Prix,Felipe Massa,19,0,13,20,Electronics
+2009,Chinese Grand Prix,Jarno Trulli,20,0,6,18,Collision
+2009,Bahrain Grand Prix,Jenson Button,1,10,4,57,RAS
+2009,Bahrain Grand Prix,Sebastian Vettel,2,8,3,57,RAS
+2009,Bahrain Grand Prix,Jarno Trulli,3,6,1,57,RAS
+2009,Bahrain Grand Prix,Lewis Hamilton,4,5,5,57,RAS
+2009,Bahrain Grand Prix,Rubens Barrichello,5,4,6,57,RAS
+2009,Bahrain Grand Prix,Kimi Räikkönen,6,3,10,57,RAS
+2009,Bahrain Grand Prix,Timo Glock,7,2,2,57,RAS
+2009,Bahrain Grand Prix,Fernando Alonso,8,1,7,57,RAS
+2009,Bahrain Grand Prix,Nico Rosberg,9,0,9,57,RAS
+2009,Bahrain Grand Prix,Nelson Piquet Jr.,10,0,15,57,RAS
+2009,Bahrain Grand Prix,Mark Webber,11,0,18,57,RAS
+2009,Bahrain Grand Prix,Heikki Kovalainen,12,0,11,57,RAS
+2009,Bahrain Grand Prix,Sébastien Bourdais,13,0,20,57,RAS
+2009,Bahrain Grand Prix,Felipe Massa,14,0,8,56,RAS
+2009,Bahrain Grand Prix,Giancarlo Fisichella,15,0,17,56,RAS
+2009,Bahrain Grand Prix,Adrian Sutil,16,0,19,56,RAS
+2009,Bahrain Grand Prix,Sébastien Buemi,17,0,16,56,RAS
+2009,Bahrain Grand Prix,Robert Kubica,18,0,13,56,RAS
+2009,Bahrain Grand Prix,Nick Heidfeld,19,0,14,56,RAS
+2009,Bahrain Grand Prix,Kazuki Nakajima,20,0,12,48,Oil pressure
+2009,Spanish Grand Prix,Jenson Button,1,10,1,66,RAS
+2009,Spanish Grand Prix,Rubens Barrichello,2,8,3,66,RAS
+2009,Spanish Grand Prix,Mark Webber,3,6,5,66,RAS
+2009,Spanish Grand Prix,Sebastian Vettel,4,5,2,66,RAS
+2009,Spanish Grand Prix,Fernando Alonso,5,4,8,66,RAS
+2009,Spanish Grand Prix,Felipe Massa,6,3,4,66,RAS
+2009,Spanish Grand Prix,Nick Heidfeld,7,2,13,66,RAS
+2009,Spanish Grand Prix,Nico Rosberg,8,1,9,66,RAS
+2009,Spanish Grand Prix,Lewis Hamilton,9,0,14,65,RAS
+2009,Spanish Grand Prix,Timo Glock,10,0,6,65,RAS
+2009,Spanish Grand Prix,Robert Kubica,11,0,10,65,RAS
+2009,Spanish Grand Prix,Nelson Piquet Jr.,12,0,12,65,RAS
+2009,Spanish Grand Prix,Kazuki Nakajima,13,0,11,65,RAS
+2009,Spanish Grand Prix,Giancarlo Fisichella,14,0,20,65,RAS
+2009,Spanish Grand Prix,Kimi Räikkönen,15,0,16,17,Hydraulics
+2009,Spanish Grand Prix,Heikki Kovalainen,16,0,18,7,Gearbox
+2009,Spanish Grand Prix,Jarno Trulli,17,0,7,0,Collision
+2009,Spanish Grand Prix,Sébastien Buemi,18,0,15,0,Collision
+2009,Spanish Grand Prix,Sébastien Bourdais,19,0,17,0,Collision
+2009,Spanish Grand Prix,Adrian Sutil,20,0,19,0,Collision
+2009,Monaco Grand Prix,Jenson Button,1,10,1,78,RAS
+2009,Monaco Grand Prix,Rubens Barrichello,2,8,3,78,RAS
+2009,Monaco Grand Prix,Kimi Räikkönen,3,6,2,78,RAS
+2009,Monaco Grand Prix,Felipe Massa,4,5,5,78,RAS
+2009,Monaco Grand Prix,Mark Webber,5,4,8,78,RAS
+2009,Monaco Grand Prix,Nico Rosberg,6,3,6,78,RAS
+2009,Monaco Grand Prix,Fernando Alonso,7,2,9,78,RAS
+2009,Monaco Grand Prix,Sébastien Bourdais,8,1,14,78,RAS
+2009,Monaco Grand Prix,Giancarlo Fisichella,9,0,13,78,RAS
+2009,Monaco Grand Prix,Timo Glock,10,0,20,77,RAS
+2009,Monaco Grand Prix,Nick Heidfeld,11,0,16,77,RAS
+2009,Monaco Grand Prix,Lewis Hamilton,12,0,19,77,RAS
+2009,Monaco Grand Prix,Jarno Trulli,13,0,18,77,RAS
+2009,Monaco Grand Prix,Adrian Sutil,14,0,15,77,RAS
+2009,Monaco Grand Prix,Kazuki Nakajima,15,0,10,76,Accident
+2009,Monaco Grand Prix,Heikki Kovalainen,16,0,7,51,Accident
+2009,Monaco Grand Prix,Robert Kubica,17,0,17,28,Brakes
+2009,Monaco Grand Prix,Sebastian Vettel,18,0,4,15,Accident
+2009,Monaco Grand Prix,Nelson Piquet Jr.,19,0,12,10,Collision
+2009,Monaco Grand Prix,Sébastien Buemi,20,0,11,10,Collision
+2009,Turkish Grand Prix,Jenson Button,1,10,2,58,RAS
+2009,Turkish Grand Prix,Mark Webber,2,8,4,58,RAS
+2009,Turkish Grand Prix,Sebastian Vettel,3,6,1,58,RAS
+2009,Turkish Grand Prix,Jarno Trulli,4,5,5,58,RAS
+2009,Turkish Grand Prix,Nico Rosberg,5,4,9,58,RAS
+2009,Turkish Grand Prix,Felipe Massa,6,3,7,58,RAS
+2009,Turkish Grand Prix,Robert Kubica,7,2,10,58,RAS
+2009,Turkish Grand Prix,Timo Glock,8,1,13,58,RAS
+2009,Turkish Grand Prix,Kimi Räikkönen,9,0,6,58,RAS
+2009,Turkish Grand Prix,Fernando Alonso,10,0,8,58,RAS
+2009,Turkish Grand Prix,Nick Heidfeld,11,0,11,58,RAS
+2009,Turkish Grand Prix,Kazuki Nakajima,12,0,12,58,RAS
+2009,Turkish Grand Prix,Lewis Hamilton,13,0,16,58,RAS
+2009,Turkish Grand Prix,Heikki Kovalainen,14,0,14,57,RAS
+2009,Turkish Grand Prix,Sébastien Buemi,15,0,18,57,RAS
+2009,Turkish Grand Prix,Nelson Piquet Jr.,16,0,17,57,RAS
+2009,Turkish Grand Prix,Adrian Sutil,17,0,15,57,RAS
+2009,Turkish Grand Prix,Sébastien Bourdais,18,0,20,57,RAS
+2009,Turkish Grand Prix,Rubens Barrichello,19,0,3,47,Gearbox
+2009,Turkish Grand Prix,Giancarlo Fisichella,20,0,19,4,Brakes
+2009,British Grand Prix,Sebastian Vettel,1,10,1,60,RAS
+2009,British Grand Prix,Mark Webber,2,8,3,60,RAS
+2009,British Grand Prix,Rubens Barrichello,3,6,2,60,RAS
+2009,British Grand Prix,Felipe Massa,4,5,11,60,RAS
+2009,British Grand Prix,Nico Rosberg,5,4,7,60,RAS
+2009,British Grand Prix,Jenson Button,6,3,6,60,RAS
+2009,British Grand Prix,Jarno Trulli,7,2,4,60,RAS
+2009,British Grand Prix,Kimi Räikkönen,8,1,9,60,RAS
+2009,British Grand Prix,Timo Glock,9,0,8,60,RAS
+2009,British Grand Prix,Giancarlo Fisichella,10,0,16,60,RAS
+2009,British Grand Prix,Kazuki Nakajima,11,0,5,60,RAS
+2009,British Grand Prix,Nelson Piquet Jr.,12,0,14,59,RAS
+2009,British Grand Prix,Robert Kubica,13,0,12,59,RAS
+2009,British Grand Prix,Fernando Alonso,14,0,10,59,RAS
+2009,British Grand Prix,Nick Heidfeld,15,0,15,59,RAS
+2009,British Grand Prix,Lewis Hamilton,16,0,18,59,RAS
+2009,British Grand Prix,Adrian Sutil,17,0,20,59,RAS
+2009,British Grand Prix,Sébastien Buemi,18,0,19,59,RAS
+2009,British Grand Prix,Sébastien Bourdais,19,0,17,37,Collision
+2009,British Grand Prix,Heikki Kovalainen,20,0,13,36,Collision
+2009,German Grand Prix,Mark Webber,1,10,1,60,RAS
+2009,German Grand Prix,Sebastian Vettel,2,8,4,60,RAS
+2009,German Grand Prix,Felipe Massa,3,6,8,60,RAS
+2009,German Grand Prix,Nico Rosberg,4,5,15,60,RAS
+2009,German Grand Prix,Jenson Button,5,4,3,60,RAS
+2009,German Grand Prix,Rubens Barrichello,6,3,2,60,RAS
+2009,German Grand Prix,Fernando Alonso,7,2,12,60,RAS
+2009,German Grand Prix,Heikki Kovalainen,8,1,6,60,RAS
+2009,German Grand Prix,Timo Glock,9,0,20,60,RAS
+2009,German Grand Prix,Nick Heidfeld,10,0,11,60,RAS
+2009,German Grand Prix,Giancarlo Fisichella,11,0,18,60,RAS
+2009,German Grand Prix,Kazuki Nakajima,12,0,13,60,RAS
+2009,German Grand Prix,Nelson Piquet Jr.,13,0,10,60,RAS
+2009,German Grand Prix,Robert Kubica,14,0,16,60,RAS
+2009,German Grand Prix,Adrian Sutil,15,0,7,60,RAS
+2009,German Grand Prix,Sébastien Buemi,16,0,17,60,RAS
+2009,German Grand Prix,Jarno Trulli,17,0,14,60,RAS
+2009,German Grand Prix,Lewis Hamilton,18,0,5,59,RAS
+2009,German Grand Prix,Kimi Räikkönen,19,0,9,34,Engine
+2009,German Grand Prix,Sébastien Bourdais,20,0,19,18,Hydraulics
+2009,Hungarian Grand Prix,Lewis Hamilton,1,10,4,70,RAS
+2009,Hungarian Grand Prix,Kimi Räikkönen,2,8,7,70,RAS
+2009,Hungarian Grand Prix,Mark Webber,3,6,3,70,RAS
+2009,Hungarian Grand Prix,Nico Rosberg,4,5,5,70,RAS
+2009,Hungarian Grand Prix,Heikki Kovalainen,5,4,6,70,RAS
+2009,Hungarian Grand Prix,Timo Glock,6,3,13,70,RAS
+2009,Hungarian Grand Prix,Jenson Button,7,2,8,70,RAS
+2009,Hungarian Grand Prix,Jarno Trulli,8,1,11,70,RAS
+2009,Hungarian Grand Prix,Kazuki Nakajima,9,0,9,70,RAS
+2009,Hungarian Grand Prix,Rubens Barrichello,10,0,12,70,RAS
+2009,Hungarian Grand Prix,Nick Heidfeld,11,0,15,70,RAS
+2009,Hungarian Grand Prix,Nelson Piquet Jr.,12,0,14,70,RAS
+2009,Hungarian Grand Prix,Robert Kubica,13,0,18,70,RAS
+2009,Hungarian Grand Prix,Giancarlo Fisichella,14,0,16,69,RAS
+2009,Hungarian Grand Prix,Jaime Alguersuari,15,0,19,69,RAS
+2009,Hungarian Grand Prix,Sébastien Buemi,16,0,10,69,RAS
+2009,Hungarian Grand Prix,Sebastian Vettel,17,0,2,29,Suspension
+2009,Hungarian Grand Prix,Fernando Alonso,18,0,1,15,Wheel
+2009,Hungarian Grand Prix,Adrian Sutil,19,0,17,1,Overheating
+2009,Hungarian Grand Prix,Felipe Massa,20,0,0,0,Withdrew
+2009,European Grand Prix,Rubens Barrichello,1,10,3,57,RAS
+2009,European Grand Prix,Lewis Hamilton,2,8,1,57,RAS
+2009,European Grand Prix,Kimi Räikkönen,3,6,6,57,RAS
+2009,European Grand Prix,Heikki Kovalainen,4,5,2,57,RAS
+2009,European Grand Prix,Nico Rosberg,5,4,7,57,RAS
+2009,European Grand Prix,Fernando Alonso,6,3,8,57,RAS
+2009,European Grand Prix,Jenson Button,7,2,5,57,RAS
+2009,European Grand Prix,Robert Kubica,8,1,10,57,RAS
+2009,European Grand Prix,Mark Webber,9,0,9,57,RAS
+2009,European Grand Prix,Adrian Sutil,10,0,12,57,RAS
+2009,European Grand Prix,Nick Heidfeld,11,0,11,57,RAS
+2009,European Grand Prix,Giancarlo Fisichella,12,0,16,57,RAS
+2009,European Grand Prix,Jarno Trulli,13,0,18,57,RAS
+2009,European Grand Prix,Timo Glock,14,0,13,57,RAS
+2009,European Grand Prix,Romain Grosjean,15,0,14,57,RAS
+2009,European Grand Prix,Jaime Alguersuari,16,0,19,56,RAS
+2009,European Grand Prix,Luca Badoer,17,0,20,56,RAS
+2009,European Grand Prix,Kazuki Nakajima,18,0,17,54,RAS
+2009,European Grand Prix,Sébastien Buemi,19,0,15,41,Brakes
+2009,European Grand Prix,Sebastian Vettel,20,0,4,23,Engine
+2009,Belgian Grand Prix,Kimi Räikkönen,1,10,6,44,RAS
+2009,Belgian Grand Prix,Giancarlo Fisichella,2,8,1,44,RAS
+2009,Belgian Grand Prix,Sebastian Vettel,3,6,8,44,RAS
+2009,Belgian Grand Prix,Robert Kubica,4,5,5,44,RAS
+2009,Belgian Grand Prix,Nick Heidfeld,5,4,3,44,RAS
+2009,Belgian Grand Prix,Heikki Kovalainen,6,3,15,44,RAS
+2009,Belgian Grand Prix,Rubens Barrichello,7,2,4,44,RAS
+2009,Belgian Grand Prix,Nico Rosberg,8,1,10,44,RAS
+2009,Belgian Grand Prix,Mark Webber,9,0,9,44,RAS
+2009,Belgian Grand Prix,Timo Glock,10,0,7,44,RAS
+2009,Belgian Grand Prix,Adrian Sutil,11,0,11,44,RAS
+2009,Belgian Grand Prix,Sébastien Buemi,12,0,16,44,RAS
+2009,Belgian Grand Prix,Kazuki Nakajima,13,0,18,44,RAS
+2009,Belgian Grand Prix,Luca Badoer,14,0,20,44,RAS
+2009,Belgian Grand Prix,Fernando Alonso,15,0,13,26,DNF
+2009,Belgian Grand Prix,Jarno Trulli,16,0,2,21,Brakes
+2009,Belgian Grand Prix,Jenson Button,17,0,14,0,Collision
+2009,Belgian Grand Prix,Romain Grosjean,18,0,19,0,Collision
+2009,Belgian Grand Prix,Lewis Hamilton,19,0,12,0,Collision
+2009,Belgian Grand Prix,Jaime Alguersuari,20,0,17,0,Collision
+2009,Italian Grand Prix,Rubens Barrichello,1,10,5,53,RAS
+2009,Italian Grand Prix,Jenson Button,2,8,6,53,RAS
+2009,Italian Grand Prix,Kimi Räikkönen,3,6,3,53,RAS
+2009,Italian Grand Prix,Adrian Sutil,4,5,2,53,RAS
+2009,Italian Grand Prix,Fernando Alonso,5,4,8,53,RAS
+2009,Italian Grand Prix,Heikki Kovalainen,6,3,4,53,RAS
+2009,Italian Grand Prix,Nick Heidfeld,7,2,15,53,RAS
+2009,Italian Grand Prix,Sebastian Vettel,8,1,9,53,RAS
+2009,Italian Grand Prix,Giancarlo Fisichella,9,0,14,53,RAS
+2009,Italian Grand Prix,Kazuki Nakajima,10,0,17,53,RAS
+2009,Italian Grand Prix,Timo Glock,11,0,16,53,RAS
+2009,Italian Grand Prix,Lewis Hamilton,12,0,1,52,Accident
+2009,Italian Grand Prix,Sébastien Buemi,13,0,19,52,RAS
+2009,Italian Grand Prix,Jarno Trulli,14,0,11,52,RAS
+2009,Italian Grand Prix,Romain Grosjean,15,0,12,52,RAS
+2009,Italian Grand Prix,Nico Rosberg,16,0,18,51,RAS
+2009,Italian Grand Prix,Vitantonio Liuzzi,17,0,7,22,Transmission
+2009,Italian Grand Prix,Jaime Alguersuari,18,0,20,19,DNF
+2009,Italian Grand Prix,Robert Kubica,19,0,13,15,Oil leak
+2009,Italian Grand Prix,Mark Webber,20,0,10,0,Collision
+2009,Singapore Grand Prix,Lewis Hamilton,1,10,1,61,RAS
+2009,Singapore Grand Prix,Timo Glock,2,8,6,61,RAS
+2009,Singapore Grand Prix,Fernando Alonso,3,6,5,61,RAS
+2009,Singapore Grand Prix,Sebastian Vettel,4,5,2,61,RAS
+2009,Singapore Grand Prix,Jenson Button,5,4,11,61,RAS
+2009,Singapore Grand Prix,Rubens Barrichello,6,3,9,61,RAS
+2009,Singapore Grand Prix,Heikki Kovalainen,7,2,8,61,RAS
+2009,Singapore Grand Prix,Robert Kubica,8,1,7,61,RAS
+2009,Singapore Grand Prix,Kazuki Nakajima,9,0,10,61,RAS
+2009,Singapore Grand Prix,Kimi Räikkönen,10,0,12,61,RAS
+2009,Singapore Grand Prix,Nico Rosberg,11,0,3,61,RAS
+2009,Singapore Grand Prix,Jarno Trulli,12,0,14,61,RAS
+2009,Singapore Grand Prix,Giancarlo Fisichella,13,0,17,61,RAS
+2009,Singapore Grand Prix,Vitantonio Liuzzi,14,0,19,61,RAS
+2009,Singapore Grand Prix,Jaime Alguersuari,15,0,16,47,Brakes
+2009,Singapore Grand Prix,Sébastien Buemi,16,0,13,47,Gearbox
+2009,Singapore Grand Prix,Mark Webber,17,0,4,45,Brakes
+2009,Singapore Grand Prix,Adrian Sutil,18,0,15,23,Collision
+2009,Singapore Grand Prix,Nick Heidfeld,19,0,20,19,Collision
+2009,Singapore Grand Prix,Romain Grosjean,20,0,18,3,Brakes
+2009,Japanese Grand Prix,Sebastian Vettel,1,10,1,53,RAS
+2009,Japanese Grand Prix,Jarno Trulli,2,8,2,53,RAS
+2009,Japanese Grand Prix,Lewis Hamilton,3,6,3,53,RAS
+2009,Japanese Grand Prix,Kimi Räikkönen,4,5,5,53,RAS
+2009,Japanese Grand Prix,Nico Rosberg,5,4,7,53,RAS
+2009,Japanese Grand Prix,Nick Heidfeld,6,3,4,53,RAS
+2009,Japanese Grand Prix,Rubens Barrichello,7,2,6,53,RAS
+2009,Japanese Grand Prix,Jenson Button,8,1,10,53,RAS
+2009,Japanese Grand Prix,Robert Kubica,9,0,9,53,RAS
+2009,Japanese Grand Prix,Fernando Alonso,10,0,16,53,RAS
+2009,Japanese Grand Prix,Heikki Kovalainen,11,0,11,53,RAS
+2009,Japanese Grand Prix,Giancarlo Fisichella,12,0,14,53,RAS
+2009,Japanese Grand Prix,Adrian Sutil,13,0,8,53,RAS
+2009,Japanese Grand Prix,Vitantonio Liuzzi,14,0,18,53,RAS
+2009,Japanese Grand Prix,Kazuki Nakajima,15,0,15,53,RAS
+2009,Japanese Grand Prix,Romain Grosjean,16,0,17,52,RAS
+2009,Japanese Grand Prix,Mark Webber,17,0,19,51,RAS
+2009,Japanese Grand Prix,Jaime Alguersuari,18,0,12,43,Accident
+2009,Japanese Grand Prix,Sébastien Buemi,19,0,13,11,Clutch
+2009,Japanese Grand Prix,Timo Glock,20,0,20,0,Injured
+2009,Brazilian Grand Prix,Mark Webber,1,10,2,71,RAS
+2009,Brazilian Grand Prix,Robert Kubica,2,8,8,71,RAS
+2009,Brazilian Grand Prix,Lewis Hamilton,3,6,17,71,RAS
+2009,Brazilian Grand Prix,Sebastian Vettel,4,5,15,71,RAS
+2009,Brazilian Grand Prix,Jenson Button,5,4,14,71,RAS
+2009,Brazilian Grand Prix,Kimi Räikkönen,6,3,5,71,RAS
+2009,Brazilian Grand Prix,Sébastien Buemi,7,2,6,71,RAS
+2009,Brazilian Grand Prix,Rubens Barrichello,8,1,1,71,RAS
+2009,Brazilian Grand Prix,Heikki Kovalainen,9,0,16,71,RAS
+2009,Brazilian Grand Prix,Kamui Kobayashi,10,0,11,71,RAS
+2009,Brazilian Grand Prix,Giancarlo Fisichella,11,0,19,71,RAS
+2009,Brazilian Grand Prix,Vitantonio Liuzzi,12,0,20,71,RAS
+2009,Brazilian Grand Prix,Romain Grosjean,13,0,13,70,RAS
+2009,Brazilian Grand Prix,Jaime Alguersuari,14,0,12,70,RAS
+2009,Brazilian Grand Prix,Kazuki Nakajima,15,0,9,30,Accident
+2009,Brazilian Grand Prix,Nico Rosberg,16,0,7,27,Gearbox
+2009,Brazilian Grand Prix,Nick Heidfeld,17,0,18,21,Out of fuel
+2009,Brazilian Grand Prix,Adrian Sutil,18,0,3,0,Accident
+2009,Brazilian Grand Prix,Jarno Trulli,19,0,4,0,Accident
+2009,Brazilian Grand Prix,Fernando Alonso,20,0,10,0,Accident
+2009,Abu Dhabi Grand Prix,Sebastian Vettel,1,10,2,55,RAS
+2009,Abu Dhabi Grand Prix,Mark Webber,2,8,3,55,RAS
+2009,Abu Dhabi Grand Prix,Jenson Button,3,6,5,55,RAS
+2009,Abu Dhabi Grand Prix,Rubens Barrichello,4,5,4,55,RAS
+2009,Abu Dhabi Grand Prix,Nick Heidfeld,5,4,8,55,RAS
+2009,Abu Dhabi Grand Prix,Kamui Kobayashi,6,3,12,55,RAS
+2009,Abu Dhabi Grand Prix,Jarno Trulli,7,2,6,55,RAS
+2009,Abu Dhabi Grand Prix,Sébastien Buemi,8,1,10,55,RAS
+2009,Abu Dhabi Grand Prix,Nico Rosberg,9,0,9,55,RAS
+2009,Abu Dhabi Grand Prix,Robert Kubica,10,0,7,55,RAS
+2009,Abu Dhabi Grand Prix,Heikki Kovalainen,11,0,18,55,RAS
+2009,Abu Dhabi Grand Prix,Kimi Räikkönen,12,0,11,55,RAS
+2009,Abu Dhabi Grand Prix,Kazuki Nakajima,13,0,13,55,RAS
+2009,Abu Dhabi Grand Prix,Fernando Alonso,14,0,15,55,RAS
+2009,Abu Dhabi Grand Prix,Vitantonio Liuzzi,15,0,16,55,RAS
+2009,Abu Dhabi Grand Prix,Giancarlo Fisichella,16,0,20,54,RAS
+2009,Abu Dhabi Grand Prix,Adrian Sutil,17,0,17,54,RAS
+2009,Abu Dhabi Grand Prix,Romain Grosjean,18,0,19,54,RAS
+2009,Abu Dhabi Grand Prix,Lewis Hamilton,19,0,1,20,Brakes
+2009,Abu Dhabi Grand Prix,Jaime Alguersuari,20,0,14,18,Gearbox

@@ -1,0 +1,401 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1985,Brazilian Grand Prix,Alain Prost,1,9,6,61,RAS
+1985,Brazilian Grand Prix,Michele Alboreto,2,6,1,61,RAS
+1985,Brazilian Grand Prix,Elio de Angelis,3,4,3,60,RAS
+1985,Brazilian Grand Prix,René Arnoux,4,3,7,59,RAS
+1985,Brazilian Grand Prix,Patrick Tambay,5,2,11,59,RAS
+1985,Brazilian Grand Prix,Jacques Laffite,6,1,15,59,RAS
+1985,Brazilian Grand Prix,Stefan Johansson,7,0,23,58,RAS
+1985,Brazilian Grand Prix,Martin Brundle,8,0,21,58,RAS
+1985,Brazilian Grand Prix,Philippe Alliot,9,0,20,58,RAS
+1985,Brazilian Grand Prix,Derek Warwick,10,0,10,57,RAS
+1985,Brazilian Grand Prix,Thierry Boutsen,11,0,12,57,RAS
+1985,Brazilian Grand Prix,Piercarlo Ghinzani,12,0,22,57,RAS
+1985,Brazilian Grand Prix,Manfred Winkelhock,13,0,16,57,RAS
+1985,Brazilian Grand Prix,Gerhard Berger,14,0,19,51,Suspension
+1985,Brazilian Grand Prix,Ayrton Senna,15,0,4,48,Electrical
+1985,Brazilian Grand Prix,Eddie Cheever,16,0,18,42,Engine
+1985,Brazilian Grand Prix,Pierluigi Martini,17,0,25,41,Engine
+1985,Brazilian Grand Prix,Niki Lauda,18,0,9,27,Fuel system
+1985,Brazilian Grand Prix,Andrea de Cesaris,19,0,13,26,Accident
+1985,Brazilian Grand Prix,Riccardo Patrese,20,0,14,20,Puncture
+1985,Brazilian Grand Prix,Keke Rosberg,21,0,2,10,Turbo
+1985,Brazilian Grand Prix,François Hesnault,22,0,17,9,Accident
+1985,Brazilian Grand Prix,Nigel Mansell,23,0,5,8,Exhaust
+1985,Brazilian Grand Prix,Mauro Baldi,24,0,24,7,Turbo
+1985,Brazilian Grand Prix,Nelson Piquet,25,0,8,2,Transmission
+1985,Portuguese Grand Prix,Ayrton Senna,1,9,1,67,RAS
+1985,Portuguese Grand Prix,Michele Alboreto,2,6,5,67,RAS
+1985,Portuguese Grand Prix,Patrick Tambay,3,4,12,66,RAS
+1985,Portuguese Grand Prix,Elio de Angelis,4,3,4,66,RAS
+1985,Portuguese Grand Prix,Nigel Mansell,5,2,9,65,RAS
+1985,Portuguese Grand Prix,Stefan Bellof,6,1,21,65,RAS
+1985,Portuguese Grand Prix,Derek Warwick,7,0,6,65,RAS
+1985,Portuguese Grand Prix,Stefan Johansson,8,0,11,62,RAS
+1985,Portuguese Grand Prix,Piercarlo Ghinzani,9,0,26,61,RAS
+1985,Portuguese Grand Prix,Manfred Winkelhock,10,0,15,50,Not classified
+1985,Portuguese Grand Prix,Niki Lauda,11,0,7,49,Engine
+1985,Portuguese Grand Prix,Eddie Cheever,12,0,14,36,Engine
+1985,Portuguese Grand Prix,Alain Prost,13,0,2,30,Spun off
+1985,Portuguese Grand Prix,Andrea de Cesaris,14,0,8,29,Tyre
+1985,Portuguese Grand Prix,Nelson Piquet,15,0,16,28,Tyre
+1985,Portuguese Grand Prix,Thierry Boutsen,16,0,10,28,Electrical
+1985,Portuguese Grand Prix,Martin Brundle,17,0,22,20,Transmission
+1985,Portuguese Grand Prix,Mauro Baldi,18,0,29,19,Spun off
+1985,Portuguese Grand Prix,Keke Rosberg,19,0,3,16,Spun off
+1985,Portuguese Grand Prix,Jacques Laffite,20,0,18,15,Tyre
+1985,Portuguese Grand Prix,Gerhard Berger,21,0,17,12,Spun off
+1985,Portuguese Grand Prix,Pierluigi Martini,22,0,25,12,Spun off
+1985,Portuguese Grand Prix,Riccardo Patrese,23,0,13,4,Spun off
+1985,Portuguese Grand Prix,Philippe Alliot,24,0,20,3,Spun off
+1985,Portuguese Grand Prix,François Hesnault,25,0,19,3,Electrical
+1985,Portuguese Grand Prix,Jonathan Palmer,26,0,23,2,Suspension
+1985,San Marino Grand Prix,Elio de Angelis,1,9,3,60,RAS
+1985,San Marino Grand Prix,Thierry Boutsen,2,6,5,59,RAS
+1985,San Marino Grand Prix,Patrick Tambay,3,4,11,59,RAS
+1985,San Marino Grand Prix,Niki Lauda,4,3,8,59,RAS
+1985,San Marino Grand Prix,Nigel Mansell,5,2,7,58,RAS
+1985,San Marino Grand Prix,Stefan Johansson,6,1,15,57,Out of fuel
+1985,San Marino Grand Prix,Ayrton Senna,7,0,1,57,Out of fuel
+1985,San Marino Grand Prix,Nelson Piquet,8,0,9,57,Out of fuel
+1985,San Marino Grand Prix,Martin Brundle,9,0,25,56,Out of fuel
+1985,San Marino Grand Prix,Derek Warwick,10,0,14,56,Out of fuel
+1985,San Marino Grand Prix,Alain Prost,11,0,6,60,DQ
+1985,San Marino Grand Prix,Eddie Cheever,12,0,12,50,Engine
+1985,San Marino Grand Prix,Piercarlo Ghinzani,13,0,22,46,Not classified
+1985,San Marino Grand Prix,Michele Alboreto,14,0,4,29,Electrical
+1985,San Marino Grand Prix,Manfred Winkelhock,15,0,23,27,Engine
+1985,San Marino Grand Prix,Philippe Alliot,16,0,21,24,Engine
+1985,San Marino Grand Prix,Keke Rosberg,17,0,2,23,Brakes
+1985,San Marino Grand Prix,Jacques Laffite,18,0,16,22,Turbo
+1985,San Marino Grand Prix,Pierluigi Martini,19,0,19,14,Turbo
+1985,San Marino Grand Prix,Andrea de Cesaris,20,0,13,11,Spun off
+1985,San Marino Grand Prix,Mauro Baldi,21,0,26,9,Electrical
+1985,San Marino Grand Prix,François Hesnault,22,0,20,5,Engine
+1985,San Marino Grand Prix,Stefan Bellof,23,0,24,5,Engine
+1985,San Marino Grand Prix,Gerhard Berger,24,0,18,4,Engine
+1985,San Marino Grand Prix,Riccardo Patrese,25,0,18,4,Engine
+1985,San Marino Grand Prix,Jonathan Palmer,26,0,17,0,DNF
+1985,Monaco Grand Prix,Alain Prost,1,9,5,78,RAS
+1985,Monaco Grand Prix,Michele Alboreto,2,6,3,78,RAS
+1985,Monaco Grand Prix,Elio de Angelis,3,4,9,78,RAS
+1985,Monaco Grand Prix,Andrea de Cesaris,4,3,8,77,RAS
+1985,Monaco Grand Prix,Derek Warwick,5,2,10,77,RAS
+1985,Monaco Grand Prix,Jacques Laffite,6,1,16,77,RAS
+1985,Monaco Grand Prix,Nigel Mansell,7,0,2,77,RAS
+1985,Monaco Grand Prix,Keke Rosberg,8,0,7,76,RAS
+1985,Monaco Grand Prix,Thierry Boutsen,9,0,6,76,RAS
+1985,Monaco Grand Prix,Martin Brundle,10,0,18,74,RAS
+1985,Monaco Grand Prix,Jonathan Palmer,11,0,19,74,RAS
+1985,Monaco Grand Prix,Niki Lauda,12,0,14,17,Spun off
+1985,Monaco Grand Prix,Riccardo Patrese,13,0,12,16,Accident
+1985,Monaco Grand Prix,Nelson Piquet,14,0,13,16,Accident
+1985,Monaco Grand Prix,Teo Fabi,15,0,20,16,Turbo
+1985,Monaco Grand Prix,Ayrton Senna,16,0,1,13,Engine
+1985,Monaco Grand Prix,Eddie Cheever,17,0,4,10,Alternator
+1985,Monaco Grand Prix,Stefan Johansson,18,0,15,1,Accident
+1985,Monaco Grand Prix,Gerhard Berger,19,0,11,0,Accident
+1985,Monaco Grand Prix,Patrick Tambay,20,0,17,0,Accident
+1985,Canadian Grand Prix,Michele Alboreto,1,9,3,70,RAS
+1985,Canadian Grand Prix,Stefan Johansson,2,6,4,70,RAS
+1985,Canadian Grand Prix,Alain Prost,3,4,5,70,RAS
+1985,Canadian Grand Prix,Keke Rosberg,4,3,8,70,RAS
+1985,Canadian Grand Prix,Elio de Angelis,5,2,1,70,RAS
+1985,Canadian Grand Prix,Nigel Mansell,6,1,16,70,RAS
+1985,Canadian Grand Prix,Patrick Tambay,7,0,10,69,RAS
+1985,Canadian Grand Prix,Jacques Laffite,8,0,19,69,RAS
+1985,Canadian Grand Prix,Thierry Boutsen,9,0,7,68,RAS
+1985,Canadian Grand Prix,Riccardo Patrese,10,0,13,68,RAS
+1985,Canadian Grand Prix,Stefan Bellof,11,0,23,68,RAS
+1985,Canadian Grand Prix,Martin Brundle,12,0,24,68,RAS
+1985,Canadian Grand Prix,Gerhard Berger,13,0,12,67,RAS
+1985,Canadian Grand Prix,Andrea de Cesaris,14,0,15,67,RAS
+1985,Canadian Grand Prix,Marc Surer,15,0,20,67,RAS
+1985,Canadian Grand Prix,Ayrton Senna,16,0,2,65,RAS
+1985,Canadian Grand Prix,Eddie Cheever,17,0,11,64,RAS
+1985,Canadian Grand Prix,Pierluigi Martini,18,0,25,57,Accident
+1985,Canadian Grand Prix,Niki Lauda,19,0,17,37,Engine
+1985,Canadian Grand Prix,Piercarlo Ghinzani,20,0,22,35,Engine
+1985,Canadian Grand Prix,Philippe Alliot,21,0,21,28,Accident
+1985,Canadian Grand Prix,Derek Warwick,22,0,6,25,Accident
+1985,Canadian Grand Prix,Manfred Winkelhock,23,0,14,5,Accident
+1985,Canadian Grand Prix,Teo Fabi,24,0,18,3,Turbo
+1985,Canadian Grand Prix,Nelson Piquet,25,0,9,0,Transmission
+1985,Detroit Grand Prix,Keke Rosberg,1,9,5,63,RAS
+1985,Detroit Grand Prix,Stefan Johansson,2,6,9,63,RAS
+1985,Detroit Grand Prix,Michele Alboreto,3,4,3,63,RAS
+1985,Detroit Grand Prix,Stefan Bellof,4,3,19,63,RAS
+1985,Detroit Grand Prix,Elio de Angelis,5,2,8,63,RAS
+1985,Detroit Grand Prix,Nelson Piquet,6,1,10,62,RAS
+1985,Detroit Grand Prix,Thierry Boutsen,7,0,21,62,RAS
+1985,Detroit Grand Prix,Marc Surer,8,0,11,62,RAS
+1985,Detroit Grand Prix,Eddie Cheever,9,0,7,61,RAS
+1985,Detroit Grand Prix,Andrea de Cesaris,10,0,17,61,RAS
+1985,Detroit Grand Prix,Gerhard Berger,11,0,24,60,RAS
+1985,Detroit Grand Prix,Jacques Laffite,12,0,16,58,RAS
+1985,Detroit Grand Prix,Ayrton Senna,13,0,1,51,Accident
+1985,Detroit Grand Prix,Martin Brundle,14,0,18,30,Accident
+1985,Detroit Grand Prix,Philippe Alliot,15,0,23,27,Accident
+1985,Detroit Grand Prix,Nigel Mansell,16,0,2,26,Accident
+1985,Detroit Grand Prix,Alain Prost,17,0,4,19,Brakes
+1985,Detroit Grand Prix,Riccardo Patrese,18,0,14,19,Electrical
+1985,Detroit Grand Prix,Derek Warwick,19,0,6,18,Transmission
+1985,Detroit Grand Prix,Patrick Tambay,20,0,15,15,Accident
+1985,Detroit Grand Prix,Pierluigi Martini,21,0,25,11,Engine
+1985,Detroit Grand Prix,Niki Lauda,22,0,12,10,Brakes
+1985,Detroit Grand Prix,Teo Fabi,23,0,13,4,Clutch
+1985,Detroit Grand Prix,Manfred Winkelhock,24,0,20,3,Turbo
+1985,Detroit Grand Prix,Piercarlo Ghinzani,25,0,22,0,Accident
+1985,French Grand Prix,Nelson Piquet,1,9,5,53,RAS
+1985,French Grand Prix,Keke Rosberg,2,6,1,53,RAS
+1985,French Grand Prix,Alain Prost,3,4,4,53,RAS
+1985,French Grand Prix,Stefan Johansson,4,3,16,53,RAS
+1985,French Grand Prix,Elio de Angelis,5,2,7,53,RAS
+1985,French Grand Prix,Patrick Tambay,6,1,10,53,RAS
+1985,French Grand Prix,Derek Warwick,7,0,11,53,RAS
+1985,French Grand Prix,Marc Surer,8,0,14,52,RAS
+1985,French Grand Prix,Thierry Boutsen,9,0,12,52,RAS
+1985,French Grand Prix,Eddie Cheever,10,0,18,52,RAS
+1985,French Grand Prix,Riccardo Patrese,11,0,17,52,RAS
+1985,French Grand Prix,Manfred Winkelhock,12,0,20,50,RAS
+1985,French Grand Prix,Stefan Bellof,13,0,26,50,RAS
+1985,French Grand Prix,Teo Fabi,14,0,19,49,Fuel system
+1985,French Grand Prix,Piercarlo Ghinzani,15,0,24,49,RAS
+1985,French Grand Prix,Martin Brundle,16,0,21,32,Gearbox
+1985,French Grand Prix,Niki Lauda,17,0,6,30,Gearbox
+1985,French Grand Prix,Ayrton Senna,18,0,2,26,Accident
+1985,French Grand Prix,Gerhard Berger,19,0,9,20,Accident
+1985,French Grand Prix,Pierluigi Martini,20,0,25,19,Accident
+1985,French Grand Prix,Philippe Alliot,21,0,23,8,Fuel system
+1985,French Grand Prix,Jonathan Palmer,22,0,22,6,Engine
+1985,French Grand Prix,Michele Alboreto,23,0,3,5,Turbo
+1985,French Grand Prix,Andrea de Cesaris,24,0,13,4,Steering
+1985,French Grand Prix,Jacques Laffite,25,0,15,2,Turbo
+1985,French Grand Prix,Nigel Mansell,26,0,8,0,Injury
+1985,British Grand Prix,Alain Prost,1,9,3,65,RAS
+1985,British Grand Prix,Michele Alboreto,2,6,6,64,RAS
+1985,British Grand Prix,Jacques Laffite,3,4,16,64,RAS
+1985,British Grand Prix,Nelson Piquet,4,3,2,64,RAS
+1985,British Grand Prix,Derek Warwick,5,2,12,64,RAS
+1985,British Grand Prix,Marc Surer,6,1,15,63,RAS
+1985,British Grand Prix,Martin Brundle,7,0,20,63,RAS
+1985,British Grand Prix,Gerhard Berger,8,0,17,63,RAS
+1985,British Grand Prix,Riccardo Patrese,9,0,14,62,RAS
+1985,British Grand Prix,Ayrton Senna,10,0,4,60,Fuel system
+1985,British Grand Prix,Stefan Bellof,11,0,26,59,RAS
+1985,British Grand Prix,Niki Lauda,12,0,10,57,Electrical
+1985,British Grand Prix,Thierry Boutsen,13,0,19,57,Spun off
+1985,British Grand Prix,Andrea de Cesaris,14,0,7,41,Clutch
+1985,British Grand Prix,Pierluigi Martini,15,0,23,38,Transmission
+1985,British Grand Prix,Elio de Angelis,16,0,8,37,Not classified
+1985,British Grand Prix,Manfred Winkelhock,17,0,18,28,Turbo
+1985,British Grand Prix,Keke Rosberg,18,0,1,21,Exhaust
+1985,British Grand Prix,Nigel Mansell,19,0,5,17,Clutch
+1985,British Grand Prix,Eddie Cheever,20,0,22,17,Turbo
+1985,British Grand Prix,Jonathan Palmer,21,0,24,6,Engine
+1985,British Grand Prix,Teo Fabi,22,0,9,4,Transmission
+1985,British Grand Prix,Stefan Johansson,23,0,11,1,Accident
+1985,British Grand Prix,Patrick Tambay,24,0,13,0,Spun off
+1985,British Grand Prix,Philippe Alliot,25,0,21,0,Accident
+1985,British Grand Prix,Piercarlo Ghinzani,26,0,25,0,Accident
+1985,German Grand Prix,Michele Alboreto,1,9,8,67,RAS
+1985,German Grand Prix,Alain Prost,2,6,3,67,RAS
+1985,German Grand Prix,Jacques Laffite,3,4,13,67,RAS
+1985,German Grand Prix,Thierry Boutsen,4,3,15,67,RAS
+1985,German Grand Prix,Niki Lauda,5,2,12,67,RAS
+1985,German Grand Prix,Nigel Mansell,6,1,10,67,RAS
+1985,German Grand Prix,Gerhard Berger,7,0,17,66,RAS
+1985,German Grand Prix,Stefan Bellof,8,0,19,66,RAS
+1985,German Grand Prix,Stefan Johansson,9,0,2,66,RAS
+1985,German Grand Prix,Martin Brundle,10,0,26,63,RAS
+1985,German Grand Prix,Pierluigi Martini,11,0,27,62,Engine
+1985,German Grand Prix,Keke Rosberg,12,0,4,61,Brakes
+1985,German Grand Prix,Eddie Cheever,13,0,18,45,Turbo
+1985,German Grand Prix,Elio de Angelis,14,0,7,40,Engine
+1985,German Grand Prix,Huub Rothengatter,15,0,25,32,Gearbox
+1985,German Grand Prix,Teo Fabi,16,0,1,29,Clutch
+1985,German Grand Prix,Ayrton Senna,17,0,5,27,CV joint
+1985,German Grand Prix,Derek Warwick,18,0,20,25,Ignition
+1985,German Grand Prix,Nelson Piquet,19,0,6,23,Turbo
+1985,German Grand Prix,Patrick Tambay,20,0,16,19,Spun off
+1985,German Grand Prix,Marc Surer,21,0,11,15,Engine
+1985,German Grand Prix,Manfred Winkelhock,22,0,22,8,Engine
+1985,German Grand Prix,Riccardo Patrese,23,0,9,8,Gearbox
+1985,German Grand Prix,François Hesnault,24,0,23,8,Clutch
+1985,German Grand Prix,Philippe Alliot,25,0,21,8,Oil pressure
+1985,German Grand Prix,Jonathan Palmer,26,0,24,7,Alternator
+1985,German Grand Prix,Andrea de Cesaris,27,0,14,0,Collision
+1985,Austrian Grand Prix,Alain Prost,1,9,1,52,RAS
+1985,Austrian Grand Prix,Ayrton Senna,2,6,14,52,RAS
+1985,Austrian Grand Prix,Michele Alboreto,3,4,9,52,RAS
+1985,Austrian Grand Prix,Stefan Johansson,4,3,12,52,RAS
+1985,Austrian Grand Prix,Elio de Angelis,5,2,7,52,RAS
+1985,Austrian Grand Prix,Marc Surer,6,1,11,51,RAS
+1985,Austrian Grand Prix,Stefan Bellof,7,0,22,49,Out of fuel
+1985,Austrian Grand Prix,Thierry Boutsen,8,0,16,49,RAS
+1985,Austrian Grand Prix,Huub Rothengatter,9,0,24,48,RAS
+1985,Austrian Grand Prix,Patrick Tambay,10,0,8,46,Engine
+1985,Austrian Grand Prix,Jacques Laffite,11,0,15,43,Accident
+1985,Austrian Grand Prix,Pierluigi Martini,12,0,23,40,Suspension
+1985,Austrian Grand Prix,Niki Lauda,13,0,3,39,Engine
+1985,Austrian Grand Prix,Gerhard Berger,14,0,17,33,Turbo
+1985,Austrian Grand Prix,Teo Fabi,15,0,6,31,Electrical
+1985,Austrian Grand Prix,Derek Warwick,16,0,13,29,Engine
+1985,Austrian Grand Prix,Kenny Acheson,17,0,23,28,Engine
+1985,Austrian Grand Prix,Nelson Piquet,18,0,5,26,Exhaust
+1985,Austrian Grand Prix,Nigel Mansell,19,0,2,25,Engine
+1985,Austrian Grand Prix,Riccardo Patrese,20,0,10,25,Engine
+1985,Austrian Grand Prix,Jonathan Palmer,21,0,25,17,Engine
+1985,Austrian Grand Prix,Philippe Alliot,22,0,21,16,Turbo
+1985,Austrian Grand Prix,Andrea de Cesaris,23,0,18,13,Accident
+1985,Austrian Grand Prix,Eddie Cheever,24,0,20,6,Turbo
+1985,Austrian Grand Prix,Keke Rosberg,25,0,4,4,Oil pressure
+1985,Austrian Grand Prix,Piercarlo Ghinzani,26,0,19,0,Withdrew
+1985,Dutch Grand Prix,Niki Lauda,1,9,10,70,RAS
+1985,Dutch Grand Prix,Alain Prost,2,6,3,70,RAS
+1985,Dutch Grand Prix,Ayrton Senna,3,4,4,70,RAS
+1985,Dutch Grand Prix,Michele Alboreto,4,3,16,70,RAS
+1985,Dutch Grand Prix,Elio de Angelis,5,2,11,69,RAS
+1985,Dutch Grand Prix,Nigel Mansell,6,1,7,69,RAS
+1985,Dutch Grand Prix,Martin Brundle,7,0,21,69,RAS
+1985,Dutch Grand Prix,Nelson Piquet,8,0,1,69,RAS
+1985,Dutch Grand Prix,Gerhard Berger,9,0,14,68,RAS
+1985,Dutch Grand Prix,Marc Surer,10,0,9,65,Exhaust
+1985,Dutch Grand Prix,Huub Rothengatter,11,0,26,56,Not classified
+1985,Dutch Grand Prix,Thierry Boutsen,12,0,8,54,Suspension
+1985,Dutch Grand Prix,Philippe Alliot,13,0,25,52,Engine
+1985,Dutch Grand Prix,Stefan Bellof,14,0,22,39,Engine
+1985,Dutch Grand Prix,Derek Warwick,15,0,12,27,Gearbox
+1985,Dutch Grand Prix,Andrea de Cesaris,16,0,18,25,Turbo
+1985,Dutch Grand Prix,Patrick Tambay,17,0,6,22,Transmission
+1985,Dutch Grand Prix,Keke Rosberg,18,0,2,20,Engine
+1985,Dutch Grand Prix,Teo Fabi,19,0,5,18,Wheel bearing
+1985,Dutch Grand Prix,Jacques Laffite,20,0,13,17,Electrical
+1985,Dutch Grand Prix,Jonathan Palmer,21,0,23,13,Oil pressure
+1985,Dutch Grand Prix,Piercarlo Ghinzani,22,0,15,12,Engine
+1985,Dutch Grand Prix,Stefan Johansson,23,0,17,9,Engine
+1985,Dutch Grand Prix,Pierluigi Martini,24,0,24,1,Accident
+1985,Dutch Grand Prix,Eddie Cheever,25,0,20,1,Turbo
+1985,Dutch Grand Prix,Riccardo Patrese,26,0,19,1,Turbo
+1985,Italian Grand Prix,Alain Prost,1,9,5,51,RAS
+1985,Italian Grand Prix,Nelson Piquet,2,6,4,51,RAS
+1985,Italian Grand Prix,Ayrton Senna,3,4,1,51,RAS
+1985,Italian Grand Prix,Marc Surer,4,3,9,51,RAS
+1985,Italian Grand Prix,Stefan Johansson,5,2,10,50,RAS
+1985,Italian Grand Prix,Elio de Angelis,6,1,6,50,RAS
+1985,Italian Grand Prix,Patrick Tambay,7,0,8,50,RAS
+1985,Italian Grand Prix,Martin Brundle,8,0,18,50,RAS
+1985,Italian Grand Prix,Thierry Boutsen,9,0,14,50,RAS
+1985,Italian Grand Prix,Philippe Streiff,10,0,19,49,RAS
+1985,Italian Grand Prix,Nigel Mansell,11,0,3,47,Engine
+1985,Italian Grand Prix,Teo Fabi,12,0,15,47,RAS
+1985,Italian Grand Prix,Michele Alboreto,13,0,7,45,Engine
+1985,Italian Grand Prix,Keke Rosberg,14,0,2,44,Engine
+1985,Italian Grand Prix,Jacques Laffite,15,0,20,40,Engine
+1985,Italian Grand Prix,Niki Lauda,16,0,16,33,Transmission
+1985,Italian Grand Prix,Riccardo Patrese,17,0,13,31,Exhaust
+1985,Italian Grand Prix,Huub Rothengatter,18,0,22,26,Engine
+1985,Italian Grand Prix,Philippe Alliot,19,0,26,19,Turbo
+1985,Italian Grand Prix,Gerhard Berger,20,0,11,13,Engine
+1985,Italian Grand Prix,Derek Warwick,21,0,6,9,Transmission
+1985,Italian Grand Prix,Alan Jones,22,0,25,6,Engine
+1985,Italian Grand Prix,Eddie Cheever,23,0,17,3,Engine
+1985,Italian Grand Prix,Kenny Acheson,24,0,24,2,Clutch
+1985,Italian Grand Prix,Pierluigi Martini,25,0,23,0,Fuel pump
+1985,Italian Grand Prix,Piercarlo Ghinzani,26,0,0,0,Withdrew
+1985,Belgian Grand Prix,Ayrton Senna,1,9,2,43,RAS
+1985,Belgian Grand Prix,Nigel Mansell,2,6,7,43,RAS
+1985,Belgian Grand Prix,Alain Prost,3,4,1,43,RAS
+1985,Belgian Grand Prix,Keke Rosberg,4,3,10,43,RAS
+1985,Belgian Grand Prix,Nelson Piquet,5,2,3,42,RAS
+1985,Belgian Grand Prix,Derek Warwick,6,1,14,42,RAS
+1985,Belgian Grand Prix,Gerhard Berger,7,0,8,42,RAS
+1985,Belgian Grand Prix,Marc Surer,8,0,12,42,RAS
+1985,Belgian Grand Prix,Philippe Streiff,9,0,18,42,RAS
+1985,Belgian Grand Prix,Thierry Boutsen,10,0,9,40,RAS
+1985,Belgian Grand Prix,Jacques Laffite,11,0,17,38,Accident
+1985,Belgian Grand Prix,Pierluigi Martini,12,0,24,38,RAS
+1985,Belgian Grand Prix,Martin Brundle,13,0,21,38,RAS
+1985,Belgian Grand Prix,Huub Rothengatter,14,0,23,37,Not classified
+1985,Belgian Grand Prix,Riccardo Patrese,15,0,15,31,Engine
+1985,Belgian Grand Prix,Eddie Cheever,16,0,19,26,Gearbox
+1985,Belgian Grand Prix,Patrick Tambay,17,0,13,24,Gearbox
+1985,Belgian Grand Prix,Teo Fabi,18,0,11,23,Throttle
+1985,Belgian Grand Prix,Elio de Angelis,19,0,9,17,Turbo
+1985,Belgian Grand Prix,Christian Danner,20,0,22,16,Gearbox
+1985,Belgian Grand Prix,Philippe Alliot,21,0,20,10,Accident
+1985,Belgian Grand Prix,Stefan Johansson,22,0,5,7,Spun off
+1985,Belgian Grand Prix,Piercarlo Ghinzani,23,0,16,7,Accident
+1985,Belgian Grand Prix,Michele Alboreto,24,0,4,3,Clutch
+1985,European Grand Prix,Nigel Mansell,1,9,3,75,RAS
+1985,European Grand Prix,Ayrton Senna,2,6,1,75,RAS
+1985,European Grand Prix,Keke Rosberg,3,4,4,75,RAS
+1985,European Grand Prix,Alain Prost,4,3,6,75,RAS
+1985,European Grand Prix,Elio de Angelis,5,2,9,74,RAS
+1985,European Grand Prix,Thierry Boutsen,6,1,12,73,RAS
+1985,European Grand Prix,John Watson,7,0,21,73,RAS
+1985,European Grand Prix,Philippe Streiff,8,0,5,73,RAS
+1985,European Grand Prix,Riccardo Patrese,9,0,11,73,RAS
+1985,European Grand Prix,Gerhard Berger,10,0,19,73,RAS
+1985,European Grand Prix,Eddie Cheever,11,0,18,73,RAS
+1985,European Grand Prix,Patrick Tambay,12,0,17,72,RAS
+1985,European Grand Prix,Marc Surer,13,0,7,62,Turbo
+1985,European Grand Prix,Stefan Johansson,14,0,13,59,Electrical
+1985,European Grand Prix,Jacques Laffite,15,0,18,58,Engine
+1985,European Grand Prix,Christian Danner,16,0,25,55,Engine
+1985,European Grand Prix,Ivan Capelli,17,0,24,44,Accident
+1985,European Grand Prix,Martin Brundle,18,0,16,40,Water leak
+1985,European Grand Prix,Teo Fabi,19,0,20,33,Engine
+1985,European Grand Prix,Philippe Alliot,20,0,23,31,Engine
+1985,European Grand Prix,Piercarlo Ghinzani,21,0,14,16,Engine
+1985,European Grand Prix,Alan Jones,22,0,22,13,Radiator
+1985,European Grand Prix,Michele Alboreto,23,0,15,13,Turbo
+1985,European Grand Prix,Nelson Piquet,24,0,2,6,Accident
+1985,European Grand Prix,Derek Warwick,25,0,8,4,Injection
+1985,European Grand Prix,Pierluigi Martini,26,0,26,3,Accident
+1985,South African Grand Prix,Nigel Mansell,1,9,1,75,RAS
+1985,South African Grand Prix,Keke Rosberg,2,6,3,75,RAS
+1985,South African Grand Prix,Alain Prost,3,4,9,74,RAS
+1985,South African Grand Prix,Stefan Johansson,4,3,16,74,RAS
+1985,South African Grand Prix,Gerhard Berger,5,2,11,74,RAS
+1985,South African Grand Prix,Thierry Boutsen,6,1,10,74,RAS
+1985,South African Grand Prix,Martin Brundle,7,0,17,73,RAS
+1985,South African Grand Prix,Elio de Angelis,8,0,6,52,Engine
+1985,South African Grand Prix,Pierluigi Martini,9,0,20,45,Radiator
+1985,South African Grand Prix,Niki Lauda,10,0,8,37,Turbo
+1985,South African Grand Prix,Philippe Streiff,11,0,19,16,Accident
+1985,South African Grand Prix,Ayrton Senna,12,0,4,8,Engine
+1985,South African Grand Prix,Michele Alboreto,13,0,15,8,Turbo
+1985,South African Grand Prix,Nelson Piquet,14,0,2,6,Engine
+1985,South African Grand Prix,Piercarlo Ghinzani,15,0,13,4,Engine
+1985,South African Grand Prix,Teo Fabi,16,0,7,3,Engine
+1985,South African Grand Prix,Marc Surer,17,0,5,3,Engine
+1985,South African Grand Prix,Huub Rothengatter,18,0,21,1,Electrical
+1985,South African Grand Prix,Riccardo Patrese,19,0,12,0,Accident
+1985,South African Grand Prix,Eddie Cheever,20,0,14,0,Accident
+1985,South African Grand Prix,Alan Jones,21,0,18,0,Driver unwell
+1985,Australian Grand Prix,Keke Rosberg,1,9,3,82,RAS
+1985,Australian Grand Prix,Jacques Laffite,2,6,20,82,RAS
+1985,Australian Grand Prix,Philippe Streiff,3,4,18,82,RAS
+1985,Australian Grand Prix,Ivan Capelli,4,3,22,81,RAS
+1985,Australian Grand Prix,Stefan Johansson,5,2,15,81,RAS
+1985,Australian Grand Prix,Gerhard Berger,6,1,7,81,RAS
+1985,Australian Grand Prix,Huub Rothengatter,7,0,25,78,RAS
+1985,Australian Grand Prix,Pierluigi Martini,8,0,23,78,RAS
+1985,Australian Grand Prix,Ayrton Senna,9,0,1,62,Engine
+1985,Australian Grand Prix,Michele Alboreto,10,0,5,61,Transmission
+1985,Australian Grand Prix,Niki Lauda,11,0,16,57,Accident
+1985,Australian Grand Prix,Derek Warwick,12,0,12,57,Transmission
+1985,Australian Grand Prix,Martin Brundle,13,0,17,49,Not classified
+1985,Australian Grand Prix,Marc Surer,14,0,6,42,Engine
+1985,Australian Grand Prix,Riccardo Patrese,15,0,14,42,Exhaust
+1985,Australian Grand Prix,Teo Fabi,16,0,24,40,Engine
+1985,Australian Grand Prix,Thierry Boutsen,17,0,11,37,Oil leak
+1985,Australian Grand Prix,Piercarlo Ghinzani,18,0,21,28,Clutch
+1985,Australian Grand Prix,Alain Prost,19,0,4,26,Engine
+1985,Australian Grand Prix,Patrick Tambay,20,0,8,20,Transmission
+1985,Australian Grand Prix,Alan Jones,21,0,19,20,Electrical
+1985,Australian Grand Prix,Elio de Angelis,22,0,10,18,DQ
+1985,Australian Grand Prix,Nelson Piquet,23,0,9,14,Heat shield fire
+1985,Australian Grand Prix,Eddie Cheever,24,0,13,5,Engine
+1985,Australian Grand Prix,Nigel Mansell,25,0,2,1,Transmission

@@ -1,0 +1,408 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1986,Brazilian Grand Prix,Nelson Piquet,1,9,2,61,RAS
+1986,Brazilian Grand Prix,Ayrton Senna,2,6,1,61,RAS
+1986,Brazilian Grand Prix,Jacques Laffite,3,4,5,61,RAS
+1986,Brazilian Grand Prix,René Arnoux,4,3,4,61,RAS
+1986,Brazilian Grand Prix,Martin Brundle,5,2,17,60,RAS
+1986,Brazilian Grand Prix,Gerhard Berger,6,1,16,59,RAS
+1986,Brazilian Grand Prix,Philippe Streiff,7,0,18,59,RAS
+1986,Brazilian Grand Prix,Elio de Angelis,8,0,14,58,RAS
+1986,Brazilian Grand Prix,Johnny Dumfries,9,0,11,58,RAS
+1986,Brazilian Grand Prix,Teo Fabi,10,0,12,56,RAS
+1986,Brazilian Grand Prix,Thierry Boutsen,11,0,15,37,Exhaust
+1986,Brazilian Grand Prix,Michele Alboreto,12,0,6,35,Fuel system
+1986,Brazilian Grand Prix,Alain Prost,13,0,9,30,Engine
+1986,Brazilian Grand Prix,Christian Danner,14,0,24,29,Engine
+1986,Brazilian Grand Prix,Stefan Johansson,15,0,8,26,Brakes
+1986,Brazilian Grand Prix,Patrick Tambay,16,0,13,24,Battery
+1986,Brazilian Grand Prix,Riccardo Patrese,17,0,10,21,Water leak
+1986,Brazilian Grand Prix,Jonathan Palmer,18,0,21,20,Engine
+1986,Brazilian Grand Prix,Marc Surer,19,0,20,19,Engine
+1986,Brazilian Grand Prix,Alessandro Nannini,20,0,25,18,Clutch
+1986,Brazilian Grand Prix,Andrea de Cesaris,21,0,22,16,Turbo
+1986,Brazilian Grand Prix,Piercarlo Ghinzani,22,0,23,16,Engine
+1986,Brazilian Grand Prix,Keke Rosberg,23,0,7,6,Engine
+1986,Brazilian Grand Prix,Alan Jones,24,0,19,5,Injection
+1986,Brazilian Grand Prix,Nigel Mansell,25,0,3,0,Spun off
+1986,Spanish Grand Prix,Ayrton Senna,1,9,1,72,RAS
+1986,Spanish Grand Prix,Nigel Mansell,2,6,3,72,RAS
+1986,Spanish Grand Prix,Alain Prost,3,4,4,72,RAS
+1986,Spanish Grand Prix,Keke Rosberg,4,3,5,71,RAS
+1986,Spanish Grand Prix,Teo Fabi,5,2,9,71,RAS
+1986,Spanish Grand Prix,Gerhard Berger,6,1,7,71,RAS
+1986,Spanish Grand Prix,Thierry Boutsen,7,0,19,68,RAS
+1986,Spanish Grand Prix,Patrick Tambay,8,0,18,66,RAS
+1986,Spanish Grand Prix,Johnny Dumfries,9,0,10,52,Gearbox
+1986,Spanish Grand Prix,Martin Brundle,10,0,12,41,Engine
+1986,Spanish Grand Prix,Jacques Laffite,11,0,8,40,Halfshaft
+1986,Spanish Grand Prix,Marc Surer,12,0,22,39,Fuel system
+1986,Spanish Grand Prix,Nelson Piquet,13,0,2,39,Engine
+1986,Spanish Grand Prix,Elio de Angelis,14,0,15,29,Gearbox
+1986,Spanish Grand Prix,René Arnoux,15,0,6,29,Halfshaft
+1986,Spanish Grand Prix,Michele Alboreto,16,0,13,22,Wheel bearing
+1986,Spanish Grand Prix,Philippe Streiff,17,0,20,22,Engine
+1986,Spanish Grand Prix,Christian Danner,18,0,23,14,Engine
+1986,Spanish Grand Prix,Stefan Johansson,19,0,11,11,Brakes
+1986,Spanish Grand Prix,Piercarlo Ghinzani,20,0,21,10,Engine
+1986,Spanish Grand Prix,Riccardo Patrese,21,0,14,8,Gearbox
+1986,Spanish Grand Prix,Andrea de Cesaris,22,0,24,1,Differential
+1986,Spanish Grand Prix,Jonathan Palmer,23,0,16,0,Collision
+1986,Spanish Grand Prix,Alan Jones,24,0,17,0,Collision
+1986,Spanish Grand Prix,Alessandro Nannini,25,0,25,0,Differential
+1986,San Marino Grand Prix,Alain Prost,1,9,4,60,RAS
+1986,San Marino Grand Prix,Nelson Piquet,2,6,2,60,RAS
+1986,San Marino Grand Prix,Gerhard Berger,3,4,9,59,RAS
+1986,San Marino Grand Prix,Stefan Johansson,4,3,7,59,RAS
+1986,San Marino Grand Prix,Keke Rosberg,5,2,6,58,Out of fuel
+1986,San Marino Grand Prix,Riccardo Patrese,6,1,16,58,Out of fuel
+1986,San Marino Grand Prix,Thierry Boutsen,7,0,12,58,RAS
+1986,San Marino Grand Prix,Martin Brundle,8,0,13,58,RAS
+1986,San Marino Grand Prix,Marc Surer,9,0,15,57,RAS
+1986,San Marino Grand Prix,Michele Alboreto,10,0,5,56,Turbo
+1986,San Marino Grand Prix,Piercarlo Ghinzani,11,0,26,52,Out of fuel
+1986,San Marino Grand Prix,René Arnoux,12,0,8,46,Wheel
+1986,San Marino Grand Prix,Philippe Streiff,13,0,22,41,Transmission
+1986,San Marino Grand Prix,Teo Fabi,14,0,10,39,Engine
+1986,San Marino Grand Prix,Jonathan Palmer,15,0,20,38,Brakes
+1986,San Marino Grand Prix,Christian Danner,16,0,25,31,Electrical
+1986,San Marino Grand Prix,Alan Jones,17,0,21,28,Overheating
+1986,San Marino Grand Prix,Andrea de Cesaris,18,0,23,20,Engine
+1986,San Marino Grand Prix,Elio de Angelis,19,0,19,19,Engine
+1986,San Marino Grand Prix,Jacques Laffite,20,0,14,14,Transmission
+1986,San Marino Grand Prix,Ayrton Senna,21,0,1,11,Wheel bearing
+1986,San Marino Grand Prix,Nigel Mansell,22,0,3,8,Engine
+1986,San Marino Grand Prix,Johnny Dumfries,23,0,17,8,Wheel bearing
+1986,San Marino Grand Prix,Huub Rothengatter,24,0,24,7,Turbo
+1986,San Marino Grand Prix,Patrick Tambay,25,0,11,5,Engine
+1986,San Marino Grand Prix,Alessandro Nannini,26,0,18,0,Accident
+1986,Monaco Grand Prix,Alain Prost,1,9,1,78,RAS
+1986,Monaco Grand Prix,Keke Rosberg,2,6,9,78,RAS
+1986,Monaco Grand Prix,Ayrton Senna,3,4,3,78,RAS
+1986,Monaco Grand Prix,Nigel Mansell,4,3,2,78,RAS
+1986,Monaco Grand Prix,René Arnoux,5,2,12,77,RAS
+1986,Monaco Grand Prix,Jacques Laffite,6,1,7,77,RAS
+1986,Monaco Grand Prix,Nelson Piquet,7,0,11,77,RAS
+1986,Monaco Grand Prix,Thierry Boutsen,8,0,14,75,RAS
+1986,Monaco Grand Prix,Marc Surer,9,0,17,75,RAS
+1986,Monaco Grand Prix,Stefan Johansson,10,0,15,75,RAS
+1986,Monaco Grand Prix,Philippe Streiff,11,0,13,74,RAS
+1986,Monaco Grand Prix,Jonathan Palmer,12,0,19,74,RAS
+1986,Monaco Grand Prix,Martin Brundle,13,0,10,67,Accident
+1986,Monaco Grand Prix,Patrick Tambay,14,0,8,67,Accident
+1986,Monaco Grand Prix,Gerhard Berger,15,0,5,42,Steering
+1986,Monaco Grand Prix,Riccardo Patrese,16,0,6,38,Fuel pump
+1986,Monaco Grand Prix,Michele Alboreto,17,0,4,38,Turbo
+1986,Monaco Grand Prix,Elio de Angelis,18,0,20,31,Engine
+1986,Monaco Grand Prix,Teo Fabi,19,0,16,17,Brakes
+1986,Monaco Grand Prix,Alan Jones,20,0,18,2,Accident
+1986,Belgian Grand Prix,Nigel Mansell,1,9,5,43,RAS
+1986,Belgian Grand Prix,Ayrton Senna,2,6,4,43,RAS
+1986,Belgian Grand Prix,Stefan Johansson,3,4,11,43,RAS
+1986,Belgian Grand Prix,Michele Alboreto,4,3,9,43,RAS
+1986,Belgian Grand Prix,Jacques Laffite,5,2,17,43,RAS
+1986,Belgian Grand Prix,Alain Prost,6,1,3,43,RAS
+1986,Belgian Grand Prix,Teo Fabi,7,0,6,42,RAS
+1986,Belgian Grand Prix,Riccardo Patrese,8,0,15,42,RAS
+1986,Belgian Grand Prix,Marc Surer,9,0,21,41,RAS
+1986,Belgian Grand Prix,Gerhard Berger,10,0,2,41,RAS
+1986,Belgian Grand Prix,Alan Jones,11,0,16,40,Out of fuel
+1986,Belgian Grand Prix,Philippe Streiff,12,0,18,40,RAS
+1986,Belgian Grand Prix,Jonathan Palmer,13,0,20,37,RAS
+1986,Belgian Grand Prix,Andrea de Cesaris,14,0,19,35,Out of fuel
+1986,Belgian Grand Prix,Huub Rothengatter,15,0,23,25,Electrical
+1986,Belgian Grand Prix,Martin Brundle,16,0,12,25,Gearbox
+1986,Belgian Grand Prix,Alessandro Nannini,17,0,22,24,Gearbox
+1986,Belgian Grand Prix,René Arnoux,18,0,7,23,Engine
+1986,Belgian Grand Prix,Nelson Piquet,19,0,1,16,Turbo
+1986,Belgian Grand Prix,Thierry Boutsen,20,0,14,7,Electrical
+1986,Belgian Grand Prix,Johnny Dumfries,21,0,13,7,Spun off
+1986,Belgian Grand Prix,Keke Rosberg,22,0,8,6,Engine
+1986,Belgian Grand Prix,Piercarlo Ghinzani,23,0,24,3,Engine
+1986,Belgian Grand Prix,Christian Danner,24,0,25,2,Engine
+1986,Belgian Grand Prix,Patrick Tambay,25,0,10,0,Accident
+1986,Canadian Grand Prix,Nigel Mansell,1,9,1,69,RAS
+1986,Canadian Grand Prix,Alain Prost,2,6,4,69,RAS
+1986,Canadian Grand Prix,Nelson Piquet,3,4,3,69,RAS
+1986,Canadian Grand Prix,Keke Rosberg,4,3,6,69,RAS
+1986,Canadian Grand Prix,Ayrton Senna,5,2,2,68,RAS
+1986,Canadian Grand Prix,René Arnoux,6,1,5,68,RAS
+1986,Canadian Grand Prix,Jacques Laffite,7,0,8,68,RAS
+1986,Canadian Grand Prix,Michele Alboreto,8,0,11,68,RAS
+1986,Canadian Grand Prix,Martin Brundle,9,0,19,67,RAS
+1986,Canadian Grand Prix,Alan Jones,10,0,13,66,RAS
+1986,Canadian Grand Prix,Philippe Streiff,11,0,17,65,RAS
+1986,Canadian Grand Prix,Huub Rothengatter,12,0,24,63,RAS
+1986,Canadian Grand Prix,Riccardo Patrese,13,0,9,44,Turbo
+1986,Canadian Grand Prix,Piercarlo Ghinzani,14,0,23,43,Gearbox
+1986,Canadian Grand Prix,Andrea de Cesaris,15,0,21,40,Gearbox
+1986,Canadian Grand Prix,Thierry Boutsen,16,0,12,38,Electrical
+1986,Canadian Grand Prix,Gerhard Berger,17,0,7,34,Turbo
+1986,Canadian Grand Prix,Stefan Johansson,18,0,18,29,Accident
+1986,Canadian Grand Prix,Johnny Dumfries,19,0,16,28,Accident
+1986,Canadian Grand Prix,Jonathan Palmer,20,0,22,24,Engine
+1986,Canadian Grand Prix,Derek Warwick,21,0,10,20,Engine
+1986,Canadian Grand Prix,Alessandro Nannini,22,0,20,17,Turbo
+1986,Canadian Grand Prix,Teo Fabi,23,0,15,13,Battery
+1986,Canadian Grand Prix,Christian Danner,24,0,25,6,Turbo
+1986,Canadian Grand Prix,Patrick Tambay,25,0,14,0,Accident
+1986,Detroit Grand Prix,Ayrton Senna,1,9,1,63,RAS
+1986,Detroit Grand Prix,Jacques Laffite,2,6,6,63,RAS
+1986,Detroit Grand Prix,Alain Prost,3,4,7,63,RAS
+1986,Detroit Grand Prix,Michele Alboreto,4,3,11,63,RAS
+1986,Detroit Grand Prix,Nigel Mansell,5,2,2,62,RAS
+1986,Detroit Grand Prix,Riccardo Patrese,6,1,8,62,RAS
+1986,Detroit Grand Prix,Johnny Dumfries,7,0,14,61,RAS
+1986,Detroit Grand Prix,Jonathan Palmer,8,0,20,61,RAS
+1986,Detroit Grand Prix,Philippe Streiff,9,0,18,61,RAS
+1986,Detroit Grand Prix,Derek Warwick,10,0,15,60,RAS
+1986,Detroit Grand Prix,Christian Danner,11,0,19,51,Electrical
+1986,Detroit Grand Prix,René Arnoux,12,0,4,46,Accident
+1986,Detroit Grand Prix,Thierry Boutsen,13,0,13,44,Accident
+1986,Detroit Grand Prix,Andrea de Cesaris,14,0,23,43,Gearbox
+1986,Detroit Grand Prix,Nelson Piquet,15,0,3,41,Accident
+1986,Detroit Grand Prix,Stefan Johansson,16,0,5,40,Electrical
+1986,Detroit Grand Prix,Teo Fabi,17,0,17,38,Gearbox
+1986,Detroit Grand Prix,Eddie Cheever,18,0,10,37,Steering
+1986,Detroit Grand Prix,Alan Jones,19,0,21,33,Steering
+1986,Detroit Grand Prix,Allen Berg,20,0,25,28,Electrical
+1986,Detroit Grand Prix,Martin Brundle,21,0,16,15,Electrical
+1986,Detroit Grand Prix,Piercarlo Ghinzani,22,0,22,14,Turbo
+1986,Detroit Grand Prix,Keke Rosberg,23,0,9,12,Transmission
+1986,Detroit Grand Prix,Gerhard Berger,24,0,12,8,Engine
+1986,Detroit Grand Prix,Alessandro Nannini,25,0,24,3,Turbo
+1986,Detroit Grand Prix,Huub Rothengatter,26,0,26,0,Electrical
+1986,French Grand Prix,Nigel Mansell,1,9,2,80,RAS
+1986,French Grand Prix,Alain Prost,2,6,5,80,RAS
+1986,French Grand Prix,Nelson Piquet,3,4,3,80,RAS
+1986,French Grand Prix,Keke Rosberg,4,3,7,80,RAS
+1986,French Grand Prix,René Arnoux,5,2,4,79,RAS
+1986,French Grand Prix,Jacques Laffite,6,1,11,79,RAS
+1986,French Grand Prix,Riccardo Patrese,7,0,16,78,RAS
+1986,French Grand Prix,Michele Alboreto,8,0,9,78,RAS
+1986,French Grand Prix,Derek Warwick,9,0,14,77,RAS
+1986,French Grand Prix,Martin Brundle,10,0,15,77,RAS
+1986,French Grand Prix,Christian Danner,11,0,18,76,RAS
+1986,French Grand Prix,Thierry Boutsen,12,0,21,67,Not classified
+1986,French Grand Prix,Patrick Tambay,13,0,13,64,Brakes
+1986,French Grand Prix,Johnny Dumfries,14,0,12,56,Engine
+1986,French Grand Prix,Jonathan Palmer,15,0,22,46,Engine
+1986,French Grand Prix,Philippe Streiff,16,0,17,43,Heat shield fire
+1986,French Grand Prix,Huub Rothengatter,17,0,24,32,Accident
+1986,French Grand Prix,Allen Berg,18,0,26,25,Turbo
+1986,French Grand Prix,Gerhard Berger,19,0,8,22,Gearbox
+1986,French Grand Prix,Teo Fabi,20,0,6,7,Engine
+1986,French Grand Prix,Stefan Johansson,21,0,10,5,Turbo
+1986,French Grand Prix,Ayrton Senna,22,0,1,3,Accident
+1986,French Grand Prix,Piercarlo Ghinzani,23,0,25,3,Accident
+1986,French Grand Prix,Alessandro Nannini,24,0,19,3,Accident
+1986,French Grand Prix,Andrea de Cesaris,25,0,23,3,Turbo
+1986,French Grand Prix,Alan Jones,26,0,20,2,Accident
+1986,British Grand Prix,Nigel Mansell,1,9,2,75,RAS
+1986,British Grand Prix,Nelson Piquet,2,6,1,75,RAS
+1986,British Grand Prix,Alain Prost,3,4,6,74,RAS
+1986,British Grand Prix,René Arnoux,4,3,8,73,RAS
+1986,British Grand Prix,Martin Brundle,5,2,11,72,RAS
+1986,British Grand Prix,Philippe Streiff,6,1,16,72,RAS
+1986,British Grand Prix,Johnny Dumfries,7,0,10,72,RAS
+1986,British Grand Prix,Derek Warwick,8,0,9,72,RAS
+1986,British Grand Prix,Jonathan Palmer,9,0,22,69,RAS
+1986,British Grand Prix,Thierry Boutsen,10,0,13,62,Not classified
+1986,British Grand Prix,Patrick Tambay,11,0,17,60,Gearbox
+1986,British Grand Prix,Michele Alboreto,12,0,12,51,Turbo
+1986,British Grand Prix,Alessandro Nannini,13,0,20,50,Steering
+1986,British Grand Prix,Teo Fabi,14,0,7,45,Fuel system
+1986,British Grand Prix,Riccardo Patrese,15,0,15,39,Engine
+1986,British Grand Prix,Ayrton Senna,16,0,3,27,Gearbox
+1986,British Grand Prix,Huub Rothengatter,17,0,25,24,Engine
+1986,British Grand Prix,Andrea de Cesaris,18,0,21,23,Electrical
+1986,British Grand Prix,Gerhard Berger,19,0,4,22,Electrical
+1986,British Grand Prix,Alan Jones,20,0,14,22,Throttle
+1986,British Grand Prix,Stefan Johansson,21,0,18,20,Engine
+1986,British Grand Prix,Keke Rosberg,22,0,5,7,Gearbox
+1986,British Grand Prix,Jacques Laffite,23,0,19,0,Collision
+1986,British Grand Prix,Christian Danner,24,0,23,0,Collision
+1986,British Grand Prix,Piercarlo Ghinzani,25,0,24,0,Collision
+1986,British Grand Prix,Allen Berg,26,0,26,0,Collision
+1986,German Grand Prix,Nelson Piquet,1,9,5,44,RAS
+1986,German Grand Prix,Ayrton Senna,2,6,3,44,RAS
+1986,German Grand Prix,Nigel Mansell,3,4,6,44,RAS
+1986,German Grand Prix,René Arnoux,4,3,8,44,RAS
+1986,German Grand Prix,Keke Rosberg,5,2,1,43,Out of fuel
+1986,German Grand Prix,Alain Prost,6,1,2,43,Out of fuel
+1986,German Grand Prix,Derek Warwick,7,0,20,43,RAS
+1986,German Grand Prix,Patrick Tambay,8,0,13,43,RAS
+1986,German Grand Prix,Alan Jones,9,0,19,42,RAS
+1986,German Grand Prix,Gerhard Berger,10,0,4,42,RAS
+1986,German Grand Prix,Stefan Johansson,11,0,11,41,Broken wing
+1986,German Grand Prix,Allen Berg,12,0,26,40,RAS
+1986,German Grand Prix,Christian Danner,13,0,17,38,Turbo
+1986,German Grand Prix,Huub Rothengatter,14,0,24,38,Gearbox
+1986,German Grand Prix,Jonathan Palmer,15,0,16,37,Engine
+1986,German Grand Prix,Martin Brundle,16,0,15,34,Electrical
+1986,German Grand Prix,Riccardo Patrese,17,0,7,22,Turbo
+1986,German Grand Prix,Andrea de Cesaris,18,0,23,20,Gearbox
+1986,German Grand Prix,Alessandro Nannini,19,0,22,19,Overheating
+1986,German Grand Prix,Johnny Dumfries,20,0,12,17,Radiator
+1986,German Grand Prix,Thierry Boutsen,21,0,21,13,Turbo
+1986,German Grand Prix,Philippe Alliot,22,0,14,11,Engine
+1986,German Grand Prix,Piercarlo Ghinzani,23,0,25,10,Clutch
+1986,German Grand Prix,Philippe Streiff,24,0,18,7,Engine
+1986,German Grand Prix,Michele Alboreto,25,0,10,6,Transmission
+1986,German Grand Prix,Teo Fabi,26,0,9,0,Accident
+1986,Hungarian Grand Prix,Nelson Piquet,1,9,2,76,RAS
+1986,Hungarian Grand Prix,Ayrton Senna,2,6,1,76,RAS
+1986,Hungarian Grand Prix,Nigel Mansell,3,4,4,75,RAS
+1986,Hungarian Grand Prix,Stefan Johansson,4,3,7,75,RAS
+1986,Hungarian Grand Prix,Johnny Dumfries,5,2,8,74,RAS
+1986,Hungarian Grand Prix,Martin Brundle,6,1,16,74,RAS
+1986,Hungarian Grand Prix,Patrick Tambay,7,0,6,74,RAS
+1986,Hungarian Grand Prix,Philippe Streiff,8,0,18,74,RAS
+1986,Hungarian Grand Prix,Philippe Alliot,9,0,12,73,RAS
+1986,Hungarian Grand Prix,Jonathan Palmer,10,0,24,70,RAS
+1986,Hungarian Grand Prix,René Arnoux,11,0,9,48,Engine
+1986,Hungarian Grand Prix,Alan Jones,12,0,10,46,Differential
+1986,Hungarian Grand Prix,Gerhard Berger,13,0,11,44,Transmission
+1986,Hungarian Grand Prix,Thierry Boutsen,14,0,22,40,Electrical
+1986,Hungarian Grand Prix,Keke Rosberg,15,0,5,34,Suspension
+1986,Hungarian Grand Prix,Teo Fabi,16,0,13,32,Transmission
+1986,Hungarian Grand Prix,Alessandro Nannini,17,0,17,30,Engine
+1986,Hungarian Grand Prix,Michele Alboreto,18,0,15,29,Accident
+1986,Hungarian Grand Prix,Derek Warwick,19,0,19,28,Accident
+1986,Hungarian Grand Prix,Alain Prost,20,0,3,23,Accident
+1986,Hungarian Grand Prix,Piercarlo Ghinzani,21,0,23,15,Suspension
+1986,Hungarian Grand Prix,Christian Danner,22,0,21,7,Suspension
+1986,Hungarian Grand Prix,Riccardo Patrese,23,0,14,5,Gearbox
+1986,Hungarian Grand Prix,Andrea de Cesaris,24,0,20,5,Engine
+1986,Hungarian Grand Prix,Huub Rothengatter,25,0,25,2,Radiator
+1986,Hungarian Grand Prix,Allen Berg,26,0,26,1,Turbo
+1986,Austrian Grand Prix,Alain Prost,1,9,5,52,RAS
+1986,Austrian Grand Prix,Michele Alboreto,2,6,9,51,RAS
+1986,Austrian Grand Prix,Stefan Johansson,3,4,14,50,RAS
+1986,Austrian Grand Prix,Alan Jones,4,3,16,50,RAS
+1986,Austrian Grand Prix,Patrick Tambay,5,2,13,50,RAS
+1986,Austrian Grand Prix,Christian Danner,6,1,22,49,RAS
+1986,Austrian Grand Prix,Gerhard Berger,7,0,2,49,RAS
+1986,Austrian Grand Prix,Huub Rothengatter,8,0,24,48,RAS
+1986,Austrian Grand Prix,Keke Rosberg,9,0,3,47,Electrical
+1986,Austrian Grand Prix,René Arnoux,10,0,12,47,RAS
+1986,Austrian Grand Prix,Piercarlo Ghinzani,11,0,25,46,RAS
+1986,Austrian Grand Prix,Nigel Mansell,12,0,6,32,Halfshaft
+1986,Austrian Grand Prix,Nelson Piquet,13,0,7,29,Engine
+1986,Austrian Grand Prix,Thierry Boutsen,14,0,18,25,Turbo
+1986,Austrian Grand Prix,Teo Fabi,15,0,1,17,Engine
+1986,Austrian Grand Prix,Philippe Alliot,16,0,11,16,Engine
+1986,Austrian Grand Prix,Alessandro Nannini,17,0,19,13,Suspension
+1986,Austrian Grand Prix,Andrea de Cesaris,18,0,23,13,Clutch
+1986,Austrian Grand Prix,Ayrton Senna,19,0,8,13,Engine
+1986,Austrian Grand Prix,Martin Brundle,20,0,17,12,Turbo
+1986,Austrian Grand Prix,Philippe Streiff,21,0,20,10,Engine
+1986,Austrian Grand Prix,Johnny Dumfries,22,0,15,9,Engine
+1986,Austrian Grand Prix,Jonathan Palmer,23,0,21,8,Engine
+1986,Austrian Grand Prix,Allen Berg,24,0,26,6,Electrical
+1986,Austrian Grand Prix,Riccardo Patrese,25,0,4,2,Engine
+1986,Austrian Grand Prix,Derek Warwick,26,0,10,0,Withdrew
+1986,Italian Grand Prix,Nelson Piquet,1,9,6,51,RAS
+1986,Italian Grand Prix,Nigel Mansell,2,6,3,51,RAS
+1986,Italian Grand Prix,Stefan Johansson,3,4,12,51,RAS
+1986,Italian Grand Prix,Keke Rosberg,4,3,8,51,RAS
+1986,Italian Grand Prix,Gerhard Berger,5,2,4,50,RAS
+1986,Italian Grand Prix,Alan Jones,6,1,18,49,RAS
+1986,Italian Grand Prix,Thierry Boutsen,7,0,13,49,RAS
+1986,Italian Grand Prix,Christian Danner,8,0,16,49,RAS
+1986,Italian Grand Prix,Philippe Streiff,9,0,23,49,RAS
+1986,Italian Grand Prix,Martin Brundle,10,0,20,49,RAS
+1986,Italian Grand Prix,Alex Caffi,11,0,27,45,Not classified
+1986,Italian Grand Prix,Teo Fabi,12,0,1,44,Puncture
+1986,Italian Grand Prix,Michele Alboreto,13,0,9,33,Engine
+1986,Italian Grand Prix,Andrea de Cesaris,14,0,21,33,Engine
+1986,Italian Grand Prix,Ivan Capelli,15,0,25,31,Puncture
+1986,Italian Grand Prix,René Arnoux,16,0,11,30,Gearbox
+1986,Italian Grand Prix,Jonathan Palmer,17,0,22,27,Engine
+1986,Italian Grand Prix,Alain Prost,18,0,2,27,DQ
+1986,Italian Grand Prix,Philippe Alliot,19,0,14,22,Engine
+1986,Italian Grand Prix,Johnny Dumfries,20,0,17,18,Gearbox
+1986,Italian Grand Prix,Derek Warwick,21,0,7,16,Spun off
+1986,Italian Grand Prix,Alessandro Nannini,22,0,19,15,Electrical
+1986,Italian Grand Prix,Piercarlo Ghinzani,23,0,26,12,Suspension
+1986,Italian Grand Prix,Patrick Tambay,24,0,15,2,Accident
+1986,Italian Grand Prix,Riccardo Patrese,25,0,10,2,Accident
+1986,Italian Grand Prix,Huub Rothengatter,26,0,24,1,Engine
+1986,Italian Grand Prix,Ayrton Senna,27,0,5,0,Transmission
+1986,Portuguese Grand Prix,Nigel Mansell,1,9,2,70,RAS
+1986,Portuguese Grand Prix,Alain Prost,2,6,3,70,RAS
+1986,Portuguese Grand Prix,Nelson Piquet,3,4,6,70,RAS
+1986,Portuguese Grand Prix,Ayrton Senna,4,3,1,69,Out of fuel
+1986,Portuguese Grand Prix,Michele Alboreto,5,2,13,69,RAS
+1986,Portuguese Grand Prix,Stefan Johansson,6,1,8,69,RAS
+1986,Portuguese Grand Prix,René Arnoux,7,0,10,69,RAS
+1986,Portuguese Grand Prix,Teo Fabi,8,0,5,68,RAS
+1986,Portuguese Grand Prix,Johnny Dumfries,9,0,15,68,RAS
+1986,Portuguese Grand Prix,Thierry Boutsen,10,0,21,67,RAS
+1986,Portuguese Grand Prix,Christian Danner,11,0,22,67,RAS
+1986,Portuguese Grand Prix,Jonathan Palmer,12,0,20,67,RAS
+1986,Portuguese Grand Prix,Allen Berg,13,0,27,63,RAS
+1986,Portuguese Grand Prix,Riccardo Patrese,14,0,9,62,Engine
+1986,Portuguese Grand Prix,Patrick Tambay,15,0,14,62,Not classified
+1986,Portuguese Grand Prix,Alessandro Nannini,16,0,18,60,Not classified
+1986,Portuguese Grand Prix,Gerhard Berger,17,0,4,44,Spun off
+1986,Portuguese Grand Prix,Andrea de Cesaris,18,0,16,43,Spun off
+1986,Portuguese Grand Prix,Keke Rosberg,19,0,7,41,Electrical
+1986,Portuguese Grand Prix,Derek Warwick,20,0,12,41,Electrical
+1986,Portuguese Grand Prix,Philippe Alliot,21,0,11,39,Engine
+1986,Portuguese Grand Prix,Philippe Streiff,22,0,23,28,Engine
+1986,Portuguese Grand Prix,Martin Brundle,23,0,19,18,Engine
+1986,Portuguese Grand Prix,Alan Jones,24,0,17,10,Brakes
+1986,Portuguese Grand Prix,Huub Rothengatter,25,0,26,9,Transmission
+1986,Portuguese Grand Prix,Piercarlo Ghinzani,26,0,24,8,Engine
+1986,Portuguese Grand Prix,Ivan Capelli,27,0,25,6,Transmission
+1986,Mexican Grand Prix,Gerhard Berger,1,9,4,68,RAS
+1986,Mexican Grand Prix,Alain Prost,2,6,6,68,RAS
+1986,Mexican Grand Prix,Ayrton Senna,3,4,1,68,RAS
+1986,Mexican Grand Prix,Nelson Piquet,4,3,2,67,RAS
+1986,Mexican Grand Prix,Nigel Mansell,5,2,3,67,RAS
+1986,Mexican Grand Prix,Philippe Alliot,6,1,10,67,RAS
+1986,Mexican Grand Prix,Thierry Boutsen,7,0,21,66,RAS
+1986,Mexican Grand Prix,Andrea de Cesaris,8,0,22,66,RAS
+1986,Mexican Grand Prix,Christian Danner,9,0,20,66,RAS
+1986,Mexican Grand Prix,Jonathan Palmer,10,0,18,65,Out of fuel
+1986,Mexican Grand Prix,Martin Brundle,11,0,16,65,RAS
+1986,Mexican Grand Prix,Stefan Johansson,12,0,14,64,Turbo
+1986,Mexican Grand Prix,Riccardo Patrese,13,0,5,64,Spun off
+1986,Mexican Grand Prix,Alessandro Nannini,14,0,24,64,RAS
+1986,Mexican Grand Prix,René Arnoux,15,0,13,63,Engine
+1986,Mexican Grand Prix,Allen Berg,16,0,26,61,RAS
+1986,Mexican Grand Prix,Johnny Dumfries,17,0,17,53,Electrical
+1986,Mexican Grand Prix,Derek Warwick,18,0,7,37,Engine
+1986,Mexican Grand Prix,Alan Jones,19,0,15,35,Tyre
+1986,Mexican Grand Prix,Keke Rosberg,20,0,11,32,Puncture
+1986,Mexican Grand Prix,Michele Alboreto,21,0,12,10,Turbo
+1986,Mexican Grand Prix,Piercarlo Ghinzani,22,0,25,8,Turbo
+1986,Mexican Grand Prix,Philippe Streiff,23,0,19,8,Turbo
+1986,Mexican Grand Prix,Teo Fabi,24,0,9,4,Engine
+1986,Mexican Grand Prix,Patrick Tambay,25,0,8,0,Accident
+1986,Australian Grand Prix,Alain Prost,1,9,4,82,RAS
+1986,Australian Grand Prix,Nelson Piquet,2,6,2,82,RAS
+1986,Australian Grand Prix,Stefan Johansson,3,4,12,81,RAS
+1986,Australian Grand Prix,Martin Brundle,4,3,16,81,RAS
+1986,Australian Grand Prix,Philippe Streiff,5,2,10,80,Out of fuel
+1986,Australian Grand Prix,Johnny Dumfries,6,1,14,80,RAS
+1986,Australian Grand Prix,René Arnoux,7,0,5,79,RAS
+1986,Australian Grand Prix,Philippe Alliot,8,0,8,79,RAS
+1986,Australian Grand Prix,Jonathan Palmer,9,0,21,77,RAS
+1986,Australian Grand Prix,Teo Fabi,10,0,13,77,RAS
+1986,Australian Grand Prix,Patrick Tambay,11,0,17,70,Not classified
+1986,Australian Grand Prix,Nigel Mansell,12,0,1,63,Tyre
+1986,Australian Grand Prix,Riccardo Patrese,13,0,19,63,Electrical
+1986,Australian Grand Prix,Keke Rosberg,14,0,7,62,Tyre
+1986,Australian Grand Prix,Allen Berg,15,0,26,61,Not classified
+1986,Australian Grand Prix,Derek Warwick,16,0,20,57,Brakes
+1986,Australian Grand Prix,Christian Danner,17,0,24,52,Engine
+1986,Australian Grand Prix,Thierry Boutsen,18,0,22,50,Engine
+1986,Australian Grand Prix,Ayrton Senna,19,0,3,43,Engine
+1986,Australian Grand Prix,Andrea de Cesaris,20,0,11,40,Mechanical
+1986,Australian Grand Prix,Gerhard Berger,21,0,6,40,Engine
+1986,Australian Grand Prix,Huub Rothengatter,22,0,23,29,Suspension
+1986,Australian Grand Prix,Alan Jones,23,0,15,16,Engine
+1986,Australian Grand Prix,Alessandro Nannini,24,0,18,10,Accident
+1986,Australian Grand Prix,Piercarlo Ghinzani,25,0,25,2,Transmission
+1986,Australian Grand Prix,Michele Alboreto,26,0,9,0,Accident

@@ -1,0 +1,268 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1970,South African Grand Prix,Jack Brabham,1,9,3,80,RAS
+1970,South African Grand Prix,Denny Hulme,2,6,6,80,RAS
+1970,South African Grand Prix,Jackie Stewart,3,4,1,80,RAS
+1970,South African Grand Prix,Jean-Pierre Beltoise,4,3,8,80,RAS
+1970,South African Grand Prix,John Miles,5,2,14,79,RAS
+1970,South African Grand Prix,Graham Hill,6,1,19,79,RAS
+1970,South African Grand Prix,Henri Pescarolo,7,0,18,78,RAS
+1970,South African Grand Prix,John Love,8,0,22,78,RAS
+1970,South African Grand Prix,Pedro Rodríguez,9,0,16,76,RAS
+1970,South African Grand Prix,Jo Siffert,10,0,9,75,RAS
+1970,South African Grand Prix,Peter de Klerk,11,0,21,75,RAS
+1970,South African Grand Prix,Dave Charlton,12,0,13,73,Engine
+1970,South African Grand Prix,Jochen Rindt,13,0,4,72,Engine
+1970,South African Grand Prix,Jacky Ickx,14,0,5,60,Engine
+1970,South African Grand Prix,John Surtees,15,0,7,60,Engine
+1970,South African Grand Prix,George Eaton,16,0,23,58,Engine
+1970,South African Grand Prix,Johnny Servoz-Gavin,17,0,17,57,Engine
+1970,South African Grand Prix,Bruce McLaren,18,0,10,39,Engine
+1970,South African Grand Prix,Piers Courage,19,0,20,39,Accident
+1970,South African Grand Prix,Mario Andretti,20,0,11,26,Overheating
+1970,South African Grand Prix,Rolf Stommelen,21,0,15,23,Engine
+1970,South African Grand Prix,Jackie Oliver,22,0,12,22,Gearbox
+1970,South African Grand Prix,Chris Amon,23,0,2,14,Overheating
+1970,Spanish Grand Prix,Jackie Stewart,1,9,3,90,RAS
+1970,Spanish Grand Prix,Bruce McLaren,2,6,11,89,RAS
+1970,Spanish Grand Prix,Mario Andretti,3,4,16,89,RAS
+1970,Spanish Grand Prix,Graham Hill,4,3,15,89,RAS
+1970,Spanish Grand Prix,Johnny Servoz-Gavin,5,2,14,88,RAS
+1970,Spanish Grand Prix,John Surtees,6,0,12,76,Gearbox
+1970,Spanish Grand Prix,Jack Brabham,7,0,1,61,Engine
+1970,Spanish Grand Prix,Rolf Stommelen,8,0,17,43,Engine
+1970,Spanish Grand Prix,Henri Pescarolo,9,0,9,33,Engine
+1970,Spanish Grand Prix,Jean-Pierre Beltoise,10,0,4,31,Engine
+1970,Spanish Grand Prix,Denny Hulme,11,0,2,10,Ignition
+1970,Spanish Grand Prix,Chris Amon,12,0,6,10,Engine
+1970,Spanish Grand Prix,Jochen Rindt,13,0,8,9,Ignition
+1970,Spanish Grand Prix,Pedro Rodríguez,14,0,5,4,Withdrew
+1970,Spanish Grand Prix,Jacky Ickx,15,0,7,0,Accident
+1970,Spanish Grand Prix,Jackie Oliver,16,0,10,0,Accident
+1970,Spanish Grand Prix,Piers Courage,17,0,13,0,Withdrew
+1970,Monaco Grand Prix,Jochen Rindt,1,9,8,80,RAS
+1970,Monaco Grand Prix,Jack Brabham,2,6,4,80,RAS
+1970,Monaco Grand Prix,Henri Pescarolo,3,4,7,80,RAS
+1970,Monaco Grand Prix,Denny Hulme,4,3,3,80,RAS
+1970,Monaco Grand Prix,Graham Hill,5,2,16,79,RAS
+1970,Monaco Grand Prix,Pedro Rodríguez,6,1,15,78,RAS
+1970,Monaco Grand Prix,Ronnie Peterson,7,0,12,78,RAS
+1970,Monaco Grand Prix,Jo Siffert,8,0,11,76,Out of fuel
+1970,Monaco Grand Prix,Chris Amon,9,0,2,60,Suspension
+1970,Monaco Grand Prix,Piers Courage,10,0,9,58,Not classified
+1970,Monaco Grand Prix,Jackie Stewart,11,0,1,57,Engine
+1970,Monaco Grand Prix,Jackie Oliver,12,0,14,42,Engine
+1970,Monaco Grand Prix,Jean-Pierre Beltoise,13,0,6,21,Differential
+1970,Monaco Grand Prix,Bruce McLaren,14,0,10,19,Suspension
+1970,Monaco Grand Prix,John Surtees,15,0,13,14,Oil pressure
+1970,Monaco Grand Prix,Jacky Ickx,16,0,5,11,Halfshaft
+1970,Belgian Grand Prix,Pedro Rodríguez,1,9,6,28,RAS
+1970,Belgian Grand Prix,Chris Amon,2,6,3,28,RAS
+1970,Belgian Grand Prix,Jean-Pierre Beltoise,3,4,11,28,RAS
+1970,Belgian Grand Prix,Ignazio Giunti,4,3,8,28,RAS
+1970,Belgian Grand Prix,Rolf Stommelen,5,2,7,28,RAS
+1970,Belgian Grand Prix,Henri Pescarolo,6,1,17,27,Electrical
+1970,Belgian Grand Prix,Jo Siffert,7,0,10,26,Fuel pressure
+1970,Belgian Grand Prix,Jacky Ickx,8,0,4,26,RAS
+1970,Belgian Grand Prix,Ronnie Peterson,9,0,9,20,Not classified
+1970,Belgian Grand Prix,Jack Brabham,10,0,5,19,Clutch
+1970,Belgian Grand Prix,Graham Hill,11,0,16,19,Engine
+1970,Belgian Grand Prix,Jackie Stewart,12,0,1,14,Engine
+1970,Belgian Grand Prix,John Miles,13,0,13,13,Gearbox
+1970,Belgian Grand Prix,Jochen Rindt,14,0,2,10,Engine
+1970,Belgian Grand Prix,Jackie Oliver,15,0,14,7,Engine
+1970,Belgian Grand Prix,Piers Courage,16,0,12,4,Oil pressure
+1970,Belgian Grand Prix,Derek Bell,17,0,15,1,Gearbox
+1970,Dutch Grand Prix,Jochen Rindt,1,9,1,80,RAS
+1970,Dutch Grand Prix,Jackie Stewart,2,6,2,80,RAS
+1970,Dutch Grand Prix,Jacky Ickx,3,4,3,79,RAS
+1970,Dutch Grand Prix,Clay Regazzoni,4,3,6,79,RAS
+1970,Dutch Grand Prix,Jean-Pierre Beltoise,5,2,10,79,RAS
+1970,Dutch Grand Prix,John Surtees,6,1,14,79,RAS
+1970,Dutch Grand Prix,John Miles,7,0,8,78,RAS
+1970,Dutch Grand Prix,Henri Pescarolo,8,0,13,78,RAS
+1970,Dutch Grand Prix,Ronnie Peterson,9,0,16,78,RAS
+1970,Dutch Grand Prix,Pedro Rodríguez,10,0,7,77,RAS
+1970,Dutch Grand Prix,Jack Brabham,11,0,12,76,RAS
+1970,Dutch Grand Prix,Graham Hill,12,0,20,71,Not classified
+1970,Dutch Grand Prix,François Cevert,13,0,15,31,Engine
+1970,Dutch Grand Prix,George Eaton,14,0,18,26,Oil leak
+1970,Dutch Grand Prix,Jackie Oliver,15,0,5,23,Engine
+1970,Dutch Grand Prix,Piers Courage,16,0,9,22,Accident
+1970,Dutch Grand Prix,Jo Siffert,17,0,17,22,Engine
+1970,Dutch Grand Prix,Peter Gethin,18,0,11,18,Accident
+1970,Dutch Grand Prix,Dan Gurney,19,0,19,2,Engine
+1970,Dutch Grand Prix,Chris Amon,20,0,4,1,Clutch
+1970,French Grand Prix,Jochen Rindt,1,9,6,38,RAS
+1970,French Grand Prix,Chris Amon,2,6,3,38,RAS
+1970,French Grand Prix,Jack Brabham,3,4,5,38,RAS
+1970,French Grand Prix,Denny Hulme,4,3,7,38,RAS
+1970,French Grand Prix,Henri Pescarolo,5,2,8,38,RAS
+1970,French Grand Prix,Dan Gurney,6,1,17,38,RAS
+1970,French Grand Prix,Rolf Stommelen,7,0,14,38,RAS
+1970,French Grand Prix,John Miles,8,0,18,38,RAS
+1970,French Grand Prix,Jackie Stewart,9,0,4,38,RAS
+1970,French Grand Prix,Graham Hill,10,0,20,37,RAS
+1970,French Grand Prix,François Cevert,11,0,13,37,RAS
+1970,French Grand Prix,George Eaton,12,0,19,36,RAS
+1970,French Grand Prix,Jean-Pierre Beltoise,13,0,2,35,Out of fuel
+1970,French Grand Prix,Ignazio Giunti,14,0,11,35,RAS
+1970,French Grand Prix,Andrea de Adamich,15,0,15,29,Not classified
+1970,French Grand Prix,Jo Siffert,16,0,16,23,Accident
+1970,French Grand Prix,Ronnie Peterson,17,0,9,17,Differential
+1970,French Grand Prix,Jacky Ickx,18,0,1,16,Engine
+1970,French Grand Prix,Pedro Rodríguez,19,0,10,6,Gearbox
+1970,French Grand Prix,Jackie Oliver,20,0,12,5,Engine
+1970,British Grand Prix,Jochen Rindt,1,9,1,80,RAS
+1970,British Grand Prix,Jack Brabham,2,6,2,80,RAS
+1970,British Grand Prix,Denny Hulme,3,4,5,80,RAS
+1970,British Grand Prix,Clay Regazzoni,4,3,6,80,RAS
+1970,British Grand Prix,Chris Amon,5,2,17,79,RAS
+1970,British Grand Prix,Graham Hill,6,1,22,79,RAS
+1970,British Grand Prix,François Cevert,7,0,14,79,RAS
+1970,British Grand Prix,Emerson Fittipaldi,8,0,21,78,RAS
+1970,British Grand Prix,Ronnie Peterson,9,0,13,72,RAS
+1970,British Grand Prix,Pete Lovely,10,0,23,69,Not classified
+1970,British Grand Prix,Dan Gurney,11,0,11,60,Oil pressure
+1970,British Grand Prix,Pedro Rodríguez,12,0,15,58,Accident
+1970,British Grand Prix,Jackie Oliver,13,0,4,54,Engine
+1970,British Grand Prix,Jackie Stewart,14,0,8,52,Clutch
+1970,British Grand Prix,John Surtees,15,0,19,51,Oil pressure
+1970,British Grand Prix,Henri Pescarolo,16,0,12,41,Accident
+1970,British Grand Prix,Jean-Pierre Beltoise,17,0,10,24,Wheel
+1970,British Grand Prix,Mario Andretti,18,0,9,21,Suspension
+1970,British Grand Prix,Jo Siffert,19,0,20,19,Suspension
+1970,British Grand Prix,John Miles,20,0,7,15,Engine
+1970,British Grand Prix,George Eaton,21,0,16,10,Oil pressure
+1970,British Grand Prix,Jacky Ickx,22,0,3,6,Transmission
+1970,British Grand Prix,Andrea de Adamich,23,0,18,0,Fuel leak
+1970,German Grand Prix,Jochen Rindt,1,9,2,50,RAS
+1970,German Grand Prix,Jacky Ickx,2,6,1,50,RAS
+1970,German Grand Prix,Denny Hulme,3,4,16,50,RAS
+1970,German Grand Prix,Emerson Fittipaldi,4,3,13,50,RAS
+1970,German Grand Prix,Rolf Stommelen,5,2,11,49,RAS
+1970,German Grand Prix,Henri Pescarolo,6,1,5,49,RAS
+1970,German Grand Prix,François Cevert,7,0,14,49,RAS
+1970,German Grand Prix,Jo Siffert,8,0,4,47,Ignition
+1970,German Grand Prix,John Surtees,9,0,15,46,Engine
+1970,German Grand Prix,Graham Hill,10,0,20,37,Engine
+1970,German Grand Prix,Chris Amon,11,0,6,34,Engine
+1970,German Grand Prix,Clay Regazzoni,12,0,3,30,Engine
+1970,German Grand Prix,John Miles,13,0,10,24,Engine
+1970,German Grand Prix,Jackie Stewart,14,0,7,20,Engine
+1970,German Grand Prix,Mario Andretti,15,0,9,15,Gearbox
+1970,German Grand Prix,Ronnie Peterson,16,0,19,11,Engine
+1970,German Grand Prix,Pedro Rodríguez,17,0,8,7,Ignition
+1970,German Grand Prix,Jackie Oliver,18,0,18,5,Engine
+1970,German Grand Prix,Jack Brabham,19,0,12,4,Oil leak
+1970,German Grand Prix,Jean-Pierre Beltoise,20,0,21,4,Suspension
+1970,German Grand Prix,Peter Gethin,21,0,17,3,Throttle
+1970,Austrian Grand Prix,Jacky Ickx,1,9,3,60,RAS
+1970,Austrian Grand Prix,Clay Regazzoni,2,6,2,60,RAS
+1970,Austrian Grand Prix,Rolf Stommelen,3,4,17,60,RAS
+1970,Austrian Grand Prix,Pedro Rodríguez,4,3,22,59,RAS
+1970,Austrian Grand Prix,Jackie Oliver,5,2,14,59,RAS
+1970,Austrian Grand Prix,Jean-Pierre Beltoise,6,1,7,59,RAS
+1970,Austrian Grand Prix,Ignazio Giunti,7,0,5,59,RAS
+1970,Austrian Grand Prix,Chris Amon,8,0,5,59,RAS
+1970,Austrian Grand Prix,Jo Siffert,9,0,20,59,RAS
+1970,Austrian Grand Prix,Peter Gethin,10,0,21,59,RAS
+1970,Austrian Grand Prix,George Eaton,11,0,23,58,RAS
+1970,Austrian Grand Prix,Andrea de Adamich,12,0,15,57,RAS
+1970,Austrian Grand Prix,Jack Brabham,13,0,8,56,RAS
+1970,Austrian Grand Prix,Henri Pescarolo,14,0,13,56,RAS
+1970,Austrian Grand Prix,Emerson Fittipaldi,15,0,16,55,RAS
+1970,Austrian Grand Prix,Denny Hulme,16,0,11,30,Engine
+1970,Austrian Grand Prix,John Surtees,17,0,12,27,Engine
+1970,Austrian Grand Prix,Tim Schenken,18,0,19,25,Engine
+1970,Austrian Grand Prix,Jochen Rindt,19,0,1,21,Engine
+1970,Austrian Grand Prix,Mario Andretti,20,0,18,13,Accident
+1970,Austrian Grand Prix,Silvio Moser,21,0,24,13,Radiator
+1970,Austrian Grand Prix,Jackie Stewart,22,0,4,7,Fuel pipe
+1970,Austrian Grand Prix,John Miles,23,0,10,4,Brakes
+1970,Austrian Grand Prix,François Cevert,24,0,9,0,Engine
+1970,Italian Grand Prix,Clay Regazzoni,1,9,3,68,RAS
+1970,Italian Grand Prix,Jackie Stewart,2,6,4,68,RAS
+1970,Italian Grand Prix,Jean-Pierre Beltoise,3,4,14,68,RAS
+1970,Italian Grand Prix,Denny Hulme,4,3,9,68,RAS
+1970,Italian Grand Prix,Rolf Stommelen,5,2,17,68,RAS
+1970,Italian Grand Prix,François Cevert,6,1,11,68,RAS
+1970,Italian Grand Prix,Chris Amon,7,0,18,67,RAS
+1970,Italian Grand Prix,Andrea de Adamich,8,0,12,61,RAS
+1970,Italian Grand Prix,Peter Gethin,9,0,16,60,Not classified
+1970,Italian Grand Prix,Jackie Oliver,10,0,6,36,Engine
+1970,Italian Grand Prix,Ronnie Peterson,11,0,13,35,Engine
+1970,Italian Grand Prix,Jack Brabham,12,0,8,31,Accident
+1970,Italian Grand Prix,Jacky Ickx,13,0,1,25,Clutch
+1970,Italian Grand Prix,George Eaton,14,0,20,21,Overheating
+1970,Italian Grand Prix,Tim Schenken,15,0,19,17,Engine
+1970,Italian Grand Prix,Ignazio Giunti,16,0,15,14,Fuel system
+1970,Italian Grand Prix,Henri Pescarolo,17,0,5,14,Engine
+1970,Italian Grand Prix,Pedro Rodríguez,18,0,2,12,Engine
+1970,Italian Grand Prix,Jo Siffert,19,0,7,3,Engine
+1970,Italian Grand Prix,John Surtees,20,0,10,0,Electrical
+1970,Italian Grand Prix,Graham Hill,21,0,0,0,Withdrew
+1970,Italian Grand Prix,John Miles,22,0,0,0,Withdrew
+1970,Italian Grand Prix,Jochen Rindt,23,0,0,0,Fatal accident
+1970,Italian Grand Prix,Emerson Fittipaldi,25,0,0,0,Withdrew
+1970,Canadian Grand Prix,Jacky Ickx,1,9,2,90,RAS
+1970,Canadian Grand Prix,Clay Regazzoni,2,6,3,90,RAS
+1970,Canadian Grand Prix,Chris Amon,3,4,6,90,RAS
+1970,Canadian Grand Prix,Pedro Rodríguez,4,3,7,89,RAS
+1970,Canadian Grand Prix,John Surtees,5,2,5,89,RAS
+1970,Canadian Grand Prix,Peter Gethin,6,1,11,88,RAS
+1970,Canadian Grand Prix,Henri Pescarolo,7,0,8,87,RAS
+1970,Canadian Grand Prix,Jean-Pierre Beltoise,8,0,13,85,Clutch
+1970,Canadian Grand Prix,François Cevert,9,0,4,85,RAS
+1970,Canadian Grand Prix,George Eaton,10,0,9,85,RAS
+1970,Canadian Grand Prix,Tim Schenken,11,0,17,79,Not classified
+1970,Canadian Grand Prix,Graham Hill,12,0,20,77,Not classified
+1970,Canadian Grand Prix,Andrea de Adamich,13,0,12,69,Oil pressure
+1970,Canadian Grand Prix,Ronnie Peterson,14,0,16,65,Not classified
+1970,Canadian Grand Prix,Denny Hulme,15,0,15,58,Engine
+1970,Canadian Grand Prix,Jack Brabham,16,0,19,57,Oil leak
+1970,Canadian Grand Prix,Jackie Oliver,17,0,10,52,Not classified
+1970,Canadian Grand Prix,Jackie Stewart,18,0,1,31,Axle
+1970,Canadian Grand Prix,Rolf Stommelen,19,0,18,22,Handling
+1970,Canadian Grand Prix,Jo Siffert,20,0,14,21,Engine
+1970,United States Grand Prix,Emerson Fittipaldi,1,9,3,108,RAS
+1970,United States Grand Prix,Pedro Rodríguez,2,6,4,108,RAS
+1970,United States Grand Prix,Reine Wisell,3,4,9,108,RAS
+1970,United States Grand Prix,Jacky Ickx,4,3,1,107,RAS
+1970,United States Grand Prix,Chris Amon,5,2,5,107,RAS
+1970,United States Grand Prix,Derek Bell,6,1,13,107,RAS
+1970,United States Grand Prix,Denny Hulme,7,0,11,106,RAS
+1970,United States Grand Prix,Henri Pescarolo,8,0,12,105,RAS
+1970,United States Grand Prix,Jo Siffert,9,0,23,105,RAS
+1970,United States Grand Prix,Jack Brabham,10,0,16,105,RAS
+1970,United States Grand Prix,Ronnie Peterson,11,0,15,104,RAS
+1970,United States Grand Prix,Rolf Stommelen,12,0,19,104,RAS
+1970,United States Grand Prix,Clay Regazzoni,13,0,6,101,RAS
+1970,United States Grand Prix,Peter Gethin,14,0,21,100,RAS
+1970,United States Grand Prix,Jackie Stewart,15,0,2,82,Oil leak
+1970,United States Grand Prix,Graham Hill,16,0,10,72,Clutch
+1970,United States Grand Prix,François Cevert,17,0,17,62,Wheel
+1970,United States Grand Prix,Tim Schenken,18,0,20,61,Suspension
+1970,United States Grand Prix,Jo Bonnier,19,0,24,50,Water pipe
+1970,United States Grand Prix,Jean-Pierre Beltoise,20,0,18,27,Handling
+1970,United States Grand Prix,Gus Hutchison,21,0,22,21,Fuel leak
+1970,United States Grand Prix,Jackie Oliver,22,0,7,14,Engine
+1970,United States Grand Prix,George Eaton,23,0,14,10,Engine
+1970,United States Grand Prix,John Surtees,24,0,8,6,Engine
+1970,Mexican Grand Prix,Jacky Ickx,1,9,3,65,RAS
+1970,Mexican Grand Prix,Clay Regazzoni,2,6,1,65,RAS
+1970,Mexican Grand Prix,Denny Hulme,3,4,14,65,RAS
+1970,Mexican Grand Prix,Chris Amon,4,3,5,65,RAS
+1970,Mexican Grand Prix,Jean-Pierre Beltoise,5,2,6,65,RAS
+1970,Mexican Grand Prix,Pedro Rodríguez,6,1,7,65,RAS
+1970,Mexican Grand Prix,Jackie Oliver,7,0,13,64,RAS
+1970,Mexican Grand Prix,John Surtees,8,0,15,64,RAS
+1970,Mexican Grand Prix,Henri Pescarolo,9,0,11,61,RAS
+1970,Mexican Grand Prix,Reine Wisell,10,0,12,56,Not classified
+1970,Mexican Grand Prix,Jack Brabham,11,0,4,52,Engine
+1970,Mexican Grand Prix,Jackie Stewart,12,0,2,33,Suspension
+1970,Mexican Grand Prix,Peter Gethin,13,0,10,27,Engine
+1970,Mexican Grand Prix,Rolf Stommelen,14,0,17,15,Fuel system
+1970,Mexican Grand Prix,François Cevert,15,0,9,8,Engine
+1970,Mexican Grand Prix,Graham Hill,16,0,8,4,Overheating
+1970,Mexican Grand Prix,Jo Siffert,17,0,16,3,Engine
+1970,Mexican Grand Prix,Emerson Fittipaldi,18,0,18,1,Engine

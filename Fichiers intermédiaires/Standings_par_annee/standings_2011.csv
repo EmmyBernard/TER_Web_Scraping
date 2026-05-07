@@ -1,0 +1,455 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2011,Australian Grand Prix,Sebastian Vettel,1,25,1,58,RAS
+2011,Australian Grand Prix,Lewis Hamilton,2,18,2,58,RAS
+2011,Australian Grand Prix,Vitaly Petrov,3,15,6,58,RAS
+2011,Australian Grand Prix,Fernando Alonso,4,12,5,58,RAS
+2011,Australian Grand Prix,Mark Webber,5,10,3,58,RAS
+2011,Australian Grand Prix,Jenson Button,6,8,4,58,RAS
+2011,Australian Grand Prix,Felipe Massa,7,6,8,58,RAS
+2011,Australian Grand Prix,Sébastien Buemi,8,4,10,57,RAS
+2011,Australian Grand Prix,Adrian Sutil,9,2,16,57,RAS
+2011,Australian Grand Prix,Paul di Resta,10,1,14,57,RAS
+2011,Australian Grand Prix,Jaime Alguersuari,11,0,12,57,RAS
+2011,Australian Grand Prix,Nick Heidfeld,12,0,18,57,RAS
+2011,Australian Grand Prix,Jarno Trulli,13,0,20,56,RAS
+2011,Australian Grand Prix,Jérôme d'Ambrosio,14,0,22,54,RAS
+2011,Australian Grand Prix,Timo Glock,15,0,21,49,RAS
+2011,Australian Grand Prix,Rubens Barrichello,16,0,17,48,Transmission
+2011,Australian Grand Prix,Nico Rosberg,17,0,7,22,Collision
+2011,Australian Grand Prix,Heikki Kovalainen,18,0,19,19,Water leak
+2011,Australian Grand Prix,Michael Schumacher,19,0,11,19,Collision
+2011,Australian Grand Prix,Pastor Maldonado,20,0,15,9,Transmission
+2011,Australian Grand Prix,Kamui Kobayashi,21,0,9,58,DQ
+2011,Australian Grand Prix,Sergio Pérez,22,0,13,58,DQ
+2011,Malaysian Grand Prix,Sebastian Vettel,1,25,1,56,RAS
+2011,Malaysian Grand Prix,Jenson Button,2,18,4,56,RAS
+2011,Malaysian Grand Prix,Nick Heidfeld,3,15,6,56,RAS
+2011,Malaysian Grand Prix,Mark Webber,4,12,3,56,RAS
+2011,Malaysian Grand Prix,Felipe Massa,5,10,7,56,RAS
+2011,Malaysian Grand Prix,Fernando Alonso,6,8,5,56,RAS
+2011,Malaysian Grand Prix,Kamui Kobayashi,7,6,10,56,RAS
+2011,Malaysian Grand Prix,Lewis Hamilton,8,4,2,56,RAS
+2011,Malaysian Grand Prix,Michael Schumacher,9,2,11,56,RAS
+2011,Malaysian Grand Prix,Paul di Resta,10,1,14,56,RAS
+2011,Malaysian Grand Prix,Adrian Sutil,11,0,17,55,RAS
+2011,Malaysian Grand Prix,Nico Rosberg,12,0,9,55,RAS
+2011,Malaysian Grand Prix,Sébastien Buemi,13,0,12,55,RAS
+2011,Malaysian Grand Prix,Jaime Alguersuari,14,0,13,55,RAS
+2011,Malaysian Grand Prix,Heikki Kovalainen,15,0,19,55,RAS
+2011,Malaysian Grand Prix,Timo Glock,16,0,21,54,RAS
+2011,Malaysian Grand Prix,Vitaly Petrov,17,0,8,52,Accident
+2011,Malaysian Grand Prix,Vitantonio Liuzzi,18,0,23,46,RAS
+2011,Malaysian Grand Prix,Jérôme d'Ambrosio,19,0,22,42,Accident
+2011,Malaysian Grand Prix,Jarno Trulli,20,0,20,31,Clutch
+2011,Malaysian Grand Prix,Sergio Pérez,21,0,16,23,Accident
+2011,Malaysian Grand Prix,Rubens Barrichello,22,0,15,22,Gearbox
+2011,Malaysian Grand Prix,Narain Karthikeyan,23,0,24,14,RAS
+2011,Malaysian Grand Prix,Pastor Maldonado,24,0,18,8,Engine misfire
+2011,Chinese Grand Prix,Lewis Hamilton,1,25,3,56,RAS
+2011,Chinese Grand Prix,Sebastian Vettel,2,18,1,56,RAS
+2011,Chinese Grand Prix,Mark Webber,3,15,18,56,RAS
+2011,Chinese Grand Prix,Jenson Button,4,12,2,56,RAS
+2011,Chinese Grand Prix,Nico Rosberg,5,10,4,56,RAS
+2011,Chinese Grand Prix,Felipe Massa,6,8,6,56,RAS
+2011,Chinese Grand Prix,Fernando Alonso,7,6,5,56,RAS
+2011,Chinese Grand Prix,Michael Schumacher,8,4,14,56,RAS
+2011,Chinese Grand Prix,Vitaly Petrov,9,2,10,56,RAS
+2011,Chinese Grand Prix,Kamui Kobayashi,10,1,13,56,RAS
+2011,Chinese Grand Prix,Paul di Resta,11,0,8,56,RAS
+2011,Chinese Grand Prix,Nick Heidfeld,12,0,16,56,RAS
+2011,Chinese Grand Prix,Rubens Barrichello,13,0,15,56,RAS
+2011,Chinese Grand Prix,Sébastien Buemi,14,0,9,56,RAS
+2011,Chinese Grand Prix,Adrian Sutil,15,0,11,55,RAS
+2011,Chinese Grand Prix,Heikki Kovalainen,16,0,19,55,RAS
+2011,Chinese Grand Prix,Sergio Pérez,17,0,12,55,RAS
+2011,Chinese Grand Prix,Pastor Maldonado,18,0,17,55,RAS
+2011,Chinese Grand Prix,Jarno Trulli,19,0,20,55,RAS
+2011,Chinese Grand Prix,Jérôme d'Ambrosio,20,0,21,54,RAS
+2011,Chinese Grand Prix,Timo Glock,21,0,22,54,RAS
+2011,Chinese Grand Prix,Vitantonio Liuzzi,22,0,23,54,RAS
+2011,Chinese Grand Prix,Narain Karthikeyan,23,0,24,54,RAS
+2011,Chinese Grand Prix,Jaime Alguersuari,24,0,7,9,Wheel
+2011,Turkish Grand Prix,Sebastian Vettel,1,25,1,58,RAS
+2011,Turkish Grand Prix,Mark Webber,2,18,2,58,RAS
+2011,Turkish Grand Prix,Fernando Alonso,3,15,5,58,RAS
+2011,Turkish Grand Prix,Lewis Hamilton,4,12,4,58,RAS
+2011,Turkish Grand Prix,Nico Rosberg,5,10,3,58,RAS
+2011,Turkish Grand Prix,Jenson Button,6,8,6,58,RAS
+2011,Turkish Grand Prix,Nick Heidfeld,7,6,9,58,RAS
+2011,Turkish Grand Prix,Vitaly Petrov,8,4,7,58,RAS
+2011,Turkish Grand Prix,Sébastien Buemi,9,2,16,58,RAS
+2011,Turkish Grand Prix,Kamui Kobayashi,10,1,24,58,RAS
+2011,Turkish Grand Prix,Felipe Massa,11,0,10,58,RAS
+2011,Turkish Grand Prix,Michael Schumacher,12,0,8,58,RAS
+2011,Turkish Grand Prix,Adrian Sutil,13,0,12,57,RAS
+2011,Turkish Grand Prix,Sergio Pérez,14,0,15,57,RAS
+2011,Turkish Grand Prix,Rubens Barrichello,15,0,11,57,RAS
+2011,Turkish Grand Prix,Jaime Alguersuari,16,0,17,57,RAS
+2011,Turkish Grand Prix,Pastor Maldonado,17,0,14,57,RAS
+2011,Turkish Grand Prix,Jarno Trulli,18,0,19,57,RAS
+2011,Turkish Grand Prix,Heikki Kovalainen,19,0,18,56,RAS
+2011,Turkish Grand Prix,Jérôme d'Ambrosio,20,0,23,56,RAS
+2011,Turkish Grand Prix,Narain Karthikeyan,21,0,22,55,RAS
+2011,Turkish Grand Prix,Vitantonio Liuzzi,22,0,20,53,RAS
+2011,Turkish Grand Prix,Paul di Resta,23,0,13,44,DNF
+2011,Turkish Grand Prix,Timo Glock,24,0,21,0,Gearbox
+2011,Spanish Grand Prix,Sebastian Vettel,1,25,2,66,RAS
+2011,Spanish Grand Prix,Lewis Hamilton,2,18,3,66,RAS
+2011,Spanish Grand Prix,Jenson Button,3,15,5,66,RAS
+2011,Spanish Grand Prix,Mark Webber,4,12,1,66,RAS
+2011,Spanish Grand Prix,Fernando Alonso,5,10,4,65,RAS
+2011,Spanish Grand Prix,Michael Schumacher,6,8,10,65,RAS
+2011,Spanish Grand Prix,Nico Rosberg,7,6,7,65,RAS
+2011,Spanish Grand Prix,Nick Heidfeld,8,4,24,65,RAS
+2011,Spanish Grand Prix,Sergio Pérez,9,2,12,65,RAS
+2011,Spanish Grand Prix,Kamui Kobayashi,10,1,14,65,RAS
+2011,Spanish Grand Prix,Vitaly Petrov,11,0,6,65,RAS
+2011,Spanish Grand Prix,Paul di Resta,12,0,16,65,RAS
+2011,Spanish Grand Prix,Adrian Sutil,13,0,17,65,RAS
+2011,Spanish Grand Prix,Sébastien Buemi,14,0,11,65,RAS
+2011,Spanish Grand Prix,Pastor Maldonado,15,0,9,65,RAS
+2011,Spanish Grand Prix,Jaime Alguersuari,16,0,13,64,RAS
+2011,Spanish Grand Prix,Rubens Barrichello,17,0,19,64,RAS
+2011,Spanish Grand Prix,Jarno Trulli,18,0,18,64,RAS
+2011,Spanish Grand Prix,Timo Glock,19,0,20,63,RAS
+2011,Spanish Grand Prix,Jérôme d'Ambrosio,20,0,23,62,RAS
+2011,Spanish Grand Prix,Narain Karthikeyan,21,0,22,61,RAS
+2011,Spanish Grand Prix,Felipe Massa,22,0,8,58,Gearbox
+2011,Spanish Grand Prix,Heikki Kovalainen,23,0,15,48,Accident
+2011,Spanish Grand Prix,Vitantonio Liuzzi,24,0,21,28,Gearbox
+2011,Monaco Grand Prix,Sebastian Vettel,1,25,1,78,RAS
+2011,Monaco Grand Prix,Fernando Alonso,2,18,4,78,RAS
+2011,Monaco Grand Prix,Jenson Button,3,15,2,78,RAS
+2011,Monaco Grand Prix,Mark Webber,4,12,3,78,RAS
+2011,Monaco Grand Prix,Kamui Kobayashi,5,10,12,78,RAS
+2011,Monaco Grand Prix,Lewis Hamilton,6,8,9,78,RAS
+2011,Monaco Grand Prix,Adrian Sutil,7,6,14,77,RAS
+2011,Monaco Grand Prix,Nick Heidfeld,8,4,15,77,RAS
+2011,Monaco Grand Prix,Rubens Barrichello,9,2,11,77,RAS
+2011,Monaco Grand Prix,Sébastien Buemi,10,1,16,77,RAS
+2011,Monaco Grand Prix,Nico Rosberg,11,0,7,76,RAS
+2011,Monaco Grand Prix,Paul di Resta,12,0,13,76,RAS
+2011,Monaco Grand Prix,Jarno Trulli,13,0,18,76,RAS
+2011,Monaco Grand Prix,Heikki Kovalainen,14,0,17,76,RAS
+2011,Monaco Grand Prix,Jérôme d'Ambrosio,15,0,21,75,RAS
+2011,Monaco Grand Prix,Vitantonio Liuzzi,16,0,23,75,RAS
+2011,Monaco Grand Prix,Narain Karthikeyan,17,0,22,74,RAS
+2011,Monaco Grand Prix,Pastor Maldonado,18,0,8,73,Accident
+2011,Monaco Grand Prix,Vitaly Petrov,19,0,10,67,Collision
+2011,Monaco Grand Prix,Jaime Alguersuari,20,0,19,66,Collision
+2011,Monaco Grand Prix,Felipe Massa,21,0,6,32,Accident
+2011,Monaco Grand Prix,Michael Schumacher,22,0,5,32,Engine
+2011,Monaco Grand Prix,Timo Glock,23,0,20,30,Suspension
+2011,Monaco Grand Prix,Sergio Pérez,24,0,0,0,Injury
+2011,Canadian Grand Prix,Jenson Button,1,25,7,70,RAS
+2011,Canadian Grand Prix,Sebastian Vettel,2,18,1,70,RAS
+2011,Canadian Grand Prix,Mark Webber,3,15,4,70,RAS
+2011,Canadian Grand Prix,Michael Schumacher,4,12,8,70,RAS
+2011,Canadian Grand Prix,Vitaly Petrov,5,10,10,70,RAS
+2011,Canadian Grand Prix,Felipe Massa,6,8,3,70,RAS
+2011,Canadian Grand Prix,Kamui Kobayashi,7,6,13,70,RAS
+2011,Canadian Grand Prix,Jaime Alguersuari,8,4,24,70,RAS
+2011,Canadian Grand Prix,Rubens Barrichello,9,2,16,70,RAS
+2011,Canadian Grand Prix,Sébastien Buemi,10,1,15,70,RAS
+2011,Canadian Grand Prix,Nico Rosberg,11,0,6,70,RAS
+2011,Canadian Grand Prix,Pedro de la Rosa,12,0,17,70,RAS
+2011,Canadian Grand Prix,Vitantonio Liuzzi,13,0,20,69,RAS
+2011,Canadian Grand Prix,Jérôme d'Ambrosio,14,0,23,69,RAS
+2011,Canadian Grand Prix,Timo Glock,15,0,21,69,RAS
+2011,Canadian Grand Prix,Jarno Trulli,16,0,18,69,RAS
+2011,Canadian Grand Prix,Narain Karthikeyan,17,0,22,69,RAS
+2011,Canadian Grand Prix,Paul di Resta,18,0,11,67,Accident
+2011,Canadian Grand Prix,Pastor Maldonado,19,0,12,61,DNF
+2011,Canadian Grand Prix,Nick Heidfeld,20,0,9,55,Accident
+2011,Canadian Grand Prix,Adrian Sutil,21,0,14,49,Accident
+2011,Canadian Grand Prix,Fernando Alonso,22,0,2,36,Collision
+2011,Canadian Grand Prix,Heikki Kovalainen,23,0,19,28,Transmission
+2011,Canadian Grand Prix,Lewis Hamilton,24,0,5,7,Collision
+2011,European Grand Prix,Sebastian Vettel,1,25,1,57,RAS
+2011,European Grand Prix,Fernando Alonso,2,18,4,57,RAS
+2011,European Grand Prix,Mark Webber,3,15,2,57,RAS
+2011,European Grand Prix,Lewis Hamilton,4,12,3,57,RAS
+2011,European Grand Prix,Felipe Massa,5,10,5,57,RAS
+2011,European Grand Prix,Jenson Button,6,8,6,57,RAS
+2011,European Grand Prix,Nico Rosberg,7,6,7,57,RAS
+2011,European Grand Prix,Jaime Alguersuari,8,4,18,56,RAS
+2011,European Grand Prix,Adrian Sutil,9,2,10,56,RAS
+2011,European Grand Prix,Nick Heidfeld,10,1,9,56,RAS
+2011,European Grand Prix,Sergio Pérez,11,0,16,56,RAS
+2011,European Grand Prix,Rubens Barrichello,12,0,13,56,RAS
+2011,European Grand Prix,Sébastien Buemi,13,0,17,56,RAS
+2011,European Grand Prix,Paul di Resta,14,0,12,56,RAS
+2011,European Grand Prix,Vitaly Petrov,15,0,11,56,RAS
+2011,European Grand Prix,Kamui Kobayashi,16,0,14,56,RAS
+2011,European Grand Prix,Michael Schumacher,17,0,8,56,RAS
+2011,European Grand Prix,Pastor Maldonado,18,0,15,56,RAS
+2011,European Grand Prix,Heikki Kovalainen,19,0,19,55,RAS
+2011,European Grand Prix,Jarno Trulli,20,0,20,55,RAS
+2011,European Grand Prix,Timo Glock,21,0,21,55,RAS
+2011,European Grand Prix,Jérôme d'Ambrosio,22,0,23,55,RAS
+2011,European Grand Prix,Vitantonio Liuzzi,23,0,22,54,RAS
+2011,European Grand Prix,Narain Karthikeyan,24,0,24,54,RAS
+2011,British Grand Prix,Fernando Alonso,1,25,3,52,RAS
+2011,British Grand Prix,Sebastian Vettel,2,18,2,52,RAS
+2011,British Grand Prix,Mark Webber,3,15,1,52,RAS
+2011,British Grand Prix,Lewis Hamilton,4,12,10,52,RAS
+2011,British Grand Prix,Felipe Massa,5,10,4,52,RAS
+2011,British Grand Prix,Nico Rosberg,6,8,9,52,RAS
+2011,British Grand Prix,Sergio Pérez,7,6,12,52,RAS
+2011,British Grand Prix,Nick Heidfeld,8,4,16,52,RAS
+2011,British Grand Prix,Michael Schumacher,9,2,13,52,RAS
+2011,British Grand Prix,Jaime Alguersuari,10,1,18,52,RAS
+2011,British Grand Prix,Adrian Sutil,11,0,11,52,RAS
+2011,British Grand Prix,Vitaly Petrov,12,0,14,52,RAS
+2011,British Grand Prix,Rubens Barrichello,13,0,15,51,RAS
+2011,British Grand Prix,Pastor Maldonado,14,0,7,51,RAS
+2011,British Grand Prix,Paul di Resta,15,0,6,51,RAS
+2011,British Grand Prix,Timo Glock,16,0,20,50,RAS
+2011,British Grand Prix,Jérôme d'Ambrosio,17,0,22,50,RAS
+2011,British Grand Prix,Vitantonio Liuzzi,18,0,23,50,RAS
+2011,British Grand Prix,Daniel Ricciardo,19,0,24,49,RAS
+2011,British Grand Prix,Jenson Button,20,0,5,39,Wheel nut
+2011,British Grand Prix,Sébastien Buemi,21,0,19,25,Accident
+2011,British Grand Prix,Kamui Kobayashi,22,0,8,23,Engine
+2011,British Grand Prix,Jarno Trulli,23,0,21,10,Oil leak
+2011,British Grand Prix,Heikki Kovalainen,24,0,17,2,Gearbox
+2011,German Grand Prix,Lewis Hamilton,1,25,2,60,RAS
+2011,German Grand Prix,Fernando Alonso,2,18,4,60,RAS
+2011,German Grand Prix,Mark Webber,3,15,1,60,RAS
+2011,German Grand Prix,Sebastian Vettel,4,12,3,60,RAS
+2011,German Grand Prix,Felipe Massa,5,10,5,60,RAS
+2011,German Grand Prix,Adrian Sutil,6,8,8,60,RAS
+2011,German Grand Prix,Nico Rosberg,7,6,6,59,RAS
+2011,German Grand Prix,Michael Schumacher,8,4,10,59,RAS
+2011,German Grand Prix,Kamui Kobayashi,9,2,17,59,RAS
+2011,German Grand Prix,Vitaly Petrov,10,1,9,59,RAS
+2011,German Grand Prix,Sergio Pérez,11,0,15,59,RAS
+2011,German Grand Prix,Jaime Alguersuari,12,0,16,59,RAS
+2011,German Grand Prix,Paul di Resta,13,0,12,59,RAS
+2011,German Grand Prix,Pastor Maldonado,14,0,13,59,RAS
+2011,German Grand Prix,Sébastien Buemi,15,0,24,59,RAS
+2011,German Grand Prix,Heikki Kovalainen,16,0,18,58,RAS
+2011,German Grand Prix,Timo Glock,17,0,19,57,RAS
+2011,German Grand Prix,Jérôme d'Ambrosio,18,0,21,57,RAS
+2011,German Grand Prix,Daniel Ricciardo,19,0,22,57,RAS
+2011,German Grand Prix,Karun Chandhok,20,0,20,56,RAS
+2011,German Grand Prix,Vitantonio Liuzzi,21,0,23,37,Electrical
+2011,German Grand Prix,Jenson Button,22,0,7,35,Hydraulics
+2011,German Grand Prix,Rubens Barrichello,23,0,14,16,Oil leak
+2011,German Grand Prix,Nick Heidfeld,24,0,11,9,Collision
+2011,Hungarian Grand Prix,Jenson Button,1,25,3,70,RAS
+2011,Hungarian Grand Prix,Sebastian Vettel,2,18,1,70,RAS
+2011,Hungarian Grand Prix,Fernando Alonso,3,15,5,70,RAS
+2011,Hungarian Grand Prix,Lewis Hamilton,4,12,2,70,RAS
+2011,Hungarian Grand Prix,Mark Webber,5,10,6,70,RAS
+2011,Hungarian Grand Prix,Felipe Massa,6,8,4,70,RAS
+2011,Hungarian Grand Prix,Paul di Resta,7,6,11,69,RAS
+2011,Hungarian Grand Prix,Sébastien Buemi,8,4,23,69,RAS
+2011,Hungarian Grand Prix,Nico Rosberg,9,2,7,69,RAS
+2011,Hungarian Grand Prix,Jaime Alguersuari,10,1,16,69,RAS
+2011,Hungarian Grand Prix,Kamui Kobayashi,11,0,13,69,RAS
+2011,Hungarian Grand Prix,Vitaly Petrov,12,0,12,69,RAS
+2011,Hungarian Grand Prix,Rubens Barrichello,13,0,15,68,RAS
+2011,Hungarian Grand Prix,Adrian Sutil,14,0,8,68,RAS
+2011,Hungarian Grand Prix,Sergio Pérez,15,0,10,68,RAS
+2011,Hungarian Grand Prix,Pastor Maldonado,16,0,17,68,RAS
+2011,Hungarian Grand Prix,Timo Glock,17,0,20,66,RAS
+2011,Hungarian Grand Prix,Daniel Ricciardo,18,0,22,66,RAS
+2011,Hungarian Grand Prix,Jérôme d'Ambrosio,19,0,24,65,RAS
+2011,Hungarian Grand Prix,Vitantonio Liuzzi,20,0,21,65,RAS
+2011,Hungarian Grand Prix,Heikki Kovalainen,21,0,18,55,Water leak
+2011,Hungarian Grand Prix,Michael Schumacher,22,0,9,26,Gearbox
+2011,Hungarian Grand Prix,Nick Heidfeld,23,0,14,23,Heat shield fire
+2011,Hungarian Grand Prix,Jarno Trulli,24,0,19,17,Oil leak
+2011,Belgian Grand Prix,Sebastian Vettel,1,25,1,44,RAS
+2011,Belgian Grand Prix,Mark Webber,2,18,3,44,RAS
+2011,Belgian Grand Prix,Jenson Button,3,15,13,44,RAS
+2011,Belgian Grand Prix,Fernando Alonso,4,12,8,44,RAS
+2011,Belgian Grand Prix,Michael Schumacher,5,10,24,44,RAS
+2011,Belgian Grand Prix,Nico Rosberg,6,8,5,44,RAS
+2011,Belgian Grand Prix,Adrian Sutil,7,6,15,44,RAS
+2011,Belgian Grand Prix,Felipe Massa,8,4,4,44,RAS
+2011,Belgian Grand Prix,Vitaly Petrov,9,2,10,44,RAS
+2011,Belgian Grand Prix,Pastor Maldonado,10,1,21,44,RAS
+2011,Belgian Grand Prix,Paul di Resta,11,0,17,44,RAS
+2011,Belgian Grand Prix,Kamui Kobayashi,12,0,12,44,RAS
+2011,Belgian Grand Prix,Bruno Senna,13,0,7,44,RAS
+2011,Belgian Grand Prix,Jarno Trulli,14,0,18,43,RAS
+2011,Belgian Grand Prix,Heikki Kovalainen,15,0,16,43,RAS
+2011,Belgian Grand Prix,Rubens Barrichello,16,0,14,43,RAS
+2011,Belgian Grand Prix,Jérôme d'Ambrosio,17,0,20,43,RAS
+2011,Belgian Grand Prix,Timo Glock,18,0,19,43,RAS
+2011,Belgian Grand Prix,Vitantonio Liuzzi,19,0,22,43,RAS
+2011,Belgian Grand Prix,Sergio Pérez,20,0,9,27,Suspension
+2011,Belgian Grand Prix,Daniel Ricciardo,21,0,23,13,Engine
+2011,Belgian Grand Prix,Lewis Hamilton,22,0,2,12,Collision
+2011,Belgian Grand Prix,Sébastien Buemi,23,0,11,6,Rear wing
+2011,Belgian Grand Prix,Jaime Alguersuari,24,0,6,0,Collision
+2011,Italian Grand Prix,Sebastian Vettel,1,25,1,53,RAS
+2011,Italian Grand Prix,Jenson Button,2,18,3,53,RAS
+2011,Italian Grand Prix,Fernando Alonso,3,15,4,53,RAS
+2011,Italian Grand Prix,Lewis Hamilton,4,12,2,53,RAS
+2011,Italian Grand Prix,Michael Schumacher,5,10,8,53,RAS
+2011,Italian Grand Prix,Felipe Massa,6,8,6,53,RAS
+2011,Italian Grand Prix,Jaime Alguersuari,7,6,18,52,RAS
+2011,Italian Grand Prix,Paul di Resta,8,4,11,52,RAS
+2011,Italian Grand Prix,Bruno Senna,9,2,10,52,RAS
+2011,Italian Grand Prix,Sébastien Buemi,10,1,16,52,RAS
+2011,Italian Grand Prix,Pastor Maldonado,11,0,14,52,RAS
+2011,Italian Grand Prix,Rubens Barrichello,12,0,13,52,RAS
+2011,Italian Grand Prix,Heikki Kovalainen,13,0,20,51,RAS
+2011,Italian Grand Prix,Jarno Trulli,14,0,19,51,RAS
+2011,Italian Grand Prix,Timo Glock,15,0,21,51,RAS
+2011,Italian Grand Prix,Daniel Ricciardo,16,0,23,39,RAS
+2011,Italian Grand Prix,Sergio Pérez,17,0,15,32,Gearbox
+2011,Italian Grand Prix,Kamui Kobayashi,18,0,17,21,Gearbox
+2011,Italian Grand Prix,Adrian Sutil,19,0,12,9,Hydraulics
+2011,Italian Grand Prix,Mark Webber,20,0,5,4,Accident
+2011,Italian Grand Prix,Jérôme d'Ambrosio,21,0,22,1,Gearbox
+2011,Italian Grand Prix,Vitaly Petrov,22,0,7,0,Collision
+2011,Italian Grand Prix,Nico Rosberg,23,0,9,0,Collision
+2011,Italian Grand Prix,Vitantonio Liuzzi,24,0,24,0,Collision
+2011,Singapore Grand Prix,Sebastian Vettel,1,25,1,61,RAS
+2011,Singapore Grand Prix,Jenson Button,2,18,3,61,RAS
+2011,Singapore Grand Prix,Mark Webber,3,15,2,61,RAS
+2011,Singapore Grand Prix,Fernando Alonso,4,12,5,61,RAS
+2011,Singapore Grand Prix,Lewis Hamilton,5,10,4,61,RAS
+2011,Singapore Grand Prix,Paul di Resta,6,8,10,61,RAS
+2011,Singapore Grand Prix,Nico Rosberg,7,6,7,60,RAS
+2011,Singapore Grand Prix,Adrian Sutil,8,4,9,60,RAS
+2011,Singapore Grand Prix,Felipe Massa,9,2,6,60,RAS
+2011,Singapore Grand Prix,Sergio Pérez,10,1,11,60,RAS
+2011,Singapore Grand Prix,Pastor Maldonado,11,0,13,60,RAS
+2011,Singapore Grand Prix,Sébastien Buemi,12,0,14,60,RAS
+2011,Singapore Grand Prix,Rubens Barrichello,13,0,12,60,RAS
+2011,Singapore Grand Prix,Kamui Kobayashi,14,0,17,59,RAS
+2011,Singapore Grand Prix,Bruno Senna,15,0,15,59,RAS
+2011,Singapore Grand Prix,Heikki Kovalainen,16,0,19,59,RAS
+2011,Singapore Grand Prix,Vitaly Petrov,17,0,18,59,RAS
+2011,Singapore Grand Prix,Jérôme d'Ambrosio,18,0,22,59,RAS
+2011,Singapore Grand Prix,Daniel Ricciardo,19,0,23,57,RAS
+2011,Singapore Grand Prix,Vitantonio Liuzzi,20,0,24,57,RAS
+2011,Singapore Grand Prix,Jaime Alguersuari,21,0,16,56,Accident
+2011,Singapore Grand Prix,Jarno Trulli,22,0,20,47,Gearbox
+2011,Singapore Grand Prix,Michael Schumacher,23,0,8,28,Accident
+2011,Singapore Grand Prix,Timo Glock,24,0,21,9,Accident
+2011,Japanese Grand Prix,Jenson Button,1,25,2,53,RAS
+2011,Japanese Grand Prix,Fernando Alonso,2,18,5,53,RAS
+2011,Japanese Grand Prix,Sebastian Vettel,3,15,1,53,RAS
+2011,Japanese Grand Prix,Mark Webber,4,12,6,53,RAS
+2011,Japanese Grand Prix,Lewis Hamilton,5,10,3,53,RAS
+2011,Japanese Grand Prix,Michael Schumacher,6,8,8,53,RAS
+2011,Japanese Grand Prix,Felipe Massa,7,6,4,53,RAS
+2011,Japanese Grand Prix,Sergio Pérez,8,4,17,53,RAS
+2011,Japanese Grand Prix,Vitaly Petrov,9,2,10,53,RAS
+2011,Japanese Grand Prix,Nico Rosberg,10,1,23,53,RAS
+2011,Japanese Grand Prix,Adrian Sutil,11,0,11,53,RAS
+2011,Japanese Grand Prix,Paul di Resta,12,0,12,53,RAS
+2011,Japanese Grand Prix,Kamui Kobayashi,13,0,7,53,RAS
+2011,Japanese Grand Prix,Pastor Maldonado,14,0,14,53,RAS
+2011,Japanese Grand Prix,Jaime Alguersuari,15,0,16,53,RAS
+2011,Japanese Grand Prix,Bruno Senna,16,0,9,53,RAS
+2011,Japanese Grand Prix,Rubens Barrichello,17,0,13,53,RAS
+2011,Japanese Grand Prix,Heikki Kovalainen,18,0,18,53,RAS
+2011,Japanese Grand Prix,Jarno Trulli,19,0,19,53,RAS
+2011,Japanese Grand Prix,Timo Glock,20,0,21,51,RAS
+2011,Japanese Grand Prix,Jérôme d'Ambrosio,21,0,20,51,RAS
+2011,Japanese Grand Prix,Daniel Ricciardo,22,0,22,51,RAS
+2011,Japanese Grand Prix,Vitantonio Liuzzi,23,0,24,50,RAS
+2011,Japanese Grand Prix,Sébastien Buemi,24,0,15,11,Wheel
+2011,Korean Grand Prix,Sebastian Vettel,1,25,2,55,RAS
+2011,Korean Grand Prix,Lewis Hamilton,2,18,1,55,RAS
+2011,Korean Grand Prix,Mark Webber,3,15,4,55,RAS
+2011,Korean Grand Prix,Jenson Button,4,12,3,55,RAS
+2011,Korean Grand Prix,Fernando Alonso,5,10,6,55,RAS
+2011,Korean Grand Prix,Felipe Massa,6,8,5,55,RAS
+2011,Korean Grand Prix,Jaime Alguersuari,7,6,11,55,RAS
+2011,Korean Grand Prix,Nico Rosberg,8,4,7,55,RAS
+2011,Korean Grand Prix,Sébastien Buemi,9,2,13,55,RAS
+2011,Korean Grand Prix,Paul di Resta,10,1,9,55,RAS
+2011,Korean Grand Prix,Adrian Sutil,11,0,10,55,RAS
+2011,Korean Grand Prix,Rubens Barrichello,12,0,18,55,RAS
+2011,Korean Grand Prix,Bruno Senna,13,0,15,54,RAS
+2011,Korean Grand Prix,Heikki Kovalainen,14,0,19,54,RAS
+2011,Korean Grand Prix,Kamui Kobayashi,15,0,14,54,RAS
+2011,Korean Grand Prix,Sergio Pérez,16,0,17,54,RAS
+2011,Korean Grand Prix,Jarno Trulli,17,0,20,54,RAS
+2011,Korean Grand Prix,Timo Glock,18,0,21,54,RAS
+2011,Korean Grand Prix,Daniel Ricciardo,19,0,24,54,RAS
+2011,Korean Grand Prix,Jérôme d'Ambrosio,20,0,22,54,RAS
+2011,Korean Grand Prix,Vitantonio Liuzzi,21,0,23,52,RAS
+2011,Korean Grand Prix,Pastor Maldonado,22,0,16,30,Clutch
+2011,Korean Grand Prix,Vitaly Petrov,23,0,8,16,Collision
+2011,Korean Grand Prix,Michael Schumacher,24,0,12,15,Collision
+2011,Indian Grand Prix,Sebastian Vettel,1,25,1,60,RAS
+2011,Indian Grand Prix,Jenson Button,2,18,4,60,RAS
+2011,Indian Grand Prix,Fernando Alonso,3,15,3,60,RAS
+2011,Indian Grand Prix,Mark Webber,4,12,2,60,RAS
+2011,Indian Grand Prix,Michael Schumacher,5,10,11,60,RAS
+2011,Indian Grand Prix,Nico Rosberg,6,8,7,60,RAS
+2011,Indian Grand Prix,Lewis Hamilton,7,6,5,60,RAS
+2011,Indian Grand Prix,Jaime Alguersuari,8,4,10,59,RAS
+2011,Indian Grand Prix,Adrian Sutil,9,2,8,59,RAS
+2011,Indian Grand Prix,Sergio Pérez,10,1,20,59,RAS
+2011,Indian Grand Prix,Vitaly Petrov,11,0,16,59,RAS
+2011,Indian Grand Prix,Bruno Senna,12,0,14,59,RAS
+2011,Indian Grand Prix,Paul di Resta,13,0,12,59,RAS
+2011,Indian Grand Prix,Heikki Kovalainen,14,0,18,58,RAS
+2011,Indian Grand Prix,Rubens Barrichello,15,0,15,58,RAS
+2011,Indian Grand Prix,Jérôme d'Ambrosio,16,0,21,57,RAS
+2011,Indian Grand Prix,Narain Karthikeyan,17,0,24,57,RAS
+2011,Indian Grand Prix,Daniel Ricciardo,18,0,23,57,RAS
+2011,Indian Grand Prix,Jarno Trulli,19,0,19,55,RAS
+2011,Indian Grand Prix,Felipe Massa,20,0,6,32,Suspension
+2011,Indian Grand Prix,Sébastien Buemi,21,0,9,24,Engine
+2011,Indian Grand Prix,Pastor Maldonado,22,0,13,12,Gearbox
+2011,Indian Grand Prix,Timo Glock,23,0,22,2,Collision
+2011,Indian Grand Prix,Kamui Kobayashi,24,0,17,0,Collision
+2011,Abu Dhabi Grand Prix,Lewis Hamilton,1,25,2,55,RAS
+2011,Abu Dhabi Grand Prix,Fernando Alonso,2,18,5,55,RAS
+2011,Abu Dhabi Grand Prix,Jenson Button,3,15,3,55,RAS
+2011,Abu Dhabi Grand Prix,Mark Webber,4,12,4,55,RAS
+2011,Abu Dhabi Grand Prix,Felipe Massa,5,10,6,55,RAS
+2011,Abu Dhabi Grand Prix,Nico Rosberg,6,8,7,55,RAS
+2011,Abu Dhabi Grand Prix,Michael Schumacher,7,6,8,55,RAS
+2011,Abu Dhabi Grand Prix,Adrian Sutil,8,4,9,55,RAS
+2011,Abu Dhabi Grand Prix,Paul di Resta,9,2,10,55,RAS
+2011,Abu Dhabi Grand Prix,Kamui Kobayashi,10,1,16,54,RAS
+2011,Abu Dhabi Grand Prix,Sergio Pérez,11,0,11,54,RAS
+2011,Abu Dhabi Grand Prix,Rubens Barrichello,12,0,24,54,RAS
+2011,Abu Dhabi Grand Prix,Vitaly Petrov,13,0,12,54,RAS
+2011,Abu Dhabi Grand Prix,Pastor Maldonado,14,0,23,54,RAS
+2011,Abu Dhabi Grand Prix,Jaime Alguersuari,15,0,15,54,RAS
+2011,Abu Dhabi Grand Prix,Bruno Senna,16,0,14,54,RAS
+2011,Abu Dhabi Grand Prix,Heikki Kovalainen,17,0,17,54,RAS
+2011,Abu Dhabi Grand Prix,Jarno Trulli,18,0,18,53,RAS
+2011,Abu Dhabi Grand Prix,Timo Glock,19,0,19,53,RAS
+2011,Abu Dhabi Grand Prix,Vitantonio Liuzzi,20,0,22,53,RAS
+2011,Abu Dhabi Grand Prix,Daniel Ricciardo,21,0,20,48,Mechanical
+2011,Abu Dhabi Grand Prix,Sébastien Buemi,22,0,13,19,Hydraulics
+2011,Abu Dhabi Grand Prix,Jérôme d'Ambrosio,23,0,21,18,Brakes
+2011,Abu Dhabi Grand Prix,Sebastian Vettel,24,0,1,1,Puncture
+2011,Brazilian Grand Prix,Mark Webber,1,25,2,71,RAS
+2011,Brazilian Grand Prix,Sebastian Vettel,2,18,1,71,RAS
+2011,Brazilian Grand Prix,Jenson Button,3,15,3,71,RAS
+2011,Brazilian Grand Prix,Fernando Alonso,4,12,5,71,RAS
+2011,Brazilian Grand Prix,Felipe Massa,5,10,7,71,RAS
+2011,Brazilian Grand Prix,Adrian Sutil,6,8,8,70,RAS
+2011,Brazilian Grand Prix,Nico Rosberg,7,6,6,70,RAS
+2011,Brazilian Grand Prix,Paul di Resta,8,4,11,70,RAS
+2011,Brazilian Grand Prix,Kamui Kobayashi,9,2,16,70,RAS
+2011,Brazilian Grand Prix,Vitaly Petrov,10,1,15,70,RAS
+2011,Brazilian Grand Prix,Jaime Alguersuari,11,0,13,70,RAS
+2011,Brazilian Grand Prix,Sébastien Buemi,12,0,14,70,RAS
+2011,Brazilian Grand Prix,Sergio Pérez,13,0,17,70,RAS
+2011,Brazilian Grand Prix,Rubens Barrichello,14,0,12,70,RAS
+2011,Brazilian Grand Prix,Michael Schumacher,15,0,10,70,RAS
+2011,Brazilian Grand Prix,Heikki Kovalainen,16,0,19,69,RAS
+2011,Brazilian Grand Prix,Bruno Senna,17,0,9,69,RAS
+2011,Brazilian Grand Prix,Jarno Trulli,18,0,20,69,RAS
+2011,Brazilian Grand Prix,Jérôme d'Ambrosio,19,0,23,68,RAS
+2011,Brazilian Grand Prix,Daniel Ricciardo,20,0,22,68,RAS
+2011,Brazilian Grand Prix,Vitantonio Liuzzi,21,0,21,61,DNF
+2011,Brazilian Grand Prix,Lewis Hamilton,22,0,4,46,Gearbox
+2011,Brazilian Grand Prix,Pastor Maldonado,23,0,18,26,DNF
+2011,Brazilian Grand Prix,Timo Glock,24,0,24,21,DNF

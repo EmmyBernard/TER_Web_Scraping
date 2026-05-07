@@ -1,0 +1,205 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1952,Swiss Grand Prix,Piero Taruffi,1,9,2,62,RAS
+1952,Swiss Grand Prix,Rudi Fischer,2,6,5,62,RAS
+1952,Swiss Grand Prix,Jean Behra,3,4,7,61,RAS
+1952,Swiss Grand Prix,Ken Wharton,4,3,13,60,RAS
+1952,Swiss Grand Prix,Alan Brown,5,2,15,59,RAS
+1952,Swiss Grand Prix,Toulo de Graffenried,6,0,8,58,RAS
+1952,Swiss Grand Prix,Peter Hirt,7,0,19,56,RAS
+1952,Swiss Grand Prix,Eric Brandon,8,0,17,55,RAS
+1952,Swiss Grand Prix,Prince Bira,9,0,11,52,Engine
+1952,Swiss Grand Prix,Nino Farina,10,0,4,51,Magneto
+1952,Swiss Grand Prix,André Simon,10,0,4,51,Magneto
+1952,Swiss Grand Prix,Harry Schell,11,0,18,31,Engine
+1952,Swiss Grand Prix,Stirling Moss,12,0,9,24,Withdrew
+1952,Swiss Grand Prix,Lance Macklin,13,0,12,24,Withdrew
+1952,Swiss Grand Prix,Robert Manzon,14,0,3,20,Radiator
+1952,Swiss Grand Prix,Nino Farina,15,0,1,16,Magneto
+1952,Swiss Grand Prix,Peter Collins,16,0,6,12,Halfshaft
+1952,Swiss Grand Prix,George Abecassis,17,0,10,12,Halfshaft
+1952,Swiss Grand Prix,Hans von Stuck,18,0,14,4,Engine
+1952,Swiss Grand Prix,Toni Ulmen,19,0,16,4,Fuel leak
+1952,Swiss Grand Prix,Louis Rosier,20,0,20,2,Accident
+1952,Swiss Grand Prix,Max de Terra,21,0,21,1,Magneto
+1952,Indianapolis 500,Troy Ruttman,1,8,7,200,RAS
+1952,Indianapolis 500,Jim Rathmann,2,6,10,200,RAS
+1952,Indianapolis 500,Sam Hanks,3,4,5,200,RAS
+1952,Indianapolis 500,Duane Carter,4,3,6,200,RAS
+1952,Indianapolis 500,Art Cross,5,2,20,200,RAS
+1952,Indianapolis 500,Jimmy Bryan,6,0,21,200,RAS
+1952,Indianapolis 500,Jimmy Reece,7,0,23,200,RAS
+1952,Indianapolis 500,George Connor,8,0,14,200,RAS
+1952,Indianapolis 500,Cliff Griffith,9,0,9,200,RAS
+1952,Indianapolis 500,Johnnie Parsons,10,0,31,200,RAS
+1952,Indianapolis 500,Jack McGrath,11,0,3,200,RAS
+1952,Indianapolis 500,Jim Rigsby,12,0,26,200,RAS
+1952,Indianapolis 500,Joe James,13,0,16,200,RAS
+1952,Indianapolis 500,Bill Schindler,14,0,15,200,RAS
+1952,Indianapolis 500,George Fonder,15,0,13,197,RAS
+1952,Indianapolis 500,Eddie Johnson,16,0,24,193,RAS
+1952,Indianapolis 500,Bill Vukovich,17,1,8,191,Steering
+1952,Indianapolis 500,Chuck Stevenson,18,0,11,187,RAS
+1952,Indianapolis 500,Henry Banks,19,0,12,184,RAS
+1952,Indianapolis 500,Manny Ayulo,20,0,28,184,RAS
+1952,Indianapolis 500,Johnny McDowell,21,0,33,182,RAS
+1952,Indianapolis 500,Travis Webb,22,0,29,162,Oil leak
+1952,Indianapolis 500,Rodger Ward,23,0,22,130,Oil pressure
+1952,Indianapolis 500,Tony Bettenhausen,24,0,30,93,Oil pressure
+1952,Indianapolis 500,Duke Nalon,25,0,4,84,Supercharger
+1952,Indianapolis 500,Bob Sweikert,26,0,32,77,Differential
+1952,Indianapolis 500,Fred Agabashian,27,0,1,71,Turbo
+1952,Indianapolis 500,Gene Hartley,28,0,18,65,Exhaust
+1952,Indianapolis 500,Bob Scott,29,0,25,49,Transmission
+1952,Indianapolis 500,Chet Miller,30,0,27,41,Supercharger
+1952,Indianapolis 500,Alberto Ascari,31,0,19,40,Wheel
+1952,Indianapolis 500,Bobby Ball,32,0,17,34,Gearbox
+1952,Indianapolis 500,Andy Linden,33,0,2,20,Oil pump
+1952,Belgian Grand Prix,Alberto Ascari,1,9,1,36,RAS
+1952,Belgian Grand Prix,Nino Farina,2,6,2,36,RAS
+1952,Belgian Grand Prix,Robert Manzon,3,4,4,36,RAS
+1952,Belgian Grand Prix,Mike Hawthorn,4,3,6,35,RAS
+1952,Belgian Grand Prix,Paul Frère,5,2,8,34,RAS
+1952,Belgian Grand Prix,Alan Brown,6,0,9,34,RAS
+1952,Belgian Grand Prix,Charles de Tornaco,7,0,13,33,RAS
+1952,Belgian Grand Prix,Johnny Claes,8,0,19,33,RAS
+1952,Belgian Grand Prix,Eric Brandon,9,0,12,33,RAS
+1952,Belgian Grand Prix,Prince Bira,10,0,18,32,RAS
+1952,Belgian Grand Prix,Lance Macklin,11,0,14,32,RAS
+1952,Belgian Grand Prix,Roger Laurent,12,0,20,32,RAS
+1952,Belgian Grand Prix,Arthur Legat,13,0,21,31,RAS
+1952,Belgian Grand Prix,Robert O'Brien,14,0,22,30,RAS
+1952,Belgian Grand Prix,Tony Gaze,15,0,16,30,RAS
+1952,Belgian Grand Prix,Robin Montgomerie-Charrington,16,0,15,17,Engine
+1952,Belgian Grand Prix,Piero Taruffi,17,0,3,13,Accident
+1952,Belgian Grand Prix,Jean Behra,18,0,5,13,Accident
+1952,Belgian Grand Prix,Ken Wharton,19,0,7,10,Spun off
+1952,Belgian Grand Prix,Louis Rosier,20,0,17,6,Transmission
+1952,Belgian Grand Prix,Peter Collins,21,0,11,3,Halfshaft
+1952,Belgian Grand Prix,Stirling Moss,22,0,10,0,Engine
+1952,French Grand Prix,Alberto Ascari,1,9,1,77,RAS
+1952,French Grand Prix,Nino Farina,2,6,2,76,RAS
+1952,French Grand Prix,Piero Taruffi,3,4,3,75,RAS
+1952,French Grand Prix,Robert Manzon,4,3,5,74,RAS
+1952,French Grand Prix,Maurice Trintignant,5,2,6,72,RAS
+1952,French Grand Prix,Peter Collins,6,0,8,70,RAS
+1952,French Grand Prix,Jean Behra,7,0,4,70,RAS
+1952,French Grand Prix,Philippe Étancelin,8,0,18,70,RAS
+1952,French Grand Prix,Lance Macklin,9,0,14,70,RAS
+1952,French Grand Prix,Yves Cabantous,10,0,10,68,RAS
+1952,French Grand Prix,Peter Hirt,11,0,17,66,RAS
+1952,French Grand Prix,Rudi Fischer,11,0,17,66,RAS
+1952,French Grand Prix,Franco Comotti,12,0,16,63,RAS
+1952,French Grand Prix,Prince Bira,13,0,7,56,Axle
+1952,French Grand Prix,Mike Hawthorn,14,0,15,51,Ignition
+1952,French Grand Prix,Toulo de Graffenried,15,0,12,34,Brakes
+1952,French Grand Prix,Harry Schell,15,0,12,34,Brakes
+1952,French Grand Prix,Peter Whitehead,16,0,13,17,Clutch
+1952,French Grand Prix,Louis Rosier,17,0,9,17,Engine
+1952,French Grand Prix,Johnny Claes,18,0,20,15,Engine
+1952,French Grand Prix,Harry Schell,19,0,11,7,Gearbox
+1952,French Grand Prix,Piero Carini,20,0,19,2,Engine
+1952,British Grand Prix,Alberto Ascari,1,9,2,85,RAS
+1952,British Grand Prix,Piero Taruffi,2,6,3,84,RAS
+1952,British Grand Prix,Mike Hawthorn,3,4,7,83,RAS
+1952,British Grand Prix,Dennis Poore,4,3,8,83,RAS
+1952,British Grand Prix,Eric Thompson,5,2,9,82,RAS
+1952,British Grand Prix,Nino Farina,6,0,1,82,RAS
+1952,British Grand Prix,Reg Parnell,7,0,6,82,RAS
+1952,British Grand Prix,Roy Salvadori,8,0,19,82,RAS
+1952,British Grand Prix,Ken Downing,9,0,5,82,RAS
+1952,British Grand Prix,Peter Whitehead,10,0,20,81,RAS
+1952,British Grand Prix,Prince Bira,11,0,10,81,RAS
+1952,British Grand Prix,Graham Whitehead,12,0,12,80,RAS
+1952,British Grand Prix,Rudi Fischer,13,0,15,80,RAS
+1952,British Grand Prix,Johnny Claes,14,0,23,79,RAS
+1952,British Grand Prix,Lance Macklin,15,0,29,79,RAS
+1952,British Grand Prix,Kenneth McAlpine,16,0,17,79,RAS
+1952,British Grand Prix,Harry Schell,17,0,32,78,RAS
+1952,British Grand Prix,Gino Bianco,18,0,28,77,RAS
+1952,British Grand Prix,Toulo de Graffenried,19,0,31,76,RAS
+1952,British Grand Prix,Eric Brandon,20,0,18,76,RAS
+1952,British Grand Prix,Tony Crook,21,0,25,75,RAS
+1952,British Grand Prix,Alan Brown,22,0,13,69,RAS
+1952,British Grand Prix,Peter Collins,23,0,14,73,Ignition
+1952,British Grand Prix,Duncan Hamilton,24,0,11,44,Engine
+1952,British Grand Prix,Stirling Moss,25,0,16,36,Engine
+1952,British Grand Prix,Maurice Trintignant,26,0,21,21,Gearbox
+1952,British Grand Prix,Tony Gaze,27,0,26,19,Engine
+1952,British Grand Prix,David Murray,28,0,22,14,Engine
+1952,British Grand Prix,Robert Manzon,29,0,4,9,Clutch
+1952,British Grand Prix,Peter Hirt,30,0,24,3,Brakes
+1952,British Grand Prix,Eitel Cantoni,31,0,27,0,Brakes
+1952,British Grand Prix,Bill Aston,32,0,0,0,Withdrew
+1952,German Grand Prix,Alberto Ascari,1,9,1,18,RAS
+1952,German Grand Prix,Nino Farina,2,6,2,18,RAS
+1952,German Grand Prix,Rudi Fischer,3,4,6,18,RAS
+1952,German Grand Prix,Piero Taruffi,4,3,5,17,RAS
+1952,German Grand Prix,Jean Behra,5,2,11,17,RAS
+1952,German Grand Prix,Roger Laurent,6,0,17,16,RAS
+1952,German Grand Prix,Fritz Riess,7,0,12,16,RAS
+1952,German Grand Prix,Toni Ulmen,8,0,15,16,RAS
+1952,German Grand Prix,Helmut Niedermayr,9,0,22,15,RAS
+1952,German Grand Prix,Johnny Claes,10,0,32,15,RAS
+1952,German Grand Prix,Hans Klenk,11,0,8,14,RAS
+1952,German Grand Prix,Ernst Klodwig,12,0,29,14,RAS
+1952,German Grand Prix,Robert Manzon,13,0,4,8,Accident
+1952,German Grand Prix,Willi Heeks,14,0,9,7,DNF
+1952,German Grand Prix,Tony Gaze,15,0,14,6,Gearbox
+1952,German Grand Prix,Adolf Brudes,16,0,19,5,Engine
+1952,German Grand Prix,Marcel Balsa,17,0,25,5,DNF
+1952,German Grand Prix,Günther Bechem,18,0,30,5,Ignition
+1952,German Grand Prix,Eitel Cantoni,19,0,26,4,Axle
+1952,German Grand Prix,Rudolf Krause,20,0,23,3,DNF
+1952,German Grand Prix,Rudolf Schoeller,21,0,24,3,Suspension
+1952,German Grand Prix,Bill Aston,22,0,21,2,Oil pressure
+1952,German Grand Prix,Maurice Trintignant,23,0,3,1,Accident
+1952,German Grand Prix,Paul Pietsch,24,0,7,1,Gearbox
+1952,German Grand Prix,Felice Bonetto,25,0,10,1,DQ
+1952,German Grand Prix,Paul Frère,26,0,13,1,Gearbox
+1952,German Grand Prix,Theo Helfrich,27,0,18,1,DNF
+1952,German Grand Prix,Josef Peters,28,0,20,1,DNF
+1952,German Grand Prix,Piero Carini,29,0,27,1,Brakes
+1952,German Grand Prix,Gino Bianco,30,0,16,0,DNF
+1952,Dutch Grand Prix,Alberto Ascari,1,9,1,90,RAS
+1952,Dutch Grand Prix,Nino Farina,2,6,2,90,RAS
+1952,Dutch Grand Prix,Luigi Villoresi,3,4,4,90,RAS
+1952,Dutch Grand Prix,Mike Hawthorn,4,3,3,88,RAS
+1952,Dutch Grand Prix,Robert Manzon,5,2,6,87,RAS
+1952,Dutch Grand Prix,Maurice Trintignant,6,0,5,87,RAS
+1952,Dutch Grand Prix,Duncan Hamilton,7,0,10,85,RAS
+1952,Dutch Grand Prix,Lance Macklin,8,0,9,84,RAS
+1952,Dutch Grand Prix,Chico Landi,9,0,16,83,RAS
+1952,Dutch Grand Prix,Jan Flinterman,9,0,16,83,RAS
+1952,Dutch Grand Prix,Ken Wharton,10,0,7,76,Wheel bearing
+1952,Dutch Grand Prix,Stirling Moss,11,0,18,73,Engine
+1952,Dutch Grand Prix,Dries van der Lof,12,0,14,70,Not classified
+1952,Dutch Grand Prix,Ken Downing,13,0,13,27,Oil pressure
+1952,Dutch Grand Prix,Charles de Tornaco,14,0,17,19,Engine
+1952,Dutch Grand Prix,Paul Frère,15,0,11,15,Clutch
+1952,Dutch Grand Prix,Jean Behra,16,0,6,10,Electrical
+1952,Dutch Grand Prix,Jan Flinterman,17,0,15,7,Differential
+1952,Dutch Grand Prix,Gino Bianco,18,0,12,4,Axle
+1952,Italian Grand Prix,Alberto Ascari,1,8.5,1,80,RAS
+1952,Italian Grand Prix,José Froilán González,2,6.5,5,80,RAS
+1952,Italian Grand Prix,Luigi Villoresi,3,4,2,80,RAS
+1952,Italian Grand Prix,Nino Farina,4,3,3,80,RAS
+1952,Italian Grand Prix,Felice Bonetto,5,2,13,79,RAS
+1952,Italian Grand Prix,André Simon,6,0,8,79,RAS
+1952,Italian Grand Prix,Piero Taruffi,7,0,6,77,RAS
+1952,Italian Grand Prix,Chico Landi,8,0,18,76,RAS
+1952,Italian Grand Prix,Ken Wharton,9,0,15,76,RAS
+1952,Italian Grand Prix,Louis Rosier,10,0,17,75,RAS
+1952,Italian Grand Prix,Eitel Cantoni,11,0,23,75,RAS
+1952,Italian Grand Prix,Dennis Poore,12,0,19,74,RAS
+1952,Italian Grand Prix,Eric Brandon,13,0,20,73,RAS
+1952,Italian Grand Prix,Robert Manzon,14,0,7,71,RAS
+1952,Italian Grand Prix,Alan Brown,15,0,12,68,RAS
+1952,Italian Grand Prix,Stirling Moss,16,0,1,60,Suspension
+1952,Italian Grand Prix,Gino Bianco,17,0,25,46,Engine
+1952,Italian Grand Prix,Jean Behra,18,0,11,42,Engine
+1952,Italian Grand Prix,Mike Hawthorn,19,0,12,38,Not classified
+1952,Italian Grand Prix,Franco Rol,20,0,16,24,Engine
+1952,Italian Grand Prix,Maurice Trintignant,21,0,4,5,Engine
+1952,Italian Grand Prix,Kenneth McAlpine,22,0,2,4,Suspension
+1952,Italian Grand Prix,Rudi Fischer,23,0,16,3,Engine
+1952,Italian Grand Prix,Élie Bayol,24,0,10,0,Gearbox

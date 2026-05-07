@@ -1,0 +1,419 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1989,Brazilian Grand Prix,Nigel Mansell,1,9,6,61,RAS
+1989,Brazilian Grand Prix,Alain Prost,2,6,5,61,RAS
+1989,Brazilian Grand Prix,Maurício Gugelmin,3,4,12,61,RAS
+1989,Brazilian Grand Prix,Johnny Herbert,4,3,10,61,RAS
+1989,Brazilian Grand Prix,Derek Warwick,5,2,8,61,RAS
+1989,Brazilian Grand Prix,Alessandro Nannini,6,1,11,61,RAS
+1989,Brazilian Grand Prix,Jonathan Palmer,7,0,18,60,RAS
+1989,Brazilian Grand Prix,Satoru Nakajima,8,0,21,60,RAS
+1989,Brazilian Grand Prix,Olivier Grouillard,9,0,22,60,RAS
+1989,Brazilian Grand Prix,Michele Alboreto,10,0,20,59,RAS
+1989,Brazilian Grand Prix,Ayrton Senna,11,0,1,59,RAS
+1989,Brazilian Grand Prix,Philippe Alliot,12,0,26,58,RAS
+1989,Brazilian Grand Prix,Andrea de Cesaris,13,0,15,57,RAS
+1989,Brazilian Grand Prix,Christian Danner,14,0,17,56,RAS
+1989,Brazilian Grand Prix,Riccardo Patrese,15,0,2,51,Alternator
+1989,Brazilian Grand Prix,Eddie Cheever,16,0,24,37,Collision
+1989,Brazilian Grand Prix,Bernd Schneider,17,0,25,36,Collision
+1989,Brazilian Grand Prix,Martin Brundle,18,0,13,27,Halfshaft
+1989,Brazilian Grand Prix,Ivan Capelli,19,0,7,22,Suspension
+1989,Brazilian Grand Prix,Nelson Piquet,20,0,9,10,Fuel system
+1989,Brazilian Grand Prix,Nicola Larini,21,0,19,10,DQ
+1989,Brazilian Grand Prix,Stefano Modena,22,0,14,9,Halfshaft
+1989,Brazilian Grand Prix,Thierry Boutsen,23,0,4,3,Engine
+1989,Brazilian Grand Prix,Pierluigi Martini,24,0,16,2,Chassis
+1989,Brazilian Grand Prix,Gerhard Berger,25,0,3,0,Collision
+1989,Brazilian Grand Prix,Luis Pérez-Sala,26,0,23,0,Collision
+1989,San Marino Grand Prix,Ayrton Senna,1,9,1,58,RAS
+1989,San Marino Grand Prix,Alain Prost,2,6,2,58,RAS
+1989,San Marino Grand Prix,Alessandro Nannini,3,4,7,57,RAS
+1989,San Marino Grand Prix,Thierry Boutsen,4,3,6,57,RAS
+1989,San Marino Grand Prix,Derek Warwick,5,2,12,57,RAS
+1989,San Marino Grand Prix,Jonathan Palmer,6,1,25,57,RAS
+1989,San Marino Grand Prix,Alex Caffi,7,0,9,57,RAS
+1989,San Marino Grand Prix,Gabriele Tarquini,8,0,18,57,RAS
+1989,San Marino Grand Prix,Eddie Cheever,9,0,21,56,RAS
+1989,San Marino Grand Prix,Andrea de Cesaris,10,0,16,56,RAS
+1989,San Marino Grand Prix,Johnny Herbert,11,0,23,56,RAS
+1989,San Marino Grand Prix,Nicola Larini,12,0,14,52,Spun off
+1989,San Marino Grand Prix,Martin Brundle,13,0,22,51,Fuel system
+1989,San Marino Grand Prix,Satoru Nakajima,14,0,24,46,Not classified
+1989,San Marino Grand Prix,Luis Pérez-Sala,15,0,15,43,Spun off
+1989,San Marino Grand Prix,Maurício Gugelmin,16,0,19,39,Transmission
+1989,San Marino Grand Prix,Nelson Piquet,17,0,8,29,Engine
+1989,San Marino Grand Prix,Nigel Mansell,18,0,3,23,Gearbox
+1989,San Marino Grand Prix,Riccardo Patrese,19,0,4,21,Engine
+1989,San Marino Grand Prix,Stefano Modena,20,0,17,19,Spun off
+1989,San Marino Grand Prix,Pierluigi Martini,21,0,11,6,Gearbox
+1989,San Marino Grand Prix,Olivier Grouillard,22,0,10,4,DQ
+1989,San Marino Grand Prix,Gerhard Berger,23,0,5,3,Accident
+1989,San Marino Grand Prix,Ivan Capelli,24,0,13,1,Spun off
+1989,San Marino Grand Prix,Philippe Alliot,25,0,20,0,Electrical
+1989,San Marino Grand Prix,Yannick Dalmas,26,0,26,0,Electrical
+1989,Monaco Grand Prix,Ayrton Senna,1,9,1,77,RAS
+1989,Monaco Grand Prix,Alain Prost,2,6,2,77,RAS
+1989,Monaco Grand Prix,Stefano Modena,3,4,8,76,RAS
+1989,Monaco Grand Prix,Alex Caffi,4,3,9,75,RAS
+1989,Monaco Grand Prix,Michele Alboreto,5,2,12,75,RAS
+1989,Monaco Grand Prix,Martin Brundle,6,1,4,75,RAS
+1989,Monaco Grand Prix,Eddie Cheever,7,0,20,75,RAS
+1989,Monaco Grand Prix,Alessandro Nannini,8,0,15,74,RAS
+1989,Monaco Grand Prix,Jonathan Palmer,9,0,23,74,RAS
+1989,Monaco Grand Prix,Thierry Boutsen,10,0,3,74,RAS
+1989,Monaco Grand Prix,Ivan Capelli,11,0,22,73,RAS
+1989,Monaco Grand Prix,René Arnoux,12,0,21,73,RAS
+1989,Monaco Grand Prix,Andrea de Cesaris,13,0,10,73,RAS
+1989,Monaco Grand Prix,Johnny Herbert,14,0,24,73,RAS
+1989,Monaco Grand Prix,Riccardo Patrese,15,0,7,73,RAS
+1989,Monaco Grand Prix,Luis Pérez-Sala,16,0,26,48,Overheating
+1989,Monaco Grand Prix,Gabriele Tarquini,17,0,13,46,Electrical
+1989,Monaco Grand Prix,Roberto Moreno,18,0,25,44,Gearbox
+1989,Monaco Grand Prix,Philippe Alliot,19,0,17,38,Engine
+1989,Monaco Grand Prix,Maurício Gugelmin,20,0,14,36,Engine
+1989,Monaco Grand Prix,Nelson Piquet,21,0,19,32,Collision
+1989,Monaco Grand Prix,Nigel Mansell,22,0,5,30,Gearbox
+1989,Monaco Grand Prix,Pierre-Henri Raphanel,23,0,18,19,Gearbox
+1989,Monaco Grand Prix,Olivier Grouillard,24,0,16,4,Gearbox
+1989,Monaco Grand Prix,Pierluigi Martini,25,0,11,3,Clutch
+1989,Monaco Grand Prix,Derek Warwick,26,0,6,2,Electrical
+1989,Mexican Grand Prix,Ayrton Senna,1,9,1,69,RAS
+1989,Mexican Grand Prix,Riccardo Patrese,2,6,5,69,RAS
+1989,Mexican Grand Prix,Michele Alboreto,3,4,7,69,RAS
+1989,Mexican Grand Prix,Alessandro Nannini,4,3,13,69,RAS
+1989,Mexican Grand Prix,Alain Prost,5,2,2,69,RAS
+1989,Mexican Grand Prix,Gabriele Tarquini,6,1,17,68,RAS
+1989,Mexican Grand Prix,Eddie Cheever,7,0,24,68,RAS
+1989,Mexican Grand Prix,Olivier Grouillard,8,0,11,68,RAS
+1989,Mexican Grand Prix,Martin Brundle,9,0,20,68,RAS
+1989,Mexican Grand Prix,Stefano Modena,10,0,9,68,RAS
+1989,Mexican Grand Prix,Nelson Piquet,11,0,26,68,RAS
+1989,Mexican Grand Prix,Christian Danner,12,0,23,67,RAS
+1989,Mexican Grand Prix,Alex Caffi,13,0,19,67,RAS
+1989,Mexican Grand Prix,René Arnoux,14,0,25,66,RAS
+1989,Mexican Grand Prix,Johnny Herbert,15,0,18,66,RAS
+1989,Mexican Grand Prix,Pierluigi Martini,16,0,22,53,Engine
+1989,Mexican Grand Prix,Nigel Mansell,17,0,3,43,Gearbox
+1989,Mexican Grand Prix,Derek Warwick,18,0,10,35,Electrical
+1989,Mexican Grand Prix,Satoru Nakajima,19,0,15,35,Spun off
+1989,Mexican Grand Prix,Philippe Alliot,20,0,16,28,Not classified
+1989,Mexican Grand Prix,Andrea de Cesaris,21,0,12,20,Suspension
+1989,Mexican Grand Prix,Gerhard Berger,22,0,6,16,Gearbox
+1989,Mexican Grand Prix,Stefan Johansson,23,0,21,16,Transmission
+1989,Mexican Grand Prix,Thierry Boutsen,24,0,8,15,Electrical
+1989,Mexican Grand Prix,Jonathan Palmer,25,0,14,9,Throttle
+1989,Mexican Grand Prix,Ivan Capelli,26,0,4,1,Transmission
+1989,United States Grand Prix,Alain Prost,1,9,2,75,RAS
+1989,United States Grand Prix,Riccardo Patrese,2,6,14,75,RAS
+1989,United States Grand Prix,Eddie Cheever,3,4,17,75,RAS
+1989,United States Grand Prix,Christian Danner,4,3,26,74,RAS
+1989,United States Grand Prix,Johnny Herbert,5,2,25,74,RAS
+1989,United States Grand Prix,Thierry Boutsen,6,1,16,74,RAS
+1989,United States Grand Prix,Gabriele Tarquini,7,0,24,73,Engine
+1989,United States Grand Prix,Andrea de Cesaris,8,0,13,70,RAS
+1989,United States Grand Prix,Jonathan Palmer,9,0,21,69,Fuel system
+1989,United States Grand Prix,Gerhard Berger,10,0,8,61,Alternator
+1989,United States Grand Prix,Alex Caffi,11,0,6,52,Collision
+1989,United States Grand Prix,Nelson Piquet,12,0,22,52,Spun off
+1989,United States Grand Prix,Stefan Johansson,13,0,19,50,Suspension
+1989,United States Grand Prix,Luis Pérez-Sala,14,0,20,46,Engine
+1989,United States Grand Prix,Ayrton Senna,15,0,1,44,Electrical
+1989,United States Grand Prix,Martin Brundle,16,0,5,43,Brakes
+1989,United States Grand Prix,Stefano Modena,17,0,7,37,Brakes
+1989,United States Grand Prix,Nigel Mansell,18,0,4,31,Alternator
+1989,United States Grand Prix,Pierluigi Martini,19,0,15,26,Engine
+1989,United States Grand Prix,Satoru Nakajima,20,0,23,24,Throttle
+1989,United States Grand Prix,Ivan Capelli,21,0,11,22,Transmission
+1989,United States Grand Prix,Maurício Gugelmin,22,0,18,20,Brakes
+1989,United States Grand Prix,Michele Alboreto,23,0,9,17,Gearbox
+1989,United States Grand Prix,Alessandro Nannini,24,0,3,10,Physical
+1989,United States Grand Prix,Derek Warwick,25,0,10,7,Collision
+1989,United States Grand Prix,Philippe Alliot,26,0,12,3,Spun off
+1989,Canadian Grand Prix,Thierry Boutsen,1,9,6,69,RAS
+1989,Canadian Grand Prix,Riccardo Patrese,2,6,3,69,RAS
+1989,Canadian Grand Prix,Andrea de Cesaris,3,4,9,69,RAS
+1989,Canadian Grand Prix,Nelson Piquet,4,3,19,69,RAS
+1989,Canadian Grand Prix,René Arnoux,5,2,22,68,RAS
+1989,Canadian Grand Prix,Alex Caffi,6,1,8,67,RAS
+1989,Canadian Grand Prix,Ayrton Senna,7,0,2,66,Engine
+1989,Canadian Grand Prix,Christian Danner,8,0,23,66,RAS
+1989,Canadian Grand Prix,Roberto Moreno,9,0,26,57,Differential
+1989,Canadian Grand Prix,Derek Warwick,10,0,12,40,Engine
+1989,Canadian Grand Prix,Jonathan Palmer,11,0,14,35,Spun off
+1989,Canadian Grand Prix,Nicola Larini,12,0,15,33,Electrical
+1989,Canadian Grand Prix,Ivan Capelli,13,0,21,28,Spun off
+1989,Canadian Grand Prix,Philippe Alliot,14,0,10,26,Spun off
+1989,Canadian Grand Prix,Stefan Johansson,15,0,18,13,DQ
+1989,Canadian Grand Prix,Luis Pérez-Sala,16,0,24,11,Spun off
+1989,Canadian Grand Prix,Maurício Gugelmin,17,0,17,11,Electrical
+1989,Canadian Grand Prix,Gerhard Berger,18,0,4,6,Gearbox
+1989,Canadian Grand Prix,Gabriele Tarquini,19,0,25,6,Spun off
+1989,Canadian Grand Prix,Eddie Cheever,20,0,16,3,Spun off
+1989,Canadian Grand Prix,Alain Prost,21,0,1,2,Suspension
+1989,Canadian Grand Prix,Nigel Mansell,22,0,5,0,DQ
+1989,Canadian Grand Prix,Stefano Modena,23,0,7,0,Accident
+1989,Canadian Grand Prix,Pierluigi Martini,24,0,11,0,Accident
+1989,Canadian Grand Prix,Alessandro Nannini,25,0,13,0,DQ
+1989,Canadian Grand Prix,Michele Alboreto,26,0,20,0,Electrical
+1989,French Grand Prix,Alain Prost,1,9,1,80,RAS
+1989,French Grand Prix,Nigel Mansell,2,6,3,80,RAS
+1989,French Grand Prix,Riccardo Patrese,3,4,8,80,RAS
+1989,French Grand Prix,Jean Alesi,4,3,16,80,RAS
+1989,French Grand Prix,Stefan Johansson,5,2,13,79,RAS
+1989,French Grand Prix,Olivier Grouillard,6,1,17,79,RAS
+1989,French Grand Prix,Eddie Cheever,7,0,25,79,RAS
+1989,French Grand Prix,Nelson Piquet,8,0,20,78,RAS
+1989,French Grand Prix,Emanuele Pirro,9,0,24,78,RAS
+1989,French Grand Prix,Jonathan Palmer,10,0,9,78,RAS
+1989,French Grand Prix,Éric Bernard,11,0,15,77,RAS
+1989,French Grand Prix,Martin Donnelly,12,0,14,77,RAS
+1989,French Grand Prix,Bertrand Gachot,13,0,11,76,Engine
+1989,French Grand Prix,Maurício Gugelmin,14,0,10,71,Not classified
+1989,French Grand Prix,Stefano Modena,15,0,22,67,Engine
+1989,French Grand Prix,Thierry Boutsen,16,0,5,50,Gearbox
+1989,French Grand Prix,Satoru Nakajima,17,0,19,49,Engine
+1989,French Grand Prix,Ivan Capelli,18,0,12,43,Engine
+1989,French Grand Prix,Alessandro Nannini,19,0,4,40,Suspension
+1989,French Grand Prix,Pierluigi Martini,20,0,23,31,Engine
+1989,French Grand Prix,Philippe Alliot,21,0,7,30,Engine
+1989,French Grand Prix,Gabriele Tarquini,22,0,21,30,Engine
+1989,French Grand Prix,Gerhard Berger,23,0,6,29,Clutch
+1989,French Grand Prix,Alex Caffi,24,0,26,27,Clutch
+1989,French Grand Prix,René Arnoux,25,0,18,14,Gearbox
+1989,French Grand Prix,Ayrton Senna,26,0,2,0,Differential
+1989,British Grand Prix,Alain Prost,1,9,2,64,RAS
+1989,British Grand Prix,Nigel Mansell,2,6,3,64,RAS
+1989,British Grand Prix,Alessandro Nannini,3,4,9,64,RAS
+1989,British Grand Prix,Nelson Piquet,4,3,10,64,RAS
+1989,British Grand Prix,Pierluigi Martini,5,2,11,63,RAS
+1989,British Grand Prix,Luis Pérez-Sala,6,1,15,63,RAS
+1989,British Grand Prix,Olivier Grouillard,7,0,24,63,RAS
+1989,British Grand Prix,Satoru Nakajima,8,0,16,63,RAS
+1989,British Grand Prix,Derek Warwick,9,0,19,62,RAS
+1989,British Grand Prix,Thierry Boutsen,10,0,7,62,RAS
+1989,British Grand Prix,Emanuele Pirro,11,0,26,62,RAS
+1989,British Grand Prix,Bertrand Gachot,12,0,21,62,RAS
+1989,British Grand Prix,Maurício Gugelmin,13,0,6,54,Gearbox
+1989,British Grand Prix,Martin Brundle,14,0,20,49,Engine
+1989,British Grand Prix,Gerhard Berger,15,0,4,49,Fire
+1989,British Grand Prix,Éric Bernard,16,0,13,46,Engine
+1989,British Grand Prix,Philippe Alliot,17,0,12,39,Engine
+1989,British Grand Prix,Jonathan Palmer,18,0,18,32,Spun off
+1989,British Grand Prix,Stefano Modena,19,0,14,31,Engine
+1989,British Grand Prix,Jean Alesi,20,0,22,28,Spun off
+1989,British Grand Prix,Nicola Larini,21,0,17,23,Handling
+1989,British Grand Prix,Riccardo Patrese,22,0,5,19,Radiator
+1989,British Grand Prix,Ivan Capelli,23,0,8,15,Transmission
+1989,British Grand Prix,Andrea de Cesaris,24,0,25,16,Engine
+1989,British Grand Prix,Ayrton Senna,25,0,1,11,Spun off
+1989,British Grand Prix,Roberto Moreno,26,0,23,2,Gearbox
+1989,German Grand Prix,Ayrton Senna,1,9,1,45,RAS
+1989,German Grand Prix,Alain Prost,2,6,2,45,RAS
+1989,German Grand Prix,Nigel Mansell,3,4,3,45,RAS
+1989,German Grand Prix,Riccardo Patrese,4,3,5,44,RAS
+1989,German Grand Prix,Nelson Piquet,5,2,8,44,RAS
+1989,German Grand Prix,Derek Warwick,6,1,17,44,RAS
+1989,German Grand Prix,Andrea de Cesaris,7,0,21,44,RAS
+1989,German Grand Prix,Martin Brundle,8,0,12,44,RAS
+1989,German Grand Prix,Pierluigi Martini,9,0,13,44,RAS
+1989,German Grand Prix,Jean Alesi,10,0,10,43,RAS
+1989,German Grand Prix,René Arnoux,11,0,23,42,RAS
+1989,German Grand Prix,Eddie Cheever,12,0,25,40,Fuel system
+1989,German Grand Prix,Stefano Modena,13,0,16,37,Engine
+1989,German Grand Prix,Satoru Nakajima,14,0,18,36,Spun off
+1989,German Grand Prix,Ivan Capelli,15,0,22,32,Electrical
+1989,German Grand Prix,Maurício Gugelmin,16,0,14,28,Gearbox
+1989,German Grand Prix,Emanuele Pirro,17,0,9,26,Spun off
+1989,German Grand Prix,Philippe Alliot,18,0,15,20,Oil leak
+1989,German Grand Prix,Jonathan Palmer,19,0,19,16,Engine
+1989,German Grand Prix,Gerhard Berger,20,0,4,13,Spun off
+1989,German Grand Prix,Stefan Johansson,21,0,24,8,Overheating
+1989,German Grand Prix,Alessandro Nannini,22,0,7,6,Electrical
+1989,German Grand Prix,Thierry Boutsen,23,0,6,4,Collision
+1989,German Grand Prix,Alex Caffi,24,0,20,2,Engine
+1989,German Grand Prix,Michele Alboreto,25,0,26,1,Electrical
+1989,German Grand Prix,Olivier Grouillard,26,0,11,0,Gearbox
+1989,German Grand Prix,Volker Weidler,30,0,0,0,DQ
+1989,Hungarian Grand Prix,Nigel Mansell,1,9,12,77,RAS
+1989,Hungarian Grand Prix,Ayrton Senna,2,6,2,77,RAS
+1989,Hungarian Grand Prix,Thierry Boutsen,3,4,4,77,RAS
+1989,Hungarian Grand Prix,Alain Prost,4,3,5,77,RAS
+1989,Hungarian Grand Prix,Eddie Cheever,5,2,16,77,RAS
+1989,Hungarian Grand Prix,Nelson Piquet,6,1,17,77,RAS
+1989,Hungarian Grand Prix,Alex Caffi,7,0,3,77,RAS
+1989,Hungarian Grand Prix,Emanuele Pirro,8,0,25,76,RAS
+1989,Hungarian Grand Prix,Jean Alesi,9,0,11,76,RAS
+1989,Hungarian Grand Prix,Derek Warwick,10,0,9,76,RAS
+1989,Hungarian Grand Prix,Stefano Modena,11,0,8,76,RAS
+1989,Hungarian Grand Prix,Martin Brundle,12,0,15,75,RAS
+1989,Hungarian Grand Prix,Jonathan Palmer,13,0,19,73,RAS
+1989,Hungarian Grand Prix,Luis Pérez-Sala,14,0,23,57,Collision
+1989,Hungarian Grand Prix,Gerhard Berger,15,0,6,56,Gearbox
+1989,Hungarian Grand Prix,Riccardo Patrese,16,0,1,54,Radiator
+1989,Hungarian Grand Prix,Stefan Johansson,17,0,24,48,Gearbox
+1989,Hungarian Grand Prix,Alessandro Nannini,18,0,7,46,Gearbox
+1989,Hungarian Grand Prix,Bertrand Gachot,19,0,21,38,Gearbox
+1989,Hungarian Grand Prix,Satoru Nakajima,20,0,20,33,Accident
+1989,Hungarian Grand Prix,Maurício Gugelmin,21,0,13,27,Electrical
+1989,Hungarian Grand Prix,Ivan Capelli,22,0,14,26,Wheel
+1989,Hungarian Grand Prix,Michele Alboreto,23,0,26,26,Engine
+1989,Hungarian Grand Prix,Piercarlo Ghinzani,24,0,22,20,Electrical
+1989,Hungarian Grand Prix,Pierluigi Martini,25,0,10,9,Wheel
+1989,Hungarian Grand Prix,Andrea de Cesaris,26,0,18,0,Clutch
+1989,Belgian Grand Prix,Ayrton Senna,1,9,1,44,RAS
+1989,Belgian Grand Prix,Alain Prost,2,6,2,44,RAS
+1989,Belgian Grand Prix,Nigel Mansell,3,4,6,44,RAS
+1989,Belgian Grand Prix,Thierry Boutsen,4,3,4,44,RAS
+1989,Belgian Grand Prix,Alessandro Nannini,5,2,7,44,RAS
+1989,Belgian Grand Prix,Derek Warwick,6,1,10,44,RAS
+1989,Belgian Grand Prix,Maurício Gugelmin,7,0,9,43,RAS
+1989,Belgian Grand Prix,Stefan Johansson,8,0,15,43,RAS
+1989,Belgian Grand Prix,Pierluigi Martini,9,0,14,43,RAS
+1989,Belgian Grand Prix,Emanuele Pirro,10,0,13,43,RAS
+1989,Belgian Grand Prix,Andrea de Cesaris,11,0,18,43,RAS
+1989,Belgian Grand Prix,Ivan Capelli,12,0,19,43,RAS
+1989,Belgian Grand Prix,Olivier Grouillard,13,0,26,43,RAS
+1989,Belgian Grand Prix,Jonathan Palmer,14,0,21,42,RAS
+1989,Belgian Grand Prix,Luis Pérez-Sala,15,0,25,41,RAS
+1989,Belgian Grand Prix,Philippe Alliot,16,0,11,39,Engine
+1989,Belgian Grand Prix,Eddie Cheever,17,0,24,38,Wheel
+1989,Belgian Grand Prix,Bertrand Gachot,18,0,23,21,Spun off
+1989,Belgian Grand Prix,Riccardo Patrese,19,0,5,20,Collision
+1989,Belgian Grand Prix,Michele Alboreto,20,0,22,19,Collision
+1989,Belgian Grand Prix,Alex Caffi,21,0,12,13,Spun off
+1989,Belgian Grand Prix,Martin Brundle,22,0,20,12,Brakes
+1989,Belgian Grand Prix,Gerhard Berger,23,0,3,9,Spun off
+1989,Belgian Grand Prix,Stefano Modena,24,0,8,9,Handling
+1989,Belgian Grand Prix,René Arnoux,25,0,17,4,Collision
+1989,Belgian Grand Prix,Johnny Herbert,26,0,16,3,Spun off
+1989,Italian Grand Prix,Alain Prost,1,9,4,53,RAS
+1989,Italian Grand Prix,Gerhard Berger,2,6,2,53,RAS
+1989,Italian Grand Prix,Thierry Boutsen,3,4,6,53,RAS
+1989,Italian Grand Prix,Riccardo Patrese,4,3,5,53,RAS
+1989,Italian Grand Prix,Jean Alesi,5,2,10,52,RAS
+1989,Italian Grand Prix,Martin Brundle,6,1,12,52,RAS
+1989,Italian Grand Prix,Pierluigi Martini,7,0,15,52,RAS
+1989,Italian Grand Prix,Luis Pérez-Sala,8,0,26,51,RAS
+1989,Italian Grand Prix,René Arnoux,9,0,23,51,RAS
+1989,Italian Grand Prix,Satoru Nakajima,10,0,19,51,Suspension
+1989,Italian Grand Prix,Alex Caffi,11,0,20,47,Engine
+1989,Italian Grand Prix,Andrea de Cesaris,12,0,17,45,Engine
+1989,Italian Grand Prix,Ayrton Senna,13,0,1,44,Engine
+1989,Italian Grand Prix,Nigel Mansell,14,0,3,41,Gearbox
+1989,Italian Grand Prix,Bertrand Gachot,15,0,22,38,Radiator
+1989,Italian Grand Prix,Alessandro Nannini,16,0,8,33,Brakes
+1989,Italian Grand Prix,Ivan Capelli,17,0,18,30,Engine
+1989,Italian Grand Prix,Olivier Grouillard,18,0,21,30,Exhaust
+1989,Italian Grand Prix,Nelson Piquet,19,0,11,23,Spun off
+1989,Italian Grand Prix,Jonathan Palmer,20,0,14,18,Engine
+1989,Italian Grand Prix,Derek Warwick,21,0,16,18,Fuel system
+1989,Italian Grand Prix,Nicola Larini,22,0,24,16,Gearbox
+1989,Italian Grand Prix,Michele Alboreto,23,0,13,14,Electrical
+1989,Italian Grand Prix,Maurício Gugelmin,24,0,25,14,Throttle
+1989,Italian Grand Prix,Philippe Alliot,25,0,7,1,Spun off
+1989,Italian Grand Prix,Emanuele Pirro,26,0,9,0,Transmission
+1989,Italian Grand Prix,Stefano Modena,27,0,0,0,DQ
+1989,Portuguese Grand Prix,Gerhard Berger,1,9,2,71,RAS
+1989,Portuguese Grand Prix,Alain Prost,2,6,4,71,RAS
+1989,Portuguese Grand Prix,Stefan Johansson,3,4,12,71,RAS
+1989,Portuguese Grand Prix,Alessandro Nannini,4,3,13,71,RAS
+1989,Portuguese Grand Prix,Pierluigi Martini,5,2,5,70,RAS
+1989,Portuguese Grand Prix,Jonathan Palmer,6,1,18,70,RAS
+1989,Portuguese Grand Prix,Satoru Nakajima,7,0,25,70,RAS
+1989,Portuguese Grand Prix,Martin Brundle,8,0,10,70,RAS
+1989,Portuguese Grand Prix,Philippe Alliot,9,0,17,70,RAS
+1989,Portuguese Grand Prix,Maurício Gugelmin,10,0,14,69,RAS
+1989,Portuguese Grand Prix,Michele Alboreto,11,0,21,69,RAS
+1989,Portuguese Grand Prix,Luis Pérez-Sala,12,0,9,69,RAS
+1989,Portuguese Grand Prix,René Arnoux,13,0,23,69,RAS
+1989,Portuguese Grand Prix,Stefano Modena,14,0,11,69,RAS
+1989,Portuguese Grand Prix,Riccardo Patrese,15,0,6,60,Overheating
+1989,Portuguese Grand Prix,Thierry Boutsen,16,0,8,60,Overheating
+1989,Portuguese Grand Prix,Ayrton Senna,17,0,1,48,Collision
+1989,Portuguese Grand Prix,Nigel Mansell,18,0,3,48,DQ
+1989,Portuguese Grand Prix,Derek Warwick,19,0,22,37,Accident
+1989,Portuguese Grand Prix,Nelson Piquet,20,0,20,33,Collision
+1989,Portuguese Grand Prix,Alex Caffi,21,0,7,33,Collision
+1989,Portuguese Grand Prix,Emanuele Pirro,22,0,16,29,Suspension
+1989,Portuguese Grand Prix,Ivan Capelli,23,0,24,25,Engine
+1989,Portuguese Grand Prix,Eddie Cheever,24,0,26,24,Spun off
+1989,Portuguese Grand Prix,Andrea de Cesaris,25,0,19,17,Electrical
+1989,Portuguese Grand Prix,Roberto Moreno,26,0,15,11,Electrical
+1989,Spanish Grand Prix,Ayrton Senna,1,9,1,73,RAS
+1989,Spanish Grand Prix,Gerhard Berger,2,6,2,73,RAS
+1989,Spanish Grand Prix,Alain Prost,3,4,3,73,RAS
+1989,Spanish Grand Prix,Jean Alesi,4,3,9,72,RAS
+1989,Spanish Grand Prix,Riccardo Patrese,5,2,6,72,RAS
+1989,Spanish Grand Prix,Philippe Alliot,6,1,5,72,RAS
+1989,Spanish Grand Prix,Andrea de Cesaris,7,0,15,72,RAS
+1989,Spanish Grand Prix,Nelson Piquet,8,0,7,71,RAS
+1989,Spanish Grand Prix,Derek Warwick,9,0,16,71,RAS
+1989,Spanish Grand Prix,Jonathan Palmer,10,0,13,71,RAS
+1989,Spanish Grand Prix,Eddie Cheever,11,0,22,61,Engine
+1989,Spanish Grand Prix,Emanuele Pirro,12,0,10,59,Spun off
+1989,Spanish Grand Prix,Alex Caffi,13,0,23,55,Engine
+1989,Spanish Grand Prix,Martin Brundle,14,0,8,51,Spun off
+1989,Spanish Grand Prix,Maurício Gugelmin,15,0,26,47,Collision
+1989,Spanish Grand Prix,Luis Pérez-Sala,16,0,20,47,Spun off
+1989,Spanish Grand Prix,Thierry Boutsen,17,0,21,40,Fuel pump
+1989,Spanish Grand Prix,Olivier Grouillard,18,0,24,34,Engine
+1989,Spanish Grand Prix,Pierluigi Martini,19,0,4,27,Spun off
+1989,Spanish Grand Prix,Ivan Capelli,20,0,19,23,Transmission
+1989,Spanish Grand Prix,Jyrki Järvilehto,21,0,17,20,Gearbox
+1989,Spanish Grand Prix,Piercarlo Ghinzani,22,0,25,17,Gearbox
+1989,Spanish Grand Prix,Alessandro Nannini,23,0,14,14,Spun off
+1989,Spanish Grand Prix,Stefano Modena,24,0,12,11,Electrical
+1989,Spanish Grand Prix,Nicola Larini,25,0,11,6,Suspension
+1989,Spanish Grand Prix,Satoru Nakajima,26,0,18,0,Collision
+1989,Japanese Grand Prix,Alessandro Nannini,1,9,6,53,RAS
+1989,Japanese Grand Prix,Riccardo Patrese,2,6,5,53,RAS
+1989,Japanese Grand Prix,Thierry Boutsen,3,4,7,53,RAS
+1989,Japanese Grand Prix,Nelson Piquet,4,3,11,53,RAS
+1989,Japanese Grand Prix,Martin Brundle,5,2,13,52,RAS
+1989,Japanese Grand Prix,Derek Warwick,6,1,25,52,RAS
+1989,Japanese Grand Prix,Maurício Gugelmin,7,0,20,52,RAS
+1989,Japanese Grand Prix,Eddie Cheever,8,0,24,52,RAS
+1989,Japanese Grand Prix,Alex Caffi,9,0,15,52,RAS
+1989,Japanese Grand Prix,Andrea de Cesaris,10,0,16,51,RAS
+1989,Japanese Grand Prix,Ayrton Senna,11,0,1,53,DQ
+1989,Japanese Grand Prix,Alain Prost,12,0,2,46,Collision
+1989,Japanese Grand Prix,Stefano Modena,13,0,9,46,Engine
+1989,Japanese Grand Prix,Nigel Mansell,14,0,4,43,Engine
+1989,Japanese Grand Prix,Satoru Nakajima,15,0,12,41,Engine
+1989,Japanese Grand Prix,Jean Alesi,16,0,18,37,Gearbox
+1989,Japanese Grand Prix,Philippe Alliot,17,0,8,36,Engine
+1989,Japanese Grand Prix,Gerhard Berger,18,0,3,34,Gearbox
+1989,Japanese Grand Prix,Emanuele Pirro,19,0,22,33,Collision
+1989,Japanese Grand Prix,Olivier Grouillard,20,0,23,31,Engine
+1989,Japanese Grand Prix,Ivan Capelli,21,0,17,27,Suspension
+1989,Japanese Grand Prix,Nicola Larini,22,0,10,21,Brakes
+1989,Japanese Grand Prix,Jonathan Palmer,23,0,26,20,Fuel leak
+1989,Japanese Grand Prix,Bernd Schneider,24,0,21,1,Gearbox
+1989,Japanese Grand Prix,Luis Pérez-Sala,25,0,14,0,Collision
+1989,Japanese Grand Prix,Paolo Barilla,26,0,19,0,Clutch
+1989,Australian Grand Prix,Thierry Boutsen,1,9,5,70,RAS
+1989,Australian Grand Prix,Alessandro Nannini,2,6,4,70,RAS
+1989,Australian Grand Prix,Riccardo Patrese,3,4,6,70,RAS
+1989,Australian Grand Prix,Satoru Nakajima,4,3,23,70,RAS
+1989,Australian Grand Prix,Emanuele Pirro,5,2,13,68,RAS
+1989,Australian Grand Prix,Pierluigi Martini,6,1,3,67,RAS
+1989,Australian Grand Prix,Maurício Gugelmin,7,0,25,66,RAS
+1989,Australian Grand Prix,Stefano Modena,8,0,8,64,RAS
+1989,Australian Grand Prix,Eddie Cheever,9,0,22,42,Spun off
+1989,Australian Grand Prix,Jyrki Järvilehto,10,0,17,27,Electrical
+1989,Australian Grand Prix,Olivier Grouillard,11,0,24,22,Spun off
+1989,Australian Grand Prix,Nelson Piquet,12,0,18,19,Collision
+1989,Australian Grand Prix,Piercarlo Ghinzani,13,0,21,18,Collision
+1989,Australian Grand Prix,Nigel Mansell,14,0,7,17,Spun off
+1989,Australian Grand Prix,Ayrton Senna,15,0,1,13,Collision
+1989,Australian Grand Prix,Alex Caffi,16,0,10,13,Spun off
+1989,Australian Grand Prix,Ivan Capelli,17,0,16,13,Radiator
+1989,Australian Grand Prix,Andrea de Cesaris,18,0,9,12,Spun off
+1989,Australian Grand Prix,Martin Brundle,19,0,12,12,Collision
+1989,Australian Grand Prix,Derek Warwick,20,0,20,7,Spun off
+1989,Australian Grand Prix,Philippe Alliot,21,0,19,6,Collision
+1989,Australian Grand Prix,Gerhard Berger,22,0,14,6,Collision
+1989,Australian Grand Prix,Jean Alesi,23,0,15,5,Electrical
+1989,Australian Grand Prix,René Arnoux,24,0,26,4,Collision
+1989,Australian Grand Prix,Alain Prost,25,0,2,0,Withdrew
+1989,Australian Grand Prix,Nicola Larini,26,0,11,0,Electrical

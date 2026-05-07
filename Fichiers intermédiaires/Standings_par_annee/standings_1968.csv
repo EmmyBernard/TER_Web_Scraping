@@ -1,0 +1,230 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1968,South African Grand Prix,Jim Clark,1,9,1,80,RAS
+1968,South African Grand Prix,Graham Hill,2,6,2,80,RAS
+1968,South African Grand Prix,Jochen Rindt,3,4,4,80,RAS
+1968,South African Grand Prix,Chris Amon,4,3,8,78,RAS
+1968,South African Grand Prix,Denny Hulme,5,2,9,78,RAS
+1968,South African Grand Prix,Jean-Pierre Beltoise,6,1,18,77,RAS
+1968,South African Grand Prix,Jo Siffert,7,0,16,77,RAS
+1968,South African Grand Prix,John Surtees,8,0,6,75,RAS
+1968,South African Grand Prix,John Love,9,0,17,75,RAS
+1968,South African Grand Prix,Jackie Pretorius,10,0,23,71,Not classified
+1968,South African Grand Prix,Dan Gurney,11,0,12,58,Oil leak
+1968,South African Grand Prix,Jacky Ickx,12,0,11,51,Oil leak
+1968,South African Grand Prix,Jo Bonnier,13,0,19,46,Overheating
+1968,South African Grand Prix,Jackie Stewart,14,0,3,43,Engine
+1968,South African Grand Prix,Sam Tingle,15,0,22,35,Overheating
+1968,South African Grand Prix,Basil van Rooyen,16,0,20,22,Engine
+1968,South African Grand Prix,Pedro Rodríguez,17,0,10,20,Fuel system
+1968,South African Grand Prix,Jack Brabham,18,0,5,16,Engine
+1968,South African Grand Prix,Andrea de Adamich,19,0,7,13,Accident
+1968,South African Grand Prix,Mike Spence,20,0,14,7,Fuel system
+1968,South African Grand Prix,Brian Redman,21,0,21,4,Oil leak
+1968,South African Grand Prix,Dave Charlton,22,0,14,3,Differential
+1968,South African Grand Prix,Ludovico Scarfiotti,23,0,15,2,Water pipe
+1968,Spanish Grand Prix,Graham Hill,1,9,6,90,RAS
+1968,Spanish Grand Prix,Denny Hulme,2,6,3,90,RAS
+1968,Spanish Grand Prix,Brian Redman,3,4,13,89,RAS
+1968,Spanish Grand Prix,Ludovico Scarfiotti,4,3,12,89,RAS
+1968,Spanish Grand Prix,Jean-Pierre Beltoise,5,2,5,81,RAS
+1968,Spanish Grand Prix,Bruce McLaren,6,0,4,77,Oil leak
+1968,Spanish Grand Prix,John Surtees,7,0,7,74,Gearbox
+1968,Spanish Grand Prix,Jo Siffert,8,0,10,62,Transmission
+1968,Spanish Grand Prix,Chris Amon,9,0,1,57,Fuel pump
+1968,Spanish Grand Prix,Piers Courage,10,0,11,52,Fuel pump
+1968,Spanish Grand Prix,Pedro Rodríguez,11,0,2,27,Accident
+1968,Spanish Grand Prix,Jacky Ickx,12,0,8,13,Ignition
+1968,Spanish Grand Prix,Jochen Rindt,13,0,9,10,Oil pressure
+1968,Spanish Grand Prix,Jack Brabham,14,0,0,0,Withdrew
+1968,Monaco Grand Prix,Graham Hill,1,9,1,80,RAS
+1968,Monaco Grand Prix,Richard Attwood,2,6,6,80,RAS
+1968,Monaco Grand Prix,Lucien Bianchi,3,4,14,76,RAS
+1968,Monaco Grand Prix,Ludovico Scarfiotti,4,3,15,76,RAS
+1968,Monaco Grand Prix,Denny Hulme,5,2,10,73,RAS
+1968,Monaco Grand Prix,John Surtees,6,0,4,16,Gearbox
+1968,Monaco Grand Prix,Pedro Rodríguez,7,0,9,16,Accident
+1968,Monaco Grand Prix,Jo Siffert,8,0,3,17,Differential
+1968,Monaco Grand Prix,Jean-Pierre Beltoise,9,0,8,11,Accident
+1968,Monaco Grand Prix,Piers Courage,10,0,11,11,Chassis
+1968,Monaco Grand Prix,Dan Gurney,11,0,16,9,Engine
+1968,Monaco Grand Prix,Jochen Rindt,12,0,5,8,Accident
+1968,Monaco Grand Prix,Jack Brabham,13,0,12,7,Suspension
+1968,Monaco Grand Prix,Johnny Servoz-Gavin,14,0,2,3,Halfshaft
+1968,Monaco Grand Prix,Bruce McLaren,15,0,7,0,Accident
+1968,Monaco Grand Prix,Jackie Oliver,16,0,13,0,Accident
+1968,Belgian Grand Prix,Bruce McLaren,1,9,6,28,RAS
+1968,Belgian Grand Prix,Pedro Rodríguez,2,6,8,28,RAS
+1968,Belgian Grand Prix,Jacky Ickx,3,4,3,28,RAS
+1968,Belgian Grand Prix,Jackie Stewart,4,3,2,27,Out of fuel
+1968,Belgian Grand Prix,Jackie Oliver,5,2,15,26,Transmission
+1968,Belgian Grand Prix,Lucien Bianchi,6,1,12,26,RAS
+1968,Belgian Grand Prix,Jo Siffert,7,0,9,25,Oil pressure
+1968,Belgian Grand Prix,Jean-Pierre Beltoise,8,0,13,25,RAS
+1968,Belgian Grand Prix,Piers Courage,9,0,7,22,Engine
+1968,Belgian Grand Prix,Denny Hulme,10,0,5,18,Halfshaft
+1968,Belgian Grand Prix,John Surtees,11,0,4,11,Suspension
+1968,Belgian Grand Prix,Chris Amon,12,0,1,8,Radiator
+1968,Belgian Grand Prix,Brian Redman,13,0,11,6,Spun off
+1968,Belgian Grand Prix,Richard Attwood,14,0,18,6,Oil pipe
+1968,Belgian Grand Prix,Jack Brabham,15,0,10,6,Throttle
+1968,Belgian Grand Prix,Graham Hill,16,0,14,5,Halfshaft
+1968,Belgian Grand Prix,Jochen Rindt,17,0,17,5,Engine
+1968,Belgian Grand Prix,Jo Bonnier,18,0,16,1,Wheel
+1968,Dutch Grand Prix,Jackie Stewart,1,9,5,90,RAS
+1968,Dutch Grand Prix,Jean-Pierre Beltoise,2,6,16,90,RAS
+1968,Dutch Grand Prix,Pedro Rodríguez,3,4,11,89,RAS
+1968,Dutch Grand Prix,Jacky Ickx,4,3,6,88,RAS
+1968,Dutch Grand Prix,Silvio Moser,5,2,7,87,RAS
+1968,Dutch Grand Prix,Chris Amon,6,1,1,85,RAS
+1968,Dutch Grand Prix,Richard Attwood,7,0,15,85,RAS
+1968,Dutch Grand Prix,Jo Bonnier,8,0,19,82,RAS
+1968,Dutch Grand Prix,Graham Hill,9,0,3,81,Accident
+1968,Dutch Grand Prix,Jackie Oliver,10,0,10,80,Not classified
+1968,Dutch Grand Prix,Dan Gurney,11,0,12,63,Throttle
+1968,Dutch Grand Prix,Jo Siffert,12,0,13,55,Gearbox
+1968,Dutch Grand Prix,John Surtees,13,0,9,50,Alternator
+1968,Dutch Grand Prix,Piers Courage,14,0,14,50,Spun off
+1968,Dutch Grand Prix,Jochen Rindt,15,0,2,39,Ignition
+1968,Dutch Grand Prix,Jack Brabham,16,0,4,22,Spun off
+1968,Dutch Grand Prix,Bruce McLaren,17,0,8,19,Accident
+1968,Dutch Grand Prix,Denny Hulme,18,0,7,10,Ignition
+1968,Dutch Grand Prix,Lucien Bianchi,19,0,18,9,Accident
+1968,French Grand Prix,Jacky Ickx,1,9,3,60,RAS
+1968,French Grand Prix,John Surtees,2,6,7,60,RAS
+1968,French Grand Prix,Jackie Stewart,3,4,2,59,RAS
+1968,French Grand Prix,Vic Elford,4,3,17,58,RAS
+1968,French Grand Prix,Denny Hulme,5,2,4,58,RAS
+1968,French Grand Prix,Piers Courage,6,1,14,57,RAS
+1968,French Grand Prix,Richard Attwood,7,0,12,57,RAS
+1968,French Grand Prix,Bruce McLaren,8,0,6,56,RAS
+1968,French Grand Prix,Jean-Pierre Beltoise,9,0,8,56,RAS
+1968,French Grand Prix,Chris Amon,10,0,5,55,RAS
+1968,French Grand Prix,Jo Siffert,11,0,11,54,RAS
+1968,French Grand Prix,Pedro Rodríguez,12,0,10,53,Not classified
+1968,French Grand Prix,Jochen Rindt,13,0,1,45,Fuel leak
+1968,French Grand Prix,Jack Brabham,14,0,13,15,Fuel pump
+1968,French Grand Prix,Graham Hill,15,0,9,14,Halfshaft
+1968,French Grand Prix,Johnny Servoz-Gavin,16,0,15,14,Accident
+1968,French Grand Prix,Jo Schlesser,17,0,16,2,Accident
+1968,British Grand Prix,Jo Siffert,1,9,4,80,RAS
+1968,British Grand Prix,Chris Amon,2,6,3,80,RAS
+1968,British Grand Prix,Jacky Ickx,3,4,12,79,RAS
+1968,British Grand Prix,Denny Hulme,4,3,11,79,RAS
+1968,British Grand Prix,John Surtees,5,2,9,78,RAS
+1968,British Grand Prix,Jackie Stewart,6,1,7,78,RAS
+1968,British Grand Prix,Bruce McLaren,7,0,10,77,RAS
+1968,British Grand Prix,Piers Courage,8,0,16,72,RAS
+1968,British Grand Prix,Jochen Rindt,9,0,5,55,Fuel leak
+1968,British Grand Prix,Pedro Rodríguez,10,0,13,52,Engine
+1968,British Grand Prix,Silvio Moser,11,0,19,52,Not classified
+1968,British Grand Prix,Jackie Oliver,12,0,2,43,Transmission
+1968,British Grand Prix,Robin Widdows,13,0,18,34,Ignition
+1968,British Grand Prix,Graham Hill,14,0,1,26,Halfshaft
+1968,British Grand Prix,Vic Elford,15,0,7,26,Engine
+1968,British Grand Prix,Jean-Pierre Beltoise,16,0,14,11,Engine
+1968,British Grand Prix,Richard Attwood,17,0,15,10,Radiator
+1968,British Grand Prix,Dan Gurney,18,0,6,8,Fuel pump
+1968,British Grand Prix,Jo Bonnier,19,0,20,6,Engine
+1968,British Grand Prix,Jack Brabham,20,0,8,0,Engine
+1968,German Grand Prix,Jackie Stewart,1,9,6,14,RAS
+1968,German Grand Prix,Graham Hill,2,6,4,14,RAS
+1968,German Grand Prix,Jochen Rindt,3,4,3,14,RAS
+1968,German Grand Prix,Jacky Ickx,4,3,1,14,RAS
+1968,German Grand Prix,Jack Brabham,5,2,15,14,RAS
+1968,German Grand Prix,Pedro Rodríguez,6,1,14,14,RAS
+1968,German Grand Prix,Denny Hulme,7,0,11,14,RAS
+1968,German Grand Prix,Piers Courage,8,0,8,14,RAS
+1968,German Grand Prix,Dan Gurney,9,0,10,14,RAS
+1968,German Grand Prix,Hubert Hahne,10,0,18,14,RAS
+1968,German Grand Prix,Jackie Oliver,11,0,13,13,RAS
+1968,German Grand Prix,Kurt Ahrens,12,0,17,13,RAS
+1968,German Grand Prix,Bruce McLaren,13,0,16,13,RAS
+1968,German Grand Prix,Richard Attwood,14,0,20,13,RAS
+1968,German Grand Prix,Chris Amon,15,0,2,11,Accident
+1968,German Grand Prix,Jean-Pierre Beltoise,16,0,12,8,Accident
+1968,German Grand Prix,Jo Siffert,17,0,9,6,Ignition
+1968,German Grand Prix,Lucien Bianchi,18,0,19,6,Fuel leak
+1968,German Grand Prix,John Surtees,19,0,7,3,Ignition
+1968,German Grand Prix,Vic Elford,20,0,5,0,Accident
+1968,Italian Grand Prix,Denny Hulme,1,9,7,68,RAS
+1968,Italian Grand Prix,Johnny Servoz-Gavin,2,6,13,68,RAS
+1968,Italian Grand Prix,Jacky Ickx,3,4,4,68,RAS
+1968,Italian Grand Prix,Piers Courage,4,3,17,67,RAS
+1968,Italian Grand Prix,Jean-Pierre Beltoise,5,2,18,66,RAS
+1968,Italian Grand Prix,Jo Bonnier,6,1,19,64,RAS
+1968,Italian Grand Prix,Jo Siffert,7,0,9,58,Suspension
+1968,Italian Grand Prix,Jack Brabham,8,0,16,56,Oil pressure
+1968,Italian Grand Prix,Jackie Stewart,9,0,6,42,Engine
+1968,Italian Grand Prix,David Hobbs,10,0,14,42,Engine
+1968,Italian Grand Prix,Jackie Oliver,11,0,11,38,Transmission
+1968,Italian Grand Prix,Bruce McLaren,12,0,2,34,Oil leak
+1968,Italian Grand Prix,Jochen Rindt,13,0,10,33,Engine
+1968,Italian Grand Prix,Pedro Rodríguez,14,0,15,22,Engine
+1968,Italian Grand Prix,Dan Gurney,15,0,12,19,Engine
+1968,Italian Grand Prix,Graham Hill,16,0,5,10,Wheel
+1968,Italian Grand Prix,John Surtees,17,0,1,8,Accident
+1968,Italian Grand Prix,Chris Amon,18,0,3,8,Accident
+1968,Italian Grand Prix,Derek Bell,19,0,8,4,Fuel system
+1968,Italian Grand Prix,Vic Elford,20,0,20,2,Accident
+1968,Canadian Grand Prix,Denny Hulme,1,9,6,90,RAS
+1968,Canadian Grand Prix,Bruce McLaren,2,6,8,89,RAS
+1968,Canadian Grand Prix,Pedro Rodríguez,3,4,12,88,RAS
+1968,Canadian Grand Prix,Graham Hill,4,3,5,86,RAS
+1968,Canadian Grand Prix,Vic Elford,5,2,16,86,RAS
+1968,Canadian Grand Prix,Jackie Stewart,6,1,11,83,RAS
+1968,Canadian Grand Prix,Jean-Pierre Beltoise,7,0,15,77,Gearbox
+1968,Canadian Grand Prix,Chris Amon,8,0,2,72,Transmission
+1968,Canadian Grand Prix,Johnny Servoz-Gavin,9,0,13,71,Accident
+1968,Canadian Grand Prix,Lucien Bianchi,10,0,18,56,Not classified
+1968,Canadian Grand Prix,Henri Pescarolo,11,0,19,54,Oil pressure
+1968,Canadian Grand Prix,Jochen Rindt,12,0,1,39,Engine
+1968,Canadian Grand Prix,Jackie Oliver,13,0,19,32,Halfshaft
+1968,Canadian Grand Prix,Jack Brabham,14,0,10,31,Suspension
+1968,Canadian Grand Prix,Jo Siffert,15,0,3,29,Oil leak
+1968,Canadian Grand Prix,Dan Gurney,16,0,4,29,Radiator
+1968,Canadian Grand Prix,Piers Courage,17,0,14,22,Gearbox
+1968,Canadian Grand Prix,Bill Brack,18,0,20,18,Halfshaft
+1968,Canadian Grand Prix,John Surtees,19,0,7,10,Gearbox
+1968,Canadian Grand Prix,Jo Bonnier,20,0,17,0,Fuel system
+1968,Canadian Grand Prix,Jacky Ickx,21,0,0,0,Accident
+1968,United States Grand Prix,Jackie Stewart,1,9,2,108,RAS
+1968,United States Grand Prix,Graham Hill,2,6,3,108,RAS
+1968,United States Grand Prix,John Surtees,3,4,9,107,RAS
+1968,United States Grand Prix,Dan Gurney,4,3,7,107,RAS
+1968,United States Grand Prix,Jo Siffert,5,2,12,105,RAS
+1968,United States Grand Prix,Bruce McLaren,6,1,10,103,RAS
+1968,United States Grand Prix,Piers Courage,7,0,14,93,Out of fuel
+1968,United States Grand Prix,Denny Hulme,8,0,5,92,Accident
+1968,United States Grand Prix,Lucien Bianchi,9,0,20,88,Not classified
+1968,United States Grand Prix,Jack Brabham,10,0,8,77,Engine
+1968,United States Grand Prix,Jochen Rindt,11,0,6,73,Engine
+1968,United States Grand Prix,Vic Elford,12,0,17,71,Engine
+1968,United States Grand Prix,Pedro Rodríguez,13,0,11,66,Suspension
+1968,United States Grand Prix,Jo Bonnier,14,0,18,62,Not classified
+1968,United States Grand Prix,Chris Amon,15,0,4,59,Water pump
+1968,United States Grand Prix,Jean-Pierre Beltoise,16,0,13,44,Transmission
+1968,United States Grand Prix,Bobby Unser,17,0,19,35,Engine
+1968,United States Grand Prix,Mario Andretti,18,0,1,32,Clutch
+1968,United States Grand Prix,Derek Bell,19,0,15,14,Engine
+1968,United States Grand Prix,Jackie Oliver,20,0,0,0,Withdrew
+1968,Mexican Grand Prix,Graham Hill,1,9,3,65,RAS
+1968,Mexican Grand Prix,Bruce McLaren,2,6,9,65,RAS
+1968,Mexican Grand Prix,Jackie Oliver,3,4,14,65,RAS
+1968,Mexican Grand Prix,Pedro Rodríguez,4,3,12,65,RAS
+1968,Mexican Grand Prix,Jo Bonnier,5,2,18,64,RAS
+1968,Mexican Grand Prix,Jo Siffert,6,1,1,64,RAS
+1968,Mexican Grand Prix,Jackie Stewart,7,0,7,64,RAS
+1968,Mexican Grand Prix,Vic Elford,8,0,17,63,RAS
+1968,Mexican Grand Prix,Henri Pescarolo,9,0,20,62,RAS
+1968,Mexican Grand Prix,Jack Brabham,10,0,8,59,Oil pressure
+1968,Mexican Grand Prix,Johnny Servoz-Gavin,11,0,16,57,Ignition
+1968,Mexican Grand Prix,Dan Gurney,12,0,5,28,Suspension
+1968,Mexican Grand Prix,Piers Courage,13,0,19,25,Engine
+1968,Mexican Grand Prix,Lucien Bianchi,14,0,21,21,Engine
+1968,Mexican Grand Prix,John Surtees,15,0,6,17,Overheating
+1968,Mexican Grand Prix,Chris Amon,16,0,2,16,Transmission
+1968,Mexican Grand Prix,Moisés Solana,17,0,11,14,Broken wing
+1968,Mexican Grand Prix,Denny Hulme,18,0,4,10,Suspension
+1968,Mexican Grand Prix,Jean-Pierre Beltoise,19,0,13,10,Suspension
+1968,Mexican Grand Prix,Jacky Ickx,20,0,15,3,Ignition
+1968,Mexican Grand Prix,Jochen Rindt,21,0,10,2,Ignition

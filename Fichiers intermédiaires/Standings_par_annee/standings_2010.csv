@@ -1,0 +1,457 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2010,Bahrain Grand Prix,Fernando Alonso,1,25,3,49,RAS
+2010,Bahrain Grand Prix,Felipe Massa,2,18,2,49,RAS
+2010,Bahrain Grand Prix,Lewis Hamilton,3,15,4,49,RAS
+2010,Bahrain Grand Prix,Sebastian Vettel,4,12,1,49,RAS
+2010,Bahrain Grand Prix,Nico Rosberg,5,10,5,49,RAS
+2010,Bahrain Grand Prix,Michael Schumacher,6,8,7,49,RAS
+2010,Bahrain Grand Prix,Jenson Button,7,6,8,49,RAS
+2010,Bahrain Grand Prix,Mark Webber,8,4,6,49,RAS
+2010,Bahrain Grand Prix,Vitantonio Liuzzi,9,2,12,49,RAS
+2010,Bahrain Grand Prix,Rubens Barrichello,10,1,11,49,RAS
+2010,Bahrain Grand Prix,Robert Kubica,11,0,9,49,RAS
+2010,Bahrain Grand Prix,Adrian Sutil,12,0,10,49,RAS
+2010,Bahrain Grand Prix,Jaime Alguersuari,13,0,18,49,RAS
+2010,Bahrain Grand Prix,Nico Hülkenberg,14,0,13,48,RAS
+2010,Bahrain Grand Prix,Heikki Kovalainen,15,0,21,47,RAS
+2010,Bahrain Grand Prix,Sébastien Buemi,16,0,15,46,Electrical
+2010,Bahrain Grand Prix,Jarno Trulli,17,0,20,46,Hydraulics
+2010,Bahrain Grand Prix,Pedro de la Rosa,18,0,14,28,Hydraulics
+2010,Bahrain Grand Prix,Bruno Senna,19,0,23,17,Overheating
+2010,Bahrain Grand Prix,Timo Glock,20,0,19,16,Gearbox
+2010,Bahrain Grand Prix,Vitaly Petrov,21,0,17,13,Suspension
+2010,Bahrain Grand Prix,Kamui Kobayashi,22,0,16,11,Hydraulics
+2010,Bahrain Grand Prix,Lucas di Grassi,23,0,22,2,Hydraulics
+2010,Bahrain Grand Prix,Karun Chandhok,24,0,24,1,Accident
+2010,Australian Grand Prix,Jenson Button,1,25,4,58,RAS
+2010,Australian Grand Prix,Robert Kubica,2,18,9,58,RAS
+2010,Australian Grand Prix,Felipe Massa,3,15,5,58,RAS
+2010,Australian Grand Prix,Fernando Alonso,4,12,3,58,RAS
+2010,Australian Grand Prix,Nico Rosberg,5,10,6,58,RAS
+2010,Australian Grand Prix,Lewis Hamilton,6,8,11,58,RAS
+2010,Australian Grand Prix,Vitantonio Liuzzi,7,6,13,58,RAS
+2010,Australian Grand Prix,Rubens Barrichello,8,4,8,58,RAS
+2010,Australian Grand Prix,Mark Webber,9,2,2,58,RAS
+2010,Australian Grand Prix,Michael Schumacher,10,1,7,58,RAS
+2010,Australian Grand Prix,Jaime Alguersuari,11,0,17,58,RAS
+2010,Australian Grand Prix,Pedro de la Rosa,12,0,14,58,RAS
+2010,Australian Grand Prix,Heikki Kovalainen,13,0,19,56,RAS
+2010,Australian Grand Prix,Karun Chandhok,14,0,22,53,RAS
+2010,Australian Grand Prix,Timo Glock,15,0,23,41,Suspension
+2010,Australian Grand Prix,Lucas di Grassi,16,0,24,26,Hydraulics
+2010,Australian Grand Prix,Sebastian Vettel,17,0,1,25,Wheel
+2010,Australian Grand Prix,Adrian Sutil,18,0,10,9,Engine
+2010,Australian Grand Prix,Vitaly Petrov,19,0,18,9,Spun off
+2010,Australian Grand Prix,Bruno Senna,20,0,21,4,Hydraulics
+2010,Australian Grand Prix,Sébastien Buemi,21,0,12,0,Collision
+2010,Australian Grand Prix,Nico Hülkenberg,22,0,15,0,Collision
+2010,Australian Grand Prix,Kamui Kobayashi,23,0,16,0,Collision
+2010,Australian Grand Prix,Jarno Trulli,24,0,20,0,Hydraulics
+2010,Malaysian Grand Prix,Sebastian Vettel,1,25,3,56,RAS
+2010,Malaysian Grand Prix,Mark Webber,2,18,1,56,RAS
+2010,Malaysian Grand Prix,Nico Rosberg,3,15,2,56,RAS
+2010,Malaysian Grand Prix,Robert Kubica,4,12,6,56,RAS
+2010,Malaysian Grand Prix,Adrian Sutil,5,10,4,56,RAS
+2010,Malaysian Grand Prix,Lewis Hamilton,6,8,20,56,RAS
+2010,Malaysian Grand Prix,Felipe Massa,7,6,21,56,RAS
+2010,Malaysian Grand Prix,Jenson Button,8,4,17,56,RAS
+2010,Malaysian Grand Prix,Jaime Alguersuari,9,2,14,56,RAS
+2010,Malaysian Grand Prix,Nico Hülkenberg,10,1,5,56,RAS
+2010,Malaysian Grand Prix,Sébastien Buemi,11,0,13,56,RAS
+2010,Malaysian Grand Prix,Rubens Barrichello,12,0,7,55,RAS
+2010,Malaysian Grand Prix,Fernando Alonso,13,0,19,54,Engine
+2010,Malaysian Grand Prix,Lucas di Grassi,14,0,24,53,RAS
+2010,Malaysian Grand Prix,Karun Chandhok,15,0,22,53,RAS
+2010,Malaysian Grand Prix,Bruno Senna,16,0,23,52,RAS
+2010,Malaysian Grand Prix,Jarno Trulli,17,0,18,51,RAS
+2010,Malaysian Grand Prix,Heikki Kovalainen,18,0,15,46,RAS
+2010,Malaysian Grand Prix,Vitaly Petrov,19,0,11,32,Gearbox
+2010,Malaysian Grand Prix,Vitantonio Liuzzi,20,0,10,12,Throttle
+2010,Malaysian Grand Prix,Michael Schumacher,21,0,8,9,Wheel
+2010,Malaysian Grand Prix,Kamui Kobayashi,22,0,9,8,Engine
+2010,Malaysian Grand Prix,Timo Glock,23,0,16,2,Spun off
+2010,Malaysian Grand Prix,Pedro de la Rosa,24,0,12,0,Engine
+2010,Chinese Grand Prix,Jenson Button,1,25,5,56,RAS
+2010,Chinese Grand Prix,Lewis Hamilton,2,18,6,56,RAS
+2010,Chinese Grand Prix,Nico Rosberg,3,15,4,56,RAS
+2010,Chinese Grand Prix,Fernando Alonso,4,12,3,56,RAS
+2010,Chinese Grand Prix,Robert Kubica,5,10,8,56,RAS
+2010,Chinese Grand Prix,Sebastian Vettel,6,8,1,56,RAS
+2010,Chinese Grand Prix,Vitaly Petrov,7,6,14,56,RAS
+2010,Chinese Grand Prix,Mark Webber,8,4,2,56,RAS
+2010,Chinese Grand Prix,Felipe Massa,9,2,7,56,RAS
+2010,Chinese Grand Prix,Michael Schumacher,10,1,9,56,RAS
+2010,Chinese Grand Prix,Adrian Sutil,11,0,10,56,RAS
+2010,Chinese Grand Prix,Rubens Barrichello,12,0,11,56,RAS
+2010,Chinese Grand Prix,Jaime Alguersuari,13,0,12,56,RAS
+2010,Chinese Grand Prix,Heikki Kovalainen,14,0,21,55,RAS
+2010,Chinese Grand Prix,Nico Hülkenberg,15,0,16,55,RAS
+2010,Chinese Grand Prix,Bruno Senna,16,0,23,54,RAS
+2010,Chinese Grand Prix,Karun Chandhok,17,0,24,52,RAS
+2010,Chinese Grand Prix,Jarno Trulli,18,0,20,26,Hydraulics
+2010,Chinese Grand Prix,Lucas di Grassi,19,0,22,8,Clutch
+2010,Chinese Grand Prix,Pedro de la Rosa,20,0,17,7,Technical
+2010,Chinese Grand Prix,Sébastien Buemi,21,0,13,0,Accident
+2010,Chinese Grand Prix,Kamui Kobayashi,22,0,15,0,Accident
+2010,Chinese Grand Prix,Vitantonio Liuzzi,23,0,18,0,Accident
+2010,Chinese Grand Prix,Timo Glock,24,0,19,0,Engine
+2010,Spanish Grand Prix,Mark Webber,1,25,1,66,RAS
+2010,Spanish Grand Prix,Fernando Alonso,2,18,4,66,RAS
+2010,Spanish Grand Prix,Sebastian Vettel,3,15,2,66,RAS
+2010,Spanish Grand Prix,Michael Schumacher,4,12,6,66,RAS
+2010,Spanish Grand Prix,Jenson Button,5,10,5,66,RAS
+2010,Spanish Grand Prix,Felipe Massa,6,8,9,66,RAS
+2010,Spanish Grand Prix,Adrian Sutil,7,6,11,66,RAS
+2010,Spanish Grand Prix,Robert Kubica,8,4,7,66,RAS
+2010,Spanish Grand Prix,Rubens Barrichello,9,2,17,65,RAS
+2010,Spanish Grand Prix,Jaime Alguersuari,10,1,15,65,RAS
+2010,Spanish Grand Prix,Vitaly Petrov,11,0,19,65,RAS
+2010,Spanish Grand Prix,Kamui Kobayashi,12,0,10,65,RAS
+2010,Spanish Grand Prix,Nico Rosberg,13,0,8,65,RAS
+2010,Spanish Grand Prix,Lewis Hamilton,14,0,3,64,Puncture
+2010,Spanish Grand Prix,Vitantonio Liuzzi,15,0,16,64,Engine
+2010,Spanish Grand Prix,Nico Hülkenberg,16,0,13,64,RAS
+2010,Spanish Grand Prix,Jarno Trulli,17,0,18,63,RAS
+2010,Spanish Grand Prix,Timo Glock,18,0,22,63,RAS
+2010,Spanish Grand Prix,Lucas di Grassi,19,0,23,62,RAS
+2010,Spanish Grand Prix,Sébastien Buemi,20,0,14,42,Hydraulics
+2010,Spanish Grand Prix,Karun Chandhok,21,0,24,27,Suspension
+2010,Spanish Grand Prix,Pedro de la Rosa,22,0,12,18,Collision
+2010,Spanish Grand Prix,Bruno Senna,23,0,21,0,Accident
+2010,Spanish Grand Prix,Heikki Kovalainen,24,0,20,0,Gearbox
+2010,Monaco Grand Prix,Mark Webber,1,25,1,78,RAS
+2010,Monaco Grand Prix,Sebastian Vettel,2,18,3,78,RAS
+2010,Monaco Grand Prix,Robert Kubica,3,15,2,78,RAS
+2010,Monaco Grand Prix,Felipe Massa,4,12,4,78,RAS
+2010,Monaco Grand Prix,Lewis Hamilton,5,10,5,78,RAS
+2010,Monaco Grand Prix,Fernando Alonso,6,8,24,78,RAS
+2010,Monaco Grand Prix,Nico Rosberg,7,6,6,78,RAS
+2010,Monaco Grand Prix,Adrian Sutil,8,4,12,78,RAS
+2010,Monaco Grand Prix,Vitantonio Liuzzi,9,2,10,78,RAS
+2010,Monaco Grand Prix,Sébastien Buemi,10,1,13,78,RAS
+2010,Monaco Grand Prix,Jaime Alguersuari,11,0,17,78,RAS
+2010,Monaco Grand Prix,Michael Schumacher,12,0,7,78,RAS
+2010,Monaco Grand Prix,Vitaly Petrov,13,0,14,73,Brakes
+2010,Monaco Grand Prix,Karun Chandhok,14,0,23,70,Collision
+2010,Monaco Grand Prix,Jarno Trulli,15,0,19,70,Collision
+2010,Monaco Grand Prix,Heikki Kovalainen,16,0,18,58,Steering
+2010,Monaco Grand Prix,Bruno Senna,17,0,22,58,Hydraulics
+2010,Monaco Grand Prix,Rubens Barrichello,18,0,9,30,Suspension
+2010,Monaco Grand Prix,Kamui Kobayashi,19,0,16,26,Gearbox
+2010,Monaco Grand Prix,Lucas di Grassi,20,0,21,25,Wheel
+2010,Monaco Grand Prix,Timo Glock,21,0,20,22,Track rod
+2010,Monaco Grand Prix,Pedro de la Rosa,22,0,15,21,Hydraulics
+2010,Monaco Grand Prix,Jenson Button,23,0,8,2,Engine
+2010,Monaco Grand Prix,Nico Hülkenberg,24,0,11,0,Front wing
+2010,Turkish Grand Prix,Lewis Hamilton,1,25,2,58,RAS
+2010,Turkish Grand Prix,Jenson Button,2,18,4,58,RAS
+2010,Turkish Grand Prix,Mark Webber,3,15,1,58,RAS
+2010,Turkish Grand Prix,Michael Schumacher,4,12,5,58,RAS
+2010,Turkish Grand Prix,Nico Rosberg,5,10,6,58,RAS
+2010,Turkish Grand Prix,Robert Kubica,6,8,7,58,RAS
+2010,Turkish Grand Prix,Felipe Massa,7,6,8,58,RAS
+2010,Turkish Grand Prix,Fernando Alonso,8,4,12,58,RAS
+2010,Turkish Grand Prix,Adrian Sutil,9,2,11,58,RAS
+2010,Turkish Grand Prix,Kamui Kobayashi,10,1,10,58,RAS
+2010,Turkish Grand Prix,Pedro de la Rosa,11,0,13,58,RAS
+2010,Turkish Grand Prix,Jaime Alguersuari,12,0,16,58,RAS
+2010,Turkish Grand Prix,Vitantonio Liuzzi,13,0,18,57,RAS
+2010,Turkish Grand Prix,Rubens Barrichello,14,0,15,57,RAS
+2010,Turkish Grand Prix,Vitaly Petrov,15,0,9,57,RAS
+2010,Turkish Grand Prix,Sébastien Buemi,16,0,14,57,RAS
+2010,Turkish Grand Prix,Nico Hülkenberg,17,0,17,57,RAS
+2010,Turkish Grand Prix,Timo Glock,18,0,21,55,RAS
+2010,Turkish Grand Prix,Lucas di Grassi,19,0,23,55,RAS
+2010,Turkish Grand Prix,Karun Chandhok,20,0,24,52,Fuel pump
+2010,Turkish Grand Prix,Bruno Senna,21,0,22,46,Fuel pressure
+2010,Turkish Grand Prix,Sebastian Vettel,22,0,3,39,Collision
+2010,Turkish Grand Prix,Heikki Kovalainen,23,0,20,33,Hydraulics
+2010,Turkish Grand Prix,Jarno Trulli,24,0,19,32,Hydraulics
+2010,Canadian Grand Prix,Lewis Hamilton,1,25,1,70,RAS
+2010,Canadian Grand Prix,Jenson Button,2,18,4,70,RAS
+2010,Canadian Grand Prix,Fernando Alonso,3,15,3,70,RAS
+2010,Canadian Grand Prix,Sebastian Vettel,4,12,2,70,RAS
+2010,Canadian Grand Prix,Mark Webber,5,10,7,70,RAS
+2010,Canadian Grand Prix,Nico Rosberg,6,8,10,70,RAS
+2010,Canadian Grand Prix,Robert Kubica,7,6,8,70,RAS
+2010,Canadian Grand Prix,Sébastien Buemi,8,4,15,69,RAS
+2010,Canadian Grand Prix,Vitantonio Liuzzi,9,2,5,69,RAS
+2010,Canadian Grand Prix,Adrian Sutil,10,1,9,69,RAS
+2010,Canadian Grand Prix,Michael Schumacher,11,0,13,69,RAS
+2010,Canadian Grand Prix,Jaime Alguersuari,12,0,16,69,RAS
+2010,Canadian Grand Prix,Nico Hülkenberg,13,0,12,69,RAS
+2010,Canadian Grand Prix,Rubens Barrichello,14,0,11,69,RAS
+2010,Canadian Grand Prix,Felipe Massa,15,0,6,69,RAS
+2010,Canadian Grand Prix,Heikki Kovalainen,16,0,19,68,RAS
+2010,Canadian Grand Prix,Vitaly Petrov,17,0,14,68,RAS
+2010,Canadian Grand Prix,Karun Chandhok,18,0,24,66,RAS
+2010,Canadian Grand Prix,Lucas di Grassi,19,0,23,65,RAS
+2010,Canadian Grand Prix,Timo Glock,20,0,21,55,Mechanical
+2010,Canadian Grand Prix,Jarno Trulli,21,0,20,47,Brakes
+2010,Canadian Grand Prix,Pedro de la Rosa,22,0,17,31,Engine
+2010,Canadian Grand Prix,Bruno Senna,23,0,22,14,Hydraulics
+2010,Canadian Grand Prix,Kamui Kobayashi,24,0,18,1,Accident
+2010,European Grand Prix,Sebastian Vettel,1,25,1,57,RAS
+2010,European Grand Prix,Lewis Hamilton,2,18,3,57,RAS
+2010,European Grand Prix,Jenson Button,3,15,7,57,RAS
+2010,European Grand Prix,Rubens Barrichello,4,12,9,57,RAS
+2010,European Grand Prix,Robert Kubica,5,10,6,57,RAS
+2010,European Grand Prix,Adrian Sutil,6,8,13,57,RAS
+2010,European Grand Prix,Kamui Kobayashi,7,6,18,57,RAS
+2010,European Grand Prix,Fernando Alonso,8,4,4,57,RAS
+2010,European Grand Prix,Sébastien Buemi,9,2,11,57,RAS
+2010,European Grand Prix,Nico Rosberg,10,1,12,57,RAS
+2010,European Grand Prix,Felipe Massa,11,0,5,57,RAS
+2010,European Grand Prix,Pedro de la Rosa,12,0,16,57,RAS
+2010,European Grand Prix,Jaime Alguersuari,13,0,17,57,RAS
+2010,European Grand Prix,Vitaly Petrov,14,0,10,57,RAS
+2010,European Grand Prix,Michael Schumacher,15,0,15,57,RAS
+2010,European Grand Prix,Vitantonio Liuzzi,16,0,14,57,RAS
+2010,European Grand Prix,Lucas di Grassi,17,0,21,56,RAS
+2010,European Grand Prix,Karun Chandhok,18,0,23,55,RAS
+2010,European Grand Prix,Timo Glock,19,0,22,55,RAS
+2010,European Grand Prix,Bruno Senna,20,0,24,55,RAS
+2010,European Grand Prix,Jarno Trulli,21,0,19,53,RAS
+2010,European Grand Prix,Nico Hülkenberg,22,0,8,49,Exhaust
+2010,European Grand Prix,Heikki Kovalainen,23,0,20,8,Collision
+2010,European Grand Prix,Mark Webber,24,0,2,8,Collision
+2010,British Grand Prix,Mark Webber,1,25,2,52,RAS
+2010,British Grand Prix,Lewis Hamilton,2,18,4,52,RAS
+2010,British Grand Prix,Nico Rosberg,3,15,5,52,RAS
+2010,British Grand Prix,Jenson Button,4,12,14,52,RAS
+2010,British Grand Prix,Rubens Barrichello,5,10,8,52,RAS
+2010,British Grand Prix,Kamui Kobayashi,6,8,12,52,RAS
+2010,British Grand Prix,Sebastian Vettel,7,6,1,52,RAS
+2010,British Grand Prix,Adrian Sutil,8,4,11,52,RAS
+2010,British Grand Prix,Michael Schumacher,9,2,10,52,RAS
+2010,British Grand Prix,Nico Hülkenberg,10,1,13,52,RAS
+2010,British Grand Prix,Vitantonio Liuzzi,11,0,20,52,RAS
+2010,British Grand Prix,Sébastien Buemi,12,0,16,52,RAS
+2010,British Grand Prix,Vitaly Petrov,13,0,15,52,RAS
+2010,British Grand Prix,Fernando Alonso,14,0,3,52,RAS
+2010,British Grand Prix,Felipe Massa,15,0,7,52,RAS
+2010,British Grand Prix,Jarno Trulli,16,0,21,51,RAS
+2010,British Grand Prix,Heikki Kovalainen,17,0,18,51,RAS
+2010,British Grand Prix,Timo Glock,18,0,19,50,RAS
+2010,British Grand Prix,Karun Chandhok,19,0,23,50,RAS
+2010,British Grand Prix,Sakon Yamamoto,20,0,24,50,RAS
+2010,British Grand Prix,Jaime Alguersuari,21,0,17,44,Brakes
+2010,British Grand Prix,Pedro de la Rosa,22,0,9,29,Collision
+2010,British Grand Prix,Robert Kubica,23,0,6,19,Driveshaft
+2010,British Grand Prix,Lucas di Grassi,24,0,22,9,Hydraulics
+2010,German Grand Prix,Fernando Alonso,1,25,2,67,RAS
+2010,German Grand Prix,Felipe Massa,2,18,3,67,RAS
+2010,German Grand Prix,Sebastian Vettel,3,15,1,67,RAS
+2010,German Grand Prix,Lewis Hamilton,4,12,6,67,RAS
+2010,German Grand Prix,Jenson Button,5,10,5,67,RAS
+2010,German Grand Prix,Mark Webber,6,8,4,67,RAS
+2010,German Grand Prix,Robert Kubica,7,6,7,66,RAS
+2010,German Grand Prix,Nico Rosberg,8,4,9,66,RAS
+2010,German Grand Prix,Michael Schumacher,9,2,11,66,RAS
+2010,German Grand Prix,Vitaly Petrov,10,1,13,66,RAS
+2010,German Grand Prix,Kamui Kobayashi,11,0,12,66,RAS
+2010,German Grand Prix,Rubens Barrichello,12,0,8,66,RAS
+2010,German Grand Prix,Nico Hülkenberg,13,0,10,66,RAS
+2010,German Grand Prix,Pedro de la Rosa,14,0,14,66,RAS
+2010,German Grand Prix,Jaime Alguersuari,15,0,15,66,RAS
+2010,German Grand Prix,Vitantonio Liuzzi,16,0,21,65,RAS
+2010,German Grand Prix,Adrian Sutil,17,0,19,65,RAS
+2010,German Grand Prix,Timo Glock,18,0,23,64,RAS
+2010,German Grand Prix,Bruno Senna,19,0,20,63,RAS
+2010,German Grand Prix,Heikki Kovalainen,20,0,18,56,Collision
+2010,German Grand Prix,Lucas di Grassi,21,0,24,50,Gearbox
+2010,German Grand Prix,Sakon Yamamoto,22,0,22,19,Engine
+2010,German Grand Prix,Jarno Trulli,23,0,17,3,Gearbox
+2010,German Grand Prix,Sébastien Buemi,24,0,16,1,Collision
+2010,Hungarian Grand Prix,Mark Webber,1,25,2,70,RAS
+2010,Hungarian Grand Prix,Fernando Alonso,2,18,3,70,RAS
+2010,Hungarian Grand Prix,Sebastian Vettel,3,15,1,70,RAS
+2010,Hungarian Grand Prix,Felipe Massa,4,12,4,70,RAS
+2010,Hungarian Grand Prix,Vitaly Petrov,5,10,7,70,RAS
+2010,Hungarian Grand Prix,Nico Hülkenberg,6,8,10,70,RAS
+2010,Hungarian Grand Prix,Pedro de la Rosa,7,6,9,69,RAS
+2010,Hungarian Grand Prix,Jenson Button,8,4,11,69,RAS
+2010,Hungarian Grand Prix,Kamui Kobayashi,9,2,23,69,RAS
+2010,Hungarian Grand Prix,Rubens Barrichello,10,1,12,69,RAS
+2010,Hungarian Grand Prix,Michael Schumacher,11,0,14,69,RAS
+2010,Hungarian Grand Prix,Sébastien Buemi,12,0,15,69,RAS
+2010,Hungarian Grand Prix,Vitantonio Liuzzi,13,0,16,69,RAS
+2010,Hungarian Grand Prix,Heikki Kovalainen,14,0,19,67,RAS
+2010,Hungarian Grand Prix,Jarno Trulli,15,0,20,67,RAS
+2010,Hungarian Grand Prix,Timo Glock,16,0,18,67,RAS
+2010,Hungarian Grand Prix,Bruno Senna,17,0,22,67,RAS
+2010,Hungarian Grand Prix,Lucas di Grassi,18,0,21,66,RAS
+2010,Hungarian Grand Prix,Sakon Yamamoto,19,0,24,66,RAS
+2010,Hungarian Grand Prix,Lewis Hamilton,20,0,5,23,Gearbox
+2010,Hungarian Grand Prix,Robert Kubica,21,0,8,23,DNF
+2010,Hungarian Grand Prix,Nico Rosberg,22,0,6,15,Wheel
+2010,Hungarian Grand Prix,Adrian Sutil,23,0,13,15,Collision
+2010,Hungarian Grand Prix,Jaime Alguersuari,24,0,17,1,Engine
+2010,Belgian Grand Prix,Lewis Hamilton,1,25,2,44,RAS
+2010,Belgian Grand Prix,Mark Webber,2,18,1,44,RAS
+2010,Belgian Grand Prix,Robert Kubica,3,15,3,44,RAS
+2010,Belgian Grand Prix,Felipe Massa,4,12,6,44,RAS
+2010,Belgian Grand Prix,Adrian Sutil,5,10,8,44,RAS
+2010,Belgian Grand Prix,Nico Rosberg,6,8,14,44,RAS
+2010,Belgian Grand Prix,Michael Schumacher,7,6,21,44,RAS
+2010,Belgian Grand Prix,Kamui Kobayashi,8,4,17,44,RAS
+2010,Belgian Grand Prix,Vitaly Petrov,9,2,23,44,RAS
+2010,Belgian Grand Prix,Vitantonio Liuzzi,10,1,12,44,RAS
+2010,Belgian Grand Prix,Pedro de la Rosa,11,0,24,44,RAS
+2010,Belgian Grand Prix,Sébastien Buemi,12,0,16,44,RAS
+2010,Belgian Grand Prix,Jaime Alguersuari,13,0,11,44,RAS
+2010,Belgian Grand Prix,Nico Hülkenberg,14,0,9,43,RAS
+2010,Belgian Grand Prix,Sebastian Vettel,15,0,4,43,RAS
+2010,Belgian Grand Prix,Heikki Kovalainen,16,0,13,43,RAS
+2010,Belgian Grand Prix,Lucas di Grassi,17,0,22,43,RAS
+2010,Belgian Grand Prix,Timo Glock,18,0,20,43,RAS
+2010,Belgian Grand Prix,Jarno Trulli,19,0,15,43,RAS
+2010,Belgian Grand Prix,Sakon Yamamoto,20,0,19,42,RAS
+2010,Belgian Grand Prix,Fernando Alonso,21,0,10,37,Accident
+2010,Belgian Grand Prix,Jenson Button,22,0,5,15,Collision
+2010,Belgian Grand Prix,Bruno Senna,23,0,18,5,DNF
+2010,Belgian Grand Prix,Rubens Barrichello,24,0,7,0,Collision
+2010,Italian Grand Prix,Fernando Alonso,1,25,1,53,RAS
+2010,Italian Grand Prix,Jenson Button,2,18,2,53,RAS
+2010,Italian Grand Prix,Felipe Massa,3,15,3,53,RAS
+2010,Italian Grand Prix,Sebastian Vettel,4,12,6,53,RAS
+2010,Italian Grand Prix,Nico Rosberg,5,10,7,53,RAS
+2010,Italian Grand Prix,Mark Webber,6,8,4,53,RAS
+2010,Italian Grand Prix,Nico Hülkenberg,7,6,8,53,RAS
+2010,Italian Grand Prix,Robert Kubica,8,4,9,53,RAS
+2010,Italian Grand Prix,Michael Schumacher,9,2,12,53,RAS
+2010,Italian Grand Prix,Rubens Barrichello,10,1,10,53,RAS
+2010,Italian Grand Prix,Sébastien Buemi,11,0,14,53,RAS
+2010,Italian Grand Prix,Vitantonio Liuzzi,12,0,19,53,RAS
+2010,Italian Grand Prix,Vitaly Petrov,13,0,20,53,RAS
+2010,Italian Grand Prix,Pedro de la Rosa,14,0,16,52,RAS
+2010,Italian Grand Prix,Jaime Alguersuari,15,0,15,52,RAS
+2010,Italian Grand Prix,Adrian Sutil,16,0,11,52,RAS
+2010,Italian Grand Prix,Timo Glock,17,0,24,51,RAS
+2010,Italian Grand Prix,Heikki Kovalainen,18,0,18,51,RAS
+2010,Italian Grand Prix,Sakon Yamamoto,19,0,23,51,RAS
+2010,Italian Grand Prix,Lucas di Grassi,20,0,21,50,RAS
+2010,Italian Grand Prix,Jarno Trulli,21,0,17,46,Engine
+2010,Italian Grand Prix,Bruno Senna,22,0,22,11,DNF
+2010,Italian Grand Prix,Lewis Hamilton,23,0,5,0,Collision
+2010,Italian Grand Prix,Kamui Kobayashi,24,0,13,0,Gearbox
+2010,Singapore Grand Prix,Fernando Alonso,1,25,1,61,RAS
+2010,Singapore Grand Prix,Sebastian Vettel,2,18,2,61,RAS
+2010,Singapore Grand Prix,Mark Webber,3,15,5,61,RAS
+2010,Singapore Grand Prix,Jenson Button,4,12,4,61,RAS
+2010,Singapore Grand Prix,Nico Rosberg,5,10,7,61,RAS
+2010,Singapore Grand Prix,Rubens Barrichello,6,8,6,61,RAS
+2010,Singapore Grand Prix,Robert Kubica,7,6,8,61,RAS
+2010,Singapore Grand Prix,Felipe Massa,8,4,24,61,RAS
+2010,Singapore Grand Prix,Adrian Sutil,9,2,15,61,RAS
+2010,Singapore Grand Prix,Nico Hülkenberg,10,1,17,61,RAS
+2010,Singapore Grand Prix,Vitaly Petrov,11,0,12,60,RAS
+2010,Singapore Grand Prix,Jaime Alguersuari,12,0,11,60,RAS
+2010,Singapore Grand Prix,Michael Schumacher,13,0,9,60,RAS
+2010,Singapore Grand Prix,Sébastien Buemi,14,0,13,60,RAS
+2010,Singapore Grand Prix,Lucas di Grassi,15,0,20,59,RAS
+2010,Singapore Grand Prix,Heikki Kovalainen,16,0,19,58,Engine
+2010,Singapore Grand Prix,Timo Glock,17,0,18,49,Hydraulics
+2010,Singapore Grand Prix,Nick Heidfeld,18,0,14,36,Collision
+2010,Singapore Grand Prix,Lewis Hamilton,19,0,3,35,Collision
+2010,Singapore Grand Prix,Christian Klien,20,0,22,31,Hydraulics
+2010,Singapore Grand Prix,Kamui Kobayashi,21,0,10,30,Accident
+2010,Singapore Grand Prix,Bruno Senna,22,0,23,29,Accident
+2010,Singapore Grand Prix,Jarno Trulli,23,0,21,27,Hydraulics
+2010,Singapore Grand Prix,Vitantonio Liuzzi,24,0,16,1,Collision
+2010,Japanese Grand Prix,Sebastian Vettel,1,25,1,53,RAS
+2010,Japanese Grand Prix,Mark Webber,2,18,2,53,RAS
+2010,Japanese Grand Prix,Fernando Alonso,3,15,4,53,RAS
+2010,Japanese Grand Prix,Jenson Button,4,12,5,53,RAS
+2010,Japanese Grand Prix,Lewis Hamilton,5,10,8,53,RAS
+2010,Japanese Grand Prix,Michael Schumacher,6,8,10,53,RAS
+2010,Japanese Grand Prix,Kamui Kobayashi,7,6,14,53,RAS
+2010,Japanese Grand Prix,Nick Heidfeld,8,4,11,53,RAS
+2010,Japanese Grand Prix,Rubens Barrichello,9,2,7,53,RAS
+2010,Japanese Grand Prix,Sébastien Buemi,10,1,18,53,RAS
+2010,Japanese Grand Prix,Jaime Alguersuari,11,0,16,52,RAS
+2010,Japanese Grand Prix,Heikki Kovalainen,12,0,20,52,RAS
+2010,Japanese Grand Prix,Jarno Trulli,13,0,19,51,RAS
+2010,Japanese Grand Prix,Timo Glock,14,0,22,51,RAS
+2010,Japanese Grand Prix,Bruno Senna,15,0,23,51,RAS
+2010,Japanese Grand Prix,Sakon Yamamoto,16,0,24,50,RAS
+2010,Japanese Grand Prix,Nico Rosberg,17,0,6,47,Suspension
+2010,Japanese Grand Prix,Adrian Sutil,18,0,15,44,Oil leak
+2010,Japanese Grand Prix,Robert Kubica,19,0,3,2,Wheel
+2010,Japanese Grand Prix,Nico Hülkenberg,20,0,9,0,Accident
+2010,Japanese Grand Prix,Felipe Massa,21,0,12,0,Accident
+2010,Japanese Grand Prix,Vitaly Petrov,22,0,13,0,Accident
+2010,Japanese Grand Prix,Vitantonio Liuzzi,23,0,17,0,Accident
+2010,Japanese Grand Prix,Lucas di Grassi,24,0,21,0,Suspension
+2010,Korean Grand Prix,Fernando Alonso,1,25,3,55,RAS
+2010,Korean Grand Prix,Lewis Hamilton,2,18,4,55,RAS
+2010,Korean Grand Prix,Felipe Massa,3,15,6,55,RAS
+2010,Korean Grand Prix,Michael Schumacher,4,12,9,55,RAS
+2010,Korean Grand Prix,Robert Kubica,5,10,8,55,RAS
+2010,Korean Grand Prix,Vitantonio Liuzzi,6,8,17,55,RAS
+2010,Korean Grand Prix,Rubens Barrichello,7,6,10,55,RAS
+2010,Korean Grand Prix,Kamui Kobayashi,8,4,12,55,RAS
+2010,Korean Grand Prix,Nick Heidfeld,9,2,13,55,RAS
+2010,Korean Grand Prix,Nico Hülkenberg,10,1,11,55,RAS
+2010,Korean Grand Prix,Jaime Alguersuari,11,0,15,55,RAS
+2010,Korean Grand Prix,Jenson Button,12,0,7,55,RAS
+2010,Korean Grand Prix,Heikki Kovalainen,13,0,21,54,RAS
+2010,Korean Grand Prix,Bruno Senna,14,0,24,53,RAS
+2010,Korean Grand Prix,Sakon Yamamoto,15,0,23,53,RAS
+2010,Korean Grand Prix,Adrian Sutil,16,0,14,46,Collision
+2010,Korean Grand Prix,Sebastian Vettel,17,0,1,45,Engine
+2010,Korean Grand Prix,Vitaly Petrov,18,0,20,39,Accident
+2010,Korean Grand Prix,Timo Glock,19,0,19,31,Collision
+2010,Korean Grand Prix,Sébastien Buemi,20,0,16,30,Collision
+2010,Korean Grand Prix,Lucas di Grassi,21,0,22,25,Accident
+2010,Korean Grand Prix,Jarno Trulli,22,0,18,25,Hydraulics
+2010,Korean Grand Prix,Mark Webber,23,0,2,18,Accident
+2010,Korean Grand Prix,Nico Rosberg,24,0,5,18,Collision
+2010,Brazilian Grand Prix,Sebastian Vettel,1,25,2,71,RAS
+2010,Brazilian Grand Prix,Mark Webber,2,18,3,71,RAS
+2010,Brazilian Grand Prix,Fernando Alonso,3,15,5,71,RAS
+2010,Brazilian Grand Prix,Lewis Hamilton,4,12,4,71,RAS
+2010,Brazilian Grand Prix,Jenson Button,5,10,11,71,RAS
+2010,Brazilian Grand Prix,Nico Rosberg,6,8,13,71,RAS
+2010,Brazilian Grand Prix,Michael Schumacher,7,6,8,71,RAS
+2010,Brazilian Grand Prix,Nico Hülkenberg,8,4,1,70,RAS
+2010,Brazilian Grand Prix,Robert Kubica,9,2,7,70,RAS
+2010,Brazilian Grand Prix,Kamui Kobayashi,10,1,12,70,RAS
+2010,Brazilian Grand Prix,Jaime Alguersuari,11,0,14,70,RAS
+2010,Brazilian Grand Prix,Adrian Sutil,12,0,22,70,RAS
+2010,Brazilian Grand Prix,Sébastien Buemi,13,0,19,70,RAS
+2010,Brazilian Grand Prix,Rubens Barrichello,14,0,6,70,RAS
+2010,Brazilian Grand Prix,Felipe Massa,15,0,9,70,RAS
+2010,Brazilian Grand Prix,Vitaly Petrov,16,0,10,70,RAS
+2010,Brazilian Grand Prix,Nick Heidfeld,17,0,15,70,RAS
+2010,Brazilian Grand Prix,Heikki Kovalainen,18,0,20,69,RAS
+2010,Brazilian Grand Prix,Jarno Trulli,19,0,18,69,RAS
+2010,Brazilian Grand Prix,Timo Glock,20,0,17,69,RAS
+2010,Brazilian Grand Prix,Bruno Senna,21,0,24,69,RAS
+2010,Brazilian Grand Prix,Christian Klien,22,0,23,65,RAS
+2010,Brazilian Grand Prix,Lucas di Grassi,23,0,21,62,RAS
+2010,Brazilian Grand Prix,Vitantonio Liuzzi,24,0,16,49,Accident
+2010,Abu Dhabi Grand Prix,Sebastian Vettel,1,25,1,55,RAS
+2010,Abu Dhabi Grand Prix,Lewis Hamilton,2,18,2,55,RAS
+2010,Abu Dhabi Grand Prix,Jenson Button,3,15,4,55,RAS
+2010,Abu Dhabi Grand Prix,Nico Rosberg,4,12,9,55,RAS
+2010,Abu Dhabi Grand Prix,Robert Kubica,5,10,11,55,RAS
+2010,Abu Dhabi Grand Prix,Vitaly Petrov,6,8,10,55,RAS
+2010,Abu Dhabi Grand Prix,Fernando Alonso,7,6,3,55,RAS
+2010,Abu Dhabi Grand Prix,Mark Webber,8,4,5,55,RAS
+2010,Abu Dhabi Grand Prix,Jaime Alguersuari,9,2,17,55,RAS
+2010,Abu Dhabi Grand Prix,Felipe Massa,10,1,6,55,RAS
+2010,Abu Dhabi Grand Prix,Nick Heidfeld,11,0,14,55,RAS
+2010,Abu Dhabi Grand Prix,Rubens Barrichello,12,0,7,55,RAS
+2010,Abu Dhabi Grand Prix,Adrian Sutil,13,0,13,55,RAS
+2010,Abu Dhabi Grand Prix,Kamui Kobayashi,14,0,12,55,RAS
+2010,Abu Dhabi Grand Prix,Sébastien Buemi,15,0,18,55,RAS
+2010,Abu Dhabi Grand Prix,Nico Hülkenberg,16,0,15,55,RAS
+2010,Abu Dhabi Grand Prix,Heikki Kovalainen,17,0,20,54,RAS
+2010,Abu Dhabi Grand Prix,Lucas di Grassi,18,0,22,53,RAS
+2010,Abu Dhabi Grand Prix,Bruno Senna,19,0,23,53,RAS
+2010,Abu Dhabi Grand Prix,Christian Klien,20,0,24,53,RAS
+2010,Abu Dhabi Grand Prix,Jarno Trulli,21,0,19,51,Rear wing
+2010,Abu Dhabi Grand Prix,Timo Glock,22,0,21,43,Gearbox
+2010,Abu Dhabi Grand Prix,Michael Schumacher,23,0,8,0,Collision
+2010,Abu Dhabi Grand Prix,Vitantonio Liuzzi,24,0,16,0,Collision

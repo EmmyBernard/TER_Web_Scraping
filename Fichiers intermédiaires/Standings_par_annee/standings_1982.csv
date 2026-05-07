@@ -1,0 +1,402 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1982,South African Grand Prix,Alain Prost,1,9,5,77,RAS
+1982,South African Grand Prix,Carlos Reutemann,2,6,8,77,RAS
+1982,South African Grand Prix,René Arnoux,3,4,1,77,RAS
+1982,South African Grand Prix,Niki Lauda,4,3,13,77,RAS
+1982,South African Grand Prix,Keke Rosberg,5,2,7,77,RAS
+1982,South African Grand Prix,John Watson,6,1,9,77,RAS
+1982,South African Grand Prix,Michele Alboreto,7,0,10,76,RAS
+1982,South African Grand Prix,Elio de Angelis,8,0,15,76,RAS
+1982,South African Grand Prix,Eliseo Salazar,9,0,12,75,RAS
+1982,South African Grand Prix,Manfred Winkelhock,10,0,20,75,RAS
+1982,South African Grand Prix,Bruno Giacomelli,11,0,19,74,RAS
+1982,South African Grand Prix,Jochen Mass,12,0,22,74,RAS
+1982,South African Grand Prix,Andrea de Cesaris,13,0,16,73,RAS
+1982,South African Grand Prix,Derek Daly,14,0,24,73,RAS
+1982,South African Grand Prix,Raul Boesel,15,0,21,72,RAS
+1982,South African Grand Prix,Slim Borgudd,16,0,23,72,RAS
+1982,South African Grand Prix,Chico Serra,17,0,25,72,RAS
+1982,South African Grand Prix,Didier Pironi,18,0,6,71,RAS
+1982,South African Grand Prix,Jacques Laffite,19,0,11,54,Fuel system
+1982,South African Grand Prix,Derek Warwick,20,0,14,43,Accident
+1982,South African Grand Prix,Riccardo Patrese,21,0,4,18,Turbo
+1982,South African Grand Prix,Eddie Cheever,22,0,17,11,Fuel system
+1982,South African Grand Prix,Gilles Villeneuve,23,0,3,6,Turbo
+1982,South African Grand Prix,Nelson Piquet,24,0,2,3,Spun off
+1982,South African Grand Prix,Nigel Mansell,25,0,18,0,Electrical
+1982,South African Grand Prix,Jean-Pierre Jarier,26,0,26,0,Collision
+1982,Brazilian Grand Prix,Alain Prost,1,9,1,63,RAS
+1982,Brazilian Grand Prix,John Watson,2,6,12,63,RAS
+1982,Brazilian Grand Prix,Nigel Mansell,3,4,14,63,RAS
+1982,Brazilian Grand Prix,Michele Alboreto,4,3,13,63,RAS
+1982,Brazilian Grand Prix,Manfred Winkelhock,5,2,15,62,RAS
+1982,Brazilian Grand Prix,Didier Pironi,6,1,8,62,RAS
+1982,Brazilian Grand Prix,Slim Borgudd,7,0,21,61,RAS
+1982,Brazilian Grand Prix,Jochen Mass,8,0,22,61,RAS
+1982,Brazilian Grand Prix,Jean-Pierre Jarier,9,0,23,60,RAS
+1982,Brazilian Grand Prix,Mauro Baldi,10,0,19,57,RAS
+1982,Brazilian Grand Prix,Nelson Piquet,11,0,7,63,DQ
+1982,Brazilian Grand Prix,Keke Rosberg,12,0,3,63,DQ
+1982,Brazilian Grand Prix,Eliseo Salazar,13,0,18,38,Engine
+1982,Brazilian Grand Prix,Chico Serra,14,0,25,36,Suspension
+1982,Brazilian Grand Prix,Riccardo Patrese,15,0,9,34,Physical
+1982,Brazilian Grand Prix,Gilles Villeneuve,16,0,2,29,Spun off
+1982,Brazilian Grand Prix,Niki Lauda,17,0,5,22,Collision
+1982,Brazilian Grand Prix,René Arnoux,18,0,4,21,Collision
+1982,Brazilian Grand Prix,Carlos Reutemann,19,0,6,21,Collision
+1982,Brazilian Grand Prix,Elio de Angelis,20,0,11,21,Collision
+1982,Brazilian Grand Prix,Eddie Cheever,21,0,26,19,Water leak
+1982,Brazilian Grand Prix,Bruno Giacomelli,22,0,16,16,Clutch
+1982,Brazilian Grand Prix,Jacques Laffite,23,0,24,15,Chassis
+1982,Brazilian Grand Prix,Andrea de Cesaris,24,0,10,14,Chassis
+1982,Brazilian Grand Prix,Derek Daly,25,0,20,12,Spun off
+1982,Brazilian Grand Prix,Raul Boesel,26,0,17,11,Spun off
+1982,United States Grand Prix West,Niki Lauda,1,9,2,75,RAS
+1982,United States Grand Prix West,Keke Rosberg,2,6,8,75,RAS
+1982,United States Grand Prix West,Riccardo Patrese,3,4,18,75,RAS
+1982,United States Grand Prix West,Michele Alboreto,4,3,12,75,RAS
+1982,United States Grand Prix West,Elio de Angelis,5,2,16,74,RAS
+1982,United States Grand Prix West,John Watson,6,1,11,74,RAS
+1982,United States Grand Prix West,Nigel Mansell,7,0,17,73,RAS
+1982,United States Grand Prix West,Jochen Mass,8,0,21,73,RAS
+1982,United States Grand Prix West,Raul Boesel,9,0,23,70,RAS
+1982,United States Grand Prix West,Slim Borgudd,10,0,24,68,RAS
+1982,United States Grand Prix West,Gilles Villeneuve,11,0,7,75,DQ
+1982,United States Grand Prix West,Eddie Cheever,12,0,13,59,Gearbox
+1982,United States Grand Prix West,Andrea de Cesaris,13,0,1,33,Spun off
+1982,United States Grand Prix West,Brian Henton,14,0,20,32,Spun off
+1982,United States Grand Prix West,Roberto Guerrero,15,0,19,27,Spun off
+1982,United States Grand Prix West,Jacques Laffite,16,0,15,26,Spun off
+1982,United States Grand Prix West,Jean-Pierre Jarier,17,0,10,26,Transmission
+1982,United States Grand Prix West,Nelson Piquet,18,0,6,25,Spun off
+1982,United States Grand Prix West,Derek Daly,19,0,22,23,Spun off
+1982,United States Grand Prix West,Mario Andretti,20,0,14,19,Collision
+1982,United States Grand Prix West,Alain Prost,21,0,4,10,Spun off
+1982,United States Grand Prix West,Didier Pironi,22,0,9,6,Spun off
+1982,United States Grand Prix West,René Arnoux,23,0,3,5,Collision
+1982,United States Grand Prix West,Bruno Giacomelli,24,0,5,5,Collision
+1982,United States Grand Prix West,Eliseo Salazar,25,0,26,3,Collision
+1982,United States Grand Prix West,Manfred Winkelhock,26,0,25,1,Collision
+1982,San Marino Grand Prix,Didier Pironi,1,9,4,60,RAS
+1982,San Marino Grand Prix,Gilles Villeneuve,2,6,3,60,RAS
+1982,San Marino Grand Prix,Michele Alboreto,3,4,5,60,RAS
+1982,San Marino Grand Prix,Jean-Pierre Jarier,4,3,9,59,RAS
+1982,San Marino Grand Prix,Eliseo Salazar,5,2,14,57,RAS
+1982,San Marino Grand Prix,Manfred Winkelhock,6,0,12,54,DQ
+1982,San Marino Grand Prix,Teo Fabi,7,0,10,52,Not classified
+1982,San Marino Grand Prix,René Arnoux,8,0,1,44,Turbo
+1982,San Marino Grand Prix,Bruno Giacomelli,9,0,6,24,Engine
+1982,San Marino Grand Prix,Riccardo Paletti,10,0,13,7,Suspension
+1982,San Marino Grand Prix,Alain Prost,11,0,2,6,Engine
+1982,San Marino Grand Prix,Andrea de Cesaris,12,0,7,4,Electrical
+1982,San Marino Grand Prix,Brian Henton,13,0,11,0,Transmission
+1982,San Marino Grand Prix,Derek Warwick,14,0,8,0,Electrical
+1982,Belgian Grand Prix,John Watson,1,9,10,70,RAS
+1982,Belgian Grand Prix,Keke Rosberg,2,6,3,70,RAS
+1982,Belgian Grand Prix,Eddie Cheever,3,4,14,69,RAS
+1982,Belgian Grand Prix,Elio de Angelis,4,3,11,68,RAS
+1982,Belgian Grand Prix,Nelson Piquet,5,2,8,67,RAS
+1982,Belgian Grand Prix,Chico Serra,6,1,23,67,RAS
+1982,Belgian Grand Prix,Marc Surer,7,0,22,66,RAS
+1982,Belgian Grand Prix,Raul Boesel,8,0,24,66,RAS
+1982,Belgian Grand Prix,Jacques Laffite,9,0,17,66,RAS
+1982,Belgian Grand Prix,Niki Lauda,10,0,4,70,DQ
+1982,Belgian Grand Prix,Derek Daly,11,0,13,60,Spun off
+1982,Belgian Grand Prix,Jochen Mass,12,0,25,60,Engine
+1982,Belgian Grand Prix,Alain Prost,13,0,1,59,Spun off
+1982,Belgian Grand Prix,Riccardo Patrese,14,0,9,52,Spun off
+1982,Belgian Grand Prix,Mauro Baldi,15,0,26,51,Throttle
+1982,Belgian Grand Prix,Jean-Pierre Jarier,16,0,14,37,Broken wing
+1982,Belgian Grand Prix,Andrea de Cesaris,17,0,6,34,Gearbox
+1982,Belgian Grand Prix,Brian Henton,18,0,20,33,Engine
+1982,Belgian Grand Prix,Michele Alboreto,19,0,5,29,Engine
+1982,Belgian Grand Prix,Derek Warwick,20,0,19,29,Transmission
+1982,Belgian Grand Prix,Teo Fabi,21,0,21,13,Brakes
+1982,Belgian Grand Prix,Nigel Mansell,22,0,7,9,Clutch
+1982,Belgian Grand Prix,René Arnoux,23,0,2,7,Turbo
+1982,Belgian Grand Prix,Manfred Winkelhock,24,0,12,0,Clutch
+1982,Belgian Grand Prix,Bruno Giacomelli,25,0,15,0,Collision
+1982,Belgian Grand Prix,Eliseo Salazar,26,0,18,0,Collision
+1982,Belgian Grand Prix,Didier Pironi,27,0,0,0,Withdrew
+1982,Belgian Grand Prix,Gilles Villeneuve,28,0,0,0,Accident
+1982,Monaco Grand Prix,Riccardo Patrese,1,9,2,76,RAS
+1982,Monaco Grand Prix,Didier Pironi,2,6,5,75,Out of fuel
+1982,Monaco Grand Prix,Andrea de Cesaris,3,4,7,75,Out of fuel
+1982,Monaco Grand Prix,Nigel Mansell,4,3,11,75,RAS
+1982,Monaco Grand Prix,Elio de Angelis,5,2,15,75,RAS
+1982,Monaco Grand Prix,Derek Daly,6,1,8,74,Gearbox
+1982,Monaco Grand Prix,Alain Prost,7,0,4,73,Spun off
+1982,Monaco Grand Prix,Brian Henton,8,0,17,72,RAS
+1982,Monaco Grand Prix,Marc Surer,9,0,19,70,RAS
+1982,Monaco Grand Prix,Michele Alboreto,10,0,9,69,Suspension
+1982,Monaco Grand Prix,Keke Rosberg,11,0,6,64,Collision
+1982,Monaco Grand Prix,Niki Lauda,12,0,12,56,Engine
+1982,Monaco Grand Prix,Nelson Piquet,13,0,13,49,Turbo
+1982,Monaco Grand Prix,John Watson,14,0,10,35,Electrical
+1982,Monaco Grand Prix,Manfred Winkelhock,15,0,14,31,Differential
+1982,Monaco Grand Prix,Jacques Laffite,16,0,18,29,Handling
+1982,Monaco Grand Prix,Eddie Cheever,17,0,16,27,Oil leak
+1982,Monaco Grand Prix,Eliseo Salazar,18,0,20,22,Mechanical
+1982,Monaco Grand Prix,René Arnoux,19,0,1,14,Spun off
+1982,Monaco Grand Prix,Bruno Giacomelli,20,0,3,4,Halfshaft
+1982,Detroit Grand Prix,John Watson,1,9,17,62,RAS
+1982,Detroit Grand Prix,Eddie Cheever,2,6,9,62,RAS
+1982,Detroit Grand Prix,Didier Pironi,3,4,4,62,RAS
+1982,Detroit Grand Prix,Keke Rosberg,4,3,3,62,RAS
+1982,Detroit Grand Prix,Derek Daly,5,2,12,62,RAS
+1982,Detroit Grand Prix,Jacques Laffite,6,1,13,61,RAS
+1982,Detroit Grand Prix,Jochen Mass,7,0,18,61,RAS
+1982,Detroit Grand Prix,Marc Surer,8,0,19,61,RAS
+1982,Detroit Grand Prix,Brian Henton,9,0,20,60,RAS
+1982,Detroit Grand Prix,René Arnoux,10,0,15,59,RAS
+1982,Detroit Grand Prix,Chico Serra,11,0,26,59,RAS
+1982,Detroit Grand Prix,Alain Prost,12,0,1,54,Not classified
+1982,Detroit Grand Prix,Nigel Mansell,13,0,7,44,Engine
+1982,Detroit Grand Prix,Niki Lauda,14,0,10,40,Collision
+1982,Detroit Grand Prix,Michele Alboreto,15,0,16,40,Spun off
+1982,Detroit Grand Prix,Bruno Giacomelli,16,0,6,30,Collision
+1982,Detroit Grand Prix,Elio de Angelis,17,0,8,17,Gearbox
+1982,Detroit Grand Prix,Eliseo Salazar,18,0,25,13,Spun off
+1982,Detroit Grand Prix,Roberto Guerrero,19,0,11,6,Collision
+1982,Detroit Grand Prix,Riccardo Patrese,20,0,14,6,Collision
+1982,Detroit Grand Prix,Andrea de Cesaris,21,0,2,2,Transmission
+1982,Detroit Grand Prix,Jean-Pierre Jarier,22,0,22,2,Ignition
+1982,Detroit Grand Prix,Manfred Winkelhock,23,0,5,1,Spun off
+1982,Detroit Grand Prix,Raul Boesel,24,0,21,0,Collision
+1982,Detroit Grand Prix,Mauro Baldi,25,0,24,0,Collision
+1982,Detroit Grand Prix,Riccardo Paletti,26,0,23,0,DNF
+1982,Canadian Grand Prix,Nelson Piquet,1,9,4,70,RAS
+1982,Canadian Grand Prix,Riccardo Patrese,2,6,8,70,RAS
+1982,Canadian Grand Prix,John Watson,3,4,6,70,RAS
+1982,Canadian Grand Prix,Elio de Angelis,4,3,10,69,RAS
+1982,Canadian Grand Prix,Marc Surer,5,2,16,69,RAS
+1982,Canadian Grand Prix,Andrea de Cesaris,6,1,9,68,Out of fuel
+1982,Canadian Grand Prix,Derek Daly,7,0,13,68,Out of fuel
+1982,Canadian Grand Prix,Mauro Baldi,8,0,17,68,RAS
+1982,Canadian Grand Prix,Didier Pironi,9,0,1,67,RAS
+1982,Canadian Grand Prix,Eddie Cheever,10,0,12,66,Out of fuel
+1982,Canadian Grand Prix,Jochen Mass,11,0,22,66,RAS
+1982,Canadian Grand Prix,Brian Henton,12,0,26,59,Not classified
+1982,Canadian Grand Prix,Keke Rosberg,13,0,7,52,Gearbox
+1982,Canadian Grand Prix,Raul Boesel,14,0,21,47,Engine
+1982,Canadian Grand Prix,Michele Alboreto,15,0,15,41,Engine
+1982,Canadian Grand Prix,Alain Prost,16,0,3,30,Engine
+1982,Canadian Grand Prix,René Arnoux,17,0,2,28,Spun off
+1982,Canadian Grand Prix,Eliseo Salazar,18,0,24,20,Engine
+1982,Canadian Grand Prix,Niki Lauda,19,0,11,17,Clutch
+1982,Canadian Grand Prix,Jacques Laffite,20,0,19,8,Fuel system
+1982,Canadian Grand Prix,Roberto Guerrero,21,0,20,7,Clutch
+1982,Canadian Grand Prix,Bruno Giacomelli,22,0,5,2,Collision
+1982,Canadian Grand Prix,Nigel Mansell,23,0,14,2,Collision
+1982,Canadian Grand Prix,Jean-Pierre Jarier,24,0,18,0,Withdrew
+1982,Canadian Grand Prix,Riccardo Paletti,25,0,23,0,Fatal accident
+1982,Canadian Grand Prix,Geoff Lees,26,0,25,0,Collision
+1982,Dutch Grand Prix,Didier Pironi,1,9,4,72,RAS
+1982,Dutch Grand Prix,Nelson Piquet,2,6,3,72,RAS
+1982,Dutch Grand Prix,Keke Rosberg,3,4,7,72,RAS
+1982,Dutch Grand Prix,Niki Lauda,4,3,5,72,RAS
+1982,Dutch Grand Prix,Derek Daly,5,2,12,71,RAS
+1982,Dutch Grand Prix,Mauro Baldi,6,1,16,71,RAS
+1982,Dutch Grand Prix,Michele Alboreto,7,0,14,71,RAS
+1982,Dutch Grand Prix,Patrick Tambay,8,0,6,71,RAS
+1982,Dutch Grand Prix,John Watson,9,0,11,71,RAS
+1982,Dutch Grand Prix,Marc Surer,10,0,17,71,RAS
+1982,Dutch Grand Prix,Bruno Giacomelli,11,0,8,70,RAS
+1982,Dutch Grand Prix,Manfred Winkelhock,12,0,18,70,RAS
+1982,Dutch Grand Prix,Eliseo Salazar,13,0,25,70,RAS
+1982,Dutch Grand Prix,Jean-Pierre Jarier,14,0,23,69,RAS
+1982,Dutch Grand Prix,Riccardo Patrese,15,0,10,69,RAS
+1982,Dutch Grand Prix,Jochen Mass,16,0,24,60,Engine
+1982,Dutch Grand Prix,Jan Lammers,17,0,26,41,Engine
+1982,Dutch Grand Prix,Elio de Angelis,18,0,15,40,Handling
+1982,Dutch Grand Prix,Andrea de Cesaris,19,0,9,35,Electrical
+1982,Dutch Grand Prix,Alain Prost,20,0,2,33,Engine
+1982,Dutch Grand Prix,René Arnoux,21,0,1,21,Spun off
+1982,Dutch Grand Prix,Brian Henton,22,0,20,21,Throttle
+1982,Dutch Grand Prix,Raul Boesel,23,0,22,21,Engine
+1982,Dutch Grand Prix,Chico Serra,24,0,19,18,Fuel system
+1982,Dutch Grand Prix,Derek Warwick,25,0,13,15,Oil leak
+1982,Dutch Grand Prix,Jacques Laffite,26,0,21,4,Handling
+1982,British Grand Prix,Niki Lauda,1,9,5,76,RAS
+1982,British Grand Prix,Didier Pironi,2,6,4,76,RAS
+1982,British Grand Prix,Patrick Tambay,3,4,13,76,RAS
+1982,British Grand Prix,Elio de Angelis,4,3,7,76,RAS
+1982,British Grand Prix,Derek Daly,5,2,10,76,RAS
+1982,British Grand Prix,Alain Prost,6,1,8,76,RAS
+1982,British Grand Prix,Bruno Giacomelli,7,0,14,75,RAS
+1982,British Grand Prix,Brian Henton,8,0,17,75,RAS
+1982,British Grand Prix,Mauro Baldi,9,0,26,74,RAS
+1982,British Grand Prix,Jochen Mass,10,0,25,73,RAS
+1982,British Grand Prix,Andrea de Cesaris,11,0,11,66,Electrical
+1982,British Grand Prix,Eddie Cheever,12,0,24,60,Engine
+1982,British Grand Prix,Marc Surer,13,0,22,59,Engine
+1982,British Grand Prix,Keke Rosberg,14,0,1,50,Fuel system
+1982,British Grand Prix,Michele Alboreto,15,0,9,44,Engine
+1982,British Grand Prix,Jacques Laffite,16,0,20,41,Gearbox
+1982,British Grand Prix,Derek Warwick,17,0,16,40,Halfshaft
+1982,British Grand Prix,Nigel Mansell,18,0,23,29,Driver unwell
+1982,British Grand Prix,Nelson Piquet,19,0,3,9,Fuel system
+1982,British Grand Prix,Roberto Guerrero,20,0,19,3,Engine
+1982,British Grand Prix,Jean-Pierre Jarier,21,0,18,2,Collision
+1982,British Grand Prix,Chico Serra,22,0,21,2,Collision
+1982,British Grand Prix,John Watson,23,0,12,2,Spun off
+1982,British Grand Prix,Riccardo Patrese,24,0,2,0,Collision
+1982,British Grand Prix,René Arnoux,25,0,6,0,Collision
+1982,British Grand Prix,Teo Fabi,26,0,15,0,Collision
+1982,French Grand Prix,René Arnoux,1,9,1,54,RAS
+1982,French Grand Prix,Alain Prost,2,6,2,54,RAS
+1982,French Grand Prix,Didier Pironi,3,4,3,54,RAS
+1982,French Grand Prix,Patrick Tambay,4,3,5,54,RAS
+1982,French Grand Prix,Keke Rosberg,5,2,10,54,RAS
+1982,French Grand Prix,Michele Alboreto,6,1,15,54,RAS
+1982,French Grand Prix,Derek Daly,7,0,11,53,RAS
+1982,French Grand Prix,Niki Lauda,8,0,9,53,RAS
+1982,French Grand Prix,Bruno Giacomelli,9,0,8,53,RAS
+1982,French Grand Prix,Brian Henton,10,0,23,53,RAS
+1982,French Grand Prix,Manfred Winkelhock,11,0,18,52,RAS
+1982,French Grand Prix,Geoff Lees,12,0,24,52,RAS
+1982,French Grand Prix,Marc Surer,13,0,20,52,RAS
+1982,French Grand Prix,Jacques Laffite,14,0,16,51,RAS
+1982,French Grand Prix,Derek Warwick,15,0,14,50,RAS
+1982,French Grand Prix,Eddie Cheever,16,0,19,49,RAS
+1982,French Grand Prix,Andrea de Cesaris,17,0,7,25,Spun off
+1982,French Grand Prix,Nelson Piquet,18,0,6,23,Engine
+1982,French Grand Prix,Elio de Angelis,19,0,13,17,Fuel system
+1982,French Grand Prix,John Watson,20,0,12,13,Electrical
+1982,French Grand Prix,Jochen Mass,21,0,26,10,Spun off
+1982,French Grand Prix,Mauro Baldi,22,0,25,10,Collision
+1982,French Grand Prix,Riccardo Patrese,23,0,4,8,Engine
+1982,French Grand Prix,Eliseo Salazar,24,0,22,2,Spun off
+1982,French Grand Prix,Jean-Pierre Jarier,25,0,17,0,Halfshaft
+1982,French Grand Prix,Teo Fabi,26,0,21,0,Electrical
+1982,German Grand Prix,Patrick Tambay,1,9,5,45,RAS
+1982,German Grand Prix,René Arnoux,2,6,3,45,RAS
+1982,German Grand Prix,Keke Rosberg,3,4,9,44,RAS
+1982,German Grand Prix,Michele Alboreto,4,3,7,44,RAS
+1982,German Grand Prix,Bruno Giacomelli,5,2,11,44,RAS
+1982,German Grand Prix,Marc Surer,6,1,26,44,RAS
+1982,German Grand Prix,Brian Henton,7,0,17,44,RAS
+1982,German Grand Prix,Roberto Guerrero,8,0,21,44,RAS
+1982,German Grand Prix,Nigel Mansell,9,0,18,43,RAS
+1982,German Grand Prix,Derek Warwick,10,0,14,43,RAS
+1982,German Grand Prix,Chico Serra,11,0,25,43,RAS
+1982,German Grand Prix,John Watson,12,0,10,36,Suspension
+1982,German Grand Prix,Jacques Laffite,13,0,15,36,Handling
+1982,German Grand Prix,Derek Daly,14,0,19,25,Engine
+1982,German Grand Prix,Raul Boesel,15,0,24,22,Tyre
+1982,German Grand Prix,Elio de Angelis,16,0,13,21,Handling
+1982,German Grand Prix,Nelson Piquet,17,0,4,18,Collision
+1982,German Grand Prix,Eliseo Salazar,18,0,22,17,Collision
+1982,German Grand Prix,Alain Prost,19,0,2,14,Injection
+1982,German Grand Prix,Riccardo Patrese,20,0,6,13,Engine
+1982,German Grand Prix,Andrea de Cesaris,21,0,8,9,Gearbox
+1982,German Grand Prix,Eddie Cheever,22,0,12,8,Fuel system
+1982,German Grand Prix,Mauro Baldi,23,0,23,6,Fuel system
+1982,German Grand Prix,Jean-Pierre Jarier,24,0,20,3,Steering
+1982,German Grand Prix,Manfred Winkelhock,25,0,16,3,Clutch
+1982,German Grand Prix,Didier Pironi,26,0,1,0,Accident
+1982,Austrian Grand Prix,Elio de Angelis,1,9,7,53,RAS
+1982,Austrian Grand Prix,Keke Rosberg,2,6,6,53,RAS
+1982,Austrian Grand Prix,Jacques Laffite,3,4,14,52,RAS
+1982,Austrian Grand Prix,Patrick Tambay,4,3,4,52,RAS
+1982,Austrian Grand Prix,Niki Lauda,5,2,10,52,RAS
+1982,Austrian Grand Prix,Mauro Baldi,6,1,23,52,RAS
+1982,Austrian Grand Prix,Chico Serra,7,0,20,51,RAS
+1982,Austrian Grand Prix,Alain Prost,8,0,3,48,Injection
+1982,Austrian Grand Prix,John Watson,9,0,18,44,Engine
+1982,Austrian Grand Prix,Brian Henton,10,0,19,32,Engine
+1982,Austrian Grand Prix,Nelson Piquet,11,0,1,31,Electrical
+1982,Austrian Grand Prix,Tommy Byrne,12,0,26,28,Spun off
+1982,Austrian Grand Prix,Marc Surer,13,0,21,28,Engine
+1982,Austrian Grand Prix,Riccardo Patrese,14,0,2,27,Engine
+1982,Austrian Grand Prix,Eddie Cheever,15,0,22,22,Engine
+1982,Austrian Grand Prix,Nigel Mansell,16,0,12,17,Engine
+1982,Austrian Grand Prix,René Arnoux,17,0,5,16,Injection
+1982,Austrian Grand Prix,Manfred Winkelhock,18,0,25,15,Spun off
+1982,Austrian Grand Prix,Derek Warwick,19,0,15,7,Suspension
+1982,Austrian Grand Prix,Teo Fabi,20,0,17,7,Transmission
+1982,Austrian Grand Prix,Roberto Guerrero,21,0,16,6,Spun off
+1982,Austrian Grand Prix,Michele Alboreto,22,0,8,1,Spun off
+1982,Austrian Grand Prix,Rupert Keegan,23,0,24,1,Steering
+1982,Austrian Grand Prix,Derek Daly,24,0,9,0,Collision
+1982,Austrian Grand Prix,Andrea de Cesaris,25,0,11,0,Collision
+1982,Austrian Grand Prix,Bruno Giacomelli,26,0,13,0,Collision
+1982,Swiss Grand Prix,Keke Rosberg,1,9,8,80,RAS
+1982,Swiss Grand Prix,Alain Prost,2,6,1,80,RAS
+1982,Swiss Grand Prix,Niki Lauda,3,4,4,80,RAS
+1982,Swiss Grand Prix,Nelson Piquet,4,3,6,79,RAS
+1982,Swiss Grand Prix,Riccardo Patrese,5,2,3,79,RAS
+1982,Swiss Grand Prix,Elio de Angelis,6,1,15,79,RAS
+1982,Swiss Grand Prix,Michele Alboreto,7,0,12,79,RAS
+1982,Swiss Grand Prix,Nigel Mansell,8,0,26,79,RAS
+1982,Swiss Grand Prix,Derek Daly,9,0,7,79,RAS
+1982,Swiss Grand Prix,Andrea de Cesaris,10,0,5,78,RAS
+1982,Swiss Grand Prix,Brian Henton,11,0,18,78,RAS
+1982,Swiss Grand Prix,Bruno Giacomelli,12,0,9,78,RAS
+1982,Swiss Grand Prix,John Watson,13,0,11,77,RAS
+1982,Swiss Grand Prix,Eliseo Salazar,14,0,25,76,RAS
+1982,Swiss Grand Prix,Marc Surer,15,0,14,76,RAS
+1982,Swiss Grand Prix,René Arnoux,16,0,2,75,Injection
+1982,Swiss Grand Prix,Eddie Cheever,17,0,16,70,Handling
+1982,Swiss Grand Prix,Manfred Winkelhock,18,0,20,55,Chassis
+1982,Swiss Grand Prix,Jean-Pierre Jarier,19,0,17,44,Engine
+1982,Swiss Grand Prix,Jacques Laffite,20,0,13,33,Handling
+1982,Swiss Grand Prix,Teo Fabi,21,0,23,31,Engine
+1982,Swiss Grand Prix,Raul Boesel,22,0,24,31,Water leak
+1982,Swiss Grand Prix,Rupert Keegan,23,0,22,25,Spun off
+1982,Swiss Grand Prix,Derek Warwick,24,0,21,24,Engine
+1982,Swiss Grand Prix,Roberto Guerrero,25,0,19,4,Engine
+1982,Swiss Grand Prix,Patrick Tambay,26,0,10,0,Injury
+1982,Italian Grand Prix,René Arnoux,1,9,6,52,RAS
+1982,Italian Grand Prix,Patrick Tambay,2,6,3,52,RAS
+1982,Italian Grand Prix,Mario Andretti,3,4,1,52,RAS
+1982,Italian Grand Prix,John Watson,4,3,12,52,RAS
+1982,Italian Grand Prix,Michele Alboreto,5,2,11,51,RAS
+1982,Italian Grand Prix,Eddie Cheever,6,1,14,51,RAS
+1982,Italian Grand Prix,Nigel Mansell,7,0,23,51,RAS
+1982,Italian Grand Prix,Keke Rosberg,8,0,7,50,RAS
+1982,Italian Grand Prix,Eliseo Salazar,9,0,25,50,RAS
+1982,Italian Grand Prix,Andrea de Cesaris,10,0,9,50,RAS
+1982,Italian Grand Prix,Chico Serra,11,0,26,49,RAS
+1982,Italian Grand Prix,Mauro Baldi,12,0,24,49,RAS
+1982,Italian Grand Prix,Roberto Guerrero,13,0,18,40,Not classified
+1982,Italian Grand Prix,Elio de Angelis,14,0,17,33,Throttle
+1982,Italian Grand Prix,Bruno Giacomelli,15,0,8,32,Handling
+1982,Italian Grand Prix,Marc Surer,16,0,19,28,Ignition
+1982,Italian Grand Prix,Alain Prost,17,0,5,27,Injection
+1982,Italian Grand Prix,Niki Lauda,18,0,10,21,Brakes
+1982,Italian Grand Prix,Jean-Pierre Jarier,19,0,15,10,Wheel
+1982,Italian Grand Prix,Nelson Piquet,20,0,2,7,Engine
+1982,Italian Grand Prix,Riccardo Patrese,21,0,4,6,Clutch
+1982,Italian Grand Prix,Jacques Laffite,22,0,21,5,Gearbox
+1982,Italian Grand Prix,Teo Fabi,23,0,22,2,Engine
+1982,Italian Grand Prix,Derek Daly,24,0,13,0,Collision
+1982,Italian Grand Prix,Derek Warwick,25,0,16,0,Collision
+1982,Italian Grand Prix,Brian Henton,26,0,20,0,Collision
+1982,Caesars Palace Grand Prix,Michele Alboreto,1,9,3,75,RAS
+1982,Caesars Palace Grand Prix,John Watson,2,6,9,75,RAS
+1982,Caesars Palace Grand Prix,Eddie Cheever,3,4,4,75,RAS
+1982,Caesars Palace Grand Prix,Alain Prost,4,3,1,75,RAS
+1982,Caesars Palace Grand Prix,Keke Rosberg,5,2,6,75,RAS
+1982,Caesars Palace Grand Prix,Derek Daly,6,1,14,74,RAS
+1982,Caesars Palace Grand Prix,Marc Surer,7,0,17,74,RAS
+1982,Caesars Palace Grand Prix,Brian Henton,8,0,19,74,RAS
+1982,Caesars Palace Grand Prix,Andrea de Cesaris,9,0,18,73,RAS
+1982,Caesars Palace Grand Prix,Bruno Giacomelli,10,0,16,73,RAS
+1982,Caesars Palace Grand Prix,Mauro Baldi,11,0,23,73,RAS
+1982,Caesars Palace Grand Prix,Rupert Keegan,12,0,25,73,RAS
+1982,Caesars Palace Grand Prix,Raul Boesel,13,0,24,69,RAS
+1982,Caesars Palace Grand Prix,Manfred Winkelhock,14,0,22,62,Not classified
+1982,Caesars Palace Grand Prix,Niki Lauda,15,0,13,53,Engine
+1982,Caesars Palace Grand Prix,Tommy Byrne,16,0,26,39,Spun off
+1982,Caesars Palace Grand Prix,Derek Warwick,17,0,10,32,Spark plugs
+1982,Caesars Palace Grand Prix,Elio de Angelis,18,0,20,28,Engine
+1982,Caesars Palace Grand Prix,Mario Andretti,19,0,7,26,Suspension
+1982,Caesars Palace Grand Prix,Nelson Piquet,20,0,12,26,Spark plugs
+1982,Caesars Palace Grand Prix,René Arnoux,21,0,2,20,Engine
+1982,Caesars Palace Grand Prix,Riccardo Patrese,22,0,5,17,Clutch
+1982,Caesars Palace Grand Prix,Nigel Mansell,23,0,21,8,Collision
+1982,Caesars Palace Grand Prix,Jacques Laffite,24,0,11,5,Ignition
+1982,Caesars Palace Grand Prix,Patrick Tambay,25,0,8,0,Withdrew
+1982,Caesars Palace Grand Prix,Roberto Guerrero,26,0,15,0,Engine
+1982,Caesars Palace Grand Prix,Jean-Pierre Jarier,27,0,27,0,Accident

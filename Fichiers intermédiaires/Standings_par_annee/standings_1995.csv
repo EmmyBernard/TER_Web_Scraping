@@ -1,0 +1,419 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1995,Brazilian Grand Prix,Michael Schumacher,1,10,2,71,RAS
+1995,Brazilian Grand Prix,David Coulthard,2,6,3,71,RAS
+1995,Brazilian Grand Prix,Gerhard Berger,3,4,5,70,RAS
+1995,Brazilian Grand Prix,Mika Häkkinen,4,3,7,70,RAS
+1995,Brazilian Grand Prix,Jean Alesi,5,2,6,70,RAS
+1995,Brazilian Grand Prix,Mark Blundell,6,1,9,70,RAS
+1995,Brazilian Grand Prix,Mika Salo,7,0,12,69,RAS
+1995,Brazilian Grand Prix,Aguri Suzuki,8,0,15,69,RAS
+1995,Brazilian Grand Prix,Andrea Montermini,9,0,22,65,RAS
+1995,Brazilian Grand Prix,Pedro Diniz,10,0,25,64,RAS
+1995,Brazilian Grand Prix,Gianni Morbidelli,11,0,13,62,Engine
+1995,Brazilian Grand Prix,Taki Inoue,12,0,21,48,Engine
+1995,Brazilian Grand Prix,Luca Badoer,13,0,18,47,Engine
+1995,Brazilian Grand Prix,Roberto Moreno,14,0,23,47,Spun off
+1995,Brazilian Grand Prix,Karl Wendlinger,15,0,19,41,Electrical
+1995,Brazilian Grand Prix,Damon Hill,16,0,1,30,Gearbox
+1995,Brazilian Grand Prix,Johnny Herbert,17,0,4,30,Collision
+1995,Brazilian Grand Prix,Bertrand Gachot,18,0,20,23,Gearbox
+1995,Brazilian Grand Prix,Rubens Barrichello,19,0,16,16,Gearbox
+1995,Brazilian Grand Prix,Jos Verstappen,20,0,24,16,Gearbox
+1995,Brazilian Grand Prix,Ukyo Katayama,21,0,11,15,Spun off
+1995,Brazilian Grand Prix,Eddie Irvine,22,0,8,15,Clutch
+1995,Brazilian Grand Prix,Domenico Schiattarella,23,0,26,12,Steering
+1995,Brazilian Grand Prix,Heinz-Harald Frentzen,24,0,14,10,Electrical
+1995,Brazilian Grand Prix,Olivier Panis,25,0,10,0,Collision
+1995,Brazilian Grand Prix,Pierluigi Martini,26,0,17,0,Gearbox
+1995,Argentine Grand Prix,Damon Hill,1,10,2,72,RAS
+1995,Argentine Grand Prix,Jean Alesi,2,6,6,72,RAS
+1995,Argentine Grand Prix,Michael Schumacher,3,4,3,72,RAS
+1995,Argentine Grand Prix,Johnny Herbert,4,3,11,71,RAS
+1995,Argentine Grand Prix,Heinz-Harald Frentzen,5,2,9,70,RAS
+1995,Argentine Grand Prix,Gerhard Berger,6,1,8,70,RAS
+1995,Argentine Grand Prix,Olivier Panis,7,0,18,70,RAS
+1995,Argentine Grand Prix,Ukyo Katayama,8,0,15,69,RAS
+1995,Argentine Grand Prix,Domenico Schiattarella,9,0,20,68,RAS
+1995,Argentine Grand Prix,Pedro Diniz,10,0,25,63,Not classified
+1995,Argentine Grand Prix,Roberto Moreno,11,0,24,63,Not classified
+1995,Argentine Grand Prix,Mika Salo,12,0,7,48,Collision
+1995,Argentine Grand Prix,Aguri Suzuki,13,0,19,47,Collision
+1995,Argentine Grand Prix,Pierluigi Martini,14,0,16,44,Spun off
+1995,Argentine Grand Prix,Gianni Morbidelli,15,0,12,43,Electrical
+1995,Argentine Grand Prix,Taki Inoue,16,0,26,40,Spun off
+1995,Argentine Grand Prix,Rubens Barrichello,17,0,10,33,Oil pressure
+1995,Argentine Grand Prix,Jos Verstappen,18,0,14,23,Gearbox
+1995,Argentine Grand Prix,David Coulthard,19,0,1,16,Electrical
+1995,Argentine Grand Prix,Mark Blundell,20,0,17,9,Oil leak
+1995,Argentine Grand Prix,Eddie Irvine,21,0,4,6,Engine
+1995,Argentine Grand Prix,Andrea Montermini,22,0,22,1,Collision
+1995,Argentine Grand Prix,Mika Häkkinen,23,0,5,0,Collision
+1995,Argentine Grand Prix,Bertrand Gachot,24,0,23,0,Collision
+1995,Argentine Grand Prix,Karl Wendlinger,25,0,21,0,Collision
+1995,Argentine Grand Prix,Luca Badoer,26,0,13,0,Collision
+1995,San Marino Grand Prix,Damon Hill,1,10,4,63,RAS
+1995,San Marino Grand Prix,Jean Alesi,2,6,5,63,RAS
+1995,San Marino Grand Prix,Gerhard Berger,3,4,2,63,RAS
+1995,San Marino Grand Prix,David Coulthard,4,3,3,63,RAS
+1995,San Marino Grand Prix,Mika Häkkinen,5,2,6,62,RAS
+1995,San Marino Grand Prix,Heinz-Harald Frentzen,6,1,14,62,RAS
+1995,San Marino Grand Prix,Johnny Herbert,7,0,8,61,RAS
+1995,San Marino Grand Prix,Eddie Irvine,8,0,7,61,RAS
+1995,San Marino Grand Prix,Olivier Panis,9,0,12,61,RAS
+1995,San Marino Grand Prix,Nigel Mansell,10,0,9,61,RAS
+1995,San Marino Grand Prix,Aguri Suzuki,11,0,16,60,RAS
+1995,San Marino Grand Prix,Pierluigi Martini,12,0,18,59,RAS
+1995,San Marino Grand Prix,Gianni Morbidelli,13,0,11,59,RAS
+1995,San Marino Grand Prix,Luca Badoer,14,0,20,59,RAS
+1995,San Marino Grand Prix,Pedro Diniz,15,0,26,56,Not classified
+1995,San Marino Grand Prix,Roberto Moreno,16,0,25,56,Not classified
+1995,San Marino Grand Prix,Karl Wendlinger,17,0,21,43,Wheel
+1995,San Marino Grand Prix,Bertrand Gachot,18,0,22,36,Gearbox
+1995,San Marino Grand Prix,Domenico Schiattarella,19,0,23,35,Suspension
+1995,San Marino Grand Prix,Rubens Barrichello,20,0,10,31,Transmission
+1995,San Marino Grand Prix,Ukyo Katayama,21,0,15,23,Spun off
+1995,San Marino Grand Prix,Mika Salo,22,0,13,19,Engine
+1995,San Marino Grand Prix,Andrea Montermini,23,0,24,15,Gearbox
+1995,San Marino Grand Prix,Jos Verstappen,24,0,17,14,Gearbox
+1995,San Marino Grand Prix,Taki Inoue,25,0,19,12,Spun off
+1995,San Marino Grand Prix,Michael Schumacher,26,0,1,10,Spun off
+1995,Spanish Grand Prix,Michael Schumacher,1,10,1,65,RAS
+1995,Spanish Grand Prix,Johnny Herbert,2,6,7,65,RAS
+1995,Spanish Grand Prix,Gerhard Berger,3,4,3,65,RAS
+1995,Spanish Grand Prix,Damon Hill,4,3,5,65,RAS
+1995,Spanish Grand Prix,Eddie Irvine,5,2,6,64,RAS
+1995,Spanish Grand Prix,Olivier Panis,6,1,15,64,RAS
+1995,Spanish Grand Prix,Rubens Barrichello,7,0,8,64,RAS
+1995,Spanish Grand Prix,Heinz-Harald Frentzen,8,0,12,64,RAS
+1995,Spanish Grand Prix,Martin Brundle,9,0,11,64,RAS
+1995,Spanish Grand Prix,Mika Salo,10,0,13,64,RAS
+1995,Spanish Grand Prix,Gianni Morbidelli,11,0,14,63,RAS
+1995,Spanish Grand Prix,Jos Verstappen,12,0,16,63,RAS
+1995,Spanish Grand Prix,Karl Wendlinger,13,0,20,63,RAS
+1995,Spanish Grand Prix,Pierluigi Martini,14,0,19,62,RAS
+1995,Spanish Grand Prix,Domenico Schiattarella,15,0,22,61,RAS
+1995,Spanish Grand Prix,Ukyo Katayama,16,0,17,56,Engine
+1995,Spanish Grand Prix,David Coulthard,17,0,4,54,Gearbox
+1995,Spanish Grand Prix,Mika Häkkinen,18,0,9,53,Fuel system
+1995,Spanish Grand Prix,Taki Inoue,19,0,18,43,Transmission
+1995,Spanish Grand Prix,Bertrand Gachot,20,0,24,43,Heat shield fire
+1995,Spanish Grand Prix,Roberto Moreno,21,0,25,39,Overheating
+1995,Spanish Grand Prix,Jean Alesi,22,0,2,25,Engine
+1995,Spanish Grand Prix,Luca Badoer,23,0,21,21,Gearbox
+1995,Spanish Grand Prix,Nigel Mansell,24,0,10,18,Handling
+1995,Spanish Grand Prix,Pedro Diniz,25,0,26,17,Gearbox
+1995,Spanish Grand Prix,Andrea Montermini,26,0,23,0,Withdrew
+1995,Monaco Grand Prix,Michael Schumacher,1,10,2,78,RAS
+1995,Monaco Grand Prix,Damon Hill,2,6,1,78,RAS
+1995,Monaco Grand Prix,Gerhard Berger,3,4,4,78,RAS
+1995,Monaco Grand Prix,Johnny Herbert,4,3,7,77,RAS
+1995,Monaco Grand Prix,Mark Blundell,5,2,10,77,RAS
+1995,Monaco Grand Prix,Heinz-Harald Frentzen,6,1,14,76,RAS
+1995,Monaco Grand Prix,Pierluigi Martini,7,0,18,76,RAS
+1995,Monaco Grand Prix,Jean-Christophe Boullion,8,0,19,74,RAS
+1995,Monaco Grand Prix,Gianni Morbidelli,9,0,13,74,RAS
+1995,Monaco Grand Prix,Pedro Diniz,10,0,22,72,RAS
+1995,Monaco Grand Prix,Luca Badoer,11,0,16,68,Suspension
+1995,Monaco Grand Prix,Olivier Panis,12,0,12,65,Spun off
+1995,Monaco Grand Prix,Mika Salo,13,0,17,63,Gearbox
+1995,Monaco Grand Prix,Rubens Barrichello,14,0,11,60,Throttle
+1995,Monaco Grand Prix,Bertrand Gachot,15,0,21,42,Gearbox
+1995,Monaco Grand Prix,Jean Alesi,16,0,5,41,Spun off
+1995,Monaco Grand Prix,Martin Brundle,17,0,8,40,Spun off
+1995,Monaco Grand Prix,Taki Inoue,18,0,26,27,Gearbox
+1995,Monaco Grand Prix,Ukyo Katayama,19,0,15,26,Spun off
+1995,Monaco Grand Prix,Andrea Montermini,20,0,25,23,DQ
+1995,Monaco Grand Prix,Eddie Irvine,21,0,9,22,Spun off
+1995,Monaco Grand Prix,David Coulthard,22,0,3,16,Gearbox
+1995,Monaco Grand Prix,Roberto Moreno,23,0,24,9,Brakes
+1995,Monaco Grand Prix,Mika Häkkinen,24,0,6,8,Engine
+1995,Monaco Grand Prix,Jos Verstappen,25,0,23,0,Gearbox
+1995,Monaco Grand Prix,Domenico Schiattarella,26,0,20,0,Withdrew
+1995,Canadian Grand Prix,Jean Alesi,1,10,5,68,RAS
+1995,Canadian Grand Prix,Rubens Barrichello,2,6,9,68,RAS
+1995,Canadian Grand Prix,Eddie Irvine,3,4,8,68,RAS
+1995,Canadian Grand Prix,Olivier Panis,4,3,11,68,RAS
+1995,Canadian Grand Prix,Michael Schumacher,5,2,1,68,RAS
+1995,Canadian Grand Prix,Gianni Morbidelli,6,1,13,67,RAS
+1995,Canadian Grand Prix,Mika Salo,7,0,15,67,RAS
+1995,Canadian Grand Prix,Luca Badoer,8,0,19,67,RAS
+1995,Canadian Grand Prix,Taki Inoue,9,0,22,66,RAS
+1995,Canadian Grand Prix,Martin Brundle,10,0,14,61,Collision
+1995,Canadian Grand Prix,Gerhard Berger,11,0,4,61,Collision
+1995,Canadian Grand Prix,Pierluigi Martini,12,0,17,60,Throttle
+1995,Canadian Grand Prix,Roberto Moreno,13,0,23,54,Fuel system
+1995,Canadian Grand Prix,Damon Hill,14,0,2,50,Gearbox
+1995,Canadian Grand Prix,Mark Blundell,15,0,10,47,Engine
+1995,Canadian Grand Prix,Ukyo Katayama,16,0,16,42,Engine
+1995,Canadian Grand Prix,Bertrand Gachot,17,0,20,36,Battery
+1995,Canadian Grand Prix,Heinz-Harald Frentzen,18,0,12,26,Engine
+1995,Canadian Grand Prix,Pedro Diniz,19,0,24,26,Gearbox
+1995,Canadian Grand Prix,Jean-Christophe Boullion,20,0,18,19,Spun off
+1995,Canadian Grand Prix,Andrea Montermini,21,0,21,5,Gearbox
+1995,Canadian Grand Prix,David Coulthard,22,0,3,1,Spun off
+1995,Canadian Grand Prix,Johnny Herbert,23,0,6,0,Collision
+1995,Canadian Grand Prix,Mika Häkkinen,24,0,7,0,Collision
+1995,French Grand Prix,Michael Schumacher,1,10,2,72,RAS
+1995,French Grand Prix,Damon Hill,2,6,1,72,RAS
+1995,French Grand Prix,David Coulthard,3,4,3,72,RAS
+1995,French Grand Prix,Martin Brundle,4,3,9,72,RAS
+1995,French Grand Prix,Jean Alesi,5,2,4,72,RAS
+1995,French Grand Prix,Rubens Barrichello,6,1,5,71,RAS
+1995,French Grand Prix,Mika Häkkinen,7,0,8,71,RAS
+1995,French Grand Prix,Olivier Panis,8,0,6,71,RAS
+1995,French Grand Prix,Eddie Irvine,9,0,11,71,RAS
+1995,French Grand Prix,Heinz-Harald Frentzen,10,0,12,71,RAS
+1995,French Grand Prix,Mark Blundell,11,0,13,70,RAS
+1995,French Grand Prix,Gerhard Berger,12,0,7,70,RAS
+1995,French Grand Prix,Luca Badoer,13,0,17,69,RAS
+1995,French Grand Prix,Gianni Morbidelli,14,0,16,69,RAS
+1995,French Grand Prix,Mika Salo,15,0,14,69,RAS
+1995,French Grand Prix,Roberto Moreno,16,0,24,66,RAS
+1995,French Grand Prix,Andrea Montermini,17,0,21,62,Not classified
+1995,French Grand Prix,Jean-Christophe Boullion,18,0,15,48,Gearbox
+1995,French Grand Prix,Bertrand Gachot,19,0,22,24,Gearbox
+1995,French Grand Prix,Pierluigi Martini,20,0,20,23,Gearbox
+1995,French Grand Prix,Johnny Herbert,21,0,10,2,Spun off
+1995,French Grand Prix,Taki Inoue,22,0,18,0,Collision
+1995,French Grand Prix,Ukyo Katayama,23,0,19,0,Collision
+1995,French Grand Prix,Pedro Diniz,24,0,23,0,Spun off
+1995,British Grand Prix,Johnny Herbert,1,10,5,61,RAS
+1995,British Grand Prix,Jean Alesi,2,6,6,61,RAS
+1995,British Grand Prix,David Coulthard,3,4,3,61,RAS
+1995,British Grand Prix,Olivier Panis,4,3,13,61,RAS
+1995,British Grand Prix,Mark Blundell,5,2,10,61,RAS
+1995,British Grand Prix,Heinz-Harald Frentzen,6,1,12,60,RAS
+1995,British Grand Prix,Pierluigi Martini,7,0,15,60,RAS
+1995,British Grand Prix,Mika Salo,8,0,23,60,RAS
+1995,British Grand Prix,Jean-Christophe Boullion,9,0,16,60,RAS
+1995,British Grand Prix,Luca Badoer,10,0,18,60,RAS
+1995,British Grand Prix,Rubens Barrichello,11,0,9,59,Collision
+1995,British Grand Prix,Bertrand Gachot,12,0,21,58,RAS
+1995,British Grand Prix,Roberto Moreno,13,0,22,48,Engine
+1995,British Grand Prix,Michael Schumacher,14,0,2,45,Collision
+1995,British Grand Prix,Damon Hill,15,0,1,45,Collision
+1995,British Grand Prix,Massimiliano Papis,16,0,17,28,Spun off
+1995,British Grand Prix,Ukyo Katayama,17,0,14,22,Out of fuel
+1995,British Grand Prix,Andrea Montermini,18,0,24,21,Spun off
+1995,British Grand Prix,Mika Häkkinen,19,0,8,20,Electrical
+1995,British Grand Prix,Gerhard Berger,20,0,4,20,Wheel
+1995,British Grand Prix,Martin Brundle,21,0,11,16,Spun off
+1995,British Grand Prix,Taki Inoue,22,0,19,16,Spun off
+1995,British Grand Prix,Pedro Diniz,23,0,20,13,Gearbox
+1995,British Grand Prix,Eddie Irvine,24,0,7,2,Electrical
+1995,German Grand Prix,Michael Schumacher,1,10,2,45,RAS
+1995,German Grand Prix,David Coulthard,2,6,3,45,RAS
+1995,German Grand Prix,Gerhard Berger,3,4,4,45,RAS
+1995,German Grand Prix,Johnny Herbert,4,3,9,45,RAS
+1995,German Grand Prix,Jean-Christophe Boullion,5,2,14,44,RAS
+1995,German Grand Prix,Aguri Suzuki,6,1,18,44,RAS
+1995,German Grand Prix,Ukyo Katayama,7,0,17,44,RAS
+1995,German Grand Prix,Andrea Montermini,8,0,23,42,RAS
+1995,German Grand Prix,Eddie Irvine,9,0,6,41,RAS
+1995,German Grand Prix,Mika Häkkinen,10,0,7,33,Engine
+1995,German Grand Prix,Heinz-Harald Frentzen,11,0,11,32,Engine
+1995,German Grand Prix,Luca Badoer,12,0,16,28,Oil leak
+1995,German Grand Prix,Giovanni Lavaggi,13,0,24,27,Gearbox
+1995,German Grand Prix,Roberto Moreno,14,0,22,27,Halfshaft
+1995,German Grand Prix,Rubens Barrichello,15,0,5,20,Engine
+1995,German Grand Prix,Mark Blundell,16,0,8,17,Engine
+1995,German Grand Prix,Olivier Panis,17,0,12,13,Water leak
+1995,German Grand Prix,Jean Alesi,18,0,10,12,Engine
+1995,German Grand Prix,Pierluigi Martini,19,0,20,11,Engine
+1995,German Grand Prix,Taki Inoue,20,0,19,9,Gearbox
+1995,German Grand Prix,Pedro Diniz,21,0,21,8,Brakes
+1995,German Grand Prix,Damon Hill,22,0,1,1,Spun off
+1995,German Grand Prix,Mika Salo,23,0,13,0,Clutch
+1995,German Grand Prix,Massimiliano Papis,24,0,15,0,Gearbox
+1995,Hungarian Grand Prix,Damon Hill,1,10,1,77,RAS
+1995,Hungarian Grand Prix,David Coulthard,2,6,2,77,RAS
+1995,Hungarian Grand Prix,Gerhard Berger,3,4,4,76,RAS
+1995,Hungarian Grand Prix,Johnny Herbert,4,3,9,76,RAS
+1995,Hungarian Grand Prix,Heinz-Harald Frentzen,5,2,11,76,RAS
+1995,Hungarian Grand Prix,Olivier Panis,6,1,10,76,RAS
+1995,Hungarian Grand Prix,Rubens Barrichello,7,0,14,76,RAS
+1995,Hungarian Grand Prix,Luca Badoer,8,0,12,75,RAS
+1995,Hungarian Grand Prix,Pedro Lamy,9,0,15,74,RAS
+1995,Hungarian Grand Prix,Jean-Christophe Boullion,10,0,19,74,RAS
+1995,Hungarian Grand Prix,Michael Schumacher,11,0,3,73,Engine
+1995,Hungarian Grand Prix,Andrea Montermini,12,0,22,73,RAS
+1995,Hungarian Grand Prix,Eddie Irvine,13,0,7,70,Clutch
+1995,Hungarian Grand Prix,Martin Brundle,14,0,8,67,Engine
+1995,Hungarian Grand Prix,Mika Salo,15,0,16,58,Throttle
+1995,Hungarian Grand Prix,Mark Blundell,16,0,13,54,Fuel leak
+1995,Hungarian Grand Prix,Ukyo Katayama,17,0,17,46,Spun off
+1995,Hungarian Grand Prix,Massimiliano Papis,18,0,20,45,Brakes
+1995,Hungarian Grand Prix,Jean Alesi,19,0,6,42,Brakes
+1995,Hungarian Grand Prix,Pedro Diniz,20,0,23,32,Engine
+1995,Hungarian Grand Prix,Taki Inoue,21,0,18,13,Engine
+1995,Hungarian Grand Prix,Roberto Moreno,22,0,21,8,Gearbox
+1995,Hungarian Grand Prix,Giovanni Lavaggi,23,0,24,5,Spun off
+1995,Hungarian Grand Prix,Mika Häkkinen,24,0,5,3,Engine
+1995,Belgian Grand Prix,Michael Schumacher,1,10,16,44,RAS
+1995,Belgian Grand Prix,Damon Hill,2,6,8,44,RAS
+1995,Belgian Grand Prix,Martin Brundle,3,4,13,44,RAS
+1995,Belgian Grand Prix,Heinz-Harald Frentzen,4,3,10,44,RAS
+1995,Belgian Grand Prix,Mark Blundell,5,2,6,44,RAS
+1995,Belgian Grand Prix,Rubens Barrichello,6,1,12,44,RAS
+1995,Belgian Grand Prix,Johnny Herbert,7,0,4,44,RAS
+1995,Belgian Grand Prix,Mika Salo,8,0,11,44,RAS
+1995,Belgian Grand Prix,Olivier Panis,9,0,9,44,RAS
+1995,Belgian Grand Prix,Pedro Lamy,10,0,17,44,RAS
+1995,Belgian Grand Prix,Jean-Christophe Boullion,11,0,14,43,RAS
+1995,Belgian Grand Prix,Taki Inoue,12,0,18,43,RAS
+1995,Belgian Grand Prix,Pedro Diniz,13,0,24,42,RAS
+1995,Belgian Grand Prix,Roberto Moreno,14,0,22,42,RAS
+1995,Belgian Grand Prix,Ukyo Katayama,15,0,15,28,Spun off
+1995,Belgian Grand Prix,Giovanni Lavaggi,16,0,23,27,Gearbox
+1995,Belgian Grand Prix,Luca Badoer,17,0,19,23,Spun off
+1995,Belgian Grand Prix,Gerhard Berger,18,0,1,22,Electrical
+1995,Belgian Grand Prix,Eddie Irvine,19,0,7,21,Heat shield fire
+1995,Belgian Grand Prix,Massimiliano Papis,20,0,20,20,Spun off
+1995,Belgian Grand Prix,Andrea Montermini,21,0,21,18,Out of fuel
+1995,Belgian Grand Prix,David Coulthard,22,0,5,13,Gearbox
+1995,Belgian Grand Prix,Jean Alesi,23,0,2,4,Suspension
+1995,Belgian Grand Prix,Mika Häkkinen,24,0,3,1,Spun off
+1995,Italian Grand Prix,Johnny Herbert,1,10,8,53,RAS
+1995,Italian Grand Prix,Mika Häkkinen,2,6,7,53,RAS
+1995,Italian Grand Prix,Heinz-Harald Frentzen,3,4,10,53,RAS
+1995,Italian Grand Prix,Mark Blundell,4,3,9,53,RAS
+1995,Italian Grand Prix,Mika Salo,5,2,16,52,RAS
+1995,Italian Grand Prix,Jean-Christophe Boullion,6,1,14,52,RAS
+1995,Italian Grand Prix,Massimiliano Papis,7,0,15,52,RAS
+1995,Italian Grand Prix,Taki Inoue,8,0,20,52,RAS
+1995,Italian Grand Prix,Pedro Diniz,9,0,23,50,RAS
+1995,Italian Grand Prix,Ukyo Katayama,10,0,17,47,RAS
+1995,Italian Grand Prix,Jean Alesi,11,0,5,45,Wheel bearing
+1995,Italian Grand Prix,Rubens Barrichello,12,0,6,43,Clutch
+1995,Italian Grand Prix,Eddie Irvine,13,0,12,40,Engine
+1995,Italian Grand Prix,Gerhard Berger,14,0,3,32,Suspension
+1995,Italian Grand Prix,Luca Badoer,15,0,18,26,Spun off
+1995,Italian Grand Prix,Michael Schumacher,16,0,2,23,Collision
+1995,Italian Grand Prix,Damon Hill,17,0,4,23,Collision
+1995,Italian Grand Prix,Olivier Panis,18,0,13,20,Spun off
+1995,Italian Grand Prix,David Coulthard,19,0,1,13,Spun off
+1995,Italian Grand Prix,Martin Brundle,20,0,11,10,Puncture
+1995,Italian Grand Prix,Giovanni Lavaggi,21,0,24,6,Spun off
+1995,Italian Grand Prix,Pedro Lamy,22,0,19,0,Transmission
+1995,Italian Grand Prix,Andrea Montermini,23,0,21,0,Accident
+1995,Italian Grand Prix,Roberto Moreno,24,0,22,0,Accident
+1995,Portuguese Grand Prix,David Coulthard,1,10,1,71,RAS
+1995,Portuguese Grand Prix,Michael Schumacher,2,6,3,71,RAS
+1995,Portuguese Grand Prix,Damon Hill,3,4,2,71,RAS
+1995,Portuguese Grand Prix,Gerhard Berger,4,3,4,71,RAS
+1995,Portuguese Grand Prix,Jean Alesi,5,2,7,71,RAS
+1995,Portuguese Grand Prix,Heinz-Harald Frentzen,6,1,5,70,RAS
+1995,Portuguese Grand Prix,Johnny Herbert,7,0,6,70,RAS
+1995,Portuguese Grand Prix,Martin Brundle,8,0,9,70,RAS
+1995,Portuguese Grand Prix,Mark Blundell,9,0,12,70,RAS
+1995,Portuguese Grand Prix,Eddie Irvine,10,0,10,70,RAS
+1995,Portuguese Grand Prix,Rubens Barrichello,11,0,8,70,RAS
+1995,Portuguese Grand Prix,Jean-Christophe Boullion,12,0,14,70,RAS
+1995,Portuguese Grand Prix,Mika Salo,13,0,15,69,RAS
+1995,Portuguese Grand Prix,Luca Badoer,14,0,18,68,RAS
+1995,Portuguese Grand Prix,Taki Inoue,15,0,19,68,RAS
+1995,Portuguese Grand Prix,Pedro Diniz,16,0,22,66,RAS
+1995,Portuguese Grand Prix,Roberto Moreno,17,0,23,64,RAS
+1995,Portuguese Grand Prix,Andrea Montermini,18,0,21,53,Gearbox
+1995,Portuguese Grand Prix,Mika Häkkinen,19,0,13,44,Engine
+1995,Portuguese Grand Prix,Jean-Denis Délétraz,20,0,24,14,Physical
+1995,Portuguese Grand Prix,Olivier Panis,21,0,11,10,Spun off
+1995,Portuguese Grand Prix,Pedro Lamy,22,0,17,7,Gearbox
+1995,Portuguese Grand Prix,Ukyo Katayama,23,0,16,0,Collision
+1995,Portuguese Grand Prix,Massimiliano Papis,24,0,20,0,Gearbox
+1995,European Grand Prix,Michael Schumacher,1,10,3,67,RAS
+1995,European Grand Prix,Jean Alesi,2,6,6,67,RAS
+1995,European Grand Prix,David Coulthard,3,4,1,67,RAS
+1995,European Grand Prix,Rubens Barrichello,4,3,11,66,RAS
+1995,European Grand Prix,Johnny Herbert,5,2,7,66,RAS
+1995,European Grand Prix,Eddie Irvine,6,1,5,66,RAS
+1995,European Grand Prix,Martin Brundle,7,0,12,66,RAS
+1995,European Grand Prix,Mika Häkkinen,8,0,9,65,RAS
+1995,European Grand Prix,Pedro Lamy,9,0,16,64,RAS
+1995,European Grand Prix,Mika Salo,10,0,15,64,RAS
+1995,European Grand Prix,Luca Badoer,11,0,18,64,RAS
+1995,European Grand Prix,Massimiliano Papis,12,0,17,64,RAS
+1995,European Grand Prix,Pedro Diniz,13,0,22,62,RAS
+1995,European Grand Prix,Gabriele Tarquini,14,0,19,61,RAS
+1995,European Grand Prix,Jean-Denis Délétraz,15,0,24,60,RAS
+1995,European Grand Prix,Damon Hill,16,0,2,58,Spun off
+1995,European Grand Prix,Andrea Montermini,17,0,20,45,Out of fuel
+1995,European Grand Prix,Jean-Christophe Boullion,18,0,13,44,Collision
+1995,European Grand Prix,Gerhard Berger,19,0,4,40,Electrical
+1995,European Grand Prix,Roberto Moreno,20,0,23,22,Halfshaft
+1995,European Grand Prix,Heinz-Harald Frentzen,21,0,8,17,Spun off
+1995,European Grand Prix,Olivier Panis,22,0,14,14,Spun off
+1995,European Grand Prix,Mark Blundell,23,0,10,14,Accident
+1995,European Grand Prix,Taki Inoue,24,0,21,0,Electrical
+1995,Pacific Grand Prix,Michael Schumacher,1,10,3,83,RAS
+1995,Pacific Grand Prix,David Coulthard,2,6,1,83,RAS
+1995,Pacific Grand Prix,Damon Hill,3,4,2,83,RAS
+1995,Pacific Grand Prix,Gerhard Berger,4,3,5,82,RAS
+1995,Pacific Grand Prix,Jean Alesi,5,2,4,82,RAS
+1995,Pacific Grand Prix,Johnny Herbert,6,1,7,82,RAS
+1995,Pacific Grand Prix,Heinz-Harald Frentzen,7,0,8,82,RAS
+1995,Pacific Grand Prix,Olivier Panis,8,0,9,81,RAS
+1995,Pacific Grand Prix,Mark Blundell,9,0,10,81,RAS
+1995,Pacific Grand Prix,Jan Magnussen,10,0,12,81,RAS
+1995,Pacific Grand Prix,Eddie Irvine,11,0,6,81,RAS
+1995,Pacific Grand Prix,Mika Salo,12,0,18,80,RAS
+1995,Pacific Grand Prix,Pedro Lamy,13,0,14,80,RAS
+1995,Pacific Grand Prix,Ukyo Katayama,14,0,17,80,RAS
+1995,Pacific Grand Prix,Luca Badoer,15,0,16,80,RAS
+1995,Pacific Grand Prix,Roberto Moreno,16,0,22,78,RAS
+1995,Pacific Grand Prix,Pedro Diniz,17,0,21,77,RAS
+1995,Pacific Grand Prix,Rubens Barrichello,18,0,11,67,Electrical
+1995,Pacific Grand Prix,Gianni Morbidelli,19,0,19,63,Engine
+1995,Pacific Grand Prix,Taki Inoue,20,0,20,38,Electrical
+1995,Pacific Grand Prix,Andrea Montermini,21,0,23,14,Gearbox
+1995,Pacific Grand Prix,Aguri Suzuki,22,0,13,10,Spun off
+1995,Pacific Grand Prix,Jean-Christophe Boullion,23,0,15,7,Spun off
+1995,Pacific Grand Prix,Bertrand Gachot,24,0,24,2,Gearbox
+1995,Japanese Grand Prix,Michael Schumacher,1,10,1,53,RAS
+1995,Japanese Grand Prix,Mika Häkkinen,2,6,3,53,RAS
+1995,Japanese Grand Prix,Johnny Herbert,3,4,9,53,RAS
+1995,Japanese Grand Prix,Eddie Irvine,4,3,7,53,RAS
+1995,Japanese Grand Prix,Olivier Panis,5,2,11,52,RAS
+1995,Japanese Grand Prix,Mika Salo,6,1,12,52,RAS
+1995,Japanese Grand Prix,Mark Blundell,7,0,23,52,RAS
+1995,Japanese Grand Prix,Heinz-Harald Frentzen,8,0,8,52,RAS
+1995,Japanese Grand Prix,Luca Badoer,9,0,17,51,RAS
+1995,Japanese Grand Prix,Karl Wendlinger,10,0,15,51,RAS
+1995,Japanese Grand Prix,Pedro Lamy,11,0,16,51,RAS
+1995,Japanese Grand Prix,Taki Inoue,12,0,18,51,RAS
+1995,Japanese Grand Prix,Damon Hill,13,0,4,40,Spun off
+1995,Japanese Grand Prix,David Coulthard,14,0,6,39,Spun off
+1995,Japanese Grand Prix,Pedro Diniz,15,0,20,32,Spun off
+1995,Japanese Grand Prix,Jean Alesi,16,0,2,24,Engine
+1995,Japanese Grand Prix,Andrea Montermini,17,0,19,23,Spun off
+1995,Japanese Grand Prix,Gerhard Berger,18,0,5,16,Electrical
+1995,Japanese Grand Prix,Rubens Barrichello,19,0,10,15,Spun off
+1995,Japanese Grand Prix,Ukyo Katayama,20,0,13,12,Spun off
+1995,Japanese Grand Prix,Bertrand Gachot,21,0,22,6,Halfshaft
+1995,Japanese Grand Prix,Roberto Moreno,22,0,21,1,Gearbox
+1995,Japanese Grand Prix,Gianni Morbidelli,23,0,14,0,Spun off
+1995,Japanese Grand Prix,Aguri Suzuki,24,0,0,0,Accident
+1995,Australian Grand Prix,Damon Hill,1,10,1,81,RAS
+1995,Australian Grand Prix,Olivier Panis,2,6,12,79,RAS
+1995,Australian Grand Prix,Gianni Morbidelli,3,4,13,79,RAS
+1995,Australian Grand Prix,Mark Blundell,4,3,10,79,RAS
+1995,Australian Grand Prix,Mika Salo,5,2,14,78,RAS
+1995,Australian Grand Prix,Pedro Lamy,6,1,17,78,RAS
+1995,Australian Grand Prix,Pedro Diniz,7,0,21,77,RAS
+1995,Australian Grand Prix,Bertrand Gachot,8,0,23,76,RAS
+1995,Australian Grand Prix,Ukyo Katayama,9,0,16,70,Engine
+1995,Australian Grand Prix,Johnny Herbert,10,0,8,69,Transmission
+1995,Australian Grand Prix,Eddie Irvine,11,0,9,62,Engine
+1995,Australian Grand Prix,Heinz-Harald Frentzen,12,0,6,39,Gearbox
+1995,Australian Grand Prix,Gerhard Berger,13,0,4,34,Engine
+1995,Australian Grand Prix,Martin Brundle,14,0,11,29,Spun off
+1995,Australian Grand Prix,Michael Schumacher,15,0,3,25,Collision
+1995,Australian Grand Prix,Jean Alesi,16,0,5,23,Collision
+1995,Australian Grand Prix,Roberto Moreno,17,0,20,21,Spun off
+1995,Australian Grand Prix,Rubens Barrichello,18,0,7,20,Spun off
+1995,Australian Grand Prix,David Coulthard,19,0,2,19,Accident
+1995,Australian Grand Prix,Taki Inoue,20,0,19,15,Spun off
+1995,Australian Grand Prix,Karl Wendlinger,21,0,18,8,Physical
+1995,Australian Grand Prix,Andrea Montermini,22,0,22,2,Gearbox
+1995,Australian Grand Prix,Luca Badoer,23,0,15,0,Electrical
+1995,Australian Grand Prix,Mika Häkkinen,24,0,24,0,Injured

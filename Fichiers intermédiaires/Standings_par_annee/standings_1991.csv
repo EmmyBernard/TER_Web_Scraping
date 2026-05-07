@@ -1,0 +1,417 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1991,United States Grand Prix,Ayrton Senna,1,10,1,81,RAS
+1991,United States Grand Prix,Alain Prost,2,6,2,81,RAS
+1991,United States Grand Prix,Nelson Piquet,3,4,5,81,RAS
+1991,United States Grand Prix,Stefano Modena,4,3,11,81,RAS
+1991,United States Grand Prix,Satoru Nakajima,5,2,16,80,RAS
+1991,United States Grand Prix,Aguri Suzuki,6,1,21,79,RAS
+1991,United States Grand Prix,Nicola Larini,7,0,17,78,RAS
+1991,United States Grand Prix,Gabriele Tarquini,8,0,22,77,RAS
+1991,United States Grand Prix,Pierluigi Martini,9,0,15,75,Engine
+1991,United States Grand Prix,Bertrand Gachot,10,0,14,75,Engine
+1991,United States Grand Prix,Martin Brundle,11,0,12,73,RAS
+1991,United States Grand Prix,Jean Alesi,12,0,6,72,Gearbox
+1991,United States Grand Prix,Mika Häkkinen,13,0,13,59,Engine
+1991,United States Grand Prix,Riccardo Patrese,14,0,3,49,Gearbox
+1991,United States Grand Prix,Roberto Moreno,15,0,8,49,Collision
+1991,United States Grand Prix,Michele Alboreto,16,0,25,41,Engine
+1991,United States Grand Prix,Ivan Capelli,17,0,18,40,Gearbox
+1991,United States Grand Prix,Thierry Boutsen,18,0,20,40,Engine
+1991,United States Grand Prix,Gerhard Berger,19,0,7,36,Fuel pump
+1991,United States Grand Prix,Nigel Mansell,20,0,4,35,Gearbox
+1991,United States Grand Prix,Maurício Gugelmin,21,0,23,34,Gearbox
+1991,United States Grand Prix,Mark Blundell,22,0,24,32,Spun off
+1991,United States Grand Prix,Emanuele Pirro,23,0,9,16,Gearbox
+1991,United States Grand Prix,Gianni Morbidelli,24,0,26,15,Gearbox
+1991,United States Grand Prix,Jyrki Järvilehto,25,0,10,12,Gearbox
+1991,United States Grand Prix,Éric Bernard,26,0,19,4,Engine
+1991,Brazilian Grand Prix,Ayrton Senna,1,10,1,71,RAS
+1991,Brazilian Grand Prix,Riccardo Patrese,2,6,2,71,RAS
+1991,Brazilian Grand Prix,Gerhard Berger,3,4,4,71,RAS
+1991,Brazilian Grand Prix,Alain Prost,4,3,6,71,RAS
+1991,Brazilian Grand Prix,Nelson Piquet,5,2,7,71,RAS
+1991,Brazilian Grand Prix,Jean Alesi,6,1,5,71,RAS
+1991,Brazilian Grand Prix,Roberto Moreno,7,0,14,70,RAS
+1991,Brazilian Grand Prix,Gianni Morbidelli,8,0,21,69,RAS
+1991,Brazilian Grand Prix,Mika Häkkinen,9,0,22,68,RAS
+1991,Brazilian Grand Prix,Thierry Boutsen,10,0,18,68,RAS
+1991,Brazilian Grand Prix,Emanuele Pirro,11,0,12,68,RAS
+1991,Brazilian Grand Prix,Martin Brundle,12,0,26,67,RAS
+1991,Brazilian Grand Prix,Bertrand Gachot,13,0,10,63,Fuel system
+1991,Brazilian Grand Prix,Nigel Mansell,14,0,3,59,Gearbox
+1991,Brazilian Grand Prix,Érik Comas,15,0,23,50,Engine
+1991,Brazilian Grand Prix,Pierluigi Martini,16,0,20,47,Spun off
+1991,Brazilian Grand Prix,Mark Blundell,17,0,25,34,Engine
+1991,Brazilian Grand Prix,Éric Bernard,18,0,11,33,Radiator
+1991,Brazilian Grand Prix,Jyrki Järvilehto,19,0,19,22,Electrical
+1991,Brazilian Grand Prix,Andrea de Cesaris,20,0,13,20,Engine
+1991,Brazilian Grand Prix,Stefano Modena,21,0,9,19,Gearbox
+1991,Brazilian Grand Prix,Ivan Capelli,22,0,15,16,Transmission
+1991,Brazilian Grand Prix,Satoru Nakajima,23,0,16,12,Spun off
+1991,Brazilian Grand Prix,Maurício Gugelmin,24,0,8,9,Physical
+1991,Brazilian Grand Prix,Gabriele Tarquini,25,0,24,0,Suspension
+1991,Brazilian Grand Prix,Aguri Suzuki,26,0,17,0,Fuel pump
+1991,San Marino Grand Prix,Ayrton Senna,1,10,1,61,RAS
+1991,San Marino Grand Prix,Gerhard Berger,2,6,5,61,RAS
+1991,San Marino Grand Prix,Jyrki Järvilehto,3,4,16,60,RAS
+1991,San Marino Grand Prix,Pierluigi Martini,4,3,9,59,RAS
+1991,San Marino Grand Prix,Mika Häkkinen,5,2,25,58,RAS
+1991,San Marino Grand Prix,Julian Bailey,6,1,26,58,RAS
+1991,San Marino Grand Prix,Thierry Boutsen,7,0,24,58,RAS
+1991,San Marino Grand Prix,Mark Blundell,8,0,23,58,RAS
+1991,San Marino Grand Prix,Eric van de Poele,9,0,21,57,Out of fuel
+1991,San Marino Grand Prix,Érik Comas,10,0,19,57,RAS
+1991,San Marino Grand Prix,Martin Brundle,11,0,18,57,RAS
+1991,San Marino Grand Prix,Maurício Gugelmin,12,0,15,55,Engine
+1991,San Marino Grand Prix,Roberto Moreno,13,0,13,54,Engine
+1991,San Marino Grand Prix,Stefano Modena,14,0,6,41,Transmission
+1991,San Marino Grand Prix,Andrea de Cesaris,15,0,11,37,Gearbox
+1991,San Marino Grand Prix,Bertrand Gachot,16,0,13,37,Suspension
+1991,San Marino Grand Prix,Ivan Capelli,17,0,22,24,Spun off
+1991,San Marino Grand Prix,Éric Bernard,18,0,17,17,Engine
+1991,San Marino Grand Prix,Riccardo Patrese,19,0,2,17,Electrical
+1991,San Marino Grand Prix,Satoru Nakajima,20,0,10,15,Transmission
+1991,San Marino Grand Prix,Gianni Morbidelli,21,0,8,10,Gearbox
+1991,San Marino Grand Prix,Jean Alesi,22,0,7,2,Spun off
+1991,San Marino Grand Prix,Aguri Suzuki,23,0,20,2,Spun off
+1991,San Marino Grand Prix,Nelson Piquet,24,0,14,1,Spun off
+1991,San Marino Grand Prix,Nigel Mansell,25,0,4,0,Collision
+1991,San Marino Grand Prix,Alain Prost,26,0,3,0,Spun off
+1991,Monaco Grand Prix,Ayrton Senna,1,10,1,78,RAS
+1991,Monaco Grand Prix,Nigel Mansell,2,6,5,78,RAS
+1991,Monaco Grand Prix,Jean Alesi,3,4,9,78,RAS
+1991,Monaco Grand Prix,Roberto Moreno,4,3,8,77,RAS
+1991,Monaco Grand Prix,Alain Prost,5,2,7,77,RAS
+1991,Monaco Grand Prix,Emanuele Pirro,6,1,12,77,RAS
+1991,Monaco Grand Prix,Thierry Boutsen,7,0,16,76,RAS
+1991,Monaco Grand Prix,Bertrand Gachot,8,0,23,76,RAS
+1991,Monaco Grand Prix,Éric Bernard,9,0,13,76,RAS
+1991,Monaco Grand Prix,Érik Comas,10,0,26,76,RAS
+1991,Monaco Grand Prix,Jyrki Järvilehto,11,0,21,75,RAS
+1991,Monaco Grand Prix,Pierluigi Martini,12,0,14,72,RAS
+1991,Monaco Grand Prix,Mika Häkkinen,13,0,25,64,Oil leak
+1991,Monaco Grand Prix,Gianni Morbidelli,14,0,17,49,Gearbox
+1991,Monaco Grand Prix,Maurício Gugelmin,15,0,15,43,Throttle
+1991,Monaco Grand Prix,Stefano Modena,16,0,2,42,Engine
+1991,Monaco Grand Prix,Riccardo Patrese,17,0,3,42,Spun off
+1991,Monaco Grand Prix,Mark Blundell,18,0,19,41,Spun off
+1991,Monaco Grand Prix,Michele Alboreto,19,0,22,39,Engine
+1991,Monaco Grand Prix,Satoru Nakajima,20,0,11,35,Spun off
+1991,Monaco Grand Prix,Aguri Suzuki,21,0,20,24,Engine
+1991,Monaco Grand Prix,Andrea de Cesaris,22,0,10,21,Throttle
+1991,Monaco Grand Prix,Ivan Capelli,23,0,18,12,Brakes
+1991,Monaco Grand Prix,Gabriele Tarquini,24,0,24,9,Gearbox
+1991,Monaco Grand Prix,Gerhard Berger,25,0,6,9,Spun off
+1991,Monaco Grand Prix,Nelson Piquet,26,0,4,0,Suspension
+1991,Canadian Grand Prix,Nelson Piquet,1,10,8,69,RAS
+1991,Canadian Grand Prix,Stefano Modena,2,6,9,69,RAS
+1991,Canadian Grand Prix,Riccardo Patrese,3,4,1,69,RAS
+1991,Canadian Grand Prix,Andrea de Cesaris,4,3,11,69,RAS
+1991,Canadian Grand Prix,Bertrand Gachot,5,2,14,69,RAS
+1991,Canadian Grand Prix,Nigel Mansell,6,1,2,68,Electrical
+1991,Canadian Grand Prix,Pierluigi Martini,7,0,18,68,RAS
+1991,Canadian Grand Prix,Érik Comas,8,0,26,68,RAS
+1991,Canadian Grand Prix,Emanuele Pirro,9,0,10,68,RAS
+1991,Canadian Grand Prix,Satoru Nakajima,10,0,12,67,RAS
+1991,Canadian Grand Prix,Maurício Gugelmin,11,0,23,61,Engine
+1991,Canadian Grand Prix,Jyrki Järvilehto,12,0,17,50,Engine
+1991,Canadian Grand Prix,Stefan Johansson,13,0,25,48,Throttle
+1991,Canadian Grand Prix,Ivan Capelli,14,0,13,42,Engine
+1991,Canadian Grand Prix,Jean Alesi,15,0,7,34,Engine
+1991,Canadian Grand Prix,Éric Bernard,16,0,19,29,Gearbox
+1991,Canadian Grand Prix,Alain Prost,17,0,4,27,Gearbox
+1991,Canadian Grand Prix,Thierry Boutsen,18,0,16,27,Engine
+1991,Canadian Grand Prix,Ayrton Senna,19,0,3,25,Alternator
+1991,Canadian Grand Prix,Mika Häkkinen,20,0,24,21,Spun off
+1991,Canadian Grand Prix,Martin Brundle,21,0,20,21,Engine
+1991,Canadian Grand Prix,Gianni Morbidelli,22,0,15,20,Spun off
+1991,Canadian Grand Prix,Roberto Moreno,23,0,5,10,Suspension
+1991,Canadian Grand Prix,Gerhard Berger,24,0,6,4,Injection
+1991,Canadian Grand Prix,Aguri Suzuki,25,0,22,3,Fuel leak
+1991,Canadian Grand Prix,Michele Alboreto,26,0,21,2,Throttle
+1991,Mexican Grand Prix,Riccardo Patrese,1,10,1,67,RAS
+1991,Mexican Grand Prix,Nigel Mansell,2,6,2,67,RAS
+1991,Mexican Grand Prix,Ayrton Senna,3,4,3,67,RAS
+1991,Mexican Grand Prix,Andrea de Cesaris,4,3,11,66,RAS
+1991,Mexican Grand Prix,Roberto Moreno,5,2,9,66,RAS
+1991,Mexican Grand Prix,Éric Bernard,6,1,23,66,RAS
+1991,Mexican Grand Prix,Gianni Morbidelli,7,0,14,66,RAS
+1991,Mexican Grand Prix,Thierry Boutsen,8,0,10,65,RAS
+1991,Mexican Grand Prix,Mika Häkkinen,9,0,24,65,RAS
+1991,Mexican Grand Prix,Johnny Herbert,10,0,25,65,RAS
+1991,Mexican Grand Prix,Stefano Modena,11,0,8,65,RAS
+1991,Mexican Grand Prix,Satoru Nakajima,12,0,13,64,RAS
+1991,Mexican Grand Prix,Mark Blundell,13,0,12,54,Engine
+1991,Mexican Grand Prix,Bertrand Gachot,14,0,20,51,Spun off
+1991,Mexican Grand Prix,Aguri Suzuki,15,0,19,48,Gearbox
+1991,Mexican Grand Prix,Nelson Piquet,16,0,6,44,Wheel bearing
+1991,Mexican Grand Prix,Jean Alesi,17,0,4,42,Clutch
+1991,Mexican Grand Prix,Jyrki Järvilehto,18,0,16,30,Engine
+1991,Mexican Grand Prix,Michele Alboreto,19,0,26,24,Engine
+1991,Mexican Grand Prix,Martin Brundle,20,0,17,20,Wheel
+1991,Mexican Grand Prix,Ivan Capelli,21,0,22,19,Engine
+1991,Mexican Grand Prix,Alain Prost,22,0,7,16,Alternator
+1991,Mexican Grand Prix,Maurício Gugelmin,23,0,18,15,Engine
+1991,Mexican Grand Prix,Olivier Grouillard,24,0,21,13,Engine
+1991,Mexican Grand Prix,Gerhard Berger,25,0,5,5,Engine
+1991,Mexican Grand Prix,Pierluigi Martini,26,0,15,4,Spun off
+1991,French Grand Prix,Nigel Mansell,1,10,4,72,RAS
+1991,French Grand Prix,Alain Prost,2,6,2,72,RAS
+1991,French Grand Prix,Ayrton Senna,3,4,3,72,RAS
+1991,French Grand Prix,Jean Alesi,4,3,6,72,RAS
+1991,French Grand Prix,Riccardo Patrese,5,2,1,71,RAS
+1991,French Grand Prix,Andrea de Cesaris,6,1,13,71,RAS
+1991,French Grand Prix,Maurício Gugelmin,7,0,9,70,RAS
+1991,French Grand Prix,Nelson Piquet,8,0,7,70,RAS
+1991,French Grand Prix,Pierluigi Martini,9,0,12,70,RAS
+1991,French Grand Prix,Johnny Herbert,10,0,20,70,RAS
+1991,French Grand Prix,Érik Comas,11,0,14,70,RAS
+1991,French Grand Prix,Thierry Boutsen,12,0,16,69,RAS
+1991,French Grand Prix,Roberto Moreno,13,0,8,63,Physical
+1991,French Grand Prix,Stefano Modena,14,0,11,57,Gearbox
+1991,French Grand Prix,Olivier Grouillard,15,0,21,47,Oil leak
+1991,French Grand Prix,Éric Bernard,16,0,23,43,Transmission
+1991,French Grand Prix,Jyrki Järvilehto,17,0,26,39,Tyre
+1991,French Grand Prix,Mark Blundell,18,0,17,36,Spun off
+1991,French Grand Prix,Aguri Suzuki,19,0,22,32,Transmission
+1991,French Grand Prix,Michele Alboreto,20,0,25,31,Gearbox
+1991,French Grand Prix,Martin Brundle,21,0,24,21,Gearbox
+1991,French Grand Prix,Satoru Nakajima,22,0,18,12,Spun off
+1991,French Grand Prix,Gianni Morbidelli,23,0,10,8,Collision
+1991,French Grand Prix,Ivan Capelli,24,0,15,7,Spun off
+1991,French Grand Prix,Gerhard Berger,25,0,5,6,Engine
+1991,French Grand Prix,Bertrand Gachot,26,0,19,0,Spun off
+1991,British Grand Prix,Nigel Mansell,1,10,1,59,RAS
+1991,British Grand Prix,Gerhard Berger,2,6,4,59,RAS
+1991,British Grand Prix,Alain Prost,3,4,5,59,RAS
+1991,British Grand Prix,Ayrton Senna,4,3,2,58,Out of fuel
+1991,British Grand Prix,Nelson Piquet,5,2,8,58,RAS
+1991,British Grand Prix,Bertrand Gachot,6,1,17,58,RAS
+1991,British Grand Prix,Stefano Modena,7,0,10,58,RAS
+1991,British Grand Prix,Satoru Nakajima,8,0,15,58,RAS
+1991,British Grand Prix,Pierluigi Martini,9,0,23,58,RAS
+1991,British Grand Prix,Emanuele Pirro,10,0,18,57,RAS
+1991,British Grand Prix,Gianni Morbidelli,11,0,20,57,RAS
+1991,British Grand Prix,Mika Häkkinen,12,0,25,57,RAS
+1991,British Grand Prix,Jyrki Järvilehto,13,0,11,56,RAS
+1991,British Grand Prix,Johnny Herbert,14,0,24,55,Oil pressure
+1991,British Grand Prix,Mark Blundell,15,0,12,52,Engine
+1991,British Grand Prix,Andrea de Cesaris,16,0,13,41,Spun off
+1991,British Grand Prix,Jean Alesi,17,0,6,31,Collision
+1991,British Grand Prix,Aguri Suzuki,18,0,22,29,Collision
+1991,British Grand Prix,Thierry Boutsen,19,0,19,29,Engine
+1991,British Grand Prix,Martin Brundle,20,0,14,28,Throttle
+1991,British Grand Prix,Michele Alboreto,21,0,26,25,Transmission
+1991,British Grand Prix,Maurício Gugelmin,22,0,9,24,Chassis
+1991,British Grand Prix,Roberto Moreno,23,0,7,21,Gearbox
+1991,British Grand Prix,Éric Bernard,24,0,21,21,Transmission
+1991,British Grand Prix,Ivan Capelli,25,0,16,16,Spun off
+1991,British Grand Prix,Riccardo Patrese,26,0,3,1,Collision
+1991,German Grand Prix,Nigel Mansell,1,10,1,45,RAS
+1991,German Grand Prix,Riccardo Patrese,2,6,4,45,RAS
+1991,German Grand Prix,Jean Alesi,3,4,6,45,RAS
+1991,German Grand Prix,Gerhard Berger,4,3,3,45,RAS
+1991,German Grand Prix,Andrea de Cesaris,5,2,7,45,RAS
+1991,German Grand Prix,Bertrand Gachot,6,1,11,45,RAS
+1991,German Grand Prix,Ayrton Senna,7,0,2,44,Out of fuel
+1991,German Grand Prix,Roberto Moreno,8,0,9,44,RAS
+1991,German Grand Prix,Thierry Boutsen,9,0,17,44,RAS
+1991,German Grand Prix,Emanuele Pirro,10,0,18,44,RAS
+1991,German Grand Prix,Martin Brundle,11,0,15,43,RAS
+1991,German Grand Prix,Mark Blundell,12,0,21,43,RAS
+1991,German Grand Prix,Stefano Modena,13,0,14,41,RAS
+1991,German Grand Prix,Alain Prost,14,0,5,37,Spun off
+1991,German Grand Prix,Ivan Capelli,15,0,12,36,Engine
+1991,German Grand Prix,Jyrki Järvilehto,16,0,20,35,Engine
+1991,German Grand Prix,Nelson Piquet,17,0,8,27,Engine
+1991,German Grand Prix,Satoru Nakajima,18,0,13,26,Gearbox
+1991,German Grand Prix,Érik Comas,19,0,26,22,Engine
+1991,German Grand Prix,Maurício Gugelmin,20,0,16,21,Gearbox
+1991,German Grand Prix,Mika Häkkinen,21,0,23,19,Engine
+1991,German Grand Prix,Aguri Suzuki,22,0,22,15,Engine
+1991,German Grand Prix,Gianni Morbidelli,23,0,19,14,Differential
+1991,German Grand Prix,Pierluigi Martini,24,0,10,11,Differential
+1991,German Grand Prix,Éric Bernard,25,0,25,9,Transmission
+1991,German Grand Prix,Nicola Larini,26,0,24,0,Spun off
+1991,Hungarian Grand Prix,Ayrton Senna,1,10,1,77,RAS
+1991,Hungarian Grand Prix,Nigel Mansell,2,6,3,77,RAS
+1991,Hungarian Grand Prix,Riccardo Patrese,3,4,2,77,RAS
+1991,Hungarian Grand Prix,Gerhard Berger,4,3,5,77,RAS
+1991,Hungarian Grand Prix,Jean Alesi,5,2,6,77,RAS
+1991,Hungarian Grand Prix,Ivan Capelli,6,1,9,76,RAS
+1991,Hungarian Grand Prix,Andrea de Cesaris,7,0,17,76,RAS
+1991,Hungarian Grand Prix,Roberto Moreno,8,0,15,76,RAS
+1991,Hungarian Grand Prix,Bertrand Gachot,9,0,16,76,RAS
+1991,Hungarian Grand Prix,Érik Comas,10,0,25,75,RAS
+1991,Hungarian Grand Prix,Maurício Gugelmin,11,0,13,75,RAS
+1991,Hungarian Grand Prix,Stefano Modena,12,0,8,75,RAS
+1991,Hungarian Grand Prix,Gianni Morbidelli,13,0,23,75,RAS
+1991,Hungarian Grand Prix,Mika Häkkinen,14,0,26,74,RAS
+1991,Hungarian Grand Prix,Satoru Nakajima,15,0,14,74,RAS
+1991,Hungarian Grand Prix,Nicola Larini,16,0,24,74,RAS
+1991,Hungarian Grand Prix,Thierry Boutsen,17,0,19,71,Engine
+1991,Hungarian Grand Prix,Pierluigi Martini,18,0,18,65,Engine
+1991,Hungarian Grand Prix,Mark Blundell,19,0,20,62,Tyre
+1991,Hungarian Grand Prix,Martin Brundle,20,0,10,59,Physical
+1991,Hungarian Grand Prix,Jyrki Järvilehto,21,0,12,49,Engine
+1991,Hungarian Grand Prix,Nelson Piquet,22,0,11,38,Gearbox
+1991,Hungarian Grand Prix,Éric Bernard,23,0,21,38,Engine
+1991,Hungarian Grand Prix,Aguri Suzuki,24,0,22,38,Engine
+1991,Hungarian Grand Prix,Emanuele Pirro,25,0,7,37,Engine
+1991,Hungarian Grand Prix,Alain Prost,26,0,4,28,Engine
+1991,Belgian Grand Prix,Ayrton Senna,1,10,1,44,RAS
+1991,Belgian Grand Prix,Gerhard Berger,2,6,4,44,RAS
+1991,Belgian Grand Prix,Nelson Piquet,3,4,6,44,RAS
+1991,Belgian Grand Prix,Roberto Moreno,4,3,8,44,RAS
+1991,Belgian Grand Prix,Riccardo Patrese,5,2,17,44,RAS
+1991,Belgian Grand Prix,Mark Blundell,6,1,13,44,RAS
+1991,Belgian Grand Prix,Johnny Herbert,7,0,21,44,RAS
+1991,Belgian Grand Prix,Emanuele Pirro,8,0,25,43,RAS
+1991,Belgian Grand Prix,Martin Brundle,9,0,16,43,RAS
+1991,Belgian Grand Prix,Olivier Grouillard,10,0,23,43,RAS
+1991,Belgian Grand Prix,Thierry Boutsen,11,0,18,43,RAS
+1991,Belgian Grand Prix,Pierluigi Martini,12,0,9,42,Gearbox
+1991,Belgian Grand Prix,Andrea de Cesaris,13,0,11,41,Engine
+1991,Belgian Grand Prix,Stefano Modena,14,0,10,33,Oil leak
+1991,Belgian Grand Prix,Jyrki Järvilehto,15,0,14,33,Oil pressure
+1991,Belgian Grand Prix,Jean Alesi,16,0,5,30,Engine
+1991,Belgian Grand Prix,Gianni Morbidelli,17,0,19,29,Gearbox
+1991,Belgian Grand Prix,Mika Häkkinen,18,0,24,25,Engine
+1991,Belgian Grand Prix,Érik Comas,19,0,26,25,Engine
+1991,Belgian Grand Prix,Nigel Mansell,20,0,3,22,Electrical
+1991,Belgian Grand Prix,Éric Bernard,21,0,20,21,Gearbox
+1991,Belgian Grand Prix,Ivan Capelli,22,0,12,13,Engine
+1991,Belgian Grand Prix,Satoru Nakajima,23,0,22,7,Spun off
+1991,Belgian Grand Prix,Alain Prost,24,0,2,2,Fuel leak
+1991,Belgian Grand Prix,Maurício Gugelmin,25,0,15,1,Engine
+1991,Belgian Grand Prix,Michael Schumacher,26,0,7,0,Clutch
+1991,Italian Grand Prix,Nigel Mansell,1,10,2,53,RAS
+1991,Italian Grand Prix,Ayrton Senna,2,6,1,53,RAS
+1991,Italian Grand Prix,Alain Prost,3,4,5,53,RAS
+1991,Italian Grand Prix,Gerhard Berger,4,3,3,53,RAS
+1991,Italian Grand Prix,Michael Schumacher,5,2,7,53,RAS
+1991,Italian Grand Prix,Nelson Piquet,6,1,8,53,RAS
+1991,Italian Grand Prix,Andrea de Cesaris,7,0,14,53,RAS
+1991,Italian Grand Prix,Ivan Capelli,8,0,12,53,RAS
+1991,Italian Grand Prix,Gianni Morbidelli,9,0,17,52,RAS
+1991,Italian Grand Prix,Emanuele Pirro,10,0,16,52,RAS
+1991,Italian Grand Prix,Érik Comas,11,0,22,52,RAS
+1991,Italian Grand Prix,Mark Blundell,12,0,11,52,RAS
+1991,Italian Grand Prix,Martin Brundle,13,0,19,52,RAS
+1991,Italian Grand Prix,Mika Häkkinen,14,0,25,49,RAS
+1991,Italian Grand Prix,Maurício Gugelmin,15,0,18,49,RAS
+1991,Italian Grand Prix,Nicola Larini,16,0,23,48,RAS
+1991,Italian Grand Prix,Olivier Grouillard,17,0,26,46,Engine
+1991,Italian Grand Prix,Jyrki Järvilehto,18,0,20,35,Overheating
+1991,Italian Grand Prix,Stefano Modena,19,0,13,32,Engine
+1991,Italian Grand Prix,Jean Alesi,20,0,6,29,Engine
+1991,Italian Grand Prix,Riccardo Patrese,21,0,4,27,Gearbox
+1991,Italian Grand Prix,Satoru Nakajima,22,0,15,24,Throttle
+1991,Italian Grand Prix,Éric Bernard,23,0,24,21,Engine
+1991,Italian Grand Prix,Pierluigi Martini,24,0,10,8,Spun off
+1991,Italian Grand Prix,Roberto Moreno,25,0,9,2,Spun off
+1991,Italian Grand Prix,Thierry Boutsen,26,0,21,1,Spun off
+1991,Portuguese Grand Prix,Riccardo Patrese,1,10,1,71,RAS
+1991,Portuguese Grand Prix,Ayrton Senna,2,6,3,71,RAS
+1991,Portuguese Grand Prix,Jean Alesi,3,4,6,71,RAS
+1991,Portuguese Grand Prix,Pierluigi Martini,4,3,8,71,RAS
+1991,Portuguese Grand Prix,Nelson Piquet,5,2,11,71,RAS
+1991,Portuguese Grand Prix,Michael Schumacher,6,1,10,71,RAS
+1991,Portuguese Grand Prix,Maurício Gugelmin,7,0,7,70,RAS
+1991,Portuguese Grand Prix,Andrea de Cesaris,8,0,14,70,RAS
+1991,Portuguese Grand Prix,Gianni Morbidelli,9,0,13,70,RAS
+1991,Portuguese Grand Prix,Roberto Moreno,10,0,21,70,RAS
+1991,Portuguese Grand Prix,Érik Comas,11,0,23,70,RAS
+1991,Portuguese Grand Prix,Martin Brundle,12,0,19,69,RAS
+1991,Portuguese Grand Prix,Satoru Nakajima,13,0,17,68,RAS
+1991,Portuguese Grand Prix,Mika Häkkinen,14,0,24,68,RAS
+1991,Portuguese Grand Prix,Michele Alboreto,15,0,22,68,RAS
+1991,Portuguese Grand Prix,Thierry Boutsen,16,0,20,68,RAS
+1991,Portuguese Grand Prix,Ivan Capelli,17,0,9,64,Spun off
+1991,Portuguese Grand Prix,Stefano Modena,18,0,12,56,Engine
+1991,Portuguese Grand Prix,Nigel Mansell,19,0,4,51,DQ
+1991,Portuguese Grand Prix,Aguri Suzuki,20,0,25,40,Transmission
+1991,Portuguese Grand Prix,Alain Prost,21,0,5,39,Engine
+1991,Portuguese Grand Prix,Gerhard Berger,22,0,2,37,Engine
+1991,Portuguese Grand Prix,Emanuele Pirro,23,0,16,18,Engine
+1991,Portuguese Grand Prix,Jyrki Järvilehto,24,0,18,21,Gearbox
+1991,Portuguese Grand Prix,Mark Blundell,25,0,15,12,Suspension
+1991,Portuguese Grand Prix,Johnny Herbert,26,0,26,1,Engine
+1991,Spanish Grand Prix,Nigel Mansell,1,10,2,65,RAS
+1991,Spanish Grand Prix,Alain Prost,2,6,6,65,RAS
+1991,Spanish Grand Prix,Riccardo Patrese,3,4,4,65,RAS
+1991,Spanish Grand Prix,Jean Alesi,4,3,7,65,RAS
+1991,Spanish Grand Prix,Ayrton Senna,5,2,3,65,RAS
+1991,Spanish Grand Prix,Michael Schumacher,6,1,5,65,RAS
+1991,Spanish Grand Prix,Maurício Gugelmin,7,0,13,64,RAS
+1991,Spanish Grand Prix,Jyrki Järvilehto,8,0,15,64,RAS
+1991,Spanish Grand Prix,Alessandro Zanardi,9,0,20,64,RAS
+1991,Spanish Grand Prix,Martin Brundle,10,0,11,63,RAS
+1991,Spanish Grand Prix,Nelson Piquet,11,0,10,63,RAS
+1991,Spanish Grand Prix,Gabriele Tarquini,12,0,22,63,RAS
+1991,Spanish Grand Prix,Pierluigi Martini,13,0,19,63,RAS
+1991,Spanish Grand Prix,Gianni Morbidelli,14,0,16,62,Collision
+1991,Spanish Grand Prix,Emanuele Pirro,15,0,9,62,RAS
+1991,Spanish Grand Prix,Stefano Modena,16,0,14,62,RAS
+1991,Spanish Grand Prix,Satoru Nakajima,17,0,18,62,RAS
+1991,Spanish Grand Prix,Mark Blundell,18,0,12,49,Engine
+1991,Spanish Grand Prix,Érik Comas,19,0,25,36,Electrical
+1991,Spanish Grand Prix,Gerhard Berger,20,0,1,33,Electrical
+1991,Spanish Grand Prix,Michele Alboreto,21,0,24,23,Engine
+1991,Spanish Grand Prix,Andrea de Cesaris,22,0,17,22,Electrical
+1991,Spanish Grand Prix,Mika Häkkinen,23,0,21,5,Spun off
+1991,Spanish Grand Prix,Ivan Capelli,24,0,8,1,Collision
+1991,Spanish Grand Prix,Éric Bernard,25,0,23,0,Collision
+1991,Spanish Grand Prix,Thierry Boutsen,26,0,26,0,Collision
+1991,Japanese Grand Prix,Gerhard Berger,1,10,1,53,RAS
+1991,Japanese Grand Prix,Ayrton Senna,2,6,2,53,RAS
+1991,Japanese Grand Prix,Riccardo Patrese,3,4,5,53,RAS
+1991,Japanese Grand Prix,Alain Prost,4,3,4,53,RAS
+1991,Japanese Grand Prix,Martin Brundle,5,2,19,52,RAS
+1991,Japanese Grand Prix,Stefano Modena,6,1,14,52,RAS
+1991,Japanese Grand Prix,Nelson Piquet,7,0,10,52,RAS
+1991,Japanese Grand Prix,Maurício Gugelmin,8,0,18,52,RAS
+1991,Japanese Grand Prix,Thierry Boutsen,9,0,17,52,RAS
+1991,Japanese Grand Prix,Alex Caffi,10,0,26,51,RAS
+1991,Japanese Grand Prix,Gabriele Tarquini,11,0,24,50,RAS
+1991,Japanese Grand Prix,Érik Comas,12,0,20,41,Alternator
+1991,Japanese Grand Prix,Pierluigi Martini,13,0,7,39,Electrical
+1991,Japanese Grand Prix,Michael Schumacher,14,0,9,34,Engine
+1991,Japanese Grand Prix,Johnny Herbert,15,0,23,31,Engine
+1991,Japanese Grand Prix,Satoru Nakajima,16,0,15,30,Spun off
+1991,Japanese Grand Prix,Aguri Suzuki,17,0,25,26,Engine
+1991,Japanese Grand Prix,Gianni Morbidelli,18,0,8,15,Wheel
+1991,Japanese Grand Prix,Nigel Mansell,19,0,3,9,Spun off
+1991,Japanese Grand Prix,Alessandro Zanardi,20,0,13,7,Gearbox
+1991,Japanese Grand Prix,Mika Häkkinen,21,0,21,4,Engine
+1991,Japanese Grand Prix,Andrea de Cesaris,22,0,11,1,Accident
+1991,Japanese Grand Prix,Jyrki Järvilehto,23,0,12,1,Accident
+1991,Japanese Grand Prix,Emanuele Pirro,24,0,16,1,Accident
+1991,Japanese Grand Prix,Karl Wendlinger,25,0,22,1,Accident
+1991,Japanese Grand Prix,Jean Alesi,26,0,6,0,Engine
+1991,Australian Grand Prix,Ayrton Senna,1,5,1,14,RAS
+1991,Australian Grand Prix,Nigel Mansell,2,3,3,14,RAS
+1991,Australian Grand Prix,Gerhard Berger,3,2,2,14,RAS
+1991,Australian Grand Prix,Nelson Piquet,4,1.5,5,14,RAS
+1991,Australian Grand Prix,Riccardo Patrese,5,1,4,14,RAS
+1991,Australian Grand Prix,Gianni Morbidelli,6,0.5,8,14,RAS
+1991,Australian Grand Prix,Emanuele Pirro,7,0,13,14,RAS
+1991,Australian Grand Prix,Andrea de Cesaris,8,0,12,14,RAS
+1991,Australian Grand Prix,Alessandro Zanardi,9,0,16,14,RAS
+1991,Australian Grand Prix,Stefano Modena,10,0,9,14,RAS
+1991,Australian Grand Prix,Johnny Herbert,11,0,21,14,RAS
+1991,Australian Grand Prix,Jyrki Järvilehto,12,0,11,14,RAS
+1991,Australian Grand Prix,Michele Alboreto,13,0,15,14,RAS
+1991,Australian Grand Prix,Maurício Gugelmin,14,0,14,13,RAS
+1991,Australian Grand Prix,Alex Caffi,15,0,23,13,RAS
+1991,Australian Grand Prix,Roberto Moreno,16,0,18,13,RAS
+1991,Australian Grand Prix,Mark Blundell,17,0,17,13,RAS
+1991,Australian Grand Prix,Érik Comas,18,0,22,13,RAS
+1991,Australian Grand Prix,Mika Häkkinen,19,0,25,13,RAS
+1991,Australian Grand Prix,Karl Wendlinger,20,0,26,12,RAS
+1991,Australian Grand Prix,Pierluigi Martini,21,0,10,8,Spun off
+1991,Australian Grand Prix,Michael Schumacher,22,0,6,5,Spun off
+1991,Australian Grand Prix,Jean Alesi,23,0,7,5,Accident
+1991,Australian Grand Prix,Nicola Larini,24,0,19,5,Spun off
+1991,Australian Grand Prix,Thierry Boutsen,25,0,20,5,Accident
+1991,Australian Grand Prix,Satoru Nakajima,26,0,24,4,Spun off

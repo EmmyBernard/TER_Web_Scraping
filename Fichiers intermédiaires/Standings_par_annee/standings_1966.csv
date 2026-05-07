@@ -1,0 +1,165 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1966,Monaco Grand Prix,Jackie Stewart,1,9,3,100,RAS
+1966,Monaco Grand Prix,Lorenzo Bandini,2,6,5,100,RAS
+1966,Monaco Grand Prix,Graham Hill,3,4,4,99,RAS
+1966,Monaco Grand Prix,Bob Bondurant,4,3,16,95,RAS
+1966,Monaco Grand Prix,Richie Ginther,5,0,9,80,Transmission
+1966,Monaco Grand Prix,Guy Ligier,6,0,15,75,Not classified
+1966,Monaco Grand Prix,Jo Bonnier,7,0,16,73,Not classified
+1966,Monaco Grand Prix,Jim Clark,8,0,1,60,Suspension
+1966,Monaco Grand Prix,Jochen Rindt,9,0,7,56,Engine
+1966,Monaco Grand Prix,Jo Siffert,10,0,13,35,Clutch
+1966,Monaco Grand Prix,Mike Spence,11,0,12,34,Suspension
+1966,Monaco Grand Prix,Jack Brabham,12,0,11,17,Gearbox
+1966,Monaco Grand Prix,John Surtees,13,0,2,16,Transmission
+1966,Monaco Grand Prix,Denny Hulme,14,0,6,15,Transmission
+1966,Monaco Grand Prix,Bruce McLaren,15,0,10,9,Oil leak
+1966,Monaco Grand Prix,Bob Anderson,16,0,8,3,Engine
+1966,Belgian Grand Prix,John Surtees,1,9,1,28,RAS
+1966,Belgian Grand Prix,Jochen Rindt,2,6,2,28,RAS
+1966,Belgian Grand Prix,Lorenzo Bandini,3,4,5,27,RAS
+1966,Belgian Grand Prix,Jack Brabham,4,3,4,26,RAS
+1966,Belgian Grand Prix,Richie Ginther,5,2,8,25,RAS
+1966,Belgian Grand Prix,Guy Ligier,6,0,12,24,Not classified
+1966,Belgian Grand Prix,Dan Gurney,7,0,15,23,Not classified
+1966,Belgian Grand Prix,Jackie Stewart,8,0,3,0,Accident
+1966,Belgian Grand Prix,Jo Bonnier,9,0,6,0,Accident
+1966,Belgian Grand Prix,Mike Spence,10,0,7,0,Accident
+1966,Belgian Grand Prix,Graham Hill,11,0,9,0,Accident
+1966,Belgian Grand Prix,Jim Clark,12,0,10,0,Engine
+1966,Belgian Grand Prix,Bob Bondurant,13,0,11,0,Accident
+1966,Belgian Grand Prix,Denny Hulme,14,0,13,0,Accident
+1966,Belgian Grand Prix,Jo Siffert,15,0,14,0,Accident
+1966,Belgian Grand Prix,Bruce McLaren,16,0,0,0,Withdrew
+1966,Belgian Grand Prix,Peter Arundell,17,0,0,0,Engine
+1966,Belgian Grand Prix,Vic Wilson,18,0,0,0,Withdrew
+1966,French Grand Prix,Jack Brabham,1,9,4,48,RAS
+1966,French Grand Prix,Mike Parkes,2,6,3,48,RAS
+1966,French Grand Prix,Denny Hulme,3,4,9,46,RAS
+1966,French Grand Prix,Jochen Rindt,4,3,5,46,RAS
+1966,French Grand Prix,Dan Gurney,5,2,14,45,RAS
+1966,French Grand Prix,John Taylor,6,1,15,45,RAS
+1966,French Grand Prix,Bob Anderson,7,0,12,44,RAS
+1966,French Grand Prix,Chris Amon,8,0,7,44,RAS
+1966,French Grand Prix,Guy Ligier,9,0,11,42,Not classified
+1966,French Grand Prix,Pedro Rodríguez,10,0,13,40,Oil leak
+1966,French Grand Prix,Lorenzo Bandini,11,0,1,37,Not classified
+1966,French Grand Prix,Jo Bonnier,12,0,17,32,Not classified
+1966,French Grand Prix,Graham Hill,13,0,8,13,Engine
+1966,French Grand Prix,Jo Siffert,14,0,6,10,Fuel system
+1966,French Grand Prix,Mike Spence,15,0,10,8,Clutch
+1966,French Grand Prix,John Surtees,16,0,2,5,Fuel system
+1966,French Grand Prix,Peter Arundell,17,0,16,3,Gearbox
+1966,British Grand Prix,Jack Brabham,1,9,1,80,RAS
+1966,British Grand Prix,Denny Hulme,2,6,2,80,RAS
+1966,British Grand Prix,Graham Hill,3,4,4,79,RAS
+1966,British Grand Prix,Jim Clark,4,3,5,79,RAS
+1966,British Grand Prix,Jochen Rindt,5,2,7,79,RAS
+1966,British Grand Prix,Bruce McLaren,6,1,13,78,RAS
+1966,British Grand Prix,Chris Irwin,7,0,12,78,RAS
+1966,British Grand Prix,John Taylor,8,0,16,76,RAS
+1966,British Grand Prix,Bob Bondurant,9,0,14,76,RAS
+1966,British Grand Prix,Guy Ligier,10,0,17,75,RAS
+1966,British Grand Prix,Chris Lawrence,11,0,19,73,RAS
+1966,British Grand Prix,Bob Anderson,12,0,10,70,Not classified
+1966,British Grand Prix,Jo Siffert,13,0,11,70,Not classified
+1966,British Grand Prix,John Surtees,14,0,6,67,Transmission
+1966,British Grand Prix,Jo Bonnier,15,0,15,42,Clutch
+1966,British Grand Prix,Peter Arundell,16,0,20,32,Gearbox
+1966,British Grand Prix,Jackie Stewart,17,0,8,17,Engine
+1966,British Grand Prix,Mike Spence,18,0,9,15,Oil leak
+1966,British Grand Prix,Dan Gurney,19,0,3,9,Engine
+1966,British Grand Prix,Trevor Taylor,20,0,18,0,Engine
+1966,Dutch Grand Prix,Jack Brabham,1,9,1,90,RAS
+1966,Dutch Grand Prix,Graham Hill,2,6,7,89,RAS
+1966,Dutch Grand Prix,Jim Clark,3,4,3,88,RAS
+1966,Dutch Grand Prix,Jackie Stewart,4,3,8,88,RAS
+1966,Dutch Grand Prix,Mike Spence,5,2,12,87,RAS
+1966,Dutch Grand Prix,Lorenzo Bandini,6,1,9,87,RAS
+1966,Dutch Grand Prix,Jo Bonnier,7,0,13,84,RAS
+1966,Dutch Grand Prix,John Taylor,8,0,17,84,RAS
+1966,Dutch Grand Prix,Guy Ligier,9,0,16,84,RAS
+1966,Dutch Grand Prix,Jo Siffert,10,0,11,79,Engine
+1966,Dutch Grand Prix,Bob Anderson,11,0,14,73,Suspension
+1966,Dutch Grand Prix,John Surtees,12,0,10,44,Electrical
+1966,Dutch Grand Prix,Denny Hulme,13,0,2,37,Ignition
+1966,Dutch Grand Prix,Peter Arundell,14,0,15,28,Ignition
+1966,Dutch Grand Prix,Dan Gurney,15,0,4,26,Oil leak
+1966,Dutch Grand Prix,Mike Parkes,16,0,5,10,Accident
+1966,Dutch Grand Prix,Jochen Rindt,17,0,6,2,Accident
+1966,German Grand Prix,Jack Brabham,1,9,5,15,RAS
+1966,German Grand Prix,John Surtees,2,6,2,15,RAS
+1966,German Grand Prix,Jochen Rindt,3,4,9,15,RAS
+1966,German Grand Prix,Graham Hill,4,3,10,15,RAS
+1966,German Grand Prix,Jackie Stewart,5,2,3,15,RAS
+1966,German Grand Prix,Lorenzo Bandini,6,1,6,15,RAS
+1966,German Grand Prix,Dan Gurney,7,0,8,14,Electrical
+1966,German Grand Prix,Peter Arundell,8,0,17,14,RAS
+1966,German Grand Prix,Mike Spence,9,0,13,12,Alternator
+1966,German Grand Prix,Jim Clark,10,0,1,11,Accident
+1966,German Grand Prix,Chris Lawrence,11,0,26,10,Suspension
+1966,German Grand Prix,Ludovico Scarfiotti,12,0,4,9,Electrical
+1966,German Grand Prix,Mike Parkes,13,0,7,9,Accident
+1966,German Grand Prix,Denny Hulme,14,0,15,8,Ignition
+1966,German Grand Prix,Jo Bonnier,15,0,12,3,Clutch
+1966,German Grand Prix,Bob Bondurant,16,0,11,3,Engine
+1966,German Grand Prix,Bob Anderson,17,0,14,2,Transmission
+1966,German Grand Prix,John Taylor,18,0,25,0,Accident
+1966,German Grand Prix,Guy Ligier,19,0,0,0,Injury
+1966,Italian Grand Prix,Ludovico Scarfiotti,1,9,2,68,RAS
+1966,Italian Grand Prix,Mike Parkes,2,6,1,68,RAS
+1966,Italian Grand Prix,Denny Hulme,3,4,10,68,RAS
+1966,Italian Grand Prix,Jochen Rindt,4,3,8,67,RAS
+1966,Italian Grand Prix,Mike Spence,5,2,14,67,RAS
+1966,Italian Grand Prix,Bob Anderson,6,1,15,66,RAS
+1966,Italian Grand Prix,Bob Bondurant,7,0,18,65,RAS
+1966,Italian Grand Prix,Peter Arundell,8,0,13,63,Engine
+1966,Italian Grand Prix,Giacomo Russo,9,0,20,63,RAS
+1966,Italian Grand Prix,Giancarlo Baghetti,10,0,16,59,Not classified
+1966,Italian Grand Prix,Jim Clark,11,0,3,58,Gearbox
+1966,Italian Grand Prix,Jo Siffert,12,0,17,46,Engine
+1966,Italian Grand Prix,Lorenzo Bandini,13,0,5,33,Ignition
+1966,Italian Grand Prix,John Surtees,14,0,4,31,Fuel leak
+1966,Italian Grand Prix,Richie Ginther,15,0,7,16,Accident
+1966,Italian Grand Prix,Jack Brabham,16,0,6,7,Oil leak
+1966,Italian Grand Prix,Dan Gurney,17,0,19,7,Engine
+1966,Italian Grand Prix,Jackie Stewart,18,0,9,5,Fuel leak
+1966,Italian Grand Prix,Jo Bonnier,19,0,12,3,Throttle
+1966,Italian Grand Prix,Graham Hill,20,0,11,0,Engine
+1966,United States Grand Prix,Jim Clark,1,9,2,108,RAS
+1966,United States Grand Prix,Jochen Rindt,2,6,9,107,Out of fuel
+1966,United States Grand Prix,John Surtees,3,4,4,107,RAS
+1966,United States Grand Prix,Jo Siffert,4,3,13,105,RAS
+1966,United States Grand Prix,Bruce McLaren,5,2,11,105,RAS
+1966,United States Grand Prix,Peter Arundell,6,1,19,101,RAS
+1966,United States Grand Prix,Innes Ireland,7,0,17,96,Alternator
+1966,United States Grand Prix,Richie Ginther,8,0,8,81,Not classified
+1966,United States Grand Prix,Mike Spence,9,0,12,74,Ignition
+1966,United States Grand Prix,Ronnie Bucknum,10,0,18,58,Engine
+1966,United States Grand Prix,Jo Bonnier,11,0,15,57,Not classified
+1966,United States Grand Prix,Jack Brabham,12,0,1,55,Engine
+1966,United States Grand Prix,Jackie Stewart,13,0,6,53,Engine
+1966,United States Grand Prix,Graham Hill,14,0,5,52,Differential
+1966,United States Grand Prix,Lorenzo Bandini,15,0,3,34,Engine
+1966,United States Grand Prix,Denny Hulme,16,0,7,18,Engine
+1966,United States Grand Prix,Pedro Rodríguez,17,0,10,13,DNF
+1966,United States Grand Prix,Dan Gurney,18,0,14,13,Clutch
+1966,United States Grand Prix,Bob Bondurant,19,0,16,5,DQ
+1966,Mexican Grand Prix,John Surtees,1,9,1,65,RAS
+1966,Mexican Grand Prix,Jack Brabham,2,6,4,65,RAS
+1966,Mexican Grand Prix,Denny Hulme,3,4,6,64,RAS
+1966,Mexican Grand Prix,Richie Ginther,4,3,3,64,RAS
+1966,Mexican Grand Prix,Dan Gurney,5,2,9,64,RAS
+1966,Mexican Grand Prix,Jo Bonnier,6,1,12,63,RAS
+1966,Mexican Grand Prix,Peter Arundell,7,0,17,61,RAS
+1966,Mexican Grand Prix,Ronnie Bucknum,8,0,13,60,RAS
+1966,Mexican Grand Prix,Pedro Rodríguez,9,0,8,49,Differential
+1966,Mexican Grand Prix,Bruce McLaren,10,0,14,40,Engine
+1966,Mexican Grand Prix,Jo Siffert,11,0,11,33,Suspension
+1966,Mexican Grand Prix,Jochen Rindt,12,0,5,32,Suspension
+1966,Mexican Grand Prix,Innes Ireland,13,0,16,28,Transmission
+1966,Mexican Grand Prix,Jackie Stewart,14,0,10,26,Oil leak
+1966,Mexican Grand Prix,Bob Bondurant,15,0,18,24,Fuel system
+1966,Mexican Grand Prix,Graham Hill,16,0,7,18,Engine
+1966,Mexican Grand Prix,Jim Clark,17,0,2,9,Gearbox
+1966,Mexican Grand Prix,Moisés Solana,18,0,15,9,Overheating

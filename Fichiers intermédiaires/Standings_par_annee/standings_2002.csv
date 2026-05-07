@@ -1,0 +1,360 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2002,Australian Grand Prix,Michael Schumacher,1,10,2,58,RAS
+2002,Australian Grand Prix,Juan Pablo Montoya,2,6,6,58,RAS
+2002,Australian Grand Prix,Kimi Räikkönen,3,4,5,58,RAS
+2002,Australian Grand Prix,Eddie Irvine,4,3,19,57,RAS
+2002,Australian Grand Prix,Mark Webber,5,2,18,56,RAS
+2002,Australian Grand Prix,Mika Salo,6,1,14,56,RAS
+2002,Australian Grand Prix,Alex Yoong,7,0,21,55,RAS
+2002,Australian Grand Prix,Pedro de la Rosa,8,0,20,53,RAS
+2002,Australian Grand Prix,David Coulthard,9,0,4,33,Gearbox
+2002,Australian Grand Prix,Jacques Villeneuve,10,0,13,27,Broken wing
+2002,Australian Grand Prix,Heinz-Harald Frentzen,11,0,15,16,DQ
+2002,Australian Grand Prix,Enrique Bernoldi,12,0,17,15,DQ
+2002,Australian Grand Prix,Takuma Sato,13,0,22,12,Electrical
+2002,Australian Grand Prix,Jarno Trulli,14,0,7,8,Spun off
+2002,Australian Grand Prix,Rubens Barrichello,15,0,1,0,Collision
+2002,Australian Grand Prix,Ralf Schumacher,16,0,3,0,Collision
+2002,Australian Grand Prix,Giancarlo Fisichella,17,0,8,0,Collision
+2002,Australian Grand Prix,Felipe Massa,18,0,9,0,Collision
+2002,Australian Grand Prix,Nick Heidfeld,19,0,10,0,Collision
+2002,Australian Grand Prix,Jenson Button,20,0,11,0,Collision
+2002,Australian Grand Prix,Olivier Panis,21,0,12,0,Collision
+2002,Australian Grand Prix,Allan McNish,22,0,16,0,Collision
+2002,Malaysian Grand Prix,Ralf Schumacher,1,10,4,56,RAS
+2002,Malaysian Grand Prix,Juan Pablo Montoya,2,6,2,56,RAS
+2002,Malaysian Grand Prix,Michael Schumacher,3,4,1,56,RAS
+2002,Malaysian Grand Prix,Jenson Button,4,3,8,56,RAS
+2002,Malaysian Grand Prix,Nick Heidfeld,5,2,7,55,RAS
+2002,Malaysian Grand Prix,Felipe Massa,6,1,14,55,RAS
+2002,Malaysian Grand Prix,Allan McNish,7,0,19,55,RAS
+2002,Malaysian Grand Prix,Jacques Villeneuve,8,0,13,55,RAS
+2002,Malaysian Grand Prix,Takuma Sato,9,0,15,54,RAS
+2002,Malaysian Grand Prix,Pedro de la Rosa,10,0,17,54,RAS
+2002,Malaysian Grand Prix,Heinz-Harald Frentzen,11,0,11,54,RAS
+2002,Malaysian Grand Prix,Mika Salo,12,0,10,53,RAS
+2002,Malaysian Grand Prix,Giancarlo Fisichella,13,0,9,53,RAS
+2002,Malaysian Grand Prix,Rubens Barrichello,14,0,3,39,Engine
+2002,Malaysian Grand Prix,Mark Webber,15,0,21,34,Electrical
+2002,Malaysian Grand Prix,Eddie Irvine,16,0,20,30,Hydraulics
+2002,Malaysian Grand Prix,Alex Yoong,17,0,22,29,Gearbox
+2002,Malaysian Grand Prix,Kimi Räikkönen,18,0,5,24,Engine
+2002,Malaysian Grand Prix,Enrique Bernoldi,19,0,16,20,Fuel
+2002,Malaysian Grand Prix,David Coulthard,20,0,6,15,Engine
+2002,Malaysian Grand Prix,Olivier Panis,21,0,18,9,Clutch
+2002,Malaysian Grand Prix,Jarno Trulli,22,0,12,9,Overheating
+2002,Brazilian Grand Prix,Michael Schumacher,1,10,2,71,RAS
+2002,Brazilian Grand Prix,Ralf Schumacher,2,6,3,71,RAS
+2002,Brazilian Grand Prix,David Coulthard,3,4,4,71,RAS
+2002,Brazilian Grand Prix,Jenson Button,4,3,7,71,RAS
+2002,Brazilian Grand Prix,Juan Pablo Montoya,5,2,1,71,RAS
+2002,Brazilian Grand Prix,Mika Salo,6,1,10,70,RAS
+2002,Brazilian Grand Prix,Eddie Irvine,7,0,13,70,RAS
+2002,Brazilian Grand Prix,Pedro de la Rosa,8,0,11,70,RAS
+2002,Brazilian Grand Prix,Takuma Sato,9,0,19,69,RAS
+2002,Brazilian Grand Prix,Jacques Villeneuve,10,0,15,68,Engine
+2002,Brazilian Grand Prix,Mark Webber,11,0,20,68,RAS
+2002,Brazilian Grand Prix,Kimi Räikkönen,12,0,5,67,Wheel rim
+2002,Brazilian Grand Prix,Alex Yoong,13,0,22,67,RAS
+2002,Brazilian Grand Prix,Nick Heidfeld,14,0,9,61,Brakes
+2002,Brazilian Grand Prix,Jarno Trulli,15,0,6,60,Engine
+2002,Brazilian Grand Prix,Felipe Massa,16,0,12,41,Collision
+2002,Brazilian Grand Prix,Allan McNish,17,0,16,40,Spun off
+2002,Brazilian Grand Prix,Olivier Panis,18,0,17,25,Gearbox
+2002,Brazilian Grand Prix,Heinz-Harald Frentzen,19,0,18,25,Suspension
+2002,Brazilian Grand Prix,Enrique Bernoldi,20,0,21,19,Suspension
+2002,Brazilian Grand Prix,Rubens Barrichello,21,0,8,16,Hydraulics
+2002,Brazilian Grand Prix,Giancarlo Fisichella,22,0,14,6,Engine
+2002,San Marino Grand Prix,Michael Schumacher,1,10,1,62,RAS
+2002,San Marino Grand Prix,Rubens Barrichello,2,6,2,62,RAS
+2002,San Marino Grand Prix,Ralf Schumacher,3,4,3,62,RAS
+2002,San Marino Grand Prix,Juan Pablo Montoya,4,3,4,62,RAS
+2002,San Marino Grand Prix,Jenson Button,5,2,9,62,RAS
+2002,San Marino Grand Prix,David Coulthard,6,1,6,61,RAS
+2002,San Marino Grand Prix,Jacques Villeneuve,7,0,10,61,RAS
+2002,San Marino Grand Prix,Felipe Massa,8,0,11,61,RAS
+2002,San Marino Grand Prix,Jarno Trulli,9,0,8,61,RAS
+2002,San Marino Grand Prix,Nick Heidfeld,10,0,7,61,RAS
+2002,San Marino Grand Prix,Mark Webber,11,0,19,60,RAS
+2002,San Marino Grand Prix,Enrique Bernoldi,12,0,20,50,Power loss
+2002,San Marino Grand Prix,Eddie Irvine,13,0,18,45,Driveshaft
+2002,San Marino Grand Prix,Kimi Räikkönen,14,0,5,44,Exhaust
+2002,San Marino Grand Prix,Olivier Panis,15,0,12,44,Throttle
+2002,San Marino Grand Prix,Pedro de la Rosa,16,0,22,30,Driveshaft
+2002,San Marino Grand Prix,Mika Salo,17,0,16,26,Gearbox
+2002,San Marino Grand Prix,Heinz-Harald Frentzen,18,0,13,25,Power loss
+2002,San Marino Grand Prix,Giancarlo Fisichella,19,0,15,19,Hydraulics
+2002,San Marino Grand Prix,Takuma Sato,20,0,14,5,Gearbox
+2002,San Marino Grand Prix,Allan McNish,21,0,17,0,Electrical
+2002,Spanish Grand Prix,Michael Schumacher,1,10,1,65,RAS
+2002,Spanish Grand Prix,Juan Pablo Montoya,2,6,4,65,RAS
+2002,Spanish Grand Prix,David Coulthard,3,4,7,65,RAS
+2002,Spanish Grand Prix,Nick Heidfeld,4,3,8,65,RAS
+2002,Spanish Grand Prix,Felipe Massa,5,2,11,65,RAS
+2002,Spanish Grand Prix,Heinz-Harald Frentzen,6,1,10,65,RAS
+2002,Spanish Grand Prix,Jacques Villeneuve,7,0,15,64,RAS
+2002,Spanish Grand Prix,Allan McNish,8,0,19,64,RAS
+2002,Spanish Grand Prix,Mika Salo,9,0,17,64,RAS
+2002,Spanish Grand Prix,Jarno Trulli,10,0,9,63,Engine
+2002,Spanish Grand Prix,Ralf Schumacher,11,0,3,63,Engine
+2002,Spanish Grand Prix,Jenson Button,12,0,6,60,Hydraulics
+2002,Spanish Grand Prix,Olivier Panis,13,0,13,43,Exhaust
+2002,Spanish Grand Prix,Eddie Irvine,14,0,22,41,Hydraulics
+2002,Spanish Grand Prix,Enrique Bernoldi,15,0,14,40,Hydraulics
+2002,Spanish Grand Prix,Takuma Sato,16,0,18,10,Spun off
+2002,Spanish Grand Prix,Giancarlo Fisichella,17,0,12,5,Hydraulics
+2002,Spanish Grand Prix,Kimi Räikkönen,18,0,5,4,Rear wing
+2002,Spanish Grand Prix,Pedro de la Rosa,19,0,16,2,Spun off
+2002,Spanish Grand Prix,Rubens Barrichello,20,0,2,0,Gearbox
+2002,Spanish Grand Prix,Mark Webber,21,0,20,0,Safety
+2002,Spanish Grand Prix,Alex Yoong,22,0,21,0,Safety
+2002,Austrian Grand Prix,Michael Schumacher,1,10,3,71,RAS
+2002,Austrian Grand Prix,Rubens Barrichello,2,6,1,71,RAS
+2002,Austrian Grand Prix,Juan Pablo Montoya,3,4,4,71,RAS
+2002,Austrian Grand Prix,Ralf Schumacher,4,3,2,71,RAS
+2002,Austrian Grand Prix,Giancarlo Fisichella,5,2,15,71,RAS
+2002,Austrian Grand Prix,David Coulthard,6,1,8,71,RAS
+2002,Austrian Grand Prix,Jenson Button,7,0,13,71,RAS
+2002,Austrian Grand Prix,Mika Salo,8,0,10,71,RAS
+2002,Austrian Grand Prix,Allan McNish,9,0,14,71,RAS
+2002,Austrian Grand Prix,Jacques Villeneuve,10,0,17,70,RAS
+2002,Austrian Grand Prix,Heinz-Harald Frentzen,11,0,11,69,RAS
+2002,Austrian Grand Prix,Mark Webber,12,0,21,69,RAS
+2002,Austrian Grand Prix,Jarno Trulli,13,0,16,44,Fuel pressure
+2002,Austrian Grand Prix,Alex Yoong,14,0,22,42,Engine
+2002,Austrian Grand Prix,Eddie Irvine,15,0,20,38,Hydraulics
+2002,Austrian Grand Prix,Nick Heidfeld,16,0,5,27,Collision
+2002,Austrian Grand Prix,Takuma Sato,17,0,18,26,Collision
+2002,Austrian Grand Prix,Olivier Panis,18,0,9,22,Engine
+2002,Austrian Grand Prix,Felipe Massa,19,0,7,7,Suspension
+2002,Austrian Grand Prix,Kimi Räikkönen,20,0,6,5,Engine
+2002,Austrian Grand Prix,Enrique Bernoldi,21,0,12,2,Collision
+2002,Austrian Grand Prix,Pedro de la Rosa,22,0,19,0,Throttle
+2002,Monaco Grand Prix,David Coulthard,1,10,2,78,RAS
+2002,Monaco Grand Prix,Michael Schumacher,2,6,3,78,RAS
+2002,Monaco Grand Prix,Ralf Schumacher,3,4,4,78,RAS
+2002,Monaco Grand Prix,Jarno Trulli,4,3,7,77,RAS
+2002,Monaco Grand Prix,Giancarlo Fisichella,5,2,11,77,RAS
+2002,Monaco Grand Prix,Heinz-Harald Frentzen,6,1,12,77,RAS
+2002,Monaco Grand Prix,Rubens Barrichello,7,0,5,77,RAS
+2002,Monaco Grand Prix,Nick Heidfeld,8,0,15,76,RAS
+2002,Monaco Grand Prix,Eddie Irvine,9,0,19,76,RAS
+2002,Monaco Grand Prix,Pedro de la Rosa,10,0,17,76,RAS
+2002,Monaco Grand Prix,Mark Webber,11,0,20,76,RAS
+2002,Monaco Grand Prix,Enrique Bernoldi,12,0,21,76,RAS
+2002,Monaco Grand Prix,Mika Salo,13,0,9,69,Brakes
+2002,Monaco Grand Prix,Felipe Massa,14,0,13,63,Accident
+2002,Monaco Grand Prix,Olivier Panis,15,0,18,51,Collision
+2002,Monaco Grand Prix,Jenson Button,16,0,8,51,Collision
+2002,Monaco Grand Prix,Juan Pablo Montoya,17,0,1,46,Engine
+2002,Monaco Grand Prix,Jacques Villeneuve,18,0,14,44,Mechanical
+2002,Monaco Grand Prix,Kimi Räikkönen,19,0,6,41,Collision
+2002,Monaco Grand Prix,Alex Yoong,20,0,22,29,Accident
+2002,Monaco Grand Prix,Takuma Sato,21,0,16,22,Spun off
+2002,Monaco Grand Prix,Allan McNish,22,0,10,15,Accident
+2002,Canadian Grand Prix,Michael Schumacher,1,10,2,70,RAS
+2002,Canadian Grand Prix,David Coulthard,2,6,8,70,RAS
+2002,Canadian Grand Prix,Rubens Barrichello,3,4,3,70,RAS
+2002,Canadian Grand Prix,Kimi Räikkönen,4,3,5,70,RAS
+2002,Canadian Grand Prix,Giancarlo Fisichella,5,2,6,70,RAS
+2002,Canadian Grand Prix,Jarno Trulli,6,1,10,70,RAS
+2002,Canadian Grand Prix,Ralf Schumacher,7,0,4,70,Engine
+2002,Canadian Grand Prix,Olivier Panis,8,0,11,69,RAS
+2002,Canadian Grand Prix,Felipe Massa,9,0,12,69,RAS
+2002,Canadian Grand Prix,Takuma Sato,10,0,15,69,RAS
+2002,Canadian Grand Prix,Mark Webber,11,0,21,69,RAS
+2002,Canadian Grand Prix,Nick Heidfeld,12,0,7,69,RAS
+2002,Canadian Grand Prix,Heinz-Harald Frentzen,13,0,19,69,RAS
+2002,Canadian Grand Prix,Alex Yoong,14,0,22,68,RAS
+2002,Canadian Grand Prix,Jenson Button,15,0,13,65,Gearbox
+2002,Canadian Grand Prix,Juan Pablo Montoya,16,0,1,56,Engine
+2002,Canadian Grand Prix,Allan McNish,17,0,20,45,Spun off
+2002,Canadian Grand Prix,Eddie Irvine,18,0,14,41,Overheating
+2002,Canadian Grand Prix,Mika Salo,19,0,18,41,Brakes
+2002,Canadian Grand Prix,Pedro de la Rosa,20,0,16,29,Gearbox
+2002,Canadian Grand Prix,Enrique Bernoldi,21,0,17,16,Suspension
+2002,Canadian Grand Prix,Jacques Villeneuve,22,0,9,8,Oil pressure
+2002,European Grand Prix,Rubens Barrichello,1,10,4,60,RAS
+2002,European Grand Prix,Michael Schumacher,2,6,3,60,RAS
+2002,European Grand Prix,Kimi Räikkönen,3,4,6,60,RAS
+2002,European Grand Prix,Ralf Schumacher,4,3,2,60,RAS
+2002,European Grand Prix,Jenson Button,5,2,8,60,RAS
+2002,European Grand Prix,Felipe Massa,6,1,11,59,RAS
+2002,European Grand Prix,Nick Heidfeld,7,0,9,59,RAS
+2002,European Grand Prix,Jarno Trulli,8,0,7,59,RAS
+2002,European Grand Prix,Olivier Panis,9,0,12,59,RAS
+2002,European Grand Prix,Pedro de la Rosa,10,0,16,59,RAS
+2002,European Grand Prix,Enrique Bernoldi,11,0,21,59,RAS
+2002,European Grand Prix,Jacques Villeneuve,12,0,19,59,RAS
+2002,European Grand Prix,Heinz-Harald Frentzen,13,0,15,59,RAS
+2002,European Grand Prix,Allan McNish,14,0,13,59,RAS
+2002,European Grand Prix,Mark Webber,15,0,20,58,RAS
+2002,European Grand Prix,Takuma Sato,16,0,14,58,RAS
+2002,European Grand Prix,Mika Salo,17,0,10,51,Gearbox
+2002,European Grand Prix,Alex Yoong,18,0,22,48,Hydraulics
+2002,European Grand Prix,Eddie Irvine,19,0,17,41,Hydraulics
+2002,European Grand Prix,Juan Pablo Montoya,20,0,1,27,Collision
+2002,European Grand Prix,David Coulthard,21,0,5,27,Collision
+2002,European Grand Prix,Giancarlo Fisichella,22,0,18,26,Accident
+2002,British Grand Prix,Michael Schumacher,1,10,3,60,RAS
+2002,British Grand Prix,Rubens Barrichello,2,6,2,60,RAS
+2002,British Grand Prix,Juan Pablo Montoya,3,4,1,60,RAS
+2002,British Grand Prix,Jacques Villeneuve,4,3,9,59,RAS
+2002,British Grand Prix,Olivier Panis,5,2,13,59,RAS
+2002,British Grand Prix,Nick Heidfeld,6,1,10,59,RAS
+2002,British Grand Prix,Giancarlo Fisichella,7,0,17,59,RAS
+2002,British Grand Prix,Ralf Schumacher,8,0,4,59,RAS
+2002,British Grand Prix,Felipe Massa,9,0,11,59,RAS
+2002,British Grand Prix,David Coulthard,10,0,6,58,RAS
+2002,British Grand Prix,Pedro de la Rosa,11,0,21,58,RAS
+2002,British Grand Prix,Jenson Button,12,0,12,54,Wheel
+2002,British Grand Prix,Takuma Sato,13,0,14,50,Engine
+2002,British Grand Prix,Kimi Räikkönen,14,0,5,44,Engine
+2002,British Grand Prix,Jarno Trulli,15,0,7,29,Electronics
+2002,British Grand Prix,Enrique Bernoldi,16,0,18,28,Driveshaft
+2002,British Grand Prix,Eddie Irvine,17,0,19,23,Spun off
+2002,British Grand Prix,Heinz-Harald Frentzen,18,0,16,20,Engine
+2002,British Grand Prix,Mika Salo,19,0,8,15,Drivetrain
+2002,British Grand Prix,Mark Webber,20,0,20,9,Clutch
+2002,British Grand Prix,Allan McNish,21,0,15,0,Clutch
+2002,French Grand Prix,Michael Schumacher,1,10,2,72,RAS
+2002,French Grand Prix,Kimi Räikkönen,2,6,4,72,RAS
+2002,French Grand Prix,David Coulthard,3,4,6,72,RAS
+2002,French Grand Prix,Juan Pablo Montoya,4,3,1,72,RAS
+2002,French Grand Prix,Ralf Schumacher,5,2,5,72,RAS
+2002,French Grand Prix,Jenson Button,6,1,7,71,RAS
+2002,French Grand Prix,Nick Heidfeld,7,0,10,71,RAS
+2002,French Grand Prix,Mark Webber,8,0,18,71,RAS
+2002,French Grand Prix,Pedro de la Rosa,9,0,15,70,RAS
+2002,French Grand Prix,Alex Yoong,10,0,19,68,RAS
+2002,French Grand Prix,Allan McNish,11,0,17,65,Engine
+2002,French Grand Prix,Eddie Irvine,12,0,9,52,Rear wing
+2002,French Grand Prix,Jarno Trulli,13,0,8,49,Engine
+2002,French Grand Prix,Felipe Massa,14,0,12,48,Mechanical
+2002,French Grand Prix,Mika Salo,15,0,16,48,Engine
+2002,French Grand Prix,Jacques Villeneuve,16,0,13,35,Engine
+2002,French Grand Prix,Olivier Panis,17,0,11,29,Accident
+2002,French Grand Prix,Takuma Sato,18,0,14,23,Spun off
+2002,French Grand Prix,Rubens Barrichello,19,0,3,0,Ignition
+2002,French Grand Prix,Giancarlo Fisichella,22,0,0,0,Injury
+2002,German Grand Prix,Michael Schumacher,1,10,1,67,RAS
+2002,German Grand Prix,Juan Pablo Montoya,2,6,4,67,RAS
+2002,German Grand Prix,Ralf Schumacher,3,4,2,67,RAS
+2002,German Grand Prix,Rubens Barrichello,4,3,3,67,RAS
+2002,German Grand Prix,David Coulthard,5,2,9,66,RAS
+2002,German Grand Prix,Nick Heidfeld,6,1,10,66,RAS
+2002,German Grand Prix,Felipe Massa,7,0,14,66,RAS
+2002,German Grand Prix,Takuma Sato,8,0,12,66,RAS
+2002,German Grand Prix,Mika Salo,9,0,19,66,RAS
+2002,German Grand Prix,Giancarlo Fisichella,10,0,6,59,Engine
+2002,German Grand Prix,Kimi Räikkönen,11,0,5,59,Spun off
+2002,German Grand Prix,Eddie Irvine,12,0,16,57,Brakes
+2002,German Grand Prix,Enrique Bernoldi,13,0,18,48,Engine
+2002,German Grand Prix,Olivier Panis,14,0,7,39,Engine
+2002,German Grand Prix,Jarno Trulli,15,0,8,36,Spun off
+2002,German Grand Prix,Jacques Villeneuve,16,0,11,27,Gearbox
+2002,German Grand Prix,Jenson Button,17,0,13,24,Engine
+2002,German Grand Prix,Allan McNish,18,0,17,23,Engine
+2002,German Grand Prix,Mark Webber,19,0,21,23,Hydraulics
+2002,German Grand Prix,Heinz-Harald Frentzen,20,0,15,18,Hydraulics
+2002,German Grand Prix,Pedro de la Rosa,21,0,20,0,Transmission
+2002,Hungarian Grand Prix,Rubens Barrichello,1,10,1,77,RAS
+2002,Hungarian Grand Prix,Michael Schumacher,2,6,2,77,RAS
+2002,Hungarian Grand Prix,Ralf Schumacher,3,4,3,77,RAS
+2002,Hungarian Grand Prix,Kimi Räikkönen,4,3,11,77,RAS
+2002,Hungarian Grand Prix,David Coulthard,5,2,10,77,RAS
+2002,Hungarian Grand Prix,Giancarlo Fisichella,6,1,5,77,RAS
+2002,Hungarian Grand Prix,Felipe Massa,7,0,7,77,RAS
+2002,Hungarian Grand Prix,Jarno Trulli,8,0,6,76,RAS
+2002,Hungarian Grand Prix,Nick Heidfeld,9,0,8,76,RAS
+2002,Hungarian Grand Prix,Takuma Sato,10,0,14,76,RAS
+2002,Hungarian Grand Prix,Juan Pablo Montoya,11,0,4,76,RAS
+2002,Hungarian Grand Prix,Olivier Panis,12,0,12,76,RAS
+2002,Hungarian Grand Prix,Pedro de la Rosa,13,0,15,75,RAS
+2002,Hungarian Grand Prix,Allan McNish,14,0,18,75,RAS
+2002,Hungarian Grand Prix,Mika Salo,15,0,17,75,RAS
+2002,Hungarian Grand Prix,Mark Webber,16,0,19,75,RAS
+2002,Hungarian Grand Prix,Anthony Davidson,17,0,20,58,Spun off
+2002,Hungarian Grand Prix,Jenson Button,18,0,9,30,Spun off
+2002,Hungarian Grand Prix,Eddie Irvine,19,0,16,23,Engine
+2002,Hungarian Grand Prix,Jacques Villeneuve,20,0,13,20,Transmission
+2002,Belgian Grand Prix,Michael Schumacher,1,10,1,44,RAS
+2002,Belgian Grand Prix,Rubens Barrichello,2,6,3,44,RAS
+2002,Belgian Grand Prix,Juan Pablo Montoya,3,4,5,44,RAS
+2002,Belgian Grand Prix,David Coulthard,4,3,6,44,RAS
+2002,Belgian Grand Prix,Ralf Schumacher,5,2,4,44,RAS
+2002,Belgian Grand Prix,Eddie Irvine,6,1,8,44,RAS
+2002,Belgian Grand Prix,Mika Salo,7,0,9,44,RAS
+2002,Belgian Grand Prix,Jacques Villeneuve,8,0,12,44,RAS
+2002,Belgian Grand Prix,Allan McNish,9,0,13,43,RAS
+2002,Belgian Grand Prix,Nick Heidfeld,10,0,18,43,RAS
+2002,Belgian Grand Prix,Takuma Sato,11,0,16,43,RAS
+2002,Belgian Grand Prix,Olivier Panis,12,0,15,39,Engine
+2002,Belgian Grand Prix,Giancarlo Fisichella,13,0,14,38,Engine
+2002,Belgian Grand Prix,Pedro de la Rosa,14,0,11,37,Suspension
+2002,Belgian Grand Prix,Felipe Massa,15,0,17,37,Engine
+2002,Belgian Grand Prix,Kimi Räikkönen,16,0,2,35,Engine
+2002,Belgian Grand Prix,Jarno Trulli,17,0,7,35,Engine
+2002,Belgian Grand Prix,Anthony Davidson,18,0,20,17,Spun off
+2002,Belgian Grand Prix,Jenson Button,19,0,10,10,Engine
+2002,Belgian Grand Prix,Mark Webber,20,0,19,4,Gearbox
+2002,Italian Grand Prix,Rubens Barrichello,1,10,4,53,RAS
+2002,Italian Grand Prix,Michael Schumacher,2,6,2,53,RAS
+2002,Italian Grand Prix,Eddie Irvine,3,4,5,53,RAS
+2002,Italian Grand Prix,Jarno Trulli,4,3,11,53,RAS
+2002,Italian Grand Prix,Jenson Button,5,2,17,53,RAS
+2002,Italian Grand Prix,Olivier Panis,6,1,16,53,RAS
+2002,Italian Grand Prix,David Coulthard,7,0,7,53,RAS
+2002,Italian Grand Prix,Giancarlo Fisichella,8,0,12,53,RAS
+2002,Italian Grand Prix,Jacques Villeneuve,9,0,9,53,RAS
+2002,Italian Grand Prix,Nick Heidfeld,10,0,15,53,RAS
+2002,Italian Grand Prix,Mika Salo,11,0,10,52,RAS
+2002,Italian Grand Prix,Takuma Sato,12,0,18,52,RAS
+2002,Italian Grand Prix,Alex Yoong,13,0,20,47,RAS
+2002,Italian Grand Prix,Juan Pablo Montoya,14,0,1,33,Chassis
+2002,Italian Grand Prix,Kimi Räikkönen,15,0,6,29,Engine
+2002,Italian Grand Prix,Mark Webber,16,0,19,20,Engine
+2002,Italian Grand Prix,Felipe Massa,17,0,14,16,Collision
+2002,Italian Grand Prix,Pedro de la Rosa,18,0,8,15,Collision
+2002,Italian Grand Prix,Allan McNish,19,0,13,12,Suspension
+2002,Italian Grand Prix,Ralf Schumacher,20,0,3,4,Engine
+2002,United States Grand Prix,Rubens Barrichello,1,10,2,73,RAS
+2002,United States Grand Prix,Michael Schumacher,2,6,1,73,RAS
+2002,United States Grand Prix,David Coulthard,3,4,3,73,RAS
+2002,United States Grand Prix,Juan Pablo Montoya,4,3,4,73,RAS
+2002,United States Grand Prix,Jarno Trulli,5,2,8,73,RAS
+2002,United States Grand Prix,Jacques Villeneuve,6,1,7,73,RAS
+2002,United States Grand Prix,Giancarlo Fisichella,7,0,9,72,RAS
+2002,United States Grand Prix,Jenson Button,8,0,14,72,RAS
+2002,United States Grand Prix,Nick Heidfeld,9,0,10,72,RAS
+2002,United States Grand Prix,Eddie Irvine,10,0,13,72,RAS
+2002,United States Grand Prix,Takuma Sato,11,0,15,72,RAS
+2002,United States Grand Prix,Olivier Panis,12,0,12,72,RAS
+2002,United States Grand Prix,Heinz-Harald Frentzen,13,0,11,71,RAS
+2002,United States Grand Prix,Mika Salo,14,0,19,71,RAS
+2002,United States Grand Prix,Allan McNish,15,0,16,71,RAS
+2002,United States Grand Prix,Ralf Schumacher,16,0,5,71,RAS
+2002,United States Grand Prix,Kimi Räikkönen,17,0,6,50,Engine
+2002,United States Grand Prix,Alex Yoong,18,0,20,46,Engine
+2002,United States Grand Prix,Mark Webber,19,0,18,38,Steering
+2002,United States Grand Prix,Pedro de la Rosa,20,0,17,27,Transmission
+2002,Japanese Grand Prix,Michael Schumacher,1,10,1,53,RAS
+2002,Japanese Grand Prix,Rubens Barrichello,2,6,2,53,RAS
+2002,Japanese Grand Prix,Kimi Räikkönen,3,4,4,53,RAS
+2002,Japanese Grand Prix,Juan Pablo Montoya,4,3,6,53,RAS
+2002,Japanese Grand Prix,Takuma Sato,5,2,7,53,RAS
+2002,Japanese Grand Prix,Jenson Button,6,1,10,52,RAS
+2002,Japanese Grand Prix,Nick Heidfeld,7,0,12,52,RAS
+2002,Japanese Grand Prix,Mika Salo,8,0,13,52,RAS
+2002,Japanese Grand Prix,Eddie Irvine,9,0,14,52,RAS
+2002,Japanese Grand Prix,Mark Webber,10,0,19,51,RAS
+2002,Japanese Grand Prix,Ralf Schumacher,11,0,5,48,Engine
+2002,Japanese Grand Prix,Pedro de la Rosa,12,0,17,39,Transmission
+2002,Japanese Grand Prix,Giancarlo Fisichella,13,0,8,37,Engine
+2002,Japanese Grand Prix,Jarno Trulli,14,0,11,32,Mechanical
+2002,Japanese Grand Prix,Jacques Villeneuve,15,0,9,27,Engine
+2002,Japanese Grand Prix,Alex Yoong,16,0,20,14,Spun off
+2002,Japanese Grand Prix,Olivier Panis,17,0,16,8,Mechanical
+2002,Japanese Grand Prix,David Coulthard,18,0,3,7,Throttle
+2002,Japanese Grand Prix,Felipe Massa,19,0,15,3,Accident
+2002,Japanese Grand Prix,Allan McNish,20,0,18,0,Injured

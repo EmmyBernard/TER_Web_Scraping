@@ -1,0 +1,419 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1994,Brazilian Grand Prix,Michael Schumacher,1,10,2,71,RAS
+1994,Brazilian Grand Prix,Damon Hill,2,6,4,70,RAS
+1994,Brazilian Grand Prix,Jean Alesi,3,4,3,70,RAS
+1994,Brazilian Grand Prix,Rubens Barrichello,4,3,14,70,RAS
+1994,Brazilian Grand Prix,Ukyo Katayama,5,2,10,69,RAS
+1994,Brazilian Grand Prix,Karl Wendlinger,6,1,7,69,RAS
+1994,Brazilian Grand Prix,Johnny Herbert,7,0,21,69,RAS
+1994,Brazilian Grand Prix,Pierluigi Martini,8,0,15,69,RAS
+1994,Brazilian Grand Prix,Érik Comas,9,0,13,68,RAS
+1994,Brazilian Grand Prix,Pedro Lamy,10,0,24,68,RAS
+1994,Brazilian Grand Prix,Olivier Panis,11,0,19,68,RAS
+1994,Brazilian Grand Prix,David Brabham,12,0,26,67,RAS
+1994,Brazilian Grand Prix,Ayrton Senna,13,0,1,55,Spun off
+1994,Brazilian Grand Prix,Martin Brundle,14,0,18,34,Collision
+1994,Brazilian Grand Prix,Eddie Irvine,15,0,16,34,Collision
+1994,Brazilian Grand Prix,Jos Verstappen,16,0,9,34,Collision
+1994,Brazilian Grand Prix,Éric Bernard,17,0,20,33,Collision
+1994,Brazilian Grand Prix,Mark Blundell,18,0,12,21,Spun off
+1994,Brazilian Grand Prix,Christian Fittipaldi,19,0,11,21,Gearbox
+1994,Brazilian Grand Prix,Heinz-Harald Frentzen,20,0,5,15,Spun off
+1994,Brazilian Grand Prix,Mika Häkkinen,21,0,8,13,Engine
+1994,Brazilian Grand Prix,Michele Alboreto,22,0,22,7,Engine
+1994,Brazilian Grand Prix,Gianni Morbidelli,23,0,6,5,Gearbox
+1994,Brazilian Grand Prix,Gerhard Berger,24,0,17,5,Engine
+1994,Brazilian Grand Prix,Olivier Beretta,25,0,23,2,Accident
+1994,Brazilian Grand Prix,Bertrand Gachot,26,0,25,1,Accident
+1994,Pacific Grand Prix,Michael Schumacher,1,10,2,83,RAS
+1994,Pacific Grand Prix,Gerhard Berger,2,6,5,83,RAS
+1994,Pacific Grand Prix,Rubens Barrichello,3,4,8,82,RAS
+1994,Pacific Grand Prix,Christian Fittipaldi,4,3,9,82,RAS
+1994,Pacific Grand Prix,Heinz-Harald Frentzen,5,2,11,82,RAS
+1994,Pacific Grand Prix,Érik Comas,6,1,16,80,RAS
+1994,Pacific Grand Prix,Johnny Herbert,7,0,23,80,RAS
+1994,Pacific Grand Prix,Pedro Lamy,8,0,24,79,RAS
+1994,Pacific Grand Prix,Olivier Panis,9,0,22,78,RAS
+1994,Pacific Grand Prix,Éric Bernard,10,0,18,78,RAS
+1994,Pacific Grand Prix,Roland Ratzenberger,11,0,26,78,RAS
+1994,Pacific Grand Prix,Gianni Morbidelli,12,0,13,69,Engine
+1994,Pacific Grand Prix,Karl Wendlinger,13,0,19,69,Collision
+1994,Pacific Grand Prix,Michele Alboreto,14,0,15,69,Collision
+1994,Pacific Grand Prix,Martin Brundle,15,0,6,67,Overheating
+1994,Pacific Grand Prix,Pierluigi Martini,16,0,17,63,Spun off
+1994,Pacific Grand Prix,Jos Verstappen,17,0,10,54,Spun off
+1994,Pacific Grand Prix,Damon Hill,18,0,3,49,Transmission
+1994,Pacific Grand Prix,Aguri Suzuki,19,0,20,44,Steering
+1994,Pacific Grand Prix,Ukyo Katayama,20,0,14,42,Engine
+1994,Pacific Grand Prix,Mika Häkkinen,21,0,4,19,Gearbox
+1994,Pacific Grand Prix,Olivier Beretta,22,0,21,14,Electrical
+1994,Pacific Grand Prix,David Brabham,23,0,25,2,Electrical
+1994,Pacific Grand Prix,Ayrton Senna,24,0,1,0,Collision
+1994,Pacific Grand Prix,Nicola Larini,25,0,7,0,Collision
+1994,Pacific Grand Prix,Mark Blundell,26,0,12,0,Collision
+1994,San Marino Grand Prix,Michael Schumacher,1,10,2,58,RAS
+1994,San Marino Grand Prix,Nicola Larini,2,6,6,58,RAS
+1994,San Marino Grand Prix,Mika Häkkinen,3,4,8,58,RAS
+1994,San Marino Grand Prix,Karl Wendlinger,4,3,10,58,RAS
+1994,San Marino Grand Prix,Ukyo Katayama,5,2,9,57,RAS
+1994,San Marino Grand Prix,Damon Hill,6,1,4,57,RAS
+1994,San Marino Grand Prix,Heinz-Harald Frentzen,7,0,7,57,RAS
+1994,San Marino Grand Prix,Martin Brundle,8,0,13,57,RAS
+1994,San Marino Grand Prix,Mark Blundell,9,0,12,56,RAS
+1994,San Marino Grand Prix,Johnny Herbert,10,0,20,56,RAS
+1994,San Marino Grand Prix,Olivier Panis,11,0,19,56,RAS
+1994,San Marino Grand Prix,Éric Bernard,12,0,17,55,RAS
+1994,San Marino Grand Prix,Christian Fittipaldi,13,0,16,54,Spun off
+1994,San Marino Grand Prix,Andrea de Cesaris,14,0,21,49,Spun off
+1994,San Marino Grand Prix,Michele Alboreto,15,0,15,44,Wheel
+1994,San Marino Grand Prix,Gianni Morbidelli,16,0,11,40,Engine
+1994,San Marino Grand Prix,Pierluigi Martini,17,0,14,37,Spun off
+1994,San Marino Grand Prix,David Brabham,18,0,24,27,Spun off
+1994,San Marino Grand Prix,Bertrand Gachot,19,0,25,23,Engine
+1994,San Marino Grand Prix,Olivier Beretta,20,0,23,17,Engine
+1994,San Marino Grand Prix,Gerhard Berger,21,0,3,16,Suspension
+1994,San Marino Grand Prix,Ayrton Senna,22,0,1,5,Accident
+1994,San Marino Grand Prix,Érik Comas,23,0,18,5,Withdrew
+1994,San Marino Grand Prix,Jyrki Järvilehto,24,0,5,0,Collision
+1994,San Marino Grand Prix,Pedro Lamy,25,0,22,0,Collision
+1994,San Marino Grand Prix,Roland Ratzenberger,26,0,0,0,Accident
+1994,San Marino Grand Prix,Rubens Barrichello,27,0,0,0,Injury
+1994,Monaco Grand Prix,Michael Schumacher,1,10,1,78,RAS
+1994,Monaco Grand Prix,Martin Brundle,2,6,8,78,RAS
+1994,Monaco Grand Prix,Gerhard Berger,3,4,3,78,RAS
+1994,Monaco Grand Prix,Andrea de Cesaris,4,3,14,77,RAS
+1994,Monaco Grand Prix,Jean Alesi,5,2,5,77,RAS
+1994,Monaco Grand Prix,Michele Alboreto,6,1,12,77,RAS
+1994,Monaco Grand Prix,Jyrki Järvilehto,7,0,17,77,RAS
+1994,Monaco Grand Prix,Olivier Beretta,8,0,18,76,RAS
+1994,Monaco Grand Prix,Olivier Panis,9,0,20,76,RAS
+1994,Monaco Grand Prix,Érik Comas,10,0,13,75,RAS
+1994,Monaco Grand Prix,Pedro Lamy,11,0,19,73,RAS
+1994,Monaco Grand Prix,Johnny Herbert,12,0,16,68,Gearbox
+1994,Monaco Grand Prix,Paul Belmondo,13,0,24,53,Physical
+1994,Monaco Grand Prix,Bertrand Gachot,14,0,23,49,Gearbox
+1994,Monaco Grand Prix,Christian Fittipaldi,15,0,6,47,Gearbox
+1994,Monaco Grand Prix,David Brabham,16,0,22,45,Engine
+1994,Monaco Grand Prix,Mark Blundell,17,0,10,40,Engine
+1994,Monaco Grand Prix,Ukyo Katayama,18,0,11,38,Gearbox
+1994,Monaco Grand Prix,Éric Bernard,19,0,21,34,Spun off
+1994,Monaco Grand Prix,Rubens Barrichello,20,0,15,27,Electrical
+1994,Monaco Grand Prix,Mika Häkkinen,21,0,2,0,Collision
+1994,Monaco Grand Prix,Damon Hill,22,0,4,0,Collision
+1994,Monaco Grand Prix,Gianni Morbidelli,23,0,7,0,Collision
+1994,Monaco Grand Prix,Pierluigi Martini,24,0,9,0,Collision
+1994,Monaco Grand Prix,Heinz-Harald Frentzen,25,0,0,0,Withdrew
+1994,Monaco Grand Prix,Karl Wendlinger,26,0,0,0,Injury
+1994,Spanish Grand Prix,Damon Hill,1,10,2,65,RAS
+1994,Spanish Grand Prix,Michael Schumacher,2,6,1,65,RAS
+1994,Spanish Grand Prix,Mark Blundell,3,4,11,65,RAS
+1994,Spanish Grand Prix,Jean Alesi,4,3,6,64,RAS
+1994,Spanish Grand Prix,Pierluigi Martini,5,2,18,64,RAS
+1994,Spanish Grand Prix,Eddie Irvine,6,1,13,64,RAS
+1994,Spanish Grand Prix,Olivier Panis,7,0,19,63,RAS
+1994,Spanish Grand Prix,Éric Bernard,8,0,20,62,RAS
+1994,Spanish Grand Prix,Alessandro Zanardi,9,0,23,62,RAS
+1994,Spanish Grand Prix,David Brabham,10,0,24,61,RAS
+1994,Spanish Grand Prix,Martin Brundle,11,0,8,59,Transmission
+1994,Spanish Grand Prix,Jyrki Järvilehto,12,0,4,53,Engine
+1994,Spanish Grand Prix,Mika Häkkinen,13,0,3,48,Engine
+1994,Spanish Grand Prix,Johnny Herbert,14,0,22,41,Spun off
+1994,Spanish Grand Prix,Rubens Barrichello,15,0,5,39,Spun off
+1994,Spanish Grand Prix,Christian Fittipaldi,16,0,21,35,Engine
+1994,Spanish Grand Prix,David Coulthard,17,0,9,32,Electrical
+1994,Spanish Grand Prix,Bertrand Gachot,18,0,25,32,Broken wing
+1994,Spanish Grand Prix,Gerhard Berger,19,0,7,27,Gearbox
+1994,Spanish Grand Prix,Gianni Morbidelli,20,0,15,24,Fuel system
+1994,Spanish Grand Prix,Heinz-Harald Frentzen,21,0,12,21,Gearbox
+1994,Spanish Grand Prix,Érik Comas,22,0,16,19,Radiator
+1994,Spanish Grand Prix,Ukyo Katayama,23,0,10,16,Engine
+1994,Spanish Grand Prix,Michele Alboreto,24,0,14,4,Engine
+1994,Spanish Grand Prix,Paul Belmondo,25,0,26,2,Spun off
+1994,Spanish Grand Prix,Olivier Beretta,26,0,17,0,Engine
+1994,Spanish Grand Prix,Andrea Montermini,27,0,0,0,Injury
+1994,Canadian Grand Prix,Michael Schumacher,1,10,1,69,RAS
+1994,Canadian Grand Prix,Damon Hill,2,6,4,69,RAS
+1994,Canadian Grand Prix,Jean Alesi,3,4,2,69,RAS
+1994,Canadian Grand Prix,Gerhard Berger,4,3,3,69,RAS
+1994,Canadian Grand Prix,David Coulthard,5,2,5,68,RAS
+1994,Canadian Grand Prix,Jyrki Järvilehto,6,1,20,68,RAS
+1994,Canadian Grand Prix,Rubens Barrichello,7,0,6,68,RAS
+1994,Canadian Grand Prix,Johnny Herbert,8,0,17,68,RAS
+1994,Canadian Grand Prix,Pierluigi Martini,9,0,15,68,RAS
+1994,Canadian Grand Prix,Mark Blundell,10,0,13,67,Spun off
+1994,Canadian Grand Prix,Michele Alboreto,11,0,18,67,RAS
+1994,Canadian Grand Prix,Olivier Panis,12,0,19,67,RAS
+1994,Canadian Grand Prix,Éric Bernard,13,0,24,66,RAS
+1994,Canadian Grand Prix,David Brabham,14,0,25,65,RAS
+1994,Canadian Grand Prix,Alessandro Zanardi,15,0,23,62,RAS
+1994,Canadian Grand Prix,Christian Fittipaldi,16,0,16,68,DQ
+1994,Canadian Grand Prix,Mika Häkkinen,17,0,7,61,Engine
+1994,Canadian Grand Prix,Olivier Beretta,18,0,22,57,Engine
+1994,Canadian Grand Prix,Gianni Morbidelli,19,0,11,50,Transmission
+1994,Canadian Grand Prix,Bertrand Gachot,20,0,26,47,Oil pressure
+1994,Canadian Grand Prix,Érik Comas,21,0,21,45,Clutch
+1994,Canadian Grand Prix,Ukyo Katayama,22,0,9,44,Accident
+1994,Canadian Grand Prix,Eddie Irvine,23,0,8,40,Spun off
+1994,Canadian Grand Prix,Andrea de Cesaris,24,0,14,24,Oil pressure
+1994,Canadian Grand Prix,Heinz-Harald Frentzen,25,0,10,5,Spun off
+1994,Canadian Grand Prix,Martin Brundle,26,0,12,3,Electrical
+1994,French Grand Prix,Michael Schumacher,1,10,3,72,RAS
+1994,French Grand Prix,Damon Hill,2,6,1,72,RAS
+1994,French Grand Prix,Gerhard Berger,3,4,5,72,RAS
+1994,French Grand Prix,Heinz-Harald Frentzen,4,3,10,71,RAS
+1994,French Grand Prix,Pierluigi Martini,5,2,16,70,RAS
+1994,French Grand Prix,Andrea de Cesaris,6,1,11,70,RAS
+1994,French Grand Prix,Johnny Herbert,7,0,19,70,RAS
+1994,French Grand Prix,Christian Fittipaldi,8,0,18,70,RAS
+1994,French Grand Prix,Jean-Marc Gounon,9,0,26,68,RAS
+1994,French Grand Prix,Mark Blundell,10,0,17,67,RAS
+1994,French Grand Prix,Érik Comas,11,0,20,66,Engine
+1994,French Grand Prix,Ukyo Katayama,12,0,14,53,Spun off
+1994,French Grand Prix,Mika Häkkinen,13,0,9,48,Engine
+1994,French Grand Prix,Nigel Mansell,14,0,2,45,Gearbox
+1994,French Grand Prix,Jean Alesi,15,0,4,41,Collision
+1994,French Grand Prix,Rubens Barrichello,16,0,7,41,Collision
+1994,French Grand Prix,Éric Bernard,17,0,15,40,Gearbox
+1994,French Grand Prix,Olivier Beretta,18,0,25,36,Engine
+1994,French Grand Prix,Martin Brundle,19,0,12,29,Engine
+1994,French Grand Prix,Gianni Morbidelli,20,0,22,28,Collision
+1994,French Grand Prix,Olivier Panis,21,0,13,28,Collision
+1994,French Grand Prix,David Brabham,22,0,24,28,Transmission
+1994,French Grand Prix,Jos Verstappen,23,0,8,25,Spun off
+1994,French Grand Prix,Eddie Irvine,24,0,6,24,Gearbox
+1994,French Grand Prix,Michele Alboreto,25,0,21,21,Engine
+1994,French Grand Prix,Alessandro Zanardi,26,0,23,20,Engine
+1994,British Grand Prix,Damon Hill,1,10,1,60,RAS
+1994,British Grand Prix,Jean Alesi,2,6,4,60,RAS
+1994,British Grand Prix,Mika Häkkinen,3,4,5,60,RAS
+1994,British Grand Prix,Rubens Barrichello,4,3,6,60,RAS
+1994,British Grand Prix,David Coulthard,5,2,7,59,RAS
+1994,British Grand Prix,Ukyo Katayama,6,1,8,59,RAS
+1994,British Grand Prix,Heinz-Harald Frentzen,7,0,13,59,RAS
+1994,British Grand Prix,Jos Verstappen,8,0,10,59,RAS
+1994,British Grand Prix,Christian Fittipaldi,9,0,20,58,RAS
+1994,British Grand Prix,Pierluigi Martini,10,0,14,58,RAS
+1994,British Grand Prix,Johnny Herbert,11,0,21,58,RAS
+1994,British Grand Prix,Olivier Panis,12,0,15,58,RAS
+1994,British Grand Prix,Éric Bernard,13,0,23,58,RAS
+1994,British Grand Prix,Olivier Beretta,14,0,24,58,RAS
+1994,British Grand Prix,David Brabham,15,0,25,57,RAS
+1994,British Grand Prix,Jean-Marc Gounon,16,0,26,57,RAS
+1994,British Grand Prix,Michael Schumacher,17,0,2,60,DQ
+1994,British Grand Prix,Michele Alboreto,18,0,17,48,Engine
+1994,British Grand Prix,Gerhard Berger,19,0,3,32,Engine
+1994,British Grand Prix,Mark Blundell,20,0,11,20,Gearbox
+1994,British Grand Prix,Érik Comas,21,0,22,12,Engine
+1994,British Grand Prix,Andrea de Cesaris,22,0,18,11,Engine
+1994,British Grand Prix,Gianni Morbidelli,23,0,16,5,Engine
+1994,British Grand Prix,Alessandro Zanardi,24,0,19,4,Engine
+1994,British Grand Prix,Martin Brundle,25,0,9,0,Engine
+1994,British Grand Prix,Eddie Irvine,26,0,12,0,Engine
+1994,German Grand Prix,Gerhard Berger,1,10,1,45,RAS
+1994,German Grand Prix,Olivier Panis,2,6,12,45,RAS
+1994,German Grand Prix,Éric Bernard,3,4,14,45,RAS
+1994,German Grand Prix,Christian Fittipaldi,4,3,17,45,RAS
+1994,German Grand Prix,Gianni Morbidelli,5,2,16,45,RAS
+1994,German Grand Prix,Érik Comas,6,1,22,45,RAS
+1994,German Grand Prix,Olivier Beretta,7,0,24,44,RAS
+1994,German Grand Prix,Damon Hill,8,0,3,44,RAS
+1994,German Grand Prix,Jean-Marc Gounon,9,0,26,39,Engine
+1994,German Grand Prix,David Brabham,10,0,25,37,Clutch
+1994,German Grand Prix,Michael Schumacher,11,0,4,20,Engine
+1994,German Grand Prix,Martin Brundle,12,0,13,19,Engine
+1994,German Grand Prix,David Coulthard,13,0,6,17,Electrical
+1994,German Grand Prix,Jos Verstappen,14,0,19,15,Heat shield fire
+1994,German Grand Prix,Ukyo Katayama,15,0,5,6,Throttle
+1994,German Grand Prix,Jean Alesi,16,0,2,1,Electrical
+1994,German Grand Prix,Mark Blundell,17,0,7,0,Collision
+1994,German Grand Prix,Mika Häkkinen,18,0,8,0,Collision
+1994,German Grand Prix,Heinz-Harald Frentzen,19,0,9,0,Collision
+1994,German Grand Prix,Eddie Irvine,20,0,10,0,Collision
+1994,German Grand Prix,Rubens Barrichello,21,0,11,0,Collision
+1994,German Grand Prix,Johnny Herbert,22,0,15,0,Collision
+1994,German Grand Prix,Andrea de Cesaris,23,0,18,0,Collision
+1994,German Grand Prix,Pierluigi Martini,24,0,20,0,Collision
+1994,German Grand Prix,Alessandro Zanardi,25,0,21,0,Collision
+1994,German Grand Prix,Michele Alboreto,26,0,23,0,Collision
+1994,Hungarian Grand Prix,Michael Schumacher,1,10,1,77,RAS
+1994,Hungarian Grand Prix,Damon Hill,2,6,2,77,RAS
+1994,Hungarian Grand Prix,Jos Verstappen,3,4,12,77,RAS
+1994,Hungarian Grand Prix,Martin Brundle,4,3,6,76,Electrical
+1994,Hungarian Grand Prix,Mark Blundell,5,2,11,76,RAS
+1994,Hungarian Grand Prix,Olivier Panis,6,1,9,76,RAS
+1994,Hungarian Grand Prix,Michele Alboreto,7,0,20,75,RAS
+1994,Hungarian Grand Prix,Érik Comas,8,0,21,75,RAS
+1994,Hungarian Grand Prix,Olivier Beretta,9,0,25,75,RAS
+1994,Hungarian Grand Prix,Éric Bernard,10,0,18,75,RAS
+1994,Hungarian Grand Prix,David Brabham,11,0,23,74,RAS
+1994,Hungarian Grand Prix,Gerhard Berger,12,0,4,72,Engine
+1994,Hungarian Grand Prix,Alessandro Zanardi,13,0,22,72,RAS
+1994,Hungarian Grand Prix,Christian Fittipaldi,14,0,16,69,Transmission
+1994,Hungarian Grand Prix,David Coulthard,15,0,3,59,Spun off
+1994,Hungarian Grand Prix,Jean Alesi,16,0,13,58,Gearbox
+1994,Hungarian Grand Prix,Pierluigi Martini,17,0,15,58,Spun off
+1994,Hungarian Grand Prix,Heinz-Harald Frentzen,18,0,8,39,Gearbox
+1994,Hungarian Grand Prix,Johnny Herbert,19,0,24,34,Electrical
+1994,Hungarian Grand Prix,Andrea de Cesaris,20,0,17,30,Collision
+1994,Hungarian Grand Prix,Gianni Morbidelli,21,0,19,30,Collision
+1994,Hungarian Grand Prix,Philippe Alliot,22,0,14,21,Water leak
+1994,Hungarian Grand Prix,Jean-Marc Gounon,23,0,26,9,Handling
+1994,Hungarian Grand Prix,Ukyo Katayama,24,0,5,0,Collision
+1994,Hungarian Grand Prix,Eddie Irvine,25,0,7,0,Collision
+1994,Hungarian Grand Prix,Rubens Barrichello,26,0,10,0,Collision
+1994,Belgian Grand Prix,Damon Hill,1,10,3,44,RAS
+1994,Belgian Grand Prix,Mika Häkkinen,2,6,8,44,RAS
+1994,Belgian Grand Prix,Jos Verstappen,3,4,6,44,RAS
+1994,Belgian Grand Prix,David Coulthard,4,3,7,44,RAS
+1994,Belgian Grand Prix,Mark Blundell,5,2,12,43,RAS
+1994,Belgian Grand Prix,Gianni Morbidelli,6,1,14,43,RAS
+1994,Belgian Grand Prix,Olivier Panis,7,0,17,43,RAS
+1994,Belgian Grand Prix,Pierluigi Martini,8,0,10,43,RAS
+1994,Belgian Grand Prix,Michele Alboreto,9,0,18,43,RAS
+1994,Belgian Grand Prix,Éric Bernard,10,0,16,42,RAS
+1994,Belgian Grand Prix,Jean-Marc Gounon,11,0,25,42,RAS
+1994,Belgian Grand Prix,Johnny Herbert,12,0,20,41,RAS
+1994,Belgian Grand Prix,Eddie Irvine,13,0,4,40,Alternator
+1994,Belgian Grand Prix,Michael Schumacher,14,0,2,44,DQ
+1994,Belgian Grand Prix,Christian Fittipaldi,15,0,24,33,Engine
+1994,Belgian Grand Prix,David Brabham,16,0,21,29,Wheel
+1994,Belgian Grand Prix,Andrea de Cesaris,17,0,15,27,Throttle
+1994,Belgian Grand Prix,Martin Brundle,18,0,13,24,Spun off
+1994,Belgian Grand Prix,Rubens Barrichello,19,0,1,19,Spun off
+1994,Belgian Grand Prix,Ukyo Katayama,20,0,23,18,Engine
+1994,Belgian Grand Prix,Philippe Adams,21,0,26,15,Spun off
+1994,Belgian Grand Prix,Gerhard Berger,22,0,11,11,Engine
+1994,Belgian Grand Prix,Philippe Alliot,23,0,19,11,Engine
+1994,Belgian Grand Prix,Heinz-Harald Frentzen,24,0,9,10,Halfshaft
+1994,Belgian Grand Prix,Érik Comas,25,0,22,3,Engine
+1994,Belgian Grand Prix,Jean Alesi,26,0,5,2,Engine
+1994,Italian Grand Prix,Damon Hill,1,10,3,53,RAS
+1994,Italian Grand Prix,Gerhard Berger,2,6,2,53,RAS
+1994,Italian Grand Prix,Mika Häkkinen,3,4,7,53,RAS
+1994,Italian Grand Prix,Rubens Barrichello,4,3,16,53,RAS
+1994,Italian Grand Prix,Martin Brundle,5,2,15,53,RAS
+1994,Italian Grand Prix,David Coulthard,6,1,5,52,Out of fuel
+1994,Italian Grand Prix,Éric Bernard,7,0,12,52,RAS
+1994,Italian Grand Prix,Érik Comas,8,0,24,52,RAS
+1994,Italian Grand Prix,Jyrki Järvilehto,9,0,20,52,RAS
+1994,Italian Grand Prix,Olivier Panis,10,0,6,51,RAS
+1994,Italian Grand Prix,David Brabham,11,0,26,46,Puncture
+1994,Italian Grand Prix,Ukyo Katayama,12,0,14,45,Spun off
+1994,Italian Grand Prix,Christian Fittipaldi,13,0,19,43,Engine
+1994,Italian Grand Prix,Eddie Irvine,14,0,9,41,Engine
+1994,Italian Grand Prix,Mark Blundell,15,0,21,39,Spun off
+1994,Italian Grand Prix,Pierluigi Martini,16,0,18,30,Spun off
+1994,Italian Grand Prix,Michele Alboreto,17,0,22,28,Gearbox
+1994,Italian Grand Prix,Heinz-Harald Frentzen,18,0,11,22,Engine
+1994,Italian Grand Prix,Andrea de Cesaris,19,0,8,20,Engine
+1994,Italian Grand Prix,Jean-Marc Gounon,20,0,25,20,Gearbox
+1994,Italian Grand Prix,Yannick Dalmas,21,0,23,18,Spun off
+1994,Italian Grand Prix,Jean Alesi,22,0,1,14,Gearbox
+1994,Italian Grand Prix,Johnny Herbert,23,0,4,13,Alternator
+1994,Italian Grand Prix,Jos Verstappen,24,0,10,0,Collision
+1994,Italian Grand Prix,Alessandro Zanardi,25,0,13,0,Collision
+1994,Italian Grand Prix,Gianni Morbidelli,26,0,17,0,Collision
+1994,Portuguese Grand Prix,Damon Hill,1,10,2,71,RAS
+1994,Portuguese Grand Prix,David Coulthard,2,6,3,71,RAS
+1994,Portuguese Grand Prix,Mika Häkkinen,3,4,4,71,RAS
+1994,Portuguese Grand Prix,Rubens Barrichello,4,3,8,71,RAS
+1994,Portuguese Grand Prix,Jos Verstappen,5,2,10,71,RAS
+1994,Portuguese Grand Prix,Martin Brundle,6,1,7,71,RAS
+1994,Portuguese Grand Prix,Eddie Irvine,7,0,13,70,RAS
+1994,Portuguese Grand Prix,Christian Fittipaldi,8,0,11,70,RAS
+1994,Portuguese Grand Prix,Gianni Morbidelli,9,0,16,70,RAS
+1994,Portuguese Grand Prix,Éric Bernard,10,0,21,70,RAS
+1994,Portuguese Grand Prix,Johnny Herbert,11,0,20,70,RAS
+1994,Portuguese Grand Prix,Pierluigi Martini,12,0,18,69,RAS
+1994,Portuguese Grand Prix,Michele Alboreto,13,0,19,69,RAS
+1994,Portuguese Grand Prix,Yannick Dalmas,14,0,23,69,RAS
+1994,Portuguese Grand Prix,Jean-Marc Gounon,15,0,26,67,RAS
+1994,Portuguese Grand Prix,Philippe Adams,16,0,25,67,RAS
+1994,Portuguese Grand Prix,Olivier Panis,17,0,15,70,DQ
+1994,Portuguese Grand Prix,Mark Blundell,18,0,12,61,Engine
+1994,Portuguese Grand Prix,Jyrki Järvilehto,19,0,14,60,Spun off
+1994,Portuguese Grand Prix,Andrea de Cesaris,20,0,17,54,Spun off
+1994,Portuguese Grand Prix,Jean Alesi,21,0,5,38,Collision
+1994,Portuguese Grand Prix,David Brabham,22,0,24,36,Collision
+1994,Portuguese Grand Prix,Heinz-Harald Frentzen,23,0,9,31,Differential
+1994,Portuguese Grand Prix,Érik Comas,24,0,22,27,Suspension
+1994,Portuguese Grand Prix,Ukyo Katayama,25,0,6,26,Gearbox
+1994,Portuguese Grand Prix,Gerhard Berger,26,0,1,7,Gearbox
+1994,European Grand Prix,Michael Schumacher,1,10,1,69,RAS
+1994,European Grand Prix,Damon Hill,2,6,2,69,RAS
+1994,European Grand Prix,Mika Häkkinen,3,4,9,69,RAS
+1994,European Grand Prix,Eddie Irvine,4,3,10,69,RAS
+1994,European Grand Prix,Gerhard Berger,5,2,6,68,RAS
+1994,European Grand Prix,Heinz-Harald Frentzen,6,1,4,68,RAS
+1994,European Grand Prix,Ukyo Katayama,7,0,13,68,RAS
+1994,European Grand Prix,Johnny Herbert,8,0,7,68,RAS
+1994,European Grand Prix,Olivier Panis,9,0,11,68,RAS
+1994,European Grand Prix,Jean Alesi,10,0,16,68,RAS
+1994,European Grand Prix,Gianni Morbidelli,11,0,8,68,RAS
+1994,European Grand Prix,Rubens Barrichello,12,0,5,68,RAS
+1994,European Grand Prix,Mark Blundell,13,0,14,68,RAS
+1994,European Grand Prix,Michele Alboreto,14,0,20,67,RAS
+1994,European Grand Prix,Pierluigi Martini,15,0,17,67,RAS
+1994,European Grand Prix,Alessandro Zanardi,16,0,21,67,RAS
+1994,European Grand Prix,Christian Fittipaldi,17,0,19,66,RAS
+1994,European Grand Prix,Éric Bernard,18,0,22,66,RAS
+1994,European Grand Prix,Domenico Schiattarella,19,0,26,64,RAS
+1994,European Grand Prix,Nigel Mansell,20,0,3,47,Spun off
+1994,European Grand Prix,David Brabham,21,0,25,42,Engine
+1994,European Grand Prix,Andrea de Cesaris,22,0,18,37,Throttle
+1994,European Grand Prix,Érik Comas,23,0,23,37,Alternator
+1994,European Grand Prix,Jos Verstappen,24,0,12,15,Spun off
+1994,European Grand Prix,Hideki Noda,25,0,24,10,Gearbox
+1994,European Grand Prix,Martin Brundle,26,0,15,8,Engine
+1994,Japanese Grand Prix,Damon Hill,1,10,2,50,RAS
+1994,Japanese Grand Prix,Michael Schumacher,2,6,1,50,RAS
+1994,Japanese Grand Prix,Jean Alesi,3,4,7,50,RAS
+1994,Japanese Grand Prix,Nigel Mansell,4,3,4,50,RAS
+1994,Japanese Grand Prix,Eddie Irvine,5,2,6,50,RAS
+1994,Japanese Grand Prix,Heinz-Harald Frentzen,6,1,3,50,RAS
+1994,Japanese Grand Prix,Mika Häkkinen,7,0,8,50,RAS
+1994,Japanese Grand Prix,Christian Fittipaldi,8,0,18,49,RAS
+1994,Japanese Grand Prix,Érik Comas,9,0,22,49,RAS
+1994,Japanese Grand Prix,Mika Salo,10,0,25,49,RAS
+1994,Japanese Grand Prix,Olivier Panis,11,0,19,49,RAS
+1994,Japanese Grand Prix,David Brabham,12,0,24,48,RAS
+1994,Japanese Grand Prix,Alessandro Zanardi,13,0,17,48,RAS
+1994,Japanese Grand Prix,Mark Blundell,14,0,13,26,Engine
+1994,Japanese Grand Prix,Rubens Barrichello,15,0,10,16,Gearbox
+1994,Japanese Grand Prix,Martin Brundle,16,0,9,13,Spun off
+1994,Japanese Grand Prix,Gianni Morbidelli,17,0,12,13,Spun off
+1994,Japanese Grand Prix,Gerhard Berger,18,0,11,10,Ignition
+1994,Japanese Grand Prix,Franck Lagorce,19,0,20,10,Collision
+1994,Japanese Grand Prix,Pierluigi Martini,20,0,16,10,Collision
+1994,Japanese Grand Prix,Michele Alboreto,21,0,21,10,Spun off
+1994,Japanese Grand Prix,Johnny Herbert,22,0,5,3,Spun off
+1994,Japanese Grand Prix,Ukyo Katayama,23,0,14,3,Spun off
+1994,Japanese Grand Prix,Taki Inoue,24,0,26,3,Spun off
+1994,Japanese Grand Prix,Jyrki Järvilehto,25,0,15,0,Engine
+1994,Japanese Grand Prix,Hideki Noda,26,0,23,0,Spun off
+1994,Australian Grand Prix,Nigel Mansell,1,10,1,81,RAS
+1994,Australian Grand Prix,Gerhard Berger,2,6,11,81,RAS
+1994,Australian Grand Prix,Martin Brundle,3,4,9,81,RAS
+1994,Australian Grand Prix,Rubens Barrichello,4,3,5,81,RAS
+1994,Australian Grand Prix,Olivier Panis,5,2,12,80,RAS
+1994,Australian Grand Prix,Jean Alesi,6,1,8,80,RAS
+1994,Australian Grand Prix,Heinz-Harald Frentzen,7,0,10,80,RAS
+1994,Australian Grand Prix,Christian Fittipaldi,8,0,19,80,RAS
+1994,Australian Grand Prix,Pierluigi Martini,9,0,18,79,RAS
+1994,Australian Grand Prix,Jyrki Järvilehto,10,0,17,79,RAS
+1994,Australian Grand Prix,Franck Lagorce,11,0,20,79,RAS
+1994,Australian Grand Prix,Mika Häkkinen,12,0,4,76,Brakes
+1994,Australian Grand Prix,Michele Alboreto,13,0,16,69,Suspension
+1994,Australian Grand Prix,Mark Blundell,14,0,13,66,Accident
+1994,Australian Grand Prix,Jean-Denis Délétraz,15,0,25,56,Gearbox
+1994,Australian Grand Prix,Mika Salo,16,0,22,49,Electrical
+1994,Australian Grand Prix,David Brabham,17,0,24,49,Engine
+1994,Australian Grand Prix,Alessandro Zanardi,18,0,14,40,Throttle
+1994,Australian Grand Prix,Damon Hill,19,0,3,35,Collision
+1994,Australian Grand Prix,Michael Schumacher,20,0,2,35,Collision
+1994,Australian Grand Prix,Domenico Schiattarella,21,0,26,21,Gearbox
+1994,Australian Grand Prix,Ukyo Katayama,22,0,15,19,Spun off
+1994,Australian Grand Prix,Hideki Noda,23,0,23,18,Oil leak
+1994,Australian Grand Prix,Gianni Morbidelli,24,0,21,17,Oil leak
+1994,Australian Grand Prix,Eddie Irvine,25,0,6,15,Spun off
+1994,Australian Grand Prix,Johnny Herbert,26,0,7,13,Gearbox

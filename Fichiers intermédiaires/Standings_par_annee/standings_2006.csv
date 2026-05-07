@@ -1,0 +1,397 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2006,Bahrain Grand Prix,Fernando Alonso,1,10,4,57,RAS
+2006,Bahrain Grand Prix,Michael Schumacher,2,8,1,57,RAS
+2006,Bahrain Grand Prix,Kimi Räikkönen,3,6,22,57,RAS
+2006,Bahrain Grand Prix,Jenson Button,4,5,3,57,RAS
+2006,Bahrain Grand Prix,Juan Pablo Montoya,5,4,5,57,RAS
+2006,Bahrain Grand Prix,Mark Webber,6,3,7,57,RAS
+2006,Bahrain Grand Prix,Nico Rosberg,7,2,12,57,RAS
+2006,Bahrain Grand Prix,Christian Klien,8,1,8,57,RAS
+2006,Bahrain Grand Prix,Felipe Massa,9,0,2,57,RAS
+2006,Bahrain Grand Prix,David Coulthard,10,0,13,57,RAS
+2006,Bahrain Grand Prix,Vitantonio Liuzzi,11,0,15,57,RAS
+2006,Bahrain Grand Prix,Nick Heidfeld,12,0,10,56,RAS
+2006,Bahrain Grand Prix,Scott Speed,13,0,16,56,RAS
+2006,Bahrain Grand Prix,Ralf Schumacher,14,0,17,56,RAS
+2006,Bahrain Grand Prix,Rubens Barrichello,15,0,6,56,RAS
+2006,Bahrain Grand Prix,Jarno Trulli,16,0,14,56,RAS
+2006,Bahrain Grand Prix,Tiago Monteiro,17,0,19,55,RAS
+2006,Bahrain Grand Prix,Takuma Sato,18,0,20,53,RAS
+2006,Bahrain Grand Prix,Yuji Ide,19,0,21,35,Mechanical
+2006,Bahrain Grand Prix,Jacques Villeneuve,20,0,11,29,Engine
+2006,Bahrain Grand Prix,Giancarlo Fisichella,21,0,9,21,Hydraulics
+2006,Bahrain Grand Prix,Christijan Albers,22,0,18,0,Driveshaft
+2006,Malaysian Grand Prix,Giancarlo Fisichella,1,10,1,56,RAS
+2006,Malaysian Grand Prix,Fernando Alonso,2,8,7,56,RAS
+2006,Malaysian Grand Prix,Jenson Button,3,6,2,56,RAS
+2006,Malaysian Grand Prix,Juan Pablo Montoya,4,5,5,56,RAS
+2006,Malaysian Grand Prix,Felipe Massa,5,4,21,56,RAS
+2006,Malaysian Grand Prix,Michael Schumacher,6,3,14,56,RAS
+2006,Malaysian Grand Prix,Jacques Villeneuve,7,2,10,56,RAS
+2006,Malaysian Grand Prix,Ralf Schumacher,8,1,22,56,RAS
+2006,Malaysian Grand Prix,Jarno Trulli,9,0,9,55,RAS
+2006,Malaysian Grand Prix,Rubens Barrichello,10,0,20,55,RAS
+2006,Malaysian Grand Prix,Vitantonio Liuzzi,11,0,13,54,RAS
+2006,Malaysian Grand Prix,Christijan Albers,12,0,15,54,RAS
+2006,Malaysian Grand Prix,Tiago Monteiro,13,0,16,54,RAS
+2006,Malaysian Grand Prix,Takuma Sato,14,0,17,53,RAS
+2006,Malaysian Grand Prix,Nick Heidfeld,15,0,11,48,Engine
+2006,Malaysian Grand Prix,Scott Speed,16,0,12,41,Clutch
+2006,Malaysian Grand Prix,Yuji Ide,17,0,18,33,Mechanical
+2006,Malaysian Grand Prix,Christian Klien,18,0,8,26,Hydraulics
+2006,Malaysian Grand Prix,Mark Webber,19,0,4,15,Hydraulics
+2006,Malaysian Grand Prix,David Coulthard,20,0,19,10,Hydraulics
+2006,Malaysian Grand Prix,Nico Rosberg,21,0,3,6,Engine
+2006,Malaysian Grand Prix,Kimi Räikkönen,22,0,6,0,Accident
+2006,Australian Grand Prix,Fernando Alonso,1,10,3,57,RAS
+2006,Australian Grand Prix,Kimi Räikkönen,2,8,4,57,RAS
+2006,Australian Grand Prix,Ralf Schumacher,3,6,6,57,RAS
+2006,Australian Grand Prix,Nick Heidfeld,4,5,8,57,RAS
+2006,Australian Grand Prix,Giancarlo Fisichella,5,4,2,57,RAS
+2006,Australian Grand Prix,Jacques Villeneuve,6,3,19,57,RAS
+2006,Australian Grand Prix,Rubens Barrichello,7,2,16,57,RAS
+2006,Australian Grand Prix,David Coulthard,8,1,11,57,RAS
+2006,Australian Grand Prix,Scott Speed,9,0,18,57,RAS
+2006,Australian Grand Prix,Jenson Button,10,0,1,56,RAS
+2006,Australian Grand Prix,Christijan Albers,11,0,17,56,RAS
+2006,Australian Grand Prix,Takuma Sato,12,0,21,55,RAS
+2006,Australian Grand Prix,Yuji Ide,13,0,22,54,RAS
+2006,Australian Grand Prix,Juan Pablo Montoya,14,0,5,46,Electrical
+2006,Australian Grand Prix,Tiago Monteiro,15,0,20,39,Mechanical
+2006,Australian Grand Prix,Vitantonio Liuzzi,16,0,12,37,Accident
+2006,Australian Grand Prix,Michael Schumacher,17,0,10,32,Accident
+2006,Australian Grand Prix,Mark Webber,18,0,7,22,Transmission
+2006,Australian Grand Prix,Christian Klien,19,0,13,4,Accident
+2006,Australian Grand Prix,Jarno Trulli,20,0,9,0,Accident
+2006,Australian Grand Prix,Nico Rosberg,21,0,14,0,Accident
+2006,Australian Grand Prix,Felipe Massa,22,0,15,0,Accident
+2006,San Marino Grand Prix,Michael Schumacher,1,10,1,62,RAS
+2006,San Marino Grand Prix,Fernando Alonso,2,8,5,62,RAS
+2006,San Marino Grand Prix,Juan Pablo Montoya,3,6,7,62,RAS
+2006,San Marino Grand Prix,Felipe Massa,4,5,4,62,RAS
+2006,San Marino Grand Prix,Kimi Räikkönen,5,4,8,62,RAS
+2006,San Marino Grand Prix,Mark Webber,6,3,10,62,RAS
+2006,San Marino Grand Prix,Jenson Button,7,2,2,62,RAS
+2006,San Marino Grand Prix,Giancarlo Fisichella,8,1,11,62,RAS
+2006,San Marino Grand Prix,Ralf Schumacher,9,0,6,62,RAS
+2006,San Marino Grand Prix,Rubens Barrichello,10,0,3,62,RAS
+2006,San Marino Grand Prix,Nico Rosberg,11,0,13,62,RAS
+2006,San Marino Grand Prix,Jacques Villeneuve,12,0,12,62,RAS
+2006,San Marino Grand Prix,Nick Heidfeld,13,0,15,61,RAS
+2006,San Marino Grand Prix,Vitantonio Liuzzi,14,0,16,61,RAS
+2006,San Marino Grand Prix,Scott Speed,15,0,18,61,RAS
+2006,San Marino Grand Prix,Tiago Monteiro,16,0,19,60,RAS
+2006,San Marino Grand Prix,David Coulthard,17,0,14,47,Driveshaft
+2006,San Marino Grand Prix,Takuma Sato,18,0,21,44,Spun off
+2006,San Marino Grand Prix,Christian Klien,19,0,17,40,Hydraulics
+2006,San Marino Grand Prix,Yuji Ide,20,0,22,23,Suspension
+2006,San Marino Grand Prix,Jarno Trulli,21,0,9,5,Steering
+2006,San Marino Grand Prix,Christijan Albers,22,0,20,0,Accident
+2006,European Grand Prix,Michael Schumacher,1,10,2,60,RAS
+2006,European Grand Prix,Fernando Alonso,2,8,1,60,RAS
+2006,European Grand Prix,Felipe Massa,3,6,3,60,RAS
+2006,European Grand Prix,Kimi Räikkönen,4,5,5,60,RAS
+2006,European Grand Prix,Rubens Barrichello,5,4,4,60,RAS
+2006,European Grand Prix,Giancarlo Fisichella,6,3,11,60,RAS
+2006,European Grand Prix,Nico Rosberg,7,2,22,60,RAS
+2006,European Grand Prix,Jacques Villeneuve,8,1,9,60,RAS
+2006,European Grand Prix,Jarno Trulli,9,0,7,59,RAS
+2006,European Grand Prix,Nick Heidfeld,10,0,13,59,RAS
+2006,European Grand Prix,Scott Speed,11,0,17,59,RAS
+2006,European Grand Prix,Tiago Monteiro,12,0,18,59,RAS
+2006,European Grand Prix,Christijan Albers,13,0,16,59,RAS
+2006,European Grand Prix,Ralf Schumacher,14,0,10,52,Engine
+2006,European Grand Prix,Juan Pablo Montoya,15,0,8,52,Engine
+2006,European Grand Prix,Takuma Sato,16,0,20,45,Hydraulics
+2006,European Grand Prix,Franck Montagny,17,0,21,29,Hydraulics
+2006,European Grand Prix,Jenson Button,18,0,6,28,Engine
+2006,European Grand Prix,Christian Klien,19,0,15,28,Gearbox
+2006,European Grand Prix,Mark Webber,20,0,19,12,Hydraulics
+2006,European Grand Prix,David Coulthard,21,0,12,2,Accident
+2006,European Grand Prix,Vitantonio Liuzzi,22,0,14,0,Accident
+2006,Spanish Grand Prix,Fernando Alonso,1,10,1,66,RAS
+2006,Spanish Grand Prix,Michael Schumacher,2,8,3,66,RAS
+2006,Spanish Grand Prix,Giancarlo Fisichella,3,6,2,66,RAS
+2006,Spanish Grand Prix,Felipe Massa,4,5,4,66,RAS
+2006,Spanish Grand Prix,Kimi Räikkönen,5,4,9,66,RAS
+2006,Spanish Grand Prix,Jenson Button,6,3,8,66,RAS
+2006,Spanish Grand Prix,Rubens Barrichello,7,2,5,65,RAS
+2006,Spanish Grand Prix,Nick Heidfeld,8,1,10,65,RAS
+2006,Spanish Grand Prix,Mark Webber,9,0,11,65,RAS
+2006,Spanish Grand Prix,Jarno Trulli,10,0,7,65,RAS
+2006,Spanish Grand Prix,Nico Rosberg,11,0,13,65,RAS
+2006,Spanish Grand Prix,Jacques Villeneuve,12,0,22,65,RAS
+2006,Spanish Grand Prix,Christian Klien,13,0,14,65,RAS
+2006,Spanish Grand Prix,David Coulthard,14,0,21,65,RAS
+2006,Spanish Grand Prix,Vitantonio Liuzzi,15,0,15,63,Hydraulics
+2006,Spanish Grand Prix,Tiago Monteiro,16,0,17,63,RAS
+2006,Spanish Grand Prix,Takuma Sato,17,0,19,62,RAS
+2006,Spanish Grand Prix,Christijan Albers,18,0,18,48,Broken wing
+2006,Spanish Grand Prix,Scott Speed,19,0,16,47,Engine
+2006,Spanish Grand Prix,Ralf Schumacher,20,0,6,31,Electronics
+2006,Spanish Grand Prix,Juan Pablo Montoya,21,0,12,17,Spun off
+2006,Spanish Grand Prix,Franck Montagny,22,0,20,10,Driveshaft
+2006,Monaco Grand Prix,Fernando Alonso,1,10,1,78,RAS
+2006,Monaco Grand Prix,Juan Pablo Montoya,2,8,4,78,RAS
+2006,Monaco Grand Prix,David Coulthard,3,6,7,78,RAS
+2006,Monaco Grand Prix,Rubens Barrichello,4,5,5,78,RAS
+2006,Monaco Grand Prix,Michael Schumacher,5,4,22,78,RAS
+2006,Monaco Grand Prix,Giancarlo Fisichella,6,3,9,78,RAS
+2006,Monaco Grand Prix,Nick Heidfeld,7,2,15,77,RAS
+2006,Monaco Grand Prix,Ralf Schumacher,8,1,10,77,RAS
+2006,Monaco Grand Prix,Felipe Massa,9,0,21,77,RAS
+2006,Monaco Grand Prix,Vitantonio Liuzzi,10,0,12,77,RAS
+2006,Monaco Grand Prix,Jenson Button,11,0,13,77,RAS
+2006,Monaco Grand Prix,Christijan Albers,12,0,16,77,RAS
+2006,Monaco Grand Prix,Scott Speed,13,0,18,77,RAS
+2006,Monaco Grand Prix,Jacques Villeneuve,14,0,14,77,RAS
+2006,Monaco Grand Prix,Tiago Monteiro,15,0,17,76,RAS
+2006,Monaco Grand Prix,Franck Montagny,16,0,20,75,RAS
+2006,Monaco Grand Prix,Jarno Trulli,17,0,6,72,Hydraulics
+2006,Monaco Grand Prix,Christian Klien,18,0,11,56,Transmission
+2006,Monaco Grand Prix,Nico Rosberg,19,0,8,51,Accident
+2006,Monaco Grand Prix,Kimi Räikkönen,20,0,3,50,Heat shield fire
+2006,Monaco Grand Prix,Mark Webber,21,0,2,48,Exhaust
+2006,Monaco Grand Prix,Takuma Sato,22,0,19,46,Electrical
+2006,British Grand Prix,Fernando Alonso,1,10,1,60,RAS
+2006,British Grand Prix,Michael Schumacher,2,8,3,60,RAS
+2006,British Grand Prix,Kimi Räikkönen,3,6,2,60,RAS
+2006,British Grand Prix,Giancarlo Fisichella,4,5,5,60,RAS
+2006,British Grand Prix,Felipe Massa,5,4,4,60,RAS
+2006,British Grand Prix,Juan Pablo Montoya,6,3,8,60,RAS
+2006,British Grand Prix,Nick Heidfeld,7,2,9,60,RAS
+2006,British Grand Prix,Jacques Villeneuve,8,1,10,60,RAS
+2006,British Grand Prix,Nico Rosberg,9,0,12,60,RAS
+2006,British Grand Prix,Rubens Barrichello,10,0,6,59,RAS
+2006,British Grand Prix,Jarno Trulli,11,0,22,59,RAS
+2006,British Grand Prix,David Coulthard,12,0,11,59,RAS
+2006,British Grand Prix,Vitantonio Liuzzi,13,0,13,59,RAS
+2006,British Grand Prix,Christian Klien,14,0,14,59,RAS
+2006,British Grand Prix,Christijan Albers,15,0,18,59,RAS
+2006,British Grand Prix,Tiago Monteiro,16,0,16,58,RAS
+2006,British Grand Prix,Takuma Sato,17,0,20,57,RAS
+2006,British Grand Prix,Franck Montagny,18,0,21,57,RAS
+2006,British Grand Prix,Jenson Button,19,0,19,8,Oil leak
+2006,British Grand Prix,Scott Speed,20,0,15,1,Accident
+2006,British Grand Prix,Ralf Schumacher,21,0,7,0,Accident
+2006,British Grand Prix,Mark Webber,22,0,17,0,Accident
+2006,Canadian Grand Prix,Fernando Alonso,1,10,1,70,RAS
+2006,Canadian Grand Prix,Michael Schumacher,2,8,5,70,RAS
+2006,Canadian Grand Prix,Kimi Räikkönen,3,6,3,70,RAS
+2006,Canadian Grand Prix,Giancarlo Fisichella,4,5,2,70,RAS
+2006,Canadian Grand Prix,Felipe Massa,5,4,10,70,RAS
+2006,Canadian Grand Prix,Jarno Trulli,6,3,4,69,RAS
+2006,Canadian Grand Prix,Nick Heidfeld,7,2,13,69,RAS
+2006,Canadian Grand Prix,David Coulthard,8,1,22,69,RAS
+2006,Canadian Grand Prix,Jenson Button,9,0,8,69,RAS
+2006,Canadian Grand Prix,Scott Speed,10,0,17,69,RAS
+2006,Canadian Grand Prix,Christian Klien,11,0,12,69,RAS
+2006,Canadian Grand Prix,Mark Webber,12,0,16,69,RAS
+2006,Canadian Grand Prix,Vitantonio Liuzzi,13,0,15,68,RAS
+2006,Canadian Grand Prix,Tiago Monteiro,14,0,18,66,RAS
+2006,Canadian Grand Prix,Takuma Sato,15,0,20,64,Accident
+2006,Canadian Grand Prix,Jacques Villeneuve,16,0,11,58,Accident
+2006,Canadian Grand Prix,Ralf Schumacher,17,0,14,58,DNF
+2006,Canadian Grand Prix,Juan Pablo Montoya,18,0,7,13,Accident
+2006,Canadian Grand Prix,Rubens Barrichello,19,0,9,11,Mechanical
+2006,Canadian Grand Prix,Franck Montagny,20,0,21,2,Engine
+2006,Canadian Grand Prix,Nico Rosberg,21,0,6,1,Accident
+2006,Canadian Grand Prix,Christijan Albers,22,0,19,0,Accident
+2006,United States Grand Prix,Michael Schumacher,1,10,1,73,RAS
+2006,United States Grand Prix,Felipe Massa,2,8,2,73,RAS
+2006,United States Grand Prix,Giancarlo Fisichella,3,6,3,73,RAS
+2006,United States Grand Prix,Jarno Trulli,4,5,22,73,RAS
+2006,United States Grand Prix,Fernando Alonso,5,4,5,73,RAS
+2006,United States Grand Prix,Rubens Barrichello,6,3,4,73,RAS
+2006,United States Grand Prix,David Coulthard,7,2,17,72,RAS
+2006,United States Grand Prix,Vitantonio Liuzzi,8,1,20,72,RAS
+2006,United States Grand Prix,Nico Rosberg,9,0,21,72,RAS
+2006,United States Grand Prix,Ralf Schumacher,10,0,8,62,RAS
+2006,United States Grand Prix,Christijan Albers,11,0,14,37,Transmission
+2006,United States Grand Prix,Jacques Villeneuve,12,0,6,23,Engine
+2006,United States Grand Prix,Tiago Monteiro,13,0,15,9,Accident
+2006,United States Grand Prix,Takuma Sato,14,0,18,6,Accident
+2006,United States Grand Prix,Jenson Button,15,0,7,3,Accident
+2006,United States Grand Prix,Kimi Räikkönen,16,0,9,0,Accident
+2006,United States Grand Prix,Nick Heidfeld,17,0,10,0,Accident
+2006,United States Grand Prix,Juan Pablo Montoya,18,0,11,0,Accident
+2006,United States Grand Prix,Mark Webber,19,0,12,0,Accident
+2006,United States Grand Prix,Scott Speed,20,0,13,0,Accident
+2006,United States Grand Prix,Christian Klien,21,0,16,0,Accident
+2006,United States Grand Prix,Franck Montagny,22,0,19,0,Accident
+2006,French Grand Prix,Michael Schumacher,1,10,1,70,RAS
+2006,French Grand Prix,Fernando Alonso,2,8,3,70,RAS
+2006,French Grand Prix,Felipe Massa,3,6,2,70,RAS
+2006,French Grand Prix,Ralf Schumacher,4,5,5,70,RAS
+2006,French Grand Prix,Kimi Räikkönen,5,4,6,70,RAS
+2006,French Grand Prix,Giancarlo Fisichella,6,3,7,70,RAS
+2006,French Grand Prix,Pedro de la Rosa,7,2,8,70,RAS
+2006,French Grand Prix,Nick Heidfeld,8,1,11,69,RAS
+2006,French Grand Prix,David Coulthard,9,0,9,69,RAS
+2006,French Grand Prix,Scott Speed,10,0,14,69,RAS
+2006,French Grand Prix,Jacques Villeneuve,11,0,16,69,RAS
+2006,French Grand Prix,Christian Klien,12,0,12,69,RAS
+2006,French Grand Prix,Vitantonio Liuzzi,13,0,22,69,RAS
+2006,French Grand Prix,Nico Rosberg,14,0,18,68,RAS
+2006,French Grand Prix,Christijan Albers,15,0,15,68,RAS
+2006,French Grand Prix,Franck Montagny,16,0,20,67,RAS
+2006,French Grand Prix,Jenson Button,17,0,17,61,Technical
+2006,French Grand Prix,Mark Webber,18,0,10,55,Wheel rim
+2006,French Grand Prix,Jarno Trulli,19,0,4,39,Brakes
+2006,French Grand Prix,Rubens Barrichello,20,0,13,28,Engine
+2006,French Grand Prix,Tiago Monteiro,21,0,19,11,Mechanical
+2006,French Grand Prix,Takuma Sato,22,0,21,0,Transmission
+2006,German Grand Prix,Michael Schumacher,1,10,2,67,RAS
+2006,German Grand Prix,Felipe Massa,2,8,3,67,RAS
+2006,German Grand Prix,Kimi Räikkönen,3,6,1,67,RAS
+2006,German Grand Prix,Jenson Button,4,5,4,67,RAS
+2006,German Grand Prix,Fernando Alonso,5,4,7,67,RAS
+2006,German Grand Prix,Giancarlo Fisichella,6,3,5,67,RAS
+2006,German Grand Prix,Jarno Trulli,7,2,20,67,RAS
+2006,German Grand Prix,Christian Klien,8,1,12,67,RAS
+2006,German Grand Prix,Ralf Schumacher,9,0,8,67,RAS
+2006,German Grand Prix,Vitantonio Liuzzi,10,0,16,66,RAS
+2006,German Grand Prix,David Coulthard,11,0,10,66,RAS
+2006,German Grand Prix,Scott Speed,12,0,19,66,RAS
+2006,German Grand Prix,Mark Webber,13,0,11,59,Water leak
+2006,German Grand Prix,Takuma Sato,14,0,17,38,Gearbox
+2006,German Grand Prix,Jacques Villeneuve,15,0,13,30,Accident
+2006,German Grand Prix,Rubens Barrichello,16,0,6,18,Engine
+2006,German Grand Prix,Nick Heidfeld,17,0,15,9,Brakes
+2006,German Grand Prix,Pedro de la Rosa,18,0,9,2,Fuel pump
+2006,German Grand Prix,Sakon Yamamoto,19,0,22,1,Driveshaft
+2006,German Grand Prix,Nico Rosberg,20,0,14,0,Accident
+2006,German Grand Prix,Christijan Albers,21,0,21,66,DQ
+2006,German Grand Prix,Tiago Monteiro,22,0,18,66,DQ
+2006,Hungarian Grand Prix,Jenson Button,1,10,14,70,RAS
+2006,Hungarian Grand Prix,Pedro de la Rosa,2,8,4,70,RAS
+2006,Hungarian Grand Prix,Nick Heidfeld,3,6,10,70,RAS
+2006,Hungarian Grand Prix,Rubens Barrichello,4,5,3,70,RAS
+2006,Hungarian Grand Prix,David Coulthard,5,4,12,69,RAS
+2006,Hungarian Grand Prix,Ralf Schumacher,6,3,6,69,RAS
+2006,Hungarian Grand Prix,Felipe Massa,7,2,2,69,RAS
+2006,Hungarian Grand Prix,Michael Schumacher,8,1,11,67,Track rod
+2006,Hungarian Grand Prix,Tiago Monteiro,9,0,16,67,RAS
+2006,Hungarian Grand Prix,Christijan Albers,10,0,22,67,RAS
+2006,Hungarian Grand Prix,Scott Speed,11,0,20,66,RAS
+2006,Hungarian Grand Prix,Jarno Trulli,12,0,8,65,Engine
+2006,Hungarian Grand Prix,Takuma Sato,13,0,19,65,RAS
+2006,Hungarian Grand Prix,Fernando Alonso,14,0,15,51,Driveshaft
+2006,Hungarian Grand Prix,Kimi Räikkönen,15,0,1,25,Collision
+2006,Hungarian Grand Prix,Vitantonio Liuzzi,16,0,17,25,Collision
+2006,Hungarian Grand Prix,Nico Rosberg,17,0,18,19,Electrical
+2006,Hungarian Grand Prix,Giancarlo Fisichella,18,0,7,18,Spun off
+2006,Hungarian Grand Prix,Christian Klien,19,0,13,6,Spun off
+2006,Hungarian Grand Prix,Mark Webber,20,0,5,1,Accident
+2006,Hungarian Grand Prix,Sakon Yamamoto,21,0,21,0,Engine
+2006,Hungarian Grand Prix,Robert Kubica,22,0,9,69,DQ
+2006,Turkish Grand Prix,Felipe Massa,1,10,1,58,RAS
+2006,Turkish Grand Prix,Fernando Alonso,2,8,3,58,RAS
+2006,Turkish Grand Prix,Michael Schumacher,3,6,2,58,RAS
+2006,Turkish Grand Prix,Jenson Button,4,5,6,58,RAS
+2006,Turkish Grand Prix,Pedro de la Rosa,5,4,11,58,RAS
+2006,Turkish Grand Prix,Giancarlo Fisichella,6,3,4,58,RAS
+2006,Turkish Grand Prix,Ralf Schumacher,7,2,15,58,RAS
+2006,Turkish Grand Prix,Rubens Barrichello,8,1,13,58,RAS
+2006,Turkish Grand Prix,Jarno Trulli,9,0,12,57,RAS
+2006,Turkish Grand Prix,Mark Webber,10,0,9,57,RAS
+2006,Turkish Grand Prix,Christian Klien,11,0,10,57,RAS
+2006,Turkish Grand Prix,Robert Kubica,12,0,8,57,RAS
+2006,Turkish Grand Prix,Scott Speed,13,0,17,57,RAS
+2006,Turkish Grand Prix,Nick Heidfeld,14,0,5,56,RAS
+2006,Turkish Grand Prix,David Coulthard,15,0,16,55,Gearbox
+2006,Turkish Grand Prix,Christijan Albers,16,0,22,46,Spun off
+2006,Turkish Grand Prix,Takuma Sato,17,0,21,41,RAS
+2006,Turkish Grand Prix,Nico Rosberg,18,0,14,25,Water leak
+2006,Turkish Grand Prix,Sakon Yamamoto,19,0,20,23,Spun off
+2006,Turkish Grand Prix,Vitantonio Liuzzi,20,0,18,12,Spun off
+2006,Turkish Grand Prix,Kimi Räikkönen,21,0,7,1,Collision
+2006,Turkish Grand Prix,Tiago Monteiro,22,0,19,0,Collision
+2006,Italian Grand Prix,Michael Schumacher,1,10,2,53,RAS
+2006,Italian Grand Prix,Kimi Räikkönen,2,8,1,53,RAS
+2006,Italian Grand Prix,Robert Kubica,3,6,6,53,RAS
+2006,Italian Grand Prix,Giancarlo Fisichella,4,5,9,53,RAS
+2006,Italian Grand Prix,Jenson Button,5,4,5,53,RAS
+2006,Italian Grand Prix,Rubens Barrichello,6,3,8,53,RAS
+2006,Italian Grand Prix,Jarno Trulli,7,2,11,53,RAS
+2006,Italian Grand Prix,Nick Heidfeld,8,1,3,53,RAS
+2006,Italian Grand Prix,Felipe Massa,9,0,4,53,RAS
+2006,Italian Grand Prix,Mark Webber,10,0,19,53,RAS
+2006,Italian Grand Prix,Christian Klien,11,0,16,52,RAS
+2006,Italian Grand Prix,David Coulthard,12,0,14,52,RAS
+2006,Italian Grand Prix,Scott Speed,13,0,15,52,RAS
+2006,Italian Grand Prix,Vitantonio Liuzzi,14,0,17,52,RAS
+2006,Italian Grand Prix,Ralf Schumacher,15,0,13,52,RAS
+2006,Italian Grand Prix,Takuma Sato,16,0,21,51,RAS
+2006,Italian Grand Prix,Christijan Albers,17,0,18,51,RAS
+2006,Italian Grand Prix,Tiago Monteiro,18,0,20,44,Brakes
+2006,Italian Grand Prix,Fernando Alonso,19,0,10,43,Engine
+2006,Italian Grand Prix,Pedro de la Rosa,20,0,7,20,Engine
+2006,Italian Grand Prix,Sakon Yamamoto,21,0,22,18,Hydraulics
+2006,Italian Grand Prix,Nico Rosberg,22,0,12,9,Driveshaft
+2006,Chinese Grand Prix,Michael Schumacher,1,10,6,56,RAS
+2006,Chinese Grand Prix,Fernando Alonso,2,8,1,56,RAS
+2006,Chinese Grand Prix,Giancarlo Fisichella,3,6,2,56,RAS
+2006,Chinese Grand Prix,Jenson Button,4,5,4,56,RAS
+2006,Chinese Grand Prix,Pedro de la Rosa,5,4,7,56,RAS
+2006,Chinese Grand Prix,Rubens Barrichello,6,3,3,56,RAS
+2006,Chinese Grand Prix,Nick Heidfeld,7,2,8,56,RAS
+2006,Chinese Grand Prix,Mark Webber,8,1,14,56,RAS
+2006,Chinese Grand Prix,David Coulthard,9,0,12,56,RAS
+2006,Chinese Grand Prix,Vitantonio Liuzzi,10,0,13,55,RAS
+2006,Chinese Grand Prix,Nico Rosberg,11,0,15,55,RAS
+2006,Chinese Grand Prix,Robert Doornbos,12,0,10,55,RAS
+2006,Chinese Grand Prix,Robert Kubica,13,0,9,55,RAS
+2006,Chinese Grand Prix,Scott Speed,14,0,11,55,RAS
+2006,Chinese Grand Prix,Christijan Albers,15,0,22,53,RAS
+2006,Chinese Grand Prix,Sakon Yamamoto,16,0,19,52,RAS
+2006,Chinese Grand Prix,Ralf Schumacher,17,0,16,49,Oil pressure
+2006,Chinese Grand Prix,Felipe Massa,18,0,20,44,Collision
+2006,Chinese Grand Prix,Jarno Trulli,19,0,17,38,Pneumatics
+2006,Chinese Grand Prix,Tiago Monteiro,20,0,18,37,Spun off
+2006,Chinese Grand Prix,Kimi Räikkönen,21,0,5,18,Throttle
+2006,Chinese Grand Prix,Takuma Sato,22,0,21,55,DQ
+2006,Japanese Grand Prix,Fernando Alonso,1,10,5,53,RAS
+2006,Japanese Grand Prix,Felipe Massa,2,8,1,53,RAS
+2006,Japanese Grand Prix,Giancarlo Fisichella,3,6,6,53,RAS
+2006,Japanese Grand Prix,Jenson Button,4,5,7,53,RAS
+2006,Japanese Grand Prix,Kimi Räikkönen,5,4,11,53,RAS
+2006,Japanese Grand Prix,Jarno Trulli,6,3,4,53,RAS
+2006,Japanese Grand Prix,Ralf Schumacher,7,2,3,53,RAS
+2006,Japanese Grand Prix,Nick Heidfeld,8,1,9,53,RAS
+2006,Japanese Grand Prix,Robert Kubica,9,0,12,53,RAS
+2006,Japanese Grand Prix,Nico Rosberg,10,0,10,52,RAS
+2006,Japanese Grand Prix,Pedro de la Rosa,11,0,13,52,RAS
+2006,Japanese Grand Prix,Rubens Barrichello,12,0,8,52,RAS
+2006,Japanese Grand Prix,Robert Doornbos,13,0,18,52,RAS
+2006,Japanese Grand Prix,Vitantonio Liuzzi,14,0,15,52,RAS
+2006,Japanese Grand Prix,Takuma Sato,15,0,20,52,RAS
+2006,Japanese Grand Prix,Tiago Monteiro,16,0,21,51,RAS
+2006,Japanese Grand Prix,Sakon Yamamoto,17,0,22,50,RAS
+2006,Japanese Grand Prix,Scott Speed,18,0,19,48,Steering
+2006,Japanese Grand Prix,Mark Webber,19,0,14,39,Accident
+2006,Japanese Grand Prix,Michael Schumacher,20,0,2,36,Engine
+2006,Japanese Grand Prix,David Coulthard,21,0,17,35,Gearbox
+2006,Japanese Grand Prix,Christijan Albers,22,0,16,20,Driveshaft
+2006,Brazilian Grand Prix,Felipe Massa,1,10,1,71,RAS
+2006,Brazilian Grand Prix,Fernando Alonso,2,8,4,71,RAS
+2006,Brazilian Grand Prix,Jenson Button,3,6,14,71,RAS
+2006,Brazilian Grand Prix,Michael Schumacher,4,5,10,71,RAS
+2006,Brazilian Grand Prix,Kimi Räikkönen,5,4,2,71,RAS
+2006,Brazilian Grand Prix,Giancarlo Fisichella,6,3,6,71,RAS
+2006,Brazilian Grand Prix,Rubens Barrichello,7,2,5,71,RAS
+2006,Brazilian Grand Prix,Pedro de la Rosa,8,1,12,71,RAS
+2006,Brazilian Grand Prix,Robert Kubica,9,0,9,71,RAS
+2006,Brazilian Grand Prix,Takuma Sato,10,0,19,70,RAS
+2006,Brazilian Grand Prix,Scott Speed,11,0,16,70,RAS
+2006,Brazilian Grand Prix,Robert Doornbos,12,0,22,70,RAS
+2006,Brazilian Grand Prix,Vitantonio Liuzzi,13,0,15,70,RAS
+2006,Brazilian Grand Prix,Christijan Albers,14,0,17,70,RAS
+2006,Brazilian Grand Prix,Tiago Monteiro,15,0,21,69,RAS
+2006,Brazilian Grand Prix,Sakon Yamamoto,16,0,20,69,RAS
+2006,Brazilian Grand Prix,Nick Heidfeld,17,0,8,63,Accident
+2006,Brazilian Grand Prix,David Coulthard,18,0,18,14,Gearbox
+2006,Brazilian Grand Prix,Jarno Trulli,19,0,3,10,Suspension
+2006,Brazilian Grand Prix,Ralf Schumacher,20,0,7,9,Suspension
+2006,Brazilian Grand Prix,Mark Webber,21,0,11,1,Collision
+2006,Brazilian Grand Prix,Nico Rosberg,22,0,13,0,Collision

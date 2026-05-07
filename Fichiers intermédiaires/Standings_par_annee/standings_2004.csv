@@ -1,0 +1,361 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2004,Australian Grand Prix,Michael Schumacher,1,10,1,58,RAS
+2004,Australian Grand Prix,Rubens Barrichello,2,8,2,58,RAS
+2004,Australian Grand Prix,Fernando Alonso,3,6,5,58,RAS
+2004,Australian Grand Prix,Ralf Schumacher,4,5,8,58,RAS
+2004,Australian Grand Prix,Juan Pablo Montoya,5,4,3,58,RAS
+2004,Australian Grand Prix,Jenson Button,6,3,4,58,RAS
+2004,Australian Grand Prix,Jarno Trulli,7,2,9,57,RAS
+2004,Australian Grand Prix,David Coulthard,8,1,12,57,RAS
+2004,Australian Grand Prix,Takuma Sato,9,0,7,57,RAS
+2004,Australian Grand Prix,Giancarlo Fisichella,10,0,14,57,RAS
+2004,Australian Grand Prix,Christian Klien,11,0,19,56,RAS
+2004,Australian Grand Prix,Cristiano da Matta,12,0,13,56,RAS
+2004,Australian Grand Prix,Olivier Panis,13,0,18,56,RAS
+2004,Australian Grand Prix,Giorgio Pantano,14,0,16,55,RAS
+2004,Australian Grand Prix,Felipe Massa,15,0,11,44,Engine
+2004,Australian Grand Prix,Nick Heidfeld,16,0,15,43,Transmission
+2004,Australian Grand Prix,Gianmaria Bruni,17,0,20,43,Not classified
+2004,Australian Grand Prix,Mark Webber,18,0,6,29,Transmission
+2004,Australian Grand Prix,Zsolt Baumgartner,19,0,17,13,Electrical
+2004,Australian Grand Prix,Kimi Räikkönen,20,0,10,9,Engine
+2004,Malaysian Grand Prix,Michael Schumacher,1,10,1,56,RAS
+2004,Malaysian Grand Prix,Juan Pablo Montoya,2,8,4,56,RAS
+2004,Malaysian Grand Prix,Jenson Button,3,6,6,56,RAS
+2004,Malaysian Grand Prix,Rubens Barrichello,4,5,3,56,RAS
+2004,Malaysian Grand Prix,Jarno Trulli,5,4,8,56,RAS
+2004,Malaysian Grand Prix,David Coulthard,6,3,9,56,RAS
+2004,Malaysian Grand Prix,Fernando Alonso,7,2,19,56,RAS
+2004,Malaysian Grand Prix,Felipe Massa,8,1,11,55,RAS
+2004,Malaysian Grand Prix,Cristiano da Matta,9,0,10,55,RAS
+2004,Malaysian Grand Prix,Christian Klien,10,0,13,55,RAS
+2004,Malaysian Grand Prix,Giancarlo Fisichella,11,0,12,55,RAS
+2004,Malaysian Grand Prix,Olivier Panis,12,0,14,55,RAS
+2004,Malaysian Grand Prix,Giorgio Pantano,13,0,18,54,RAS
+2004,Malaysian Grand Prix,Gianmaria Bruni,14,0,16,53,RAS
+2004,Malaysian Grand Prix,Takuma Sato,15,0,20,52,RAS
+2004,Malaysian Grand Prix,Zsolt Baumgartner,16,0,17,52,RAS
+2004,Malaysian Grand Prix,Kimi Räikkönen,17,0,5,40,Transmission
+2004,Malaysian Grand Prix,Nick Heidfeld,18,0,15,34,Transmission
+2004,Malaysian Grand Prix,Ralf Schumacher,19,0,7,27,Engine
+2004,Malaysian Grand Prix,Mark Webber,20,0,2,23,Spun off
+2004,Bahrain Grand Prix,Michael Schumacher,1,10,1,57,RAS
+2004,Bahrain Grand Prix,Rubens Barrichello,2,8,2,57,RAS
+2004,Bahrain Grand Prix,Jenson Button,3,6,6,57,RAS
+2004,Bahrain Grand Prix,Jarno Trulli,4,5,7,57,RAS
+2004,Bahrain Grand Prix,Takuma Sato,5,4,5,57,RAS
+2004,Bahrain Grand Prix,Fernando Alonso,6,3,16,57,RAS
+2004,Bahrain Grand Prix,Ralf Schumacher,7,2,4,57,RAS
+2004,Bahrain Grand Prix,Mark Webber,8,1,14,56,RAS
+2004,Bahrain Grand Prix,Olivier Panis,9,0,8,56,RAS
+2004,Bahrain Grand Prix,Cristiano da Matta,10,0,9,56,RAS
+2004,Bahrain Grand Prix,Giancarlo Fisichella,11,0,11,56,RAS
+2004,Bahrain Grand Prix,Felipe Massa,12,0,13,56,RAS
+2004,Bahrain Grand Prix,Juan Pablo Montoya,13,0,3,56,RAS
+2004,Bahrain Grand Prix,Christian Klien,14,0,12,56,RAS
+2004,Bahrain Grand Prix,Nick Heidfeld,15,0,18,56,RAS
+2004,Bahrain Grand Prix,Giorgio Pantano,16,0,15,55,RAS
+2004,Bahrain Grand Prix,Gianmaria Bruni,17,0,17,52,RAS
+2004,Bahrain Grand Prix,David Coulthard,18,0,10,50,Pneumatics
+2004,Bahrain Grand Prix,Zsolt Baumgartner,19,0,20,44,Engine
+2004,Bahrain Grand Prix,Kimi Räikkönen,20,0,19,7,Engine
+2004,San Marino Grand Prix,Michael Schumacher,1,10,2,62,RAS
+2004,San Marino Grand Prix,Jenson Button,2,8,1,62,RAS
+2004,San Marino Grand Prix,Juan Pablo Montoya,3,6,3,62,RAS
+2004,San Marino Grand Prix,Fernando Alonso,4,5,6,62,RAS
+2004,San Marino Grand Prix,Jarno Trulli,5,4,9,62,RAS
+2004,San Marino Grand Prix,Rubens Barrichello,6,3,4,62,RAS
+2004,San Marino Grand Prix,Ralf Schumacher,7,2,5,62,RAS
+2004,San Marino Grand Prix,Kimi Räikkönen,8,1,20,61,RAS
+2004,San Marino Grand Prix,Giancarlo Fisichella,9,0,18,61,RAS
+2004,San Marino Grand Prix,Felipe Massa,10,0,12,61,RAS
+2004,San Marino Grand Prix,Olivier Panis,11,0,13,61,RAS
+2004,San Marino Grand Prix,David Coulthard,12,0,11,61,RAS
+2004,San Marino Grand Prix,Mark Webber,13,0,8,61,RAS
+2004,San Marino Grand Prix,Christian Klien,14,0,14,60,RAS
+2004,San Marino Grand Prix,Zsolt Baumgartner,15,0,19,58,RAS
+2004,San Marino Grand Prix,Takuma Sato,16,0,7,56,Engine
+2004,San Marino Grand Prix,Nick Heidfeld,17,0,16,48,Driveshaft
+2004,San Marino Grand Prix,Cristiano da Matta,18,0,10,32,Accident
+2004,San Marino Grand Prix,Gianmaria Bruni,19,0,17,22,Brakes
+2004,San Marino Grand Prix,Giorgio Pantano,20,0,15,6,Hydraulics
+2004,Spanish Grand Prix,Michael Schumacher,1,10,1,66,RAS
+2004,Spanish Grand Prix,Rubens Barrichello,2,8,5,66,RAS
+2004,Spanish Grand Prix,Jarno Trulli,3,6,4,66,RAS
+2004,Spanish Grand Prix,Fernando Alonso,4,5,8,66,RAS
+2004,Spanish Grand Prix,Takuma Sato,5,4,3,66,RAS
+2004,Spanish Grand Prix,Ralf Schumacher,6,3,6,66,RAS
+2004,Spanish Grand Prix,Giancarlo Fisichella,7,2,12,66,RAS
+2004,Spanish Grand Prix,Jenson Button,8,1,14,65,RAS
+2004,Spanish Grand Prix,Felipe Massa,9,0,17,65,RAS
+2004,Spanish Grand Prix,David Coulthard,10,0,10,65,RAS
+2004,Spanish Grand Prix,Kimi Räikkönen,11,0,13,65,RAS
+2004,Spanish Grand Prix,Mark Webber,12,0,9,65,RAS
+2004,Spanish Grand Prix,Cristiano da Matta,13,0,11,65,RAS
+2004,Spanish Grand Prix,Giorgio Pantano,14,0,19,51,Steering
+2004,Spanish Grand Prix,Juan Pablo Montoya,15,0,2,46,Brakes
+2004,Spanish Grand Prix,Christian Klien,16,0,16,43,Throttle
+2004,Spanish Grand Prix,Olivier Panis,17,0,7,33,Hydraulics
+2004,Spanish Grand Prix,Nick Heidfeld,18,0,15,33,Hydraulics
+2004,Spanish Grand Prix,Gianmaria Bruni,19,0,18,31,Spun off
+2004,Spanish Grand Prix,Zsolt Baumgartner,20,0,20,17,Spun off
+2004,Monaco Grand Prix,Jarno Trulli,1,10,1,77,RAS
+2004,Monaco Grand Prix,Jenson Button,2,8,2,77,RAS
+2004,Monaco Grand Prix,Rubens Barrichello,3,6,6,77,RAS
+2004,Monaco Grand Prix,Juan Pablo Montoya,4,5,9,76,RAS
+2004,Monaco Grand Prix,Felipe Massa,5,4,16,76,RAS
+2004,Monaco Grand Prix,Cristiano da Matta,6,3,15,76,RAS
+2004,Monaco Grand Prix,Nick Heidfeld,7,2,17,75,RAS
+2004,Monaco Grand Prix,Olivier Panis,8,1,13,74,RAS
+2004,Monaco Grand Prix,Zsolt Baumgartner,9,0,19,71,RAS
+2004,Monaco Grand Prix,Ralf Schumacher,10,0,12,69,Gearbox
+2004,Monaco Grand Prix,Michael Schumacher,11,0,4,45,Collision
+2004,Monaco Grand Prix,Fernando Alonso,12,0,3,41,Accident
+2004,Monaco Grand Prix,Kimi Räikkönen,13,0,5,27,Pneumatics
+2004,Monaco Grand Prix,Gianmaria Bruni,14,0,20,15,Gearbox
+2004,Monaco Grand Prix,Giorgio Pantano,15,0,18,12,Transmission
+2004,Monaco Grand Prix,Mark Webber,16,0,11,11,Gearbox
+2004,Monaco Grand Prix,Takuma Sato,17,0,7,2,Engine
+2004,Monaco Grand Prix,David Coulthard,18,0,8,2,Collision
+2004,Monaco Grand Prix,Giancarlo Fisichella,19,0,10,2,Collision
+2004,Monaco Grand Prix,Christian Klien,20,0,14,0,Accident
+2004,European Grand Prix,Michael Schumacher,1,10,1,60,RAS
+2004,European Grand Prix,Rubens Barrichello,2,8,7,60,RAS
+2004,European Grand Prix,Jenson Button,3,6,5,60,RAS
+2004,European Grand Prix,Jarno Trulli,4,5,3,60,RAS
+2004,European Grand Prix,Fernando Alonso,5,4,6,60,RAS
+2004,European Grand Prix,Giancarlo Fisichella,6,3,19,60,RAS
+2004,European Grand Prix,Mark Webber,7,2,14,60,RAS
+2004,European Grand Prix,Juan Pablo Montoya,8,1,8,59,RAS
+2004,European Grand Prix,Felipe Massa,9,0,16,59,RAS
+2004,European Grand Prix,Nick Heidfeld,10,0,13,59,RAS
+2004,European Grand Prix,Olivier Panis,11,0,10,59,RAS
+2004,European Grand Prix,Christian Klien,12,0,12,59,RAS
+2004,European Grand Prix,Giorgio Pantano,13,0,15,58,RAS
+2004,European Grand Prix,Gianmaria Bruni,14,0,20,57,RAS
+2004,European Grand Prix,Zsolt Baumgartner,15,0,17,57,RAS
+2004,European Grand Prix,Takuma Sato,16,0,2,47,Engine
+2004,European Grand Prix,David Coulthard,17,0,18,25,Engine
+2004,European Grand Prix,Kimi Räikkönen,18,0,4,9,Engine
+2004,European Grand Prix,Ralf Schumacher,19,0,9,0,Collision
+2004,European Grand Prix,Cristiano da Matta,20,0,11,0,Collision
+2004,Canadian Grand Prix,Michael Schumacher,1,10,6,70,RAS
+2004,Canadian Grand Prix,Rubens Barrichello,2,8,7,70,RAS
+2004,Canadian Grand Prix,Jenson Button,3,6,2,70,RAS
+2004,Canadian Grand Prix,Giancarlo Fisichella,4,5,11,69,RAS
+2004,Canadian Grand Prix,Kimi Räikkönen,5,4,8,69,RAS
+2004,Canadian Grand Prix,David Coulthard,6,3,9,69,RAS
+2004,Canadian Grand Prix,Timo Glock,7,2,16,68,RAS
+2004,Canadian Grand Prix,Nick Heidfeld,8,1,15,68,RAS
+2004,Canadian Grand Prix,Christian Klien,9,0,10,67,RAS
+2004,Canadian Grand Prix,Zsolt Baumgartner,10,0,18,66,RAS
+2004,Canadian Grand Prix,Felipe Massa,11,0,17,62,Accident
+2004,Canadian Grand Prix,Takuma Sato,12,0,20,48,Engine
+2004,Canadian Grand Prix,Fernando Alonso,13,0,5,44,Driveshaft
+2004,Canadian Grand Prix,Gianmaria Bruni,14,0,19,30,Gearbox
+2004,Canadian Grand Prix,Mark Webber,15,0,14,6,Suspension
+2004,Canadian Grand Prix,Jarno Trulli,16,0,3,0,Transmission
+2004,Canadian Grand Prix,Ralf Schumacher,17,0,1,70,DQ
+2004,Canadian Grand Prix,Juan Pablo Montoya,18,0,4,70,DQ
+2004,Canadian Grand Prix,Cristiano da Matta,19,0,12,69,DQ
+2004,Canadian Grand Prix,Olivier Panis,20,0,13,69,DQ
+2004,United States Grand Prix,Michael Schumacher,1,10,2,73,RAS
+2004,United States Grand Prix,Rubens Barrichello,2,8,1,73,RAS
+2004,United States Grand Prix,Takuma Sato,3,6,3,73,RAS
+2004,United States Grand Prix,Jarno Trulli,4,5,20,73,RAS
+2004,United States Grand Prix,Olivier Panis,5,4,8,73,RAS
+2004,United States Grand Prix,Kimi Räikkönen,6,3,7,72,RAS
+2004,United States Grand Prix,David Coulthard,7,2,12,72,RAS
+2004,United States Grand Prix,Zsolt Baumgartner,8,1,19,70,RAS
+2004,United States Grand Prix,Giancarlo Fisichella,9,0,14,65,RAS
+2004,United States Grand Prix,Mark Webber,10,0,10,60,Engine
+2004,United States Grand Prix,Juan Pablo Montoya,11,0,5,57,DQ
+2004,United States Grand Prix,Nick Heidfeld,12,0,16,40,Engine
+2004,United States Grand Prix,Jenson Button,13,0,4,26,Gearbox
+2004,United States Grand Prix,Cristiano da Matta,14,0,11,17,Gearbox
+2004,United States Grand Prix,Ralf Schumacher,15,0,6,9,Tyre
+2004,United States Grand Prix,Fernando Alonso,16,0,9,8,Tyre
+2004,United States Grand Prix,Christian Klien,17,0,13,0,Collision
+2004,United States Grand Prix,Felipe Massa,18,0,15,0,Collision
+2004,United States Grand Prix,Giorgio Pantano,19,0,17,0,Collision
+2004,United States Grand Prix,Gianmaria Bruni,20,0,18,0,Collision
+2004,French Grand Prix,Michael Schumacher,1,10,2,70,RAS
+2004,French Grand Prix,Fernando Alonso,2,8,1,70,RAS
+2004,French Grand Prix,Rubens Barrichello,3,6,10,70,RAS
+2004,French Grand Prix,Jarno Trulli,4,5,5,70,RAS
+2004,French Grand Prix,Jenson Button,5,4,4,70,RAS
+2004,French Grand Prix,David Coulthard,6,3,3,70,RAS
+2004,French Grand Prix,Kimi Räikkönen,7,2,9,70,RAS
+2004,French Grand Prix,Juan Pablo Montoya,8,1,6,70,RAS
+2004,French Grand Prix,Mark Webber,9,0,12,70,RAS
+2004,French Grand Prix,Marc Gené,10,0,8,70,RAS
+2004,French Grand Prix,Christian Klien,11,0,13,69,RAS
+2004,French Grand Prix,Giancarlo Fisichella,12,0,15,69,RAS
+2004,French Grand Prix,Felipe Massa,13,0,16,69,RAS
+2004,French Grand Prix,Cristiano da Matta,14,0,11,69,RAS
+2004,French Grand Prix,Olivier Panis,15,0,14,68,RAS
+2004,French Grand Prix,Nick Heidfeld,16,0,17,68,RAS
+2004,French Grand Prix,Giorgio Pantano,17,0,18,67,RAS
+2004,French Grand Prix,Gianmaria Bruni,18,0,19,66,RAS
+2004,French Grand Prix,Zsolt Baumgartner,19,0,20,31,Spun off
+2004,French Grand Prix,Takuma Sato,20,0,7,15,Engine
+2004,British Grand Prix,Michael Schumacher,1,10,4,60,RAS
+2004,British Grand Prix,Kimi Räikkönen,2,8,1,60,RAS
+2004,British Grand Prix,Rubens Barrichello,3,6,2,60,RAS
+2004,British Grand Prix,Jenson Button,4,5,3,60,RAS
+2004,British Grand Prix,Juan Pablo Montoya,5,4,7,60,RAS
+2004,British Grand Prix,Giancarlo Fisichella,6,3,20,60,RAS
+2004,British Grand Prix,David Coulthard,7,2,6,60,RAS
+2004,British Grand Prix,Mark Webber,8,1,9,60,RAS
+2004,British Grand Prix,Felipe Massa,9,0,10,60,RAS
+2004,British Grand Prix,Fernando Alonso,10,0,16,60,RAS
+2004,British Grand Prix,Takuma Sato,11,0,8,60,RAS
+2004,British Grand Prix,Marc Gené,12,0,11,60,RAS
+2004,British Grand Prix,Cristiano da Matta,13,0,12,59,RAS
+2004,British Grand Prix,Christian Klien,14,0,13,59,RAS
+2004,British Grand Prix,Nick Heidfeld,15,0,15,59,RAS
+2004,British Grand Prix,Gianmaria Bruni,16,0,18,56,RAS
+2004,British Grand Prix,Giorgio Pantano,17,0,14,47,Spun off
+2004,British Grand Prix,Jarno Trulli,18,0,5,39,Accident
+2004,British Grand Prix,Zsolt Baumgartner,19,0,19,29,Engine
+2004,British Grand Prix,Olivier Panis,20,0,17,16,Accident
+2004,German Grand Prix,Michael Schumacher,1,10,1,66,RAS
+2004,German Grand Prix,Jenson Button,2,8,13,66,RAS
+2004,German Grand Prix,Fernando Alonso,3,6,5,66,RAS
+2004,German Grand Prix,David Coulthard,4,5,4,66,RAS
+2004,German Grand Prix,Juan Pablo Montoya,5,4,2,66,RAS
+2004,German Grand Prix,Mark Webber,6,3,11,66,RAS
+2004,German Grand Prix,Antônio Pizzonia,7,2,10,66,RAS
+2004,German Grand Prix,Takuma Sato,8,1,8,66,RAS
+2004,German Grand Prix,Giancarlo Fisichella,9,0,14,66,RAS
+2004,German Grand Prix,Christian Klien,10,0,12,66,RAS
+2004,German Grand Prix,Jarno Trulli,11,0,6,66,RAS
+2004,German Grand Prix,Rubens Barrichello,12,0,7,66,RAS
+2004,German Grand Prix,Felipe Massa,13,0,16,65,RAS
+2004,German Grand Prix,Olivier Panis,14,0,9,65,RAS
+2004,German Grand Prix,Giorgio Pantano,15,0,17,63,RAS
+2004,German Grand Prix,Zsolt Baumgartner,16,0,20,62,RAS
+2004,German Grand Prix,Gianmaria Bruni,17,0,19,62,RAS
+2004,German Grand Prix,Nick Heidfeld,18,0,18,42,Handling
+2004,German Grand Prix,Cristiano da Matta,19,0,15,38,Puncture
+2004,German Grand Prix,Kimi Räikkönen,20,0,3,13,Rear wing
+2004,Hungarian Grand Prix,Michael Schumacher,1,10,1,70,RAS
+2004,Hungarian Grand Prix,Rubens Barrichello,2,8,2,70,RAS
+2004,Hungarian Grand Prix,Fernando Alonso,3,6,5,70,RAS
+2004,Hungarian Grand Prix,Juan Pablo Montoya,4,5,7,70,RAS
+2004,Hungarian Grand Prix,Jenson Button,5,4,4,70,RAS
+2004,Hungarian Grand Prix,Takuma Sato,6,3,3,69,RAS
+2004,Hungarian Grand Prix,Antônio Pizzonia,7,2,6,69,RAS
+2004,Hungarian Grand Prix,Giancarlo Fisichella,8,1,8,69,RAS
+2004,Hungarian Grand Prix,David Coulthard,9,0,12,69,RAS
+2004,Hungarian Grand Prix,Mark Webber,10,0,11,69,RAS
+2004,Hungarian Grand Prix,Olivier Panis,11,0,13,69,RAS
+2004,Hungarian Grand Prix,Nick Heidfeld,12,0,16,68,RAS
+2004,Hungarian Grand Prix,Christian Klien,13,0,14,68,RAS
+2004,Hungarian Grand Prix,Gianmaria Bruni,14,0,19,66,RAS
+2004,Hungarian Grand Prix,Zsolt Baumgartner,15,0,18,65,RAS
+2004,Hungarian Grand Prix,Giorgio Pantano,16,0,17,48,Gearbox
+2004,Hungarian Grand Prix,Jarno Trulli,17,0,9,41,Engine
+2004,Hungarian Grand Prix,Ricardo Zonta,18,0,15,31,Electronics
+2004,Hungarian Grand Prix,Felipe Massa,19,0,20,21,Brakes
+2004,Hungarian Grand Prix,Kimi Räikkönen,20,0,10,13,Electrical
+2004,Belgian Grand Prix,Kimi Räikkönen,1,10,10,44,RAS
+2004,Belgian Grand Prix,Michael Schumacher,2,8,2,44,RAS
+2004,Belgian Grand Prix,Rubens Barrichello,3,6,6,44,RAS
+2004,Belgian Grand Prix,Felipe Massa,4,5,8,44,RAS
+2004,Belgian Grand Prix,Giancarlo Fisichella,5,4,5,44,RAS
+2004,Belgian Grand Prix,Christian Klien,6,3,13,44,RAS
+2004,Belgian Grand Prix,David Coulthard,7,2,4,44,RAS
+2004,Belgian Grand Prix,Olivier Panis,8,1,9,44,RAS
+2004,Belgian Grand Prix,Jarno Trulli,9,0,1,44,RAS
+2004,Belgian Grand Prix,Ricardo Zonta,10,0,20,41,Engine
+2004,Belgian Grand Prix,Nick Heidfeld,11,0,16,40,RAS
+2004,Belgian Grand Prix,Juan Pablo Montoya,12,0,11,37,Tyre
+2004,Belgian Grand Prix,Antônio Pizzonia,13,0,14,31,Gearbox
+2004,Belgian Grand Prix,Jenson Button,14,0,12,29,Collision
+2004,Belgian Grand Prix,Zsolt Baumgartner,15,0,18,28,Collision
+2004,Belgian Grand Prix,Fernando Alonso,16,0,3,11,Engine
+2004,Belgian Grand Prix,Mark Webber,17,0,7,0,Collision
+2004,Belgian Grand Prix,Takuma Sato,18,0,15,0,Collision
+2004,Belgian Grand Prix,Gianmaria Bruni,19,0,17,0,Collision
+2004,Belgian Grand Prix,Giorgio Pantano,20,0,19,0,Collision
+2004,Italian Grand Prix,Rubens Barrichello,1,10,1,53,RAS
+2004,Italian Grand Prix,Michael Schumacher,2,8,3,53,RAS
+2004,Italian Grand Prix,Jenson Button,3,6,6,53,RAS
+2004,Italian Grand Prix,Takuma Sato,4,5,5,53,RAS
+2004,Italian Grand Prix,Juan Pablo Montoya,5,4,2,53,RAS
+2004,Italian Grand Prix,David Coulthard,6,3,10,53,RAS
+2004,Italian Grand Prix,Antônio Pizzonia,7,2,8,53,RAS
+2004,Italian Grand Prix,Giancarlo Fisichella,8,1,15,53,RAS
+2004,Italian Grand Prix,Mark Webber,9,0,12,53,RAS
+2004,Italian Grand Prix,Jarno Trulli,10,0,9,53,RAS
+2004,Italian Grand Prix,Ricardo Zonta,11,0,11,53,RAS
+2004,Italian Grand Prix,Felipe Massa,12,0,16,52,RAS
+2004,Italian Grand Prix,Christian Klien,13,0,14,52,RAS
+2004,Italian Grand Prix,Nick Heidfeld,14,0,20,52,RAS
+2004,Italian Grand Prix,Zsolt Baumgartner,15,0,19,50,RAS
+2004,Italian Grand Prix,Fernando Alonso,16,0,4,40,Spun off
+2004,Italian Grand Prix,Giorgio Pantano,17,0,17,33,Accident
+2004,Italian Grand Prix,Gianmaria Bruni,18,0,18,29,Fire
+2004,Italian Grand Prix,Kimi Räikkönen,19,0,7,13,Engine
+2004,Italian Grand Prix,Olivier Panis,20,0,13,0,Collision
+2004,Chinese Grand Prix,Rubens Barrichello,1,10,1,56,RAS
+2004,Chinese Grand Prix,Jenson Button,2,8,3,56,RAS
+2004,Chinese Grand Prix,Kimi Räikkönen,3,6,2,56,RAS
+2004,Chinese Grand Prix,Fernando Alonso,4,5,6,56,RAS
+2004,Chinese Grand Prix,Juan Pablo Montoya,5,4,10,56,RAS
+2004,Chinese Grand Prix,Takuma Sato,6,3,18,56,RAS
+2004,Chinese Grand Prix,Giancarlo Fisichella,7,2,7,56,RAS
+2004,Chinese Grand Prix,Felipe Massa,8,1,4,56,RAS
+2004,Chinese Grand Prix,David Coulthard,9,0,9,56,RAS
+2004,Chinese Grand Prix,Mark Webber,10,0,11,55,RAS
+2004,Chinese Grand Prix,Jacques Villeneuve,11,0,12,55,RAS
+2004,Chinese Grand Prix,Michael Schumacher,12,0,20,55,RAS
+2004,Chinese Grand Prix,Nick Heidfeld,13,0,14,55,RAS
+2004,Chinese Grand Prix,Olivier Panis,14,0,8,55,RAS
+2004,Chinese Grand Prix,Timo Glock,15,0,16,55,RAS
+2004,Chinese Grand Prix,Zsolt Baumgartner,16,0,19,53,RAS
+2004,Chinese Grand Prix,Gianmaria Bruni,17,0,17,38,Wheel
+2004,Chinese Grand Prix,Ralf Schumacher,18,0,5,37,Collision
+2004,Chinese Grand Prix,Ricardo Zonta,19,0,13,35,Transmission
+2004,Chinese Grand Prix,Christian Klien,20,0,15,11,Collision
+2004,Japanese Grand Prix,Michael Schumacher,1,10,1,53,RAS
+2004,Japanese Grand Prix,Ralf Schumacher,2,8,2,53,RAS
+2004,Japanese Grand Prix,Jenson Button,3,6,5,53,RAS
+2004,Japanese Grand Prix,Takuma Sato,4,5,4,53,RAS
+2004,Japanese Grand Prix,Fernando Alonso,5,4,11,53,RAS
+2004,Japanese Grand Prix,Kimi Räikkönen,6,3,12,53,RAS
+2004,Japanese Grand Prix,Juan Pablo Montoya,7,2,13,53,RAS
+2004,Japanese Grand Prix,Giancarlo Fisichella,8,1,7,53,RAS
+2004,Japanese Grand Prix,Felipe Massa,9,0,19,53,RAS
+2004,Japanese Grand Prix,Jacques Villeneuve,10,0,9,52,RAS
+2004,Japanese Grand Prix,Jarno Trulli,11,0,6,52,RAS
+2004,Japanese Grand Prix,Christian Klien,12,0,14,52,RAS
+2004,Japanese Grand Prix,Nick Heidfeld,13,0,16,52,RAS
+2004,Japanese Grand Prix,Olivier Panis,14,0,10,51,RAS
+2004,Japanese Grand Prix,Timo Glock,15,0,17,51,RAS
+2004,Japanese Grand Prix,Gianmaria Bruni,16,0,18,50,RAS
+2004,Japanese Grand Prix,Zsolt Baumgartner,17,0,20,41,Spun off
+2004,Japanese Grand Prix,David Coulthard,18,0,8,38,Collision
+2004,Japanese Grand Prix,Rubens Barrichello,19,0,15,38,Collision
+2004,Japanese Grand Prix,Mark Webber,20,0,3,20,Overheating
+2004,Brazilian Grand Prix,Juan Pablo Montoya,1,10,2,71,RAS
+2004,Brazilian Grand Prix,Kimi Räikkönen,2,8,3,71,RAS
+2004,Brazilian Grand Prix,Rubens Barrichello,3,6,1,71,RAS
+2004,Brazilian Grand Prix,Fernando Alonso,4,5,8,71,RAS
+2004,Brazilian Grand Prix,Ralf Schumacher,5,4,7,71,RAS
+2004,Brazilian Grand Prix,Takuma Sato,6,3,6,71,RAS
+2004,Brazilian Grand Prix,Michael Schumacher,7,2,18,71,RAS
+2004,Brazilian Grand Prix,Felipe Massa,8,1,4,71,RAS
+2004,Brazilian Grand Prix,Giancarlo Fisichella,9,0,10,71,RAS
+2004,Brazilian Grand Prix,Jacques Villeneuve,10,0,13,70,RAS
+2004,Brazilian Grand Prix,David Coulthard,11,0,12,70,RAS
+2004,Brazilian Grand Prix,Jarno Trulli,12,0,9,70,RAS
+2004,Brazilian Grand Prix,Ricardo Zonta,13,0,14,70,RAS
+2004,Brazilian Grand Prix,Christian Klien,14,0,15,69,RAS
+2004,Brazilian Grand Prix,Timo Glock,15,0,17,69,RAS
+2004,Brazilian Grand Prix,Zsolt Baumgartner,16,0,19,67,RAS
+2004,Brazilian Grand Prix,Gianmaria Bruni,17,0,20,67,RAS
+2004,Brazilian Grand Prix,Mark Webber,18,0,11,23,Collision
+2004,Brazilian Grand Prix,Nick Heidfeld,19,0,16,15,Clutch
+2004,Brazilian Grand Prix,Jenson Button,20,0,5,3,Engine

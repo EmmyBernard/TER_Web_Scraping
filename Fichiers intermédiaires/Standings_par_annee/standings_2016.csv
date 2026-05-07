@@ -1,0 +1,463 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2016,Australian Grand Prix,Nico Rosberg,1,25,2,57,RAS
+2016,Australian Grand Prix,Lewis Hamilton,2,18,1,57,RAS
+2016,Australian Grand Prix,Sebastian Vettel,3,15,3,57,RAS
+2016,Australian Grand Prix,Daniel Ricciardo,4,12,8,57,RAS
+2016,Australian Grand Prix,Felipe Massa,5,10,6,57,RAS
+2016,Australian Grand Prix,Romain Grosjean,6,8,19,57,RAS
+2016,Australian Grand Prix,Nico Hülkenberg,7,6,10,57,RAS
+2016,Australian Grand Prix,Valtteri Bottas,8,4,16,57,RAS
+2016,Australian Grand Prix,Carlos Sainz,9,2,7,57,RAS
+2016,Australian Grand Prix,Max Verstappen,10,1,5,57,RAS
+2016,Australian Grand Prix,Jolyon Palmer,11,0,13,57,RAS
+2016,Australian Grand Prix,Kevin Magnussen,12,0,14,57,RAS
+2016,Australian Grand Prix,Sergio Pérez,13,0,9,57,RAS
+2016,Australian Grand Prix,Jenson Button,14,0,12,56,RAS
+2016,Australian Grand Prix,Felipe Nasr,15,0,17,56,RAS
+2016,Australian Grand Prix,Pascal Wehrlein,16,0,21,56,RAS
+2016,Australian Grand Prix,Marcus Ericsson,17,0,15,38,Engine
+2016,Australian Grand Prix,Kimi Räikkönen,18,0,4,21,Engine
+2016,Australian Grand Prix,Rio Haryanto,19,0,22,17,Mechanical
+2016,Australian Grand Prix,Esteban Gutiérrez,20,0,20,16,Collision
+2016,Australian Grand Prix,Fernando Alonso,21,0,11,16,Collision
+2016,Australian Grand Prix,Daniil Kvyat,22,0,18,0,DNF
+2016,Bahrain Grand Prix,Nico Rosberg,1,25,2,57,RAS
+2016,Bahrain Grand Prix,Kimi Räikkönen,2,18,4,57,RAS
+2016,Bahrain Grand Prix,Lewis Hamilton,3,15,1,57,RAS
+2016,Bahrain Grand Prix,Daniel Ricciardo,4,12,5,57,RAS
+2016,Bahrain Grand Prix,Romain Grosjean,5,10,9,57,RAS
+2016,Bahrain Grand Prix,Max Verstappen,6,8,10,57,RAS
+2016,Bahrain Grand Prix,Daniil Kvyat,7,6,15,56,RAS
+2016,Bahrain Grand Prix,Felipe Massa,8,4,7,56,RAS
+2016,Bahrain Grand Prix,Valtteri Bottas,9,2,6,56,RAS
+2016,Bahrain Grand Prix,Stoffel Vandoorne,10,1,12,56,RAS
+2016,Bahrain Grand Prix,Kevin Magnussen,11,0,22,56,RAS
+2016,Bahrain Grand Prix,Marcus Ericsson,12,0,17,56,RAS
+2016,Bahrain Grand Prix,Pascal Wehrlein,13,0,16,56,RAS
+2016,Bahrain Grand Prix,Felipe Nasr,14,0,21,56,RAS
+2016,Bahrain Grand Prix,Nico Hülkenberg,15,0,8,56,RAS
+2016,Bahrain Grand Prix,Sergio Pérez,16,0,18,56,RAS
+2016,Bahrain Grand Prix,Rio Haryanto,17,0,20,56,RAS
+2016,Bahrain Grand Prix,Carlos Sainz,18,0,11,29,DNF
+2016,Bahrain Grand Prix,Esteban Gutiérrez,19,0,13,9,DNF
+2016,Bahrain Grand Prix,Jenson Button,20,0,14,6,Power Unit
+2016,Bahrain Grand Prix,Sebastian Vettel,21,0,3,0,Engine
+2016,Bahrain Grand Prix,Jolyon Palmer,22,0,19,0,Hydraulics
+2016,Chinese Grand Prix,Nico Rosberg,1,25,1,56,RAS
+2016,Chinese Grand Prix,Sebastian Vettel,2,18,4,56,RAS
+2016,Chinese Grand Prix,Daniil Kvyat,3,15,6,56,RAS
+2016,Chinese Grand Prix,Daniel Ricciardo,4,12,2,56,RAS
+2016,Chinese Grand Prix,Kimi Räikkönen,5,10,3,56,RAS
+2016,Chinese Grand Prix,Felipe Massa,6,8,10,56,RAS
+2016,Chinese Grand Prix,Lewis Hamilton,7,6,22,56,RAS
+2016,Chinese Grand Prix,Max Verstappen,8,4,9,56,RAS
+2016,Chinese Grand Prix,Carlos Sainz,9,2,8,56,RAS
+2016,Chinese Grand Prix,Valtteri Bottas,10,1,5,56,RAS
+2016,Chinese Grand Prix,Sergio Pérez,11,0,7,56,RAS
+2016,Chinese Grand Prix,Fernando Alonso,12,0,11,56,RAS
+2016,Chinese Grand Prix,Jenson Button,13,0,12,56,RAS
+2016,Chinese Grand Prix,Esteban Gutiérrez,14,0,18,55,RAS
+2016,Chinese Grand Prix,Nico Hülkenberg,15,0,13,55,RAS
+2016,Chinese Grand Prix,Marcus Ericsson,16,0,15,55,RAS
+2016,Chinese Grand Prix,Kevin Magnussen,17,0,17,55,RAS
+2016,Chinese Grand Prix,Pascal Wehrlein,18,0,21,55,RAS
+2016,Chinese Grand Prix,Romain Grosjean,19,0,14,55,RAS
+2016,Chinese Grand Prix,Felipe Nasr,20,0,16,55,RAS
+2016,Chinese Grand Prix,Rio Haryanto,21,0,20,55,RAS
+2016,Chinese Grand Prix,Jolyon Palmer,22,0,19,55,RAS
+2016,Russian Grand Prix,Nico Rosberg,1,25,1,53,RAS
+2016,Russian Grand Prix,Lewis Hamilton,2,18,10,53,RAS
+2016,Russian Grand Prix,Kimi Räikkönen,3,15,3,53,RAS
+2016,Russian Grand Prix,Valtteri Bottas,4,12,2,53,RAS
+2016,Russian Grand Prix,Felipe Massa,5,10,4,53,RAS
+2016,Russian Grand Prix,Fernando Alonso,6,8,14,52,RAS
+2016,Russian Grand Prix,Kevin Magnussen,7,6,17,52,RAS
+2016,Russian Grand Prix,Romain Grosjean,8,4,15,52,RAS
+2016,Russian Grand Prix,Sergio Pérez,9,2,6,52,RAS
+2016,Russian Grand Prix,Jenson Button,10,1,12,52,RAS
+2016,Russian Grand Prix,Daniel Ricciardo,11,0,5,52,RAS
+2016,Russian Grand Prix,Carlos Sainz,12,0,11,52,RAS
+2016,Russian Grand Prix,Jolyon Palmer,13,0,18,52,RAS
+2016,Russian Grand Prix,Marcus Ericsson,14,0,22,52,RAS
+2016,Russian Grand Prix,Daniil Kvyat,15,0,8,52,RAS
+2016,Russian Grand Prix,Felipe Nasr,16,0,19,52,RAS
+2016,Russian Grand Prix,Esteban Gutiérrez,17,0,16,52,RAS
+2016,Russian Grand Prix,Pascal Wehrlein,18,0,20,51,RAS
+2016,Russian Grand Prix,Max Verstappen,19,0,9,33,Power Unit
+2016,Russian Grand Prix,Sebastian Vettel,20,0,7,0,Collision
+2016,Russian Grand Prix,Nico Hülkenberg,21,0,13,0,Collision
+2016,Russian Grand Prix,Rio Haryanto,22,0,21,0,Collision
+2016,Spanish Grand Prix,Max Verstappen,1,25,4,66,RAS
+2016,Spanish Grand Prix,Kimi Räikkönen,2,18,5,66,RAS
+2016,Spanish Grand Prix,Sebastian Vettel,3,15,6,66,RAS
+2016,Spanish Grand Prix,Daniel Ricciardo,4,12,3,66,RAS
+2016,Spanish Grand Prix,Valtteri Bottas,5,10,7,66,RAS
+2016,Spanish Grand Prix,Carlos Sainz,6,8,8,66,RAS
+2016,Spanish Grand Prix,Sergio Pérez,7,6,9,66,RAS
+2016,Spanish Grand Prix,Felipe Massa,8,4,18,66,RAS
+2016,Spanish Grand Prix,Jenson Button,9,2,12,65,RAS
+2016,Spanish Grand Prix,Daniil Kvyat,10,1,13,65,RAS
+2016,Spanish Grand Prix,Esteban Gutiérrez,11,0,16,65,RAS
+2016,Spanish Grand Prix,Marcus Ericsson,12,0,19,65,RAS
+2016,Spanish Grand Prix,Jolyon Palmer,13,0,17,65,RAS
+2016,Spanish Grand Prix,Kevin Magnussen,14,0,15,65,RAS
+2016,Spanish Grand Prix,Felipe Nasr,15,0,20,65,RAS
+2016,Spanish Grand Prix,Pascal Wehrlein,16,0,21,65,RAS
+2016,Spanish Grand Prix,Rio Haryanto,17,0,22,65,RAS
+2016,Spanish Grand Prix,Romain Grosjean,18,0,14,56,Engine
+2016,Spanish Grand Prix,Fernando Alonso,19,0,10,45,Engine
+2016,Spanish Grand Prix,Nico Hülkenberg,20,0,11,20,Engine
+2016,Spanish Grand Prix,Lewis Hamilton,21,0,1,0,Collision
+2016,Spanish Grand Prix,Nico Rosberg,22,0,2,0,Collision
+2016,Monaco Grand Prix,Lewis Hamilton,1,25,3,78,RAS
+2016,Monaco Grand Prix,Daniel Ricciardo,2,18,1,78,RAS
+2016,Monaco Grand Prix,Sergio Pérez,3,15,7,78,RAS
+2016,Monaco Grand Prix,Sebastian Vettel,4,12,4,78,RAS
+2016,Monaco Grand Prix,Fernando Alonso,5,10,9,78,RAS
+2016,Monaco Grand Prix,Nico Hülkenberg,6,8,5,78,RAS
+2016,Monaco Grand Prix,Nico Rosberg,7,6,2,78,RAS
+2016,Monaco Grand Prix,Carlos Sainz,8,4,6,77,RAS
+2016,Monaco Grand Prix,Jenson Button,9,2,13,77,RAS
+2016,Monaco Grand Prix,Felipe Massa,10,1,14,77,RAS
+2016,Monaco Grand Prix,Esteban Gutiérrez,11,0,12,77,RAS
+2016,Monaco Grand Prix,Valtteri Bottas,12,0,10,77,RAS
+2016,Monaco Grand Prix,Romain Grosjean,13,0,15,76,RAS
+2016,Monaco Grand Prix,Pascal Wehrlein,14,0,20,76,RAS
+2016,Monaco Grand Prix,Rio Haryanto,15,0,19,74,RAS
+2016,Monaco Grand Prix,Marcus Ericsson,16,0,17,51,Collision
+2016,Monaco Grand Prix,Felipe Nasr,17,0,0,48,DNF
+2016,Monaco Grand Prix,Max Verstappen,18,0,0,34,Accident
+2016,Monaco Grand Prix,Kevin Magnussen,19,0,16,32,DNF
+2016,Monaco Grand Prix,Daniil Kvyat,20,0,8,18,Accident
+2016,Monaco Grand Prix,Kimi Räikkönen,21,0,11,10,Accident
+2016,Monaco Grand Prix,Jolyon Palmer,22,0,18,7,Accident
+2016,Canadian Grand Prix,Lewis Hamilton,1,25,1,70,RAS
+2016,Canadian Grand Prix,Sebastian Vettel,2,18,3,70,RAS
+2016,Canadian Grand Prix,Valtteri Bottas,3,15,7,70,RAS
+2016,Canadian Grand Prix,Max Verstappen,4,12,5,70,RAS
+2016,Canadian Grand Prix,Nico Rosberg,5,10,2,70,RAS
+2016,Canadian Grand Prix,Kimi Räikkönen,6,8,6,70,RAS
+2016,Canadian Grand Prix,Daniel Ricciardo,7,6,4,70,RAS
+2016,Canadian Grand Prix,Nico Hülkenberg,8,4,9,69,RAS
+2016,Canadian Grand Prix,Carlos Sainz,9,2,20,69,RAS
+2016,Canadian Grand Prix,Sergio Pérez,10,1,11,69,RAS
+2016,Canadian Grand Prix,Fernando Alonso,11,0,10,69,RAS
+2016,Canadian Grand Prix,Daniil Kvyat,12,0,15,69,RAS
+2016,Canadian Grand Prix,Esteban Gutiérrez,13,0,13,68,RAS
+2016,Canadian Grand Prix,Romain Grosjean,14,0,14,68,RAS
+2016,Canadian Grand Prix,Marcus Ericsson,15,0,21,68,RAS
+2016,Canadian Grand Prix,Kevin Magnussen,16,0,22,68,RAS
+2016,Canadian Grand Prix,Pascal Wehrlein,17,0,17,68,RAS
+2016,Canadian Grand Prix,Felipe Nasr,18,0,18,68,RAS
+2016,Canadian Grand Prix,Rio Haryanto,19,0,19,68,RAS
+2016,Canadian Grand Prix,Felipe Massa,20,0,8,35,DNF
+2016,Canadian Grand Prix,Jolyon Palmer,21,0,16,16,DNF
+2016,Canadian Grand Prix,Jenson Button,22,0,12,9,Power Unit
+2016,European Grand Prix,Nico Rosberg,1,25,1,51,RAS
+2016,European Grand Prix,Sebastian Vettel,2,18,3,51,RAS
+2016,European Grand Prix,Sergio Pérez,3,15,7,51,RAS
+2016,European Grand Prix,Kimi Räikkönen,4,12,4,51,RAS
+2016,European Grand Prix,Lewis Hamilton,5,10,10,51,RAS
+2016,European Grand Prix,Valtteri Bottas,6,8,8,51,RAS
+2016,European Grand Prix,Daniel Ricciardo,7,6,2,51,RAS
+2016,European Grand Prix,Max Verstappen,8,4,9,51,RAS
+2016,European Grand Prix,Nico Hülkenberg,9,2,12,51,RAS
+2016,European Grand Prix,Felipe Massa,10,1,5,51,RAS
+2016,European Grand Prix,Jenson Button,11,0,19,51,RAS
+2016,European Grand Prix,Felipe Nasr,12,0,15,50,RAS
+2016,European Grand Prix,Romain Grosjean,13,0,11,50,RAS
+2016,European Grand Prix,Kevin Magnussen,14,0,22,50,RAS
+2016,European Grand Prix,Jolyon Palmer,15,0,21,50,RAS
+2016,European Grand Prix,Esteban Gutiérrez,16,0,14,50,RAS
+2016,European Grand Prix,Marcus Ericsson,17,0,20,50,RAS
+2016,European Grand Prix,Rio Haryanto,18,0,16,49,RAS
+2016,European Grand Prix,Fernando Alonso,19,0,13,42,Gearbox
+2016,European Grand Prix,Pascal Wehrlein,20,0,17,39,Brakes
+2016,European Grand Prix,Carlos Sainz,21,0,18,31,Suspension
+2016,European Grand Prix,Daniil Kvyat,22,0,6,6,Suspension
+2016,Austrian Grand Prix,Lewis Hamilton,1,25,1,71,RAS
+2016,Austrian Grand Prix,Max Verstappen,2,18,8,71,RAS
+2016,Austrian Grand Prix,Kimi Räikkönen,3,15,4,71,RAS
+2016,Austrian Grand Prix,Nico Rosberg,4,12,6,71,RAS
+2016,Austrian Grand Prix,Daniel Ricciardo,5,10,5,71,RAS
+2016,Austrian Grand Prix,Jenson Button,6,8,3,71,RAS
+2016,Austrian Grand Prix,Romain Grosjean,7,6,13,71,RAS
+2016,Austrian Grand Prix,Carlos Sainz,8,4,15,71,RAS
+2016,Austrian Grand Prix,Valtteri Bottas,9,2,7,70,RAS
+2016,Austrian Grand Prix,Pascal Wehrlein,10,1,12,70,RAS
+2016,Austrian Grand Prix,Esteban Gutiérrez,11,0,11,70,RAS
+2016,Austrian Grand Prix,Jolyon Palmer,12,0,19,70,RAS
+2016,Austrian Grand Prix,Felipe Nasr,13,0,21,70,RAS
+2016,Austrian Grand Prix,Kevin Magnussen,14,0,17,70,RAS
+2016,Austrian Grand Prix,Marcus Ericsson,15,0,18,70,RAS
+2016,Austrian Grand Prix,Rio Haryanto,16,0,20,70,RAS
+2016,Austrian Grand Prix,Sergio Pérez,17,0,16,69,Brakes
+2016,Austrian Grand Prix,Fernando Alonso,18,0,14,64,Battery
+2016,Austrian Grand Prix,Nico Hülkenberg,19,0,2,64,Brakes
+2016,Austrian Grand Prix,Felipe Massa,20,0,0,63,Brakes
+2016,Austrian Grand Prix,Sebastian Vettel,21,0,9,26,Tyre
+2016,Austrian Grand Prix,Daniil Kvyat,22,0,0,2,DNF
+2016,British Grand Prix,Lewis Hamilton,1,25,1,52,RAS
+2016,British Grand Prix,Max Verstappen,2,18,3,52,RAS
+2016,British Grand Prix,Nico Rosberg,3,15,2,52,RAS
+2016,British Grand Prix,Daniel Ricciardo,4,12,4,52,RAS
+2016,British Grand Prix,Kimi Räikkönen,5,10,5,52,RAS
+2016,British Grand Prix,Sergio Pérez,6,8,10,52,RAS
+2016,British Grand Prix,Nico Hülkenberg,7,6,8,52,RAS
+2016,British Grand Prix,Carlos Sainz,8,4,7,52,RAS
+2016,British Grand Prix,Sebastian Vettel,9,2,11,52,RAS
+2016,British Grand Prix,Daniil Kvyat,10,1,15,52,RAS
+2016,British Grand Prix,Felipe Massa,11,0,12,51,RAS
+2016,British Grand Prix,Jenson Button,12,0,17,51,RAS
+2016,British Grand Prix,Fernando Alonso,13,0,9,51,RAS
+2016,British Grand Prix,Valtteri Bottas,14,0,6,51,RAS
+2016,British Grand Prix,Felipe Nasr,15,0,21,51,RAS
+2016,British Grand Prix,Esteban Gutiérrez,16,0,14,51,RAS
+2016,British Grand Prix,Kevin Magnussen,17,0,16,49,Gearbox
+2016,British Grand Prix,Jolyon Palmer,18,0,18,37,Gearbox
+2016,British Grand Prix,Rio Haryanto,19,0,19,24,Spun off
+2016,British Grand Prix,Romain Grosjean,20,0,13,17,DNF
+2016,British Grand Prix,Marcus Ericsson,21,0,22,11,Power Unit
+2016,British Grand Prix,Pascal Wehrlein,22,0,20,6,Spun off
+2016,Hungarian Grand Prix,Lewis Hamilton,1,25,2,70,RAS
+2016,Hungarian Grand Prix,Nico Rosberg,2,18,1,70,RAS
+2016,Hungarian Grand Prix,Daniel Ricciardo,3,15,3,70,RAS
+2016,Hungarian Grand Prix,Sebastian Vettel,4,12,5,70,RAS
+2016,Hungarian Grand Prix,Max Verstappen,5,10,4,70,RAS
+2016,Hungarian Grand Prix,Kimi Räikkönen,6,8,14,70,RAS
+2016,Hungarian Grand Prix,Fernando Alonso,7,6,7,69,RAS
+2016,Hungarian Grand Prix,Carlos Sainz,8,4,6,69,RAS
+2016,Hungarian Grand Prix,Valtteri Bottas,9,2,10,69,RAS
+2016,Hungarian Grand Prix,Nico Hülkenberg,10,1,9,69,RAS
+2016,Hungarian Grand Prix,Sergio Pérez,11,0,13,69,RAS
+2016,Hungarian Grand Prix,Jolyon Palmer,12,0,17,69,RAS
+2016,Hungarian Grand Prix,Esteban Gutiérrez,13,0,15,69,RAS
+2016,Hungarian Grand Prix,Romain Grosjean,14,0,11,69,RAS
+2016,Hungarian Grand Prix,Kevin Magnussen,15,0,19,69,RAS
+2016,Hungarian Grand Prix,Daniil Kvyat,16,0,12,69,RAS
+2016,Hungarian Grand Prix,Felipe Nasr,17,0,16,69,RAS
+2016,Hungarian Grand Prix,Felipe Massa,18,0,18,68,RAS
+2016,Hungarian Grand Prix,Pascal Wehrlein,19,0,20,68,RAS
+2016,Hungarian Grand Prix,Marcus Ericsson,20,0,22,68,RAS
+2016,Hungarian Grand Prix,Rio Haryanto,21,0,21,68,RAS
+2016,Hungarian Grand Prix,Jenson Button,22,0,8,60,Oil leak
+2016,German Grand Prix,Lewis Hamilton,1,25,2,67,RAS
+2016,German Grand Prix,Daniel Ricciardo,2,18,3,67,RAS
+2016,German Grand Prix,Max Verstappen,3,15,4,67,RAS
+2016,German Grand Prix,Nico Rosberg,4,12,1,67,RAS
+2016,German Grand Prix,Sebastian Vettel,5,10,6,67,RAS
+2016,German Grand Prix,Kimi Räikkönen,6,8,5,67,RAS
+2016,German Grand Prix,Nico Hülkenberg,7,6,8,67,RAS
+2016,German Grand Prix,Jenson Button,8,4,12,66,RAS
+2016,German Grand Prix,Valtteri Bottas,9,2,7,66,RAS
+2016,German Grand Prix,Sergio Pérez,10,1,9,66,RAS
+2016,German Grand Prix,Esteban Gutiérrez,11,0,11,66,RAS
+2016,German Grand Prix,Fernando Alonso,12,0,13,66,RAS
+2016,German Grand Prix,Romain Grosjean,13,0,20,66,RAS
+2016,German Grand Prix,Carlos Sainz,14,0,15,66,RAS
+2016,German Grand Prix,Daniil Kvyat,15,0,18,66,RAS
+2016,German Grand Prix,Kevin Magnussen,16,0,16,66,RAS
+2016,German Grand Prix,Pascal Wehrlein,17,0,17,65,RAS
+2016,German Grand Prix,Marcus Ericsson,18,0,22,65,RAS
+2016,German Grand Prix,Jolyon Palmer,19,0,14,65,RAS
+2016,German Grand Prix,Rio Haryanto,20,0,19,65,RAS
+2016,German Grand Prix,Felipe Nasr,21,0,21,57,Power Unit
+2016,German Grand Prix,Felipe Massa,22,0,10,36,Suspension
+2016,Belgian Grand Prix,Nico Rosberg,1,25,1,44,RAS
+2016,Belgian Grand Prix,Daniel Ricciardo,2,18,5,44,RAS
+2016,Belgian Grand Prix,Lewis Hamilton,3,15,21,44,RAS
+2016,Belgian Grand Prix,Nico Hülkenberg,4,12,7,44,RAS
+2016,Belgian Grand Prix,Sergio Pérez,5,10,6,44,RAS
+2016,Belgian Grand Prix,Sebastian Vettel,6,8,4,44,RAS
+2016,Belgian Grand Prix,Fernando Alonso,7,6,22,44,RAS
+2016,Belgian Grand Prix,Valtteri Bottas,8,4,8,44,RAS
+2016,Belgian Grand Prix,Kimi Räikkönen,9,2,3,44,RAS
+2016,Belgian Grand Prix,Felipe Massa,10,1,10,44,RAS
+2016,Belgian Grand Prix,Max Verstappen,11,0,2,44,RAS
+2016,Belgian Grand Prix,Esteban Gutiérrez,12,0,18,44,RAS
+2016,Belgian Grand Prix,Romain Grosjean,13,0,11,44,RAS
+2016,Belgian Grand Prix,Daniil Kvyat,14,0,19,44,RAS
+2016,Belgian Grand Prix,Jolyon Palmer,15,0,13,44,RAS
+2016,Belgian Grand Prix,Esteban Ocon,16,0,17,43,RAS
+2016,Belgian Grand Prix,Felipe Nasr,17,0,16,43,RAS
+2016,Belgian Grand Prix,Kevin Magnussen,18,0,12,5,Accident
+2016,Belgian Grand Prix,Marcus Ericsson,19,0,20,3,Gearbox
+2016,Belgian Grand Prix,Carlos Sainz,20,0,14,1,Puncture
+2016,Belgian Grand Prix,Jenson Button,21,0,9,1,Collision damage
+2016,Belgian Grand Prix,Pascal Wehrlein,22,0,15,0,Collision damage
+2016,Italian Grand Prix,Nico Rosberg,1,25,2,53,RAS
+2016,Italian Grand Prix,Lewis Hamilton,2,18,1,53,RAS
+2016,Italian Grand Prix,Sebastian Vettel,3,15,3,53,RAS
+2016,Italian Grand Prix,Kimi Räikkönen,4,12,4,53,RAS
+2016,Italian Grand Prix,Daniel Ricciardo,5,10,6,53,RAS
+2016,Italian Grand Prix,Valtteri Bottas,6,8,5,53,RAS
+2016,Italian Grand Prix,Max Verstappen,7,6,7,53,RAS
+2016,Italian Grand Prix,Sergio Pérez,8,4,8,53,RAS
+2016,Italian Grand Prix,Felipe Massa,9,2,11,53,RAS
+2016,Italian Grand Prix,Nico Hülkenberg,10,1,9,53,RAS
+2016,Italian Grand Prix,Romain Grosjean,11,0,17,52,RAS
+2016,Italian Grand Prix,Jenson Button,12,0,14,52,RAS
+2016,Italian Grand Prix,Esteban Gutiérrez,13,0,10,52,RAS
+2016,Italian Grand Prix,Fernando Alonso,14,0,12,52,RAS
+2016,Italian Grand Prix,Carlos Sainz,15,0,15,52,RAS
+2016,Italian Grand Prix,Marcus Ericsson,16,0,19,52,RAS
+2016,Italian Grand Prix,Kevin Magnussen,17,0,21,52,RAS
+2016,Italian Grand Prix,Esteban Ocon,18,0,22,51,RAS
+2016,Italian Grand Prix,Daniil Kvyat,19,0,16,36,Battery
+2016,Italian Grand Prix,Pascal Wehrlein,20,0,13,26,Oil leak
+2016,Italian Grand Prix,Jolyon Palmer,21,0,20,7,Collision damage
+2016,Italian Grand Prix,Felipe Nasr,22,0,18,6,Collision damage
+2016,Singapore Grand Prix,Nico Rosberg,1,25,1,61,RAS
+2016,Singapore Grand Prix,Daniel Ricciardo,2,18,2,61,RAS
+2016,Singapore Grand Prix,Lewis Hamilton,3,15,3,61,RAS
+2016,Singapore Grand Prix,Kimi Räikkönen,4,12,5,61,RAS
+2016,Singapore Grand Prix,Sebastian Vettel,5,10,22,61,RAS
+2016,Singapore Grand Prix,Max Verstappen,6,8,4,61,RAS
+2016,Singapore Grand Prix,Fernando Alonso,7,6,9,61,RAS
+2016,Singapore Grand Prix,Sergio Pérez,8,4,17,61,RAS
+2016,Singapore Grand Prix,Daniil Kvyat,9,2,7,61,RAS
+2016,Singapore Grand Prix,Kevin Magnussen,10,1,15,61,RAS
+2016,Singapore Grand Prix,Esteban Gutiérrez,11,0,13,60,RAS
+2016,Singapore Grand Prix,Felipe Massa,12,0,11,60,RAS
+2016,Singapore Grand Prix,Felipe Nasr,13,0,16,60,RAS
+2016,Singapore Grand Prix,Carlos Sainz,14,0,6,60,RAS
+2016,Singapore Grand Prix,Jolyon Palmer,15,0,18,60,RAS
+2016,Singapore Grand Prix,Pascal Wehrlein,16,0,19,60,RAS
+2016,Singapore Grand Prix,Marcus Ericsson,17,0,14,60,RAS
+2016,Singapore Grand Prix,Esteban Ocon,18,0,21,59,RAS
+2016,Singapore Grand Prix,Jenson Button,19,0,12,43,Brakes
+2016,Singapore Grand Prix,Valtteri Bottas,20,0,10,35,Overheating
+2016,Singapore Grand Prix,Nico Hülkenberg,21,0,8,0,Collision
+2016,Singapore Grand Prix,Romain Grosjean,22,0,20,0,Withdrew
+2016,Malaysian Grand Prix,Daniel Ricciardo,1,25,4,56,RAS
+2016,Malaysian Grand Prix,Max Verstappen,2,18,3,56,RAS
+2016,Malaysian Grand Prix,Nico Rosberg,3,15,2,56,RAS
+2016,Malaysian Grand Prix,Kimi Räikkönen,4,12,6,56,RAS
+2016,Malaysian Grand Prix,Valtteri Bottas,5,10,11,56,RAS
+2016,Malaysian Grand Prix,Sergio Pérez,6,8,7,56,RAS
+2016,Malaysian Grand Prix,Fernando Alonso,7,6,22,56,RAS
+2016,Malaysian Grand Prix,Nico Hülkenberg,8,4,8,56,RAS
+2016,Malaysian Grand Prix,Jenson Button,9,2,9,56,RAS
+2016,Malaysian Grand Prix,Jolyon Palmer,10,1,19,56,RAS
+2016,Malaysian Grand Prix,Carlos Sainz,11,0,16,56,RAS
+2016,Malaysian Grand Prix,Marcus Ericsson,12,0,17,55,RAS
+2016,Malaysian Grand Prix,Felipe Massa,13,0,10,55,RAS
+2016,Malaysian Grand Prix,Daniil Kvyat,14,0,15,55,RAS
+2016,Malaysian Grand Prix,Pascal Wehrlein,15,0,21,55,RAS
+2016,Malaysian Grand Prix,Esteban Ocon,16,0,20,55,RAS
+2016,Malaysian Grand Prix,Felipe Nasr,17,0,18,46,Brakes
+2016,Malaysian Grand Prix,Lewis Hamilton,18,0,1,40,Engine
+2016,Malaysian Grand Prix,Esteban Gutiérrez,19,0,13,39,Wheel nut
+2016,Malaysian Grand Prix,Kevin Magnussen,20,0,14,17,Power loss
+2016,Malaysian Grand Prix,Romain Grosjean,21,0,12,7,Brakes
+2016,Malaysian Grand Prix,Sebastian Vettel,22,0,5,0,Collision
+2016,Japanese Grand Prix,Nico Rosberg,1,25,1,53,RAS
+2016,Japanese Grand Prix,Max Verstappen,2,18,3,53,RAS
+2016,Japanese Grand Prix,Lewis Hamilton,3,15,2,53,RAS
+2016,Japanese Grand Prix,Sebastian Vettel,4,12,6,53,RAS
+2016,Japanese Grand Prix,Kimi Räikkönen,5,10,8,53,RAS
+2016,Japanese Grand Prix,Daniel Ricciardo,6,8,4,53,RAS
+2016,Japanese Grand Prix,Sergio Pérez,7,6,5,53,RAS
+2016,Japanese Grand Prix,Nico Hülkenberg,8,4,9,53,RAS
+2016,Japanese Grand Prix,Felipe Massa,9,2,12,53,RAS
+2016,Japanese Grand Prix,Valtteri Bottas,10,1,11,53,RAS
+2016,Japanese Grand Prix,Romain Grosjean,11,0,7,53,RAS
+2016,Japanese Grand Prix,Jolyon Palmer,12,0,16,52,RAS
+2016,Japanese Grand Prix,Daniil Kvyat,13,0,13,52,RAS
+2016,Japanese Grand Prix,Kevin Magnussen,14,0,17,52,RAS
+2016,Japanese Grand Prix,Marcus Ericsson,15,0,18,52,RAS
+2016,Japanese Grand Prix,Fernando Alonso,16,0,15,52,RAS
+2016,Japanese Grand Prix,Carlos Sainz,17,0,14,52,RAS
+2016,Japanese Grand Prix,Jenson Button,18,0,22,52,RAS
+2016,Japanese Grand Prix,Felipe Nasr,19,0,19,52,RAS
+2016,Japanese Grand Prix,Esteban Gutiérrez,20,0,10,52,RAS
+2016,Japanese Grand Prix,Esteban Ocon,21,0,20,52,RAS
+2016,Japanese Grand Prix,Pascal Wehrlein,22,0,21,52,RAS
+2016,United States Grand Prix,Lewis Hamilton,1,25,1,56,RAS
+2016,United States Grand Prix,Nico Rosberg,2,18,2,56,RAS
+2016,United States Grand Prix,Daniel Ricciardo,3,15,3,56,RAS
+2016,United States Grand Prix,Sebastian Vettel,4,12,6,56,RAS
+2016,United States Grand Prix,Fernando Alonso,5,10,12,56,RAS
+2016,United States Grand Prix,Carlos Sainz,6,8,10,56,RAS
+2016,United States Grand Prix,Felipe Massa,7,6,9,55,RAS
+2016,United States Grand Prix,Sergio Pérez,8,4,11,55,RAS
+2016,United States Grand Prix,Jenson Button,9,2,19,55,RAS
+2016,United States Grand Prix,Romain Grosjean,10,1,17,55,RAS
+2016,United States Grand Prix,Daniil Kvyat,11,0,13,55,RAS
+2016,United States Grand Prix,Kevin Magnussen,12,0,18,55,RAS
+2016,United States Grand Prix,Jolyon Palmer,13,0,15,55,RAS
+2016,United States Grand Prix,Marcus Ericsson,14,0,16,55,RAS
+2016,United States Grand Prix,Felipe Nasr,15,0,21,55,RAS
+2016,United States Grand Prix,Valtteri Bottas,16,0,8,55,RAS
+2016,United States Grand Prix,Pascal Wehrlein,17,0,20,55,RAS
+2016,United States Grand Prix,Esteban Ocon,18,0,22,54,RAS
+2016,United States Grand Prix,Kimi Räikkönen,19,0,5,38,Wheel
+2016,United States Grand Prix,Max Verstappen,20,0,4,28,Gearbox
+2016,United States Grand Prix,Esteban Gutiérrez,21,0,14,16,Brakes
+2016,United States Grand Prix,Nico Hülkenberg,22,0,7,1,Collision
+2016,Mexican Grand Prix,Lewis Hamilton,1,25,1,71,RAS
+2016,Mexican Grand Prix,Nico Rosberg,2,18,2,71,RAS
+2016,Mexican Grand Prix,Daniel Ricciardo,3,15,4,71,RAS
+2016,Mexican Grand Prix,Max Verstappen,4,12,3,71,RAS
+2016,Mexican Grand Prix,Sebastian Vettel,5,10,7,71,RAS
+2016,Mexican Grand Prix,Kimi Räikkönen,6,8,6,71,RAS
+2016,Mexican Grand Prix,Nico Hülkenberg,7,6,5,71,RAS
+2016,Mexican Grand Prix,Valtteri Bottas,8,4,8,71,RAS
+2016,Mexican Grand Prix,Felipe Massa,9,2,9,71,RAS
+2016,Mexican Grand Prix,Sergio Pérez,10,1,12,71,RAS
+2016,Mexican Grand Prix,Marcus Ericsson,11,0,15,70,RAS
+2016,Mexican Grand Prix,Jenson Button,12,0,13,70,RAS
+2016,Mexican Grand Prix,Fernando Alonso,13,0,11,70,RAS
+2016,Mexican Grand Prix,Jolyon Palmer,14,0,21,70,RAS
+2016,Mexican Grand Prix,Felipe Nasr,15,0,19,70,RAS
+2016,Mexican Grand Prix,Carlos Sainz,16,0,10,70,RAS
+2016,Mexican Grand Prix,Kevin Magnussen,17,0,14,70,RAS
+2016,Mexican Grand Prix,Daniil Kvyat,18,0,18,70,RAS
+2016,Mexican Grand Prix,Esteban Gutiérrez,19,0,17,70,RAS
+2016,Mexican Grand Prix,Romain Grosjean,20,0,22,70,RAS
+2016,Mexican Grand Prix,Esteban Ocon,21,0,20,69,RAS
+2016,Mexican Grand Prix,Pascal Wehrlein,22,0,16,0,Collision
+2016,Brazilian Grand Prix,Lewis Hamilton,1,25,1,71,RAS
+2016,Brazilian Grand Prix,Nico Rosberg,2,18,2,71,RAS
+2016,Brazilian Grand Prix,Max Verstappen,3,15,4,71,RAS
+2016,Brazilian Grand Prix,Sergio Pérez,4,12,9,71,RAS
+2016,Brazilian Grand Prix,Sebastian Vettel,5,10,5,71,RAS
+2016,Brazilian Grand Prix,Carlos Sainz,6,8,15,71,RAS
+2016,Brazilian Grand Prix,Nico Hülkenberg,7,6,8,71,RAS
+2016,Brazilian Grand Prix,Daniel Ricciardo,8,4,6,71,RAS
+2016,Brazilian Grand Prix,Felipe Nasr,9,2,21,71,RAS
+2016,Brazilian Grand Prix,Fernando Alonso,10,1,10,71,RAS
+2016,Brazilian Grand Prix,Valtteri Bottas,11,0,11,71,RAS
+2016,Brazilian Grand Prix,Esteban Ocon,12,0,22,71,RAS
+2016,Brazilian Grand Prix,Daniil Kvyat,13,0,14,71,RAS
+2016,Brazilian Grand Prix,Kevin Magnussen,14,0,18,71,RAS
+2016,Brazilian Grand Prix,Pascal Wehrlein,15,0,19,71,RAS
+2016,Brazilian Grand Prix,Jenson Button,16,0,17,71,RAS
+2016,Brazilian Grand Prix,Esteban Gutiérrez,17,0,12,60,DNF
+2016,Brazilian Grand Prix,Felipe Massa,18,0,13,46,Collision
+2016,Brazilian Grand Prix,Jolyon Palmer,19,0,16,20,Collision damage
+2016,Brazilian Grand Prix,Kimi Räikkönen,20,0,3,19,Collision
+2016,Brazilian Grand Prix,Marcus Ericsson,21,0,20,11,Collision
+2016,Brazilian Grand Prix,Romain Grosjean,22,0,7,0,Withdrew
+2016,Abu Dhabi Grand Prix,Lewis Hamilton,1,25,1,55,RAS
+2016,Abu Dhabi Grand Prix,Nico Rosberg,2,18,2,55,RAS
+2016,Abu Dhabi Grand Prix,Sebastian Vettel,3,15,5,55,RAS
+2016,Abu Dhabi Grand Prix,Max Verstappen,4,12,6,55,RAS
+2016,Abu Dhabi Grand Prix,Daniel Ricciardo,5,10,3,55,RAS
+2016,Abu Dhabi Grand Prix,Kimi Räikkönen,6,8,4,55,RAS
+2016,Abu Dhabi Grand Prix,Nico Hülkenberg,7,6,7,55,RAS
+2016,Abu Dhabi Grand Prix,Sergio Pérez,8,4,8,55,RAS
+2016,Abu Dhabi Grand Prix,Felipe Massa,9,2,10,55,RAS
+2016,Abu Dhabi Grand Prix,Fernando Alonso,10,1,9,55,RAS
+2016,Abu Dhabi Grand Prix,Romain Grosjean,11,0,14,55,RAS
+2016,Abu Dhabi Grand Prix,Esteban Gutiérrez,12,0,13,55,RAS
+2016,Abu Dhabi Grand Prix,Esteban Ocon,13,0,20,54,RAS
+2016,Abu Dhabi Grand Prix,Pascal Wehrlein,14,0,16,54,RAS
+2016,Abu Dhabi Grand Prix,Marcus Ericsson,15,0,22,54,RAS
+2016,Abu Dhabi Grand Prix,Felipe Nasr,16,0,19,54,RAS
+2016,Abu Dhabi Grand Prix,Jolyon Palmer,17,0,15,54,RAS
+2016,Abu Dhabi Grand Prix,Carlos Sainz,18,0,21,41,Collision damage
+2016,Abu Dhabi Grand Prix,Daniil Kvyat,19,0,17,14,Gearbox
+2016,Abu Dhabi Grand Prix,Jenson Button,20,0,12,12,Suspension
+2016,Abu Dhabi Grand Prix,Valtteri Bottas,21,0,11,6,Suspension
+2016,Abu Dhabi Grand Prix,Kevin Magnussen,22,0,18,5,Suspension

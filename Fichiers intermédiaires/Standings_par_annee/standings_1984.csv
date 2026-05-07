@@ -1,0 +1,415 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1984,Brazilian Grand Prix,Alain Prost,1,9,4,61,RAS
+1984,Brazilian Grand Prix,Keke Rosberg,2,6,9,61,RAS
+1984,Brazilian Grand Prix,Elio de Angelis,3,4,1,61,RAS
+1984,Brazilian Grand Prix,Eddie Cheever,4,3,12,60,RAS
+1984,Brazilian Grand Prix,Patrick Tambay,5,2,8,59,Out of fuel
+1984,Brazilian Grand Prix,Thierry Boutsen,6,1,20,59,RAS
+1984,Brazilian Grand Prix,Marc Surer,7,0,24,59,RAS
+1984,Brazilian Grand Prix,Jonathan Palmer,8,0,26,58,RAS
+1984,Brazilian Grand Prix,Martin Brundle,9,0,18,60,DQ
+1984,Brazilian Grand Prix,Derek Warwick,10,0,3,51,Suspension
+1984,Brazilian Grand Prix,Andrea de Cesaris,11,0,14,42,Gearbox
+1984,Brazilian Grand Prix,Riccardo Patrese,12,0,11,41,Gearbox
+1984,Brazilian Grand Prix,Niki Lauda,13,0,6,38,Electrical
+1984,Brazilian Grand Prix,Nigel Mansell,14,0,5,35,Accident
+1984,Brazilian Grand Prix,Nelson Piquet,15,0,7,32,Engine
+1984,Brazilian Grand Prix,Teo Fabi,16,0,15,32,Turbo
+1984,Brazilian Grand Prix,René Arnoux,17,0,10,30,Battery
+1984,Brazilian Grand Prix,Piercarlo Ghinzani,18,0,21,28,Gearbox
+1984,Brazilian Grand Prix,François Hesnault,19,0,19,25,Overheating
+1984,Brazilian Grand Prix,Philippe Alliot,20,0,25,24,Battery
+1984,Brazilian Grand Prix,Johnny Cecotto,21,0,17,18,Turbo
+1984,Brazilian Grand Prix,Jacques Laffite,22,0,13,15,Electrical
+1984,Brazilian Grand Prix,Michele Alboreto,23,0,2,14,Brakes
+1984,Brazilian Grand Prix,Mauro Baldi,24,0,23,12,Distributor
+1984,Brazilian Grand Prix,Stefan Bellof,25,0,22,11,DQ
+1984,Brazilian Grand Prix,Ayrton Senna,26,0,16,8,Turbo
+1984,Brazilian Grand Prix,Manfred Winkelhock,27,0,0,0,DQ
+1984,South African Grand Prix,Niki Lauda,1,9,8,75,RAS
+1984,South African Grand Prix,Alain Prost,2,6,5,75,RAS
+1984,South African Grand Prix,Derek Warwick,3,4,9,74,RAS
+1984,South African Grand Prix,Riccardo Patrese,4,3,18,73,RAS
+1984,South African Grand Prix,Andrea de Cesaris,5,2,14,73,RAS
+1984,South African Grand Prix,Ayrton Senna,6,1,13,72,RAS
+1984,South African Grand Prix,Elio de Angelis,7,0,7,71,RAS
+1984,South African Grand Prix,Mauro Baldi,8,0,20,71,RAS
+1984,South African Grand Prix,Marc Surer,9,0,23,71,RAS
+1984,South African Grand Prix,François Hesnault,10,0,17,71,RAS
+1984,South African Grand Prix,Michele Alboreto,11,0,10,70,Ignition
+1984,South African Grand Prix,Thierry Boutsen,12,0,26,70,RAS
+1984,South African Grand Prix,Martin Brundle,13,0,25,71,DQ
+1984,South African Grand Prix,Patrick Tambay,14,0,4,66,Out of fuel
+1984,South African Grand Prix,Stefan Bellof,15,0,24,60,DQ
+1984,South African Grand Prix,Jacques Laffite,16,0,11,60,Transmission
+1984,South African Grand Prix,Manfred Winkelhock,17,0,12,53,Engine
+1984,South African Grand Prix,Keke Rosberg,18,0,2,51,Wheel
+1984,South African Grand Prix,Nigel Mansell,19,0,3,51,Turbo
+1984,South African Grand Prix,René Arnoux,20,0,15,40,Injection
+1984,South African Grand Prix,Nelson Piquet,21,0,1,29,Turbo
+1984,South African Grand Prix,Johnny Cecotto,22,0,19,26,Tyre
+1984,South African Grand Prix,Philippe Alliot,23,0,22,24,Engine
+1984,South African Grand Prix,Jonathan Palmer,24,0,21,22,Gearbox
+1984,South African Grand Prix,Teo Fabi,25,0,6,18,Turbo
+1984,South African Grand Prix,Eddie Cheever,26,0,16,4,Radiator
+1984,South African Grand Prix,Piercarlo Ghinzani,27,0,0,0,Withdrew
+1984,Belgian Grand Prix,Michele Alboreto,1,9,1,70,RAS
+1984,Belgian Grand Prix,Derek Warwick,2,6,4,70,RAS
+1984,Belgian Grand Prix,René Arnoux,3,4,2,70,RAS
+1984,Belgian Grand Prix,Keke Rosberg,4,3,3,69,Out of fuel
+1984,Belgian Grand Prix,Elio de Angelis,5,2,5,69,RAS
+1984,Belgian Grand Prix,Ayrton Senna,6,1,19,68,RAS
+1984,Belgian Grand Prix,Patrick Tambay,7,0,12,68,RAS
+1984,Belgian Grand Prix,Marc Surer,8,0,24,68,RAS
+1984,Belgian Grand Prix,Nelson Piquet,9,0,9,66,Engine
+1984,Belgian Grand Prix,Jonathan Palmer,10,0,26,64,RAS
+1984,Belgian Grand Prix,Stefan Bellof,11,0,21,69,DQ
+1984,Belgian Grand Prix,Mauro Baldi,12,0,25,53,Suspension
+1984,Belgian Grand Prix,Martin Brundle,13,0,22,51,DQ
+1984,Belgian Grand Prix,Andrea de Cesaris,14,0,13,42,Accident
+1984,Belgian Grand Prix,Teo Fabi,15,0,18,42,Spun off
+1984,Belgian Grand Prix,Manfred Winkelhock,16,0,6,39,Exhaust
+1984,Belgian Grand Prix,Niki Lauda,17,0,14,35,Water pump
+1984,Belgian Grand Prix,Eddie Cheever,18,0,11,28,Engine
+1984,Belgian Grand Prix,Jacques Laffite,19,0,15,15,Electrical
+1984,Belgian Grand Prix,François Hesnault,20,0,23,15,Radiator
+1984,Belgian Grand Prix,Thierry Boutsen,21,0,17,15,Engine
+1984,Belgian Grand Prix,Piercarlo Ghinzani,22,0,20,14,Transmission
+1984,Belgian Grand Prix,Nigel Mansell,23,0,10,14,Clutch
+1984,Belgian Grand Prix,Alain Prost,24,0,8,5,Distributor
+1984,Belgian Grand Prix,Riccardo Patrese,25,0,7,2,Ignition
+1984,Belgian Grand Prix,Johnny Cecotto,26,0,16,1,Clutch
+1984,San Marino Grand Prix,Alain Prost,1,9,2,60,RAS
+1984,San Marino Grand Prix,René Arnoux,2,6,6,60,RAS
+1984,San Marino Grand Prix,Elio de Angelis,3,4,11,59,Out of fuel
+1984,San Marino Grand Prix,Derek Warwick,4,3,4,59,RAS
+1984,San Marino Grand Prix,Thierry Boutsen,5,2,20,59,RAS
+1984,San Marino Grand Prix,Andrea de Cesaris,6,1,12,58,Out of fuel
+1984,San Marino Grand Prix,Eddie Cheever,7,0,8,58,Out of fuel
+1984,San Marino Grand Prix,Mauro Baldi,8,0,24,58,RAS
+1984,San Marino Grand Prix,Jonathan Palmer,9,0,25,57,RAS
+1984,San Marino Grand Prix,Stefan Bellof,10,0,21,59,DQ
+1984,San Marino Grand Prix,Martin Brundle,11,0,22,55,DQ
+1984,San Marino Grand Prix,Philippe Alliot,12,0,23,53,Turbo
+1984,San Marino Grand Prix,Johnny Cecotto,13,0,19,52,Not classified
+1984,San Marino Grand Prix,Nelson Piquet,14,0,1,48,Turbo
+1984,San Marino Grand Prix,Teo Fabi,15,0,9,48,Turbo
+1984,San Marino Grand Prix,Jo Gartner,16,0,26,46,Engine
+1984,San Marino Grand Prix,Marc Surer,17,0,16,40,Turbo
+1984,San Marino Grand Prix,Manfred Winkelhock,18,0,7,31,Turbo
+1984,San Marino Grand Prix,Michele Alboreto,19,0,13,23,Exhaust
+1984,San Marino Grand Prix,Niki Lauda,20,0,5,15,Engine
+1984,San Marino Grand Prix,Jacques Laffite,21,0,15,11,Engine
+1984,San Marino Grand Prix,Riccardo Patrese,22,0,10,6,Electrical
+1984,San Marino Grand Prix,Nigel Mansell,23,0,18,2,Spun off
+1984,San Marino Grand Prix,Keke Rosberg,24,0,3,2,Electrical
+1984,San Marino Grand Prix,Patrick Tambay,25,0,14,0,Collision
+1984,San Marino Grand Prix,François Hesnault,26,0,17,0,Collision
+1984,French Grand Prix,Niki Lauda,1,9,9,79,RAS
+1984,French Grand Prix,Patrick Tambay,2,6,1,79,RAS
+1984,French Grand Prix,Nigel Mansell,3,4,6,79,RAS
+1984,French Grand Prix,René Arnoux,4,3,11,79,RAS
+1984,French Grand Prix,Elio de Angelis,5,2,2,79,RAS
+1984,French Grand Prix,Keke Rosberg,6,1,4,78,RAS
+1984,French Grand Prix,Alain Prost,7,0,5,78,RAS
+1984,French Grand Prix,Jacques Laffite,8,0,12,78,RAS
+1984,French Grand Prix,Teo Fabi,9,0,17,78,RAS
+1984,French Grand Prix,Andrea de Cesaris,10,0,26,77,RAS
+1984,French Grand Prix,Thierry Boutsen,11,0,14,77,RAS
+1984,French Grand Prix,Piercarlo Ghinzani,12,0,25,74,RAS
+1984,French Grand Prix,Jonathan Palmer,13,0,21,72,RAS
+1984,French Grand Prix,Martin Brundle,14,0,23,76,DQ
+1984,French Grand Prix,Mauro Baldi,15,0,24,61,Engine
+1984,French Grand Prix,Derek Warwick,16,0,7,53,Accident
+1984,French Grand Prix,Marc Surer,17,0,19,51,Accident
+1984,French Grand Prix,Eddie Cheever,18,0,16,51,Engine
+1984,French Grand Prix,Ayrton Senna,19,0,13,35,Turbo
+1984,French Grand Prix,Michele Alboreto,20,0,10,33,Engine
+1984,French Grand Prix,Johnny Cecotto,21,0,18,22,Turbo
+1984,French Grand Prix,Riccardo Patrese,22,0,15,15,Engine
+1984,French Grand Prix,Nelson Piquet,23,0,3,11,Turbo
+1984,French Grand Prix,Stefan Bellof,24,0,20,11,DQ
+1984,French Grand Prix,Manfred Winkelhock,25,0,8,5,Clutch
+1984,French Grand Prix,Philippe Alliot,26,0,22,4,Electrical
+1984,Monaco Grand Prix,Alain Prost,1,4.5,1,31,RAS
+1984,Monaco Grand Prix,Ayrton Senna,2,3,13,31,RAS
+1984,Monaco Grand Prix,René Arnoux,3,2,3,31,RAS
+1984,Monaco Grand Prix,Keke Rosberg,4,1.5,10,31,RAS
+1984,Monaco Grand Prix,Elio de Angelis,5,1,11,31,RAS
+1984,Monaco Grand Prix,Michele Alboreto,6,0.5,4,30,RAS
+1984,Monaco Grand Prix,Piercarlo Ghinzani,7,0,19,30,RAS
+1984,Monaco Grand Prix,Jacques Laffite,8,0,16,30,RAS
+1984,Monaco Grand Prix,Stefan Bellof,9,0,20,31,DQ
+1984,Monaco Grand Prix,Riccardo Patrese,10,0,14,24,Steering
+1984,Monaco Grand Prix,Niki Lauda,11,0,8,23,Spun off
+1984,Monaco Grand Prix,Manfred Winkelhock,12,0,12,22,Spun off
+1984,Monaco Grand Prix,Nigel Mansell,13,0,2,15,Spun off
+1984,Monaco Grand Prix,Nelson Piquet,14,0,9,14,Electrical
+1984,Monaco Grand Prix,François Hesnault,15,0,17,12,Electrical
+1984,Monaco Grand Prix,Corrado Fabi,16,0,15,9,Electrical
+1984,Monaco Grand Prix,Johnny Cecotto,17,0,18,1,Spun off
+1984,Monaco Grand Prix,Derek Warwick,18,0,5,0,Collision
+1984,Monaco Grand Prix,Patrick Tambay,19,0,6,0,Collision
+1984,Monaco Grand Prix,Andrea de Cesaris,20,0,7,0,Accident
+1984,Canadian Grand Prix,Nelson Piquet,1,9,1,70,RAS
+1984,Canadian Grand Prix,Niki Lauda,2,6,8,70,RAS
+1984,Canadian Grand Prix,Alain Prost,3,4,2,70,RAS
+1984,Canadian Grand Prix,Elio de Angelis,4,3,3,69,RAS
+1984,Canadian Grand Prix,René Arnoux,5,2,5,68,RAS
+1984,Canadian Grand Prix,Nigel Mansell,6,1,7,68,RAS
+1984,Canadian Grand Prix,Ayrton Senna,7,0,9,68,RAS
+1984,Canadian Grand Prix,Manfred Winkelhock,8,0,12,68,RAS
+1984,Canadian Grand Prix,Johnny Cecotto,9,0,20,68,RAS
+1984,Canadian Grand Prix,Philippe Alliot,10,0,26,65,RAS
+1984,Canadian Grand Prix,Eddie Cheever,11,0,11,63,Out of fuel
+1984,Canadian Grand Prix,Martin Brundle,12,0,21,68,DQ
+1984,Canadian Grand Prix,Marc Surer,13,0,23,59,Engine
+1984,Canadian Grand Prix,Derek Warwick,14,0,4,57,Chassis
+1984,Canadian Grand Prix,Huub Rothengatter,15,0,24,56,Not classified
+1984,Canadian Grand Prix,Stefan Bellof,16,0,22,52,DQ
+1984,Canadian Grand Prix,Andrea de Cesaris,17,0,10,40,Brakes
+1984,Canadian Grand Prix,Corrado Fabi,18,0,16,39,Turbo
+1984,Canadian Grand Prix,Thierry Boutsen,19,0,18,38,Engine
+1984,Canadian Grand Prix,Riccardo Patrese,20,0,14,37,Accident
+1984,Canadian Grand Prix,Keke Rosberg,21,0,15,32,Fuel system
+1984,Canadian Grand Prix,Jacques Laffite,22,0,17,31,Turbo
+1984,Canadian Grand Prix,Mike Thackwell,23,0,25,29,Turbo
+1984,Canadian Grand Prix,Piercarlo Ghinzani,24,0,19,11,Gearbox
+1984,Canadian Grand Prix,Michele Alboreto,25,0,6,10,Engine
+1984,Canadian Grand Prix,François Hesnault,26,0,13,7,Turbo
+1984,Detroit Grand Prix,Nelson Piquet,1,9,1,63,RAS
+1984,Detroit Grand Prix,Elio de Angelis,2,6,5,63,RAS
+1984,Detroit Grand Prix,Teo Fabi,3,4,23,63,RAS
+1984,Detroit Grand Prix,Alain Prost,4,3,2,63,RAS
+1984,Detroit Grand Prix,Jacques Laffite,5,2,19,62,RAS
+1984,Detroit Grand Prix,Martin Brundle,6,0,11,63,DQ
+1984,Detroit Grand Prix,Michele Alboreto,7,0,4,49,Engine
+1984,Detroit Grand Prix,Keke Rosberg,8,0,21,47,Turbo
+1984,Detroit Grand Prix,Derek Warwick,9,0,6,40,Gearbox
+1984,Detroit Grand Prix,Stefan Bellof,10,0,16,33,Accident
+1984,Detroit Grand Prix,Patrick Tambay,11,0,9,33,Transmission
+1984,Detroit Grand Prix,Philippe Alliot,12,0,20,33,Brakes
+1984,Detroit Grand Prix,Niki Lauda,13,0,10,33,Electrical
+1984,Detroit Grand Prix,Nigel Mansell,14,0,3,27,Gearbox
+1984,Detroit Grand Prix,Thierry Boutsen,15,0,13,27,Engine
+1984,Detroit Grand Prix,Andrea de Cesaris,16,0,12,24,Overheating
+1984,Detroit Grand Prix,Johnny Cecotto,17,0,17,23,Clutch
+1984,Detroit Grand Prix,Eddie Cheever,18,0,8,21,Engine
+1984,Detroit Grand Prix,Ayrton Senna,19,0,7,21,Accident
+1984,Detroit Grand Prix,Riccardo Patrese,20,0,25,20,Spun off
+1984,Detroit Grand Prix,François Hesnault,21,0,18,3,Accident
+1984,Detroit Grand Prix,Piercarlo Ghinzani,22,0,26,3,Accident
+1984,Detroit Grand Prix,René Arnoux,23,0,15,2,Accident
+1984,Detroit Grand Prix,Jonathan Palmer,24,0,24,2,Tyre
+1984,Detroit Grand Prix,Manfred Winkelhock,25,0,14,0,Engine
+1984,Detroit Grand Prix,Marc Surer,26,0,22,0,Accident
+1984,Dallas Grand Prix,Keke Rosberg,1,9,8,67,RAS
+1984,Dallas Grand Prix,René Arnoux,2,6,4,67,RAS
+1984,Dallas Grand Prix,Elio de Angelis,3,4,2,66,RAS
+1984,Dallas Grand Prix,Jacques Laffite,4,3,24,65,RAS
+1984,Dallas Grand Prix,Piercarlo Ghinzani,5,2,18,65,RAS
+1984,Dallas Grand Prix,Nigel Mansell,6,1,1,64,Gearbox
+1984,Dallas Grand Prix,Corrado Fabi,7,0,11,64,RAS
+1984,Dallas Grand Prix,Manfred Winkelhock,8,0,13,64,RAS
+1984,Dallas Grand Prix,Niki Lauda,9,0,5,60,Spun off
+1984,Dallas Grand Prix,Alain Prost,10,0,7,56,Spun off
+1984,Dallas Grand Prix,Thierry Boutsen,11,0,20,55,Spun off
+1984,Dallas Grand Prix,Michele Alboreto,12,0,9,54,Spun off
+1984,Dallas Grand Prix,Marc Surer,13,0,22,54,Spun off
+1984,Dallas Grand Prix,Ayrton Senna,14,0,6,47,Clutch
+1984,Dallas Grand Prix,Jonathan Palmer,15,0,25,46,Electrical
+1984,Dallas Grand Prix,Nelson Piquet,16,0,12,45,Spun off
+1984,Dallas Grand Prix,Patrick Tambay,17,0,10,25,Spun off
+1984,Dallas Grand Prix,Johnny Cecotto,18,0,15,25,Spun off
+1984,Dallas Grand Prix,Andrea de Cesaris,19,0,16,15,Spun off
+1984,Dallas Grand Prix,Huub Rothengatter,20,0,23,15,Fuel leak
+1984,Dallas Grand Prix,Riccardo Patrese,21,0,21,12,Spun off
+1984,Dallas Grand Prix,Derek Warwick,22,0,3,10,Spun off
+1984,Dallas Grand Prix,Stefan Bellof,23,0,17,9,DQ
+1984,Dallas Grand Prix,Eddie Cheever,24,0,14,8,Spun off
+1984,Dallas Grand Prix,François Hesnault,25,0,19,0,Accident
+1984,British Grand Prix,Niki Lauda,1,9,3,71,RAS
+1984,British Grand Prix,Derek Warwick,2,6,6,71,RAS
+1984,British Grand Prix,Ayrton Senna,3,4,7,71,RAS
+1984,British Grand Prix,Elio de Angelis,4,3,4,70,RAS
+1984,British Grand Prix,Michele Alboreto,5,2,9,70,RAS
+1984,British Grand Prix,René Arnoux,6,1,13,70,RAS
+1984,British Grand Prix,Nelson Piquet,7,0,1,70,RAS
+1984,British Grand Prix,Patrick Tambay,8,0,10,69,Turbo
+1984,British Grand Prix,Piercarlo Ghinzani,9,0,21,68,RAS
+1984,British Grand Prix,Andrea de Cesaris,10,0,19,68,RAS
+1984,British Grand Prix,Marc Surer,11,0,15,67,RAS
+1984,British Grand Prix,Riccardo Patrese,12,0,17,66,RAS
+1984,British Grand Prix,Stefan Bellof,13,0,26,68,DQ
+1984,British Grand Prix,Huub Rothengatter,14,0,22,62,Not classified
+1984,British Grand Prix,François Hesnault,15,0,20,43,Electrical
+1984,British Grand Prix,Alain Prost,16,0,2,37,Gearbox
+1984,British Grand Prix,Nigel Mansell,17,0,8,24,Gearbox
+1984,British Grand Prix,Thierry Boutsen,18,0,12,24,Electrical
+1984,British Grand Prix,Jacques Laffite,19,0,16,14,Water pump
+1984,British Grand Prix,Jonathan Palmer,20,0,23,10,Accident
+1984,British Grand Prix,Teo Fabi,21,0,14,9,Electrical
+1984,British Grand Prix,Manfred Winkelhock,22,0,11,8,Spun off
+1984,British Grand Prix,Keke Rosberg,23,0,5,5,Engine
+1984,British Grand Prix,Stefan Johansson,24,0,25,1,DQ
+1984,British Grand Prix,Eddie Cheever,25,0,18,0,Accident
+1984,British Grand Prix,Philippe Alliot,26,0,24,0,Accident
+1984,British Grand Prix,Jo Gartner,27,0,27,0,Accident
+1984,German Grand Prix,Alain Prost,1,9,1,44,RAS
+1984,German Grand Prix,Niki Lauda,2,6,7,44,RAS
+1984,German Grand Prix,Derek Warwick,3,4,3,44,RAS
+1984,German Grand Prix,Nigel Mansell,4,3,16,44,RAS
+1984,German Grand Prix,Patrick Tambay,5,2,4,44,RAS
+1984,German Grand Prix,René Arnoux,6,1,10,43,RAS
+1984,German Grand Prix,Andrea de Cesaris,7,0,11,43,RAS
+1984,German Grand Prix,François Hesnault,8,0,17,43,RAS
+1984,German Grand Prix,Huub Rothengatter,9,0,24,40,RAS
+1984,German Grand Prix,Stefan Johansson,10,0,26,42,DQ
+1984,German Grand Prix,Manfred Winkelhock,11,0,13,31,Gearbox
+1984,German Grand Prix,Eddie Cheever,12,0,18,29,Engine
+1984,German Grand Prix,Teo Fabi,13,0,8,28,Turbo
+1984,German Grand Prix,Nelson Piquet,14,0,5,23,Gearbox
+1984,German Grand Prix,Riccardo Patrese,15,0,20,16,Fuel system
+1984,German Grand Prix,Piercarlo Ghinzani,16,0,21,14,Electrical
+1984,German Grand Prix,Jo Gartner,17,0,23,13,Turbo
+1984,German Grand Prix,Michele Alboreto,18,0,6,13,Engine
+1984,German Grand Prix,Jonathan Palmer,19,0,25,11,Turbo
+1984,German Grand Prix,Keke Rosberg,20,0,19,10,Electrical
+1984,German Grand Prix,Jacques Laffite,21,0,12,10,Engine
+1984,German Grand Prix,Thierry Boutsen,22,0,15,8,Engine
+1984,German Grand Prix,Elio de Angelis,23,0,2,8,Turbo
+1984,German Grand Prix,Philippe Alliot,24,0,22,7,Overheating
+1984,German Grand Prix,Ayrton Senna,25,0,9,4,Accident
+1984,German Grand Prix,Marc Surer,26,0,14,1,Turbo
+1984,Austrian Grand Prix,Niki Lauda,1,9,4,51,RAS
+1984,Austrian Grand Prix,Nelson Piquet,2,6,1,51,RAS
+1984,Austrian Grand Prix,Michele Alboreto,3,4,12,51,RAS
+1984,Austrian Grand Prix,Teo Fabi,4,3,7,51,RAS
+1984,Austrian Grand Prix,Thierry Boutsen,5,2,17,50,RAS
+1984,Austrian Grand Prix,Marc Surer,6,1,19,50,RAS
+1984,Austrian Grand Prix,René Arnoux,7,0,15,50,RAS
+1984,Austrian Grand Prix,François Hesnault,8,0,21,49,RAS
+1984,Austrian Grand Prix,Jonathan Palmer,9,0,24,49,RAS
+1984,Austrian Grand Prix,Riccardo Patrese,10,0,13,48,Out of fuel
+1984,Austrian Grand Prix,Philippe Alliot,11,0,25,48,RAS
+1984,Austrian Grand Prix,Gerhard Berger,12,0,20,48,Gearbox
+1984,Austrian Grand Prix,Patrick Tambay,13,0,5,42,Engine
+1984,Austrian Grand Prix,Ayrton Senna,14,0,10,35,Oil pressure
+1984,Austrian Grand Prix,Nigel Mansell,15,0,8,32,Engine
+1984,Austrian Grand Prix,Alain Prost,16,0,2,28,Spun off
+1984,Austrian Grand Prix,Elio de Angelis,17,0,3,28,Engine
+1984,Austrian Grand Prix,Huub Rothengatter,18,0,26,23,Not classified
+1984,Austrian Grand Prix,Eddie Cheever,19,0,16,18,Engine
+1984,Austrian Grand Prix,Derek Warwick,20,0,6,17,Engine
+1984,Austrian Grand Prix,Andrea de Cesaris,21,0,18,15,Injection
+1984,Austrian Grand Prix,Keke Rosberg,22,0,9,15,Handling
+1984,Austrian Grand Prix,Jacques Laffite,23,0,11,12,Engine
+1984,Austrian Grand Prix,Jo Gartner,24,0,22,6,Engine
+1984,Austrian Grand Prix,Piercarlo Ghinzani,25,0,23,4,Gearbox
+1984,Austrian Grand Prix,Stefan Bellof,26,0,0,0,DQ
+1984,Dutch Grand Prix,Alain Prost,1,9,1,71,RAS
+1984,Dutch Grand Prix,Niki Lauda,2,6,6,71,RAS
+1984,Dutch Grand Prix,Nigel Mansell,3,4,12,71,RAS
+1984,Dutch Grand Prix,Elio de Angelis,4,3,3,70,RAS
+1984,Dutch Grand Prix,Teo Fabi,5,2,10,70,RAS
+1984,Dutch Grand Prix,Patrick Tambay,6,1,5,70,RAS
+1984,Dutch Grand Prix,François Hesnault,7,0,20,69,RAS
+1984,Dutch Grand Prix,Keke Rosberg,8,0,7,68,Out of fuel
+1984,Dutch Grand Prix,Jonathan Palmer,9,0,22,67,RAS
+1984,Dutch Grand Prix,Philippe Alliot,10,0,26,67,RAS
+1984,Dutch Grand Prix,René Arnoux,11,0,15,66,Electrical
+1984,Dutch Grand Prix,Jo Gartner,12,0,23,66,RAS
+1984,Dutch Grand Prix,Eddie Cheever,13,0,17,65,Out of fuel
+1984,Dutch Grand Prix,Stefan Bellof,14,0,26,69,DQ
+1984,Dutch Grand Prix,Stefan Johansson,15,0,25,69,DQ
+1984,Dutch Grand Prix,Thierry Boutsen,16,0,11,59,Accident
+1984,Dutch Grand Prix,Huub Rothengatter,17,0,27,53,Throttle
+1984,Dutch Grand Prix,Riccardo Patrese,18,0,11,51,Engine
+1984,Dutch Grand Prix,Andrea de Cesaris,19,0,14,31,Engine
+1984,Dutch Grand Prix,Jacques Laffite,20,0,8,23,Engine
+1984,Dutch Grand Prix,Derek Warwick,21,0,4,23,Spun off
+1984,Dutch Grand Prix,Manfred Winkelhock,22,0,16,22,Spun off
+1984,Dutch Grand Prix,Ayrton Senna,23,0,13,19,Engine
+1984,Dutch Grand Prix,Marc Surer,24,0,19,17,Wheel
+1984,Dutch Grand Prix,Nelson Piquet,25,0,2,10,Oil pressure
+1984,Dutch Grand Prix,Piercarlo Ghinzani,26,0,21,8,Fuel pump
+1984,Dutch Grand Prix,Michele Alboreto,27,0,9,7,Engine
+1984,Italian Grand Prix,Niki Lauda,1,9,4,51,RAS
+1984,Italian Grand Prix,Michele Alboreto,2,6,11,51,RAS
+1984,Italian Grand Prix,Riccardo Patrese,3,4,9,50,RAS
+1984,Italian Grand Prix,Stefan Johansson,4,3,17,49,RAS
+1984,Italian Grand Prix,Jo Gartner,5,0,24,49,RAS
+1984,Italian Grand Prix,Gerhard Berger,6,0,20,49,RAS
+1984,Italian Grand Prix,Piercarlo Ghinzani,7,0,22,48,Out of fuel
+1984,Italian Grand Prix,Huub Rothengatter,8,0,25,48,RAS
+1984,Italian Grand Prix,Eddie Cheever,9,0,10,45,Out of fuel
+1984,Italian Grand Prix,Thierry Boutsen,10,0,19,45,RAS
+1984,Italian Grand Prix,Patrick Tambay,11,0,8,43,Throttle
+1984,Italian Grand Prix,Teo Fabi,12,0,5,43,Engine
+1984,Italian Grand Prix,Marc Surer,13,0,15,43,Engine
+1984,Italian Grand Prix,Derek Warwick,14,0,12,31,Oil pressure
+1984,Italian Grand Prix,Jonathan Palmer,15,0,26,20,Oil pressure
+1984,Italian Grand Prix,Nelson Piquet,16,0,1,15,Engine
+1984,Italian Grand Prix,Elio de Angelis,17,0,3,14,Gearbox
+1984,Italian Grand Prix,Nigel Mansell,18,0,7,13,Spun off
+1984,Italian Grand Prix,Jacques Laffite,19,0,13,10,Turbo
+1984,Italian Grand Prix,Keke Rosberg,20,0,6,8,Turbo
+1984,Italian Grand Prix,Andrea de Cesaris,21,0,16,7,Engine
+1984,Italian Grand Prix,François Hesnault,22,0,18,7,Spun off
+1984,Italian Grand Prix,Philippe Alliot,23,0,23,6,Electrical
+1984,Italian Grand Prix,René Arnoux,24,0,14,5,Gearbox
+1984,Italian Grand Prix,Alain Prost,25,0,2,3,Engine
+1984,Italian Grand Prix,Manfred Winkelhock,26,0,21,0,Withdrew
+1984,European Grand Prix,Alain Prost,1,9,2,67,RAS
+1984,European Grand Prix,Michele Alboreto,2,6,5,67,RAS
+1984,European Grand Prix,Nelson Piquet,3,4,1,67,RAS
+1984,European Grand Prix,Niki Lauda,4,3,15,67,RAS
+1984,European Grand Prix,René Arnoux,5,2,6,67,RAS
+1984,European Grand Prix,Riccardo Patrese,6,1,9,66,RAS
+1984,European Grand Prix,Andrea de Cesaris,7,0,17,65,RAS
+1984,European Grand Prix,Mauro Baldi,8,0,24,65,RAS
+1984,European Grand Prix,Thierry Boutsen,9,0,11,64,Ignition
+1984,European Grand Prix,François Hesnault,10,0,19,64,RAS
+1984,European Grand Prix,Derek Warwick,11,0,7,61,Overheating
+1984,European Grand Prix,Jo Gartner,12,0,22,60,Fuel system
+1984,European Grand Prix,Teo Fabi,13,0,10,57,Gearbox
+1984,European Grand Prix,Nigel Mansell,14,0,8,51,Engine
+1984,European Grand Prix,Patrick Tambay,15,0,3,47,Fuel system
+1984,European Grand Prix,Eddie Cheever,16,0,13,37,Fuel system
+1984,European Grand Prix,Philippe Alliot,17,0,25,37,Turbo
+1984,European Grand Prix,Jonathan Palmer,18,0,21,35,Turbo
+1984,European Grand Prix,Jacques Laffite,19,0,14,27,Engine
+1984,European Grand Prix,Elio de Angelis,20,0,23,25,Turbo
+1984,European Grand Prix,Stefan Johansson,21,0,26,17,Overheating
+1984,European Grand Prix,Keke Rosberg,22,0,4,0,Accident
+1984,European Grand Prix,Ayrton Senna,23,0,12,0,Accident
+1984,European Grand Prix,Marc Surer,24,0,16,0,Accident
+1984,European Grand Prix,Gerhard Berger,25,0,18,0,Accident
+1984,European Grand Prix,Piercarlo Ghinzani,26,0,20,0,Accident
+1984,Portuguese Grand Prix,Alain Prost,1,9,2,70,RAS
+1984,Portuguese Grand Prix,Niki Lauda,2,6,11,70,RAS
+1984,Portuguese Grand Prix,Ayrton Senna,3,4,3,70,RAS
+1984,Portuguese Grand Prix,Michele Alboreto,4,3,8,70,RAS
+1984,Portuguese Grand Prix,Elio de Angelis,5,2,5,70,RAS
+1984,Portuguese Grand Prix,Nelson Piquet,6,1,1,69,RAS
+1984,Portuguese Grand Prix,Patrick Tambay,7,0,7,69,RAS
+1984,Portuguese Grand Prix,Riccardo Patrese,8,0,12,69,RAS
+1984,Portuguese Grand Prix,René Arnoux,9,0,17,69,RAS
+1984,Portuguese Grand Prix,Manfred Winkelhock,10,0,19,69,RAS
+1984,Portuguese Grand Prix,Stefan Johansson,11,0,10,69,RAS
+1984,Portuguese Grand Prix,Andrea de Cesaris,12,0,20,69,RAS
+1984,Portuguese Grand Prix,Gerhard Berger,13,0,23,68,RAS
+1984,Portuguese Grand Prix,Jacques Laffite,14,0,15,67,RAS
+1984,Portuguese Grand Prix,Mauro Baldi,15,0,25,66,RAS
+1984,Portuguese Grand Prix,Jo Gartner,16,0,24,65,Out of fuel
+1984,Portuguese Grand Prix,Eddie Cheever,17,0,14,64,RAS
+1984,Portuguese Grand Prix,Piercarlo Ghinzani,18,0,22,60,Engine
+1984,Portuguese Grand Prix,Nigel Mansell,19,0,6,52,Spun off
+1984,Portuguese Grand Prix,Derek Warwick,20,0,9,51,Gearbox
+1984,Portuguese Grand Prix,Philippe Streiff,21,0,13,48,Transmission
+1984,Portuguese Grand Prix,Keke Rosberg,22,0,4,39,Engine
+1984,Portuguese Grand Prix,François Hesnault,23,0,21,31,Electrical
+1984,Portuguese Grand Prix,Thierry Boutsen,24,0,18,24,Transmission
+1984,Portuguese Grand Prix,Jonathan Palmer,25,0,26,19,Gearbox
+1984,Portuguese Grand Prix,Marc Surer,26,0,16,8,Electrical
+1984,Portuguese Grand Prix,Philippe Alliot,27,0,27,2,Engine

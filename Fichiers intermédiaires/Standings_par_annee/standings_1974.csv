@@ -1,0 +1,388 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1974,Argentine Grand Prix,Denny Hulme,1,9,10,53,RAS
+1974,Argentine Grand Prix,Niki Lauda,2,6,8,53,RAS
+1974,Argentine Grand Prix,Clay Regazzoni,3,4,2,53,RAS
+1974,Argentine Grand Prix,Mike Hailwood,4,3,9,53,RAS
+1974,Argentine Grand Prix,Jean-Pierre Beltoise,5,2,14,53,RAS
+1974,Argentine Grand Prix,Patrick Depailler,6,1,15,53,RAS
+1974,Argentine Grand Prix,Carlos Reutemann,7,0,6,52,Out of fuel
+1974,Argentine Grand Prix,Howden Ganley,8,0,19,52,Out of fuel
+1974,Argentine Grand Prix,Henri Pescarolo,9,0,21,52,RAS
+1974,Argentine Grand Prix,Emerson Fittipaldi,10,0,3,52,RAS
+1974,Argentine Grand Prix,Guy Edwards,11,0,25,51,RAS
+1974,Argentine Grand Prix,John Watson,12,0,20,49,RAS
+1974,Argentine Grand Prix,Ronnie Peterson,13,0,1,48,RAS
+1974,Argentine Grand Prix,Graham Hill,14,0,17,45,Engine
+1974,Argentine Grand Prix,Jacky Ickx,15,0,7,36,Clutch
+1974,Argentine Grand Prix,Richard Robarts,16,0,22,36,Gearbox
+1974,Argentine Grand Prix,Hans-Joachim Stuck,17,0,23,31,Clutch
+1974,Argentine Grand Prix,François Migault,18,0,24,31,Water leak
+1974,Argentine Grand Prix,Jody Scheckter,19,0,12,25,Engine
+1974,Argentine Grand Prix,Carlos Pace,20,0,11,21,Suspension
+1974,Argentine Grand Prix,Arturo Merzario,21,0,13,19,Overheating
+1974,Argentine Grand Prix,James Hunt,22,0,5,11,Overheating
+1974,Argentine Grand Prix,Jochen Mass,23,0,18,10,Engine
+1974,Argentine Grand Prix,Peter Revson,24,0,4,1,Accident
+1974,Argentine Grand Prix,Jean-Pierre Jarier,25,0,16,0,Accident
+1974,Brazilian Grand Prix,Emerson Fittipaldi,1,9,1,32,RAS
+1974,Brazilian Grand Prix,Clay Regazzoni,2,6,8,32,RAS
+1974,Brazilian Grand Prix,Jacky Ickx,3,4,5,31,RAS
+1974,Brazilian Grand Prix,Carlos Pace,4,3,12,31,RAS
+1974,Brazilian Grand Prix,Mike Hailwood,5,2,7,31,RAS
+1974,Brazilian Grand Prix,Ronnie Peterson,6,1,4,31,RAS
+1974,Brazilian Grand Prix,Carlos Reutemann,7,0,2,31,RAS
+1974,Brazilian Grand Prix,Patrick Depailler,8,0,16,31,RAS
+1974,Brazilian Grand Prix,James Hunt,9,0,18,31,RAS
+1974,Brazilian Grand Prix,Jean-Pierre Beltoise,10,0,17,31,RAS
+1974,Brazilian Grand Prix,Graham Hill,11,0,21,31,RAS
+1974,Brazilian Grand Prix,Denny Hulme,12,0,11,31,RAS
+1974,Brazilian Grand Prix,Jody Scheckter,13,0,14,31,RAS
+1974,Brazilian Grand Prix,Henri Pescarolo,14,0,22,30,RAS
+1974,Brazilian Grand Prix,Richard Robarts,15,0,24,30,RAS
+1974,Brazilian Grand Prix,François Migault,16,0,23,30,RAS
+1974,Brazilian Grand Prix,Jochen Mass,17,0,10,30,RAS
+1974,Brazilian Grand Prix,John Watson,18,0,15,27,Clutch
+1974,Brazilian Grand Prix,Hans-Joachim Stuck,19,0,13,24,Transmission
+1974,Brazilian Grand Prix,Jean-Pierre Jarier,20,0,19,21,Brakes
+1974,Brazilian Grand Prix,Arturo Merzario,21,0,9,20,Throttle
+1974,Brazilian Grand Prix,Peter Revson,22,0,6,10,Overheating
+1974,Brazilian Grand Prix,Howden Ganley,23,0,20,8,Ignition
+1974,Brazilian Grand Prix,Niki Lauda,24,0,25,2,Engine
+1974,Brazilian Grand Prix,Guy Edwards,25,0,3,2,Chassis
+1974,South African Grand Prix,Carlos Reutemann,1,9,4,78,RAS
+1974,South African Grand Prix,Jean-Pierre Beltoise,2,6,11,78,RAS
+1974,South African Grand Prix,Mike Hailwood,3,4,12,78,RAS
+1974,South African Grand Prix,Patrick Depailler,4,3,15,78,RAS
+1974,South African Grand Prix,Hans-Joachim Stuck,5,2,7,78,RAS
+1974,South African Grand Prix,Arturo Merzario,6,1,3,78,RAS
+1974,South African Grand Prix,Emerson Fittipaldi,7,0,5,78,RAS
+1974,South African Grand Prix,Jody Scheckter,8,0,8,78,RAS
+1974,South African Grand Prix,Denny Hulme,9,0,9,77,RAS
+1974,South African Grand Prix,Vittorio Brambilla,10,0,19,77,RAS
+1974,South African Grand Prix,Carlos Pace,11,0,2,77,RAS
+1974,South African Grand Prix,Graham Hill,12,0,18,77,RAS
+1974,South African Grand Prix,Ian Scheckter,13,0,22,76,RAS
+1974,South African Grand Prix,Eddie Keizan,14,0,24,76,RAS
+1974,South African Grand Prix,François Migault,15,0,25,75,RAS
+1974,South African Grand Prix,Niki Lauda,16,0,1,74,Ignition
+1974,South African Grand Prix,Richard Robarts,17,0,23,74,RAS
+1974,South African Grand Prix,Henri Pescarolo,18,0,21,72,RAS
+1974,South African Grand Prix,Dave Charlton,19,0,20,71,RAS
+1974,South African Grand Prix,Clay Regazzoni,20,0,6,65,Oil pressure
+1974,South African Grand Prix,John Watson,21,0,13,54,Fuel system
+1974,South African Grand Prix,Jacky Ickx,22,0,10,31,Brakes
+1974,South African Grand Prix,James Hunt,23,0,14,13,Transmission
+1974,South African Grand Prix,Jochen Mass,24,0,17,11,Suspension
+1974,South African Grand Prix,Paddy Driver,25,0,26,6,Clutch
+1974,South African Grand Prix,Ronnie Peterson,26,0,16,2,Collision
+1974,South African Grand Prix,Tom Belsø,27,0,27,0,Clutch
+1974,Spanish Grand Prix,Niki Lauda,1,9,1,84,RAS
+1974,Spanish Grand Prix,Clay Regazzoni,2,6,3,84,RAS
+1974,Spanish Grand Prix,Emerson Fittipaldi,3,4,4,83,RAS
+1974,Spanish Grand Prix,Hans-Joachim Stuck,4,3,13,82,RAS
+1974,Spanish Grand Prix,Jody Scheckter,5,2,9,82,RAS
+1974,Spanish Grand Prix,Denny Hulme,6,1,8,82,RAS
+1974,Spanish Grand Prix,Brian Redman,7,0,21,81,RAS
+1974,Spanish Grand Prix,Patrick Depailler,8,0,16,81,RAS
+1974,Spanish Grand Prix,Mike Hailwood,9,0,17,81,RAS
+1974,Spanish Grand Prix,James Hunt,10,0,10,81,RAS
+1974,Spanish Grand Prix,John Watson,11,0,15,80,RAS
+1974,Spanish Grand Prix,Henri Pescarolo,12,0,20,80,RAS
+1974,Spanish Grand Prix,Carlos Pace,13,0,14,78,RAS
+1974,Spanish Grand Prix,Tim Schenken,14,0,25,76,Spun off
+1974,Spanish Grand Prix,Jean-Pierre Jarier,15,0,12,73,Not classified
+1974,Spanish Grand Prix,Graham Hill,16,0,19,43,Engine
+1974,Spanish Grand Prix,Arturo Merzario,17,0,7,37,Accident
+1974,Spanish Grand Prix,Jochen Mass,18,0,18,35,Gearbox
+1974,Spanish Grand Prix,François Migault,19,0,22,27,Engine
+1974,Spanish Grand Prix,Jacky Ickx,20,0,5,26,Brakes
+1974,Spanish Grand Prix,Ronnie Peterson,21,0,2,23,Engine
+1974,Spanish Grand Prix,Chris Amon,22,0,23,22,Brakes
+1974,Spanish Grand Prix,Rikky von Opel,23,0,24,14,Oil leak
+1974,Spanish Grand Prix,Carlos Reutemann,24,0,6,12,Spun off
+1974,Spanish Grand Prix,Jean-Pierre Beltoise,25,0,11,2,Engine
+1974,Belgian Grand Prix,Emerson Fittipaldi,1,9,4,85,RAS
+1974,Belgian Grand Prix,Niki Lauda,2,6,3,85,RAS
+1974,Belgian Grand Prix,Jody Scheckter,3,4,2,85,RAS
+1974,Belgian Grand Prix,Clay Regazzoni,4,3,1,85,RAS
+1974,Belgian Grand Prix,Jean-Pierre Beltoise,5,2,7,85,RAS
+1974,Belgian Grand Prix,Denny Hulme,6,1,12,85,RAS
+1974,Belgian Grand Prix,Mike Hailwood,7,0,13,84,RAS
+1974,Belgian Grand Prix,Graham Hill,8,0,29,83,RAS
+1974,Belgian Grand Prix,Vittorio Brambilla,9,0,31,83,RAS
+1974,Belgian Grand Prix,Tim Schenken,10,0,23,83,RAS
+1974,Belgian Grand Prix,John Watson,11,0,19,83,RAS
+1974,Belgian Grand Prix,Guy Edwards,12,0,21,82,RAS
+1974,Belgian Grand Prix,Jean-Pierre Jarier,13,0,17,82,RAS
+1974,Belgian Grand Prix,Gijs van Lennep,14,0,30,82,RAS
+1974,Belgian Grand Prix,Vern Schuppan,15,0,14,82,RAS
+1974,Belgian Grand Prix,François Migault,16,0,25,82,RAS
+1974,Belgian Grand Prix,Teddy Pilette,17,0,27,81,RAS
+1974,Belgian Grand Prix,Brian Redman,18,0,18,80,Engine
+1974,Belgian Grand Prix,Jacky Ickx,19,0,16,72,Overheating
+1974,Belgian Grand Prix,Tom Pryce,20,0,20,66,Collision
+1974,Belgian Grand Prix,Carlos Reutemann,21,0,24,62,Engine
+1974,Belgian Grand Prix,Ronnie Peterson,22,0,5,56,Fuel leak
+1974,Belgian Grand Prix,Patrick Depailler,23,0,28,53,Brakes
+1974,Belgian Grand Prix,Jochen Mass,24,0,26,53,Suspension
+1974,Belgian Grand Prix,Gérard Larrousse,25,0,11,53,Tyre
+1974,Belgian Grand Prix,Carlos Pace,26,0,8,50,Handling
+1974,Belgian Grand Prix,Rikky von Opel,27,0,22,49,Engine
+1974,Belgian Grand Prix,James Hunt,28,0,9,45,Accident
+1974,Belgian Grand Prix,Arturo Merzario,29,0,6,29,Transmission
+1974,Belgian Grand Prix,Henri Pescarolo,30,0,15,12,Collision
+1974,Belgian Grand Prix,Hans-Joachim Stuck,31,0,10,6,Clutch
+1974,Monaco Grand Prix,Ronnie Peterson,1,9,3,78,RAS
+1974,Monaco Grand Prix,Jody Scheckter,2,6,5,78,RAS
+1974,Monaco Grand Prix,Jean-Pierre Jarier,3,4,6,78,RAS
+1974,Monaco Grand Prix,Clay Regazzoni,4,3,2,78,RAS
+1974,Monaco Grand Prix,Emerson Fittipaldi,5,2,13,77,RAS
+1974,Monaco Grand Prix,John Watson,6,1,23,77,RAS
+1974,Monaco Grand Prix,Graham Hill,7,0,21,76,RAS
+1974,Monaco Grand Prix,Guy Edwards,8,0,26,75,RAS
+1974,Monaco Grand Prix,Patrick Depailler,9,0,4,74,RAS
+1974,Monaco Grand Prix,Henri Pescarolo,10,0,27,62,Gearbox
+1974,Monaco Grand Prix,Jacky Ickx,11,0,19,34,Engine
+1974,Monaco Grand Prix,Niki Lauda,12,0,1,32,Ignition
+1974,Monaco Grand Prix,James Hunt,13,0,7,27,Halfshaft
+1974,Monaco Grand Prix,Mike Hailwood,14,0,10,11,Accident
+1974,Monaco Grand Prix,Carlos Reutemann,15,0,8,5,Suspension
+1974,Monaco Grand Prix,François Migault,16,0,22,4,Accident
+1974,Monaco Grand Prix,Vern Schuppan,17,0,25,4,Accident
+1974,Monaco Grand Prix,Hans-Joachim Stuck,18,0,9,3,Collision
+1974,Monaco Grand Prix,Jean-Pierre Beltoise,19,0,11,0,Collision
+1974,Monaco Grand Prix,Denny Hulme,20,0,12,0,Collision
+1974,Monaco Grand Prix,Arturo Merzario,21,0,14,0,Collision
+1974,Monaco Grand Prix,Vittorio Brambilla,22,0,15,0,Collision
+1974,Monaco Grand Prix,Brian Redman,23,0,16,0,Collision
+1974,Monaco Grand Prix,Carlos Pace,24,0,18,0,Collision
+1974,Monaco Grand Prix,Tim Schenken,25,0,24,0,Collision
+1974,Monaco Grand Prix,Jochen Mass,26,0,17,0,Withdrew
+1974,Monaco Grand Prix,Chris Amon,27,0,20,0,Withdrew
+1974,Swedish Grand Prix,Jody Scheckter,1,9,2,80,RAS
+1974,Swedish Grand Prix,Patrick Depailler,2,6,1,80,RAS
+1974,Swedish Grand Prix,James Hunt,3,4,6,80,RAS
+1974,Swedish Grand Prix,Emerson Fittipaldi,4,3,9,80,RAS
+1974,Swedish Grand Prix,Jean-Pierre Jarier,5,2,8,80,RAS
+1974,Swedish Grand Prix,Graham Hill,6,1,15,79,RAS
+1974,Swedish Grand Prix,Guy Edwards,7,0,18,79,RAS
+1974,Swedish Grand Prix,Tom Belsø,8,0,21,79,RAS
+1974,Swedish Grand Prix,Rikky von Opel,9,0,20,79,RAS
+1974,Swedish Grand Prix,Vittorio Brambilla,10,0,17,78,Engine
+1974,Swedish Grand Prix,John Watson,11,0,14,77,RAS
+1974,Swedish Grand Prix,Vern Schuppan,12,0,26,77,DQ
+1974,Swedish Grand Prix,Niki Lauda,13,0,3,70,Gearbox
+1974,Swedish Grand Prix,Reine Wisell,14,0,16,59,Suspension
+1974,Swedish Grand Prix,Denny Hulme,15,0,12,56,Suspension
+1974,Swedish Grand Prix,Jochen Mass,16,0,22,53,Suspension
+1974,Swedish Grand Prix,Carlos Reutemann,17,0,10,30,Oil leak
+1974,Swedish Grand Prix,Jacky Ickx,18,0,7,27,Engine
+1974,Swedish Grand Prix,Clay Regazzoni,19,0,4,24,Gearbox
+1974,Swedish Grand Prix,Carlos Pace,20,0,24,15,Handling
+1974,Swedish Grand Prix,Ronnie Peterson,21,0,5,8,Halfshaft
+1974,Swedish Grand Prix,Leo Kinnunen,22,0,25,8,Engine
+1974,Swedish Grand Prix,Mike Hailwood,23,0,11,5,Fuel leak
+1974,Swedish Grand Prix,Jean-Pierre Beltoise,24,0,13,3,Engine
+1974,Swedish Grand Prix,Bertil Roos,25,0,23,2,Gearbox
+1974,Swedish Grand Prix,Henri Pescarolo,26,0,19,0,Heat shield fire
+1974,Dutch Grand Prix,Niki Lauda,1,9,1,75,RAS
+1974,Dutch Grand Prix,Clay Regazzoni,2,6,2,75,RAS
+1974,Dutch Grand Prix,Emerson Fittipaldi,3,4,3,75,RAS
+1974,Dutch Grand Prix,Mike Hailwood,4,3,4,75,RAS
+1974,Dutch Grand Prix,Jody Scheckter,5,2,5,75,RAS
+1974,Dutch Grand Prix,Patrick Depailler,6,1,8,75,RAS
+1974,Dutch Grand Prix,John Watson,7,0,13,75,RAS
+1974,Dutch Grand Prix,Ronnie Peterson,8,0,10,73,RAS
+1974,Dutch Grand Prix,Rikky von Opel,9,0,23,73,RAS
+1974,Dutch Grand Prix,Vittorio Brambilla,10,0,15,72,RAS
+1974,Dutch Grand Prix,Jacky Ickx,11,0,18,71,RAS
+1974,Dutch Grand Prix,Carlos Reutemann,12,0,12,71,RAS
+1974,Dutch Grand Prix,Vern Schuppan,13,0,17,69,DQ
+1974,Dutch Grand Prix,Denny Hulme,14,0,9,65,Ignition
+1974,Dutch Grand Prix,François Migault,15,0,25,60,Gearbox
+1974,Dutch Grand Prix,Arturo Merzario,16,0,21,54,Gearbox
+1974,Dutch Grand Prix,Guy Edwards,17,0,14,36,Fuel system
+1974,Dutch Grand Prix,Jean-Pierre Jarier,18,0,7,28,Clutch
+1974,Dutch Grand Prix,Jean-Pierre Beltoise,19,0,16,18,Gearbox
+1974,Dutch Grand Prix,Graham Hill,20,0,19,16,Gearbox
+1974,Dutch Grand Prix,Henri Pescarolo,21,0,24,15,Handling
+1974,Dutch Grand Prix,Jochen Mass,22,0,20,8,Transmission
+1974,Dutch Grand Prix,James Hunt,23,0,6,2,Collision
+1974,Dutch Grand Prix,Tom Pryce,24,0,11,0,Collision
+1974,Dutch Grand Prix,Hans-Joachim Stuck,25,0,22,0,Accident
+1974,French Grand Prix,Ronnie Peterson,1,9,2,80,RAS
+1974,French Grand Prix,Niki Lauda,2,6,1,80,RAS
+1974,French Grand Prix,Clay Regazzoni,3,4,4,80,RAS
+1974,French Grand Prix,Jody Scheckter,4,3,7,80,RAS
+1974,French Grand Prix,Jacky Ickx,5,2,13,80,RAS
+1974,French Grand Prix,Denny Hulme,6,1,11,80,RAS
+1974,French Grand Prix,Mike Hailwood,7,0,6,79,RAS
+1974,French Grand Prix,Patrick Depailler,8,0,9,79,RAS
+1974,French Grand Prix,Arturo Merzario,9,0,15,79,RAS
+1974,French Grand Prix,Jean-Pierre Beltoise,10,0,17,79,RAS
+1974,French Grand Prix,Vittorio Brambilla,11,0,16,79,RAS
+1974,French Grand Prix,Jean-Pierre Jarier,12,0,12,79,RAS
+1974,French Grand Prix,Graham Hill,13,0,21,78,RAS
+1974,French Grand Prix,François Migault,14,0,22,78,RAS
+1974,French Grand Prix,Guy Edwards,15,0,20,77,RAS
+1974,French Grand Prix,John Watson,16,0,14,76,RAS
+1974,French Grand Prix,Emerson Fittipaldi,17,0,5,27,Engine
+1974,French Grand Prix,Carlos Reutemann,18,0,8,24,Handling
+1974,French Grand Prix,Jochen Mass,19,0,18,4,Clutch
+1974,French Grand Prix,Tom Pryce,20,0,3,1,Collision
+1974,French Grand Prix,Henri Pescarolo,21,0,19,1,Clutch
+1974,French Grand Prix,James Hunt,22,0,10,0,Collision
+1974,British Grand Prix,Jody Scheckter,1,9,3,75,RAS
+1974,British Grand Prix,Emerson Fittipaldi,2,6,8,75,RAS
+1974,British Grand Prix,Jacky Ickx,3,4,12,75,RAS
+1974,British Grand Prix,Clay Regazzoni,4,3,7,75,RAS
+1974,British Grand Prix,Niki Lauda,5,2,1,74,RAS
+1974,British Grand Prix,Carlos Reutemann,6,1,4,74,RAS
+1974,British Grand Prix,Denny Hulme,7,0,19,74,RAS
+1974,British Grand Prix,Tom Pryce,8,0,5,74,RAS
+1974,British Grand Prix,Carlos Pace,9,0,20,74,RAS
+1974,British Grand Prix,Ronnie Peterson,10,0,2,73,RAS
+1974,British Grand Prix,John Watson,11,0,13,73,RAS
+1974,British Grand Prix,Jean-Pierre Beltoise,12,0,23,72,RAS
+1974,British Grand Prix,Graham Hill,13,0,22,69,RAS
+1974,British Grand Prix,Jochen Mass,14,0,17,68,RAS
+1974,British Grand Prix,Henri Pescarolo,15,0,24,64,Engine
+1974,British Grand Prix,François Migault,16,0,14,62,Not classified
+1974,British Grand Prix,Mike Hailwood,17,0,11,57,Spun off
+1974,British Grand Prix,Jean-Pierre Jarier,18,0,16,45,Suspension
+1974,British Grand Prix,Hans-Joachim Stuck,19,0,9,36,Accident
+1974,British Grand Prix,Patrick Depailler,20,0,10,35,Engine
+1974,British Grand Prix,Arturo Merzario,21,0,15,25,Engine
+1974,British Grand Prix,Vittorio Brambilla,22,0,16,17,Fuel system
+1974,British Grand Prix,Tim Schenken,23,0,25,6,Suspension
+1974,British Grand Prix,James Hunt,24,0,6,2,Suspension
+1974,British Grand Prix,Peter Gethin,25,0,21,0,Physical
+1974,German Grand Prix,Clay Regazzoni,1,9,2,14,RAS
+1974,German Grand Prix,Jody Scheckter,2,6,4,14,RAS
+1974,German Grand Prix,Carlos Reutemann,3,4,6,14,RAS
+1974,German Grand Prix,Ronnie Peterson,4,3,8,14,RAS
+1974,German Grand Prix,Jacky Ickx,5,2,9,14,RAS
+1974,German Grand Prix,Tom Pryce,6,1,11,14,RAS
+1974,German Grand Prix,Hans-Joachim Stuck,7,0,20,14,RAS
+1974,German Grand Prix,Jean-Pierre Jarier,8,0,18,14,RAS
+1974,German Grand Prix,Graham Hill,9,0,19,14,RAS
+1974,German Grand Prix,Henri Pescarolo,10,0,24,14,RAS
+1974,German Grand Prix,Derek Bell,11,0,25,14,RAS
+1974,German Grand Prix,Carlos Pace,12,0,17,14,RAS
+1974,German Grand Prix,Vittorio Brambilla,13,0,23,14,RAS
+1974,German Grand Prix,Ian Ashley,14,0,20,13,RAS
+1974,German Grand Prix,Mike Hailwood,15,0,12,12,Accident
+1974,German Grand Prix,Jochen Mass,16,0,13,10,Engine
+1974,German Grand Prix,James Hunt,17,0,10,10,Gearbox
+1974,German Grand Prix,Patrick Depailler,18,0,5,5,Accident
+1974,German Grand Prix,Arturo Merzario,19,0,16,5,Throttle
+1974,German Grand Prix,Jean-Pierre Beltoise,20,0,15,4,Fuel system
+1974,German Grand Prix,Vern Schuppan,21,0,22,4,Gearbox
+1974,German Grand Prix,Emerson Fittipaldi,22,0,3,2,Suspension
+1974,German Grand Prix,Jacques Laffite,23,0,21,2,Suspension
+1974,German Grand Prix,John Watson,24,0,14,1,Suspension
+1974,German Grand Prix,Niki Lauda,25,0,1,0,Accident
+1974,German Grand Prix,Denny Hulme,26,0,7,0,Accident
+1974,Austrian Grand Prix,Carlos Reutemann,1,9,2,54,RAS
+1974,Austrian Grand Prix,Denny Hulme,2,6,10,54,RAS
+1974,Austrian Grand Prix,James Hunt,3,4,7,54,RAS
+1974,Austrian Grand Prix,John Watson,4,3,11,54,RAS
+1974,Austrian Grand Prix,Clay Regazzoni,5,2,8,54,RAS
+1974,Austrian Grand Prix,Vittorio Brambilla,6,1,20,54,RAS
+1974,Austrian Grand Prix,David Hobbs,7,0,17,53,RAS
+1974,Austrian Grand Prix,Jean-Pierre Jarier,8,0,23,52,RAS
+1974,Austrian Grand Prix,Dieter Quester,9,0,25,51,RAS
+1974,Austrian Grand Prix,Tim Schenken,10,0,19,50,RAS
+1974,Austrian Grand Prix,Hans-Joachim Stuck,11,0,15,48,Suspension
+1974,Austrian Grand Prix,Graham Hill,12,0,21,48,RAS
+1974,Austrian Grand Prix,Ian Ashley,13,0,24,46,Not classified
+1974,Austrian Grand Prix,Ronnie Peterson,14,0,6,45,Halfshaft
+1974,Austrian Grand Prix,Jacky Ickx,15,0,22,43,Collision
+1974,Austrian Grand Prix,Patrick Depailler,16,0,14,42,Collision
+1974,Austrian Grand Prix,Carlos Pace,17,0,4,41,Fuel leak
+1974,Austrian Grand Prix,Emerson Fittipaldi,18,0,3,37,Engine
+1974,Austrian Grand Prix,Jacques Laffite,19,0,12,37,Not classified
+1974,Austrian Grand Prix,Arturo Merzario,20,0,9,24,Fuel system
+1974,Austrian Grand Prix,Tom Pryce,21,0,16,22,Spun off
+1974,Austrian Grand Prix,Jean-Pierre Beltoise,22,0,18,22,Engine
+1974,Austrian Grand Prix,Niki Lauda,23,0,1,17,Engine
+1974,Austrian Grand Prix,Rolf Stommelen,24,0,13,14,Accident
+1974,Austrian Grand Prix,Jody Scheckter,25,0,5,8,Engine
+1974,Italian Grand Prix,Ronnie Peterson,1,9,7,52,RAS
+1974,Italian Grand Prix,Emerson Fittipaldi,2,6,6,52,RAS
+1974,Italian Grand Prix,Jody Scheckter,3,4,12,52,RAS
+1974,Italian Grand Prix,Arturo Merzario,4,3,15,52,RAS
+1974,Italian Grand Prix,Carlos Pace,5,2,3,51,RAS
+1974,Italian Grand Prix,Denny Hulme,6,1,19,51,RAS
+1974,Italian Grand Prix,John Watson,7,0,4,51,RAS
+1974,Italian Grand Prix,Graham Hill,8,0,21,51,RAS
+1974,Italian Grand Prix,David Hobbs,9,0,23,51,RAS
+1974,Italian Grand Prix,Tom Pryce,10,0,22,50,RAS
+1974,Italian Grand Prix,Patrick Depailler,11,0,10,50,RAS
+1974,Italian Grand Prix,Clay Regazzoni,12,0,5,40,Engine
+1974,Italian Grand Prix,Niki Lauda,13,0,1,32,Engine
+1974,Italian Grand Prix,Jacky Ickx,14,0,16,30,Throttle
+1974,Italian Grand Prix,Rolf Stommelen,15,0,14,25,Suspension
+1974,Italian Grand Prix,Jacques Laffite,16,0,17,22,Engine
+1974,Italian Grand Prix,Jean-Pierre Jarier,17,0,9,19,Engine
+1974,Italian Grand Prix,Vittorio Brambilla,18,0,13,16,Accident
+1974,Italian Grand Prix,Tim Schenken,19,0,20,15,Gearbox
+1974,Italian Grand Prix,Carlos Reutemann,20,0,2,12,Gearbox
+1974,Italian Grand Prix,Hans-Joachim Stuck,21,0,18,11,Chassis
+1974,Italian Grand Prix,Henri Pescarolo,22,0,25,3,Engine
+1974,Italian Grand Prix,James Hunt,23,0,8,2,Engine
+1974,Italian Grand Prix,François Migault,24,0,24,1,Gearbox
+1974,Italian Grand Prix,Jean-Pierre Beltoise,25,0,11,0,Electrical
+1974,Canadian Grand Prix,Emerson Fittipaldi,1,9,1,80,RAS
+1974,Canadian Grand Prix,Clay Regazzoni,2,6,6,80,RAS
+1974,Canadian Grand Prix,Ronnie Peterson,3,4,10,80,RAS
+1974,Canadian Grand Prix,James Hunt,4,3,8,80,RAS
+1974,Canadian Grand Prix,Patrick Depailler,5,2,7,80,RAS
+1974,Canadian Grand Prix,Denny Hulme,6,1,14,79,RAS
+1974,Canadian Grand Prix,Mario Andretti,7,0,16,79,RAS
+1974,Canadian Grand Prix,Carlos Pace,8,0,9,79,RAS
+1974,Canadian Grand Prix,Carlos Reutemann,9,0,4,79,RAS
+1974,Canadian Grand Prix,Helmuth Koinigg,10,0,22,78,RAS
+1974,Canadian Grand Prix,Rolf Stommelen,11,0,11,78,RAS
+1974,Canadian Grand Prix,Mark Donohue,12,0,24,78,RAS
+1974,Canadian Grand Prix,Jacky Ickx,13,0,21,78,RAS
+1974,Canadian Grand Prix,Graham Hill,14,0,20,77,RAS
+1974,Canadian Grand Prix,Jacques Laffite,15,0,18,74,Puncture
+1974,Canadian Grand Prix,Jochen Mass,16,0,12,72,RAS
+1974,Canadian Grand Prix,Chris Amon,17,0,25,70,Not classified
+1974,Canadian Grand Prix,Niki Lauda,18,0,2,67,Accident
+1974,Canadian Grand Prix,Tom Pryce,19,0,13,65,Engine
+1974,Canadian Grand Prix,John Watson,20,0,15,61,Suspension
+1974,Canadian Grand Prix,Jean-Pierre Beltoise,21,0,17,60,Not classified
+1974,Canadian Grand Prix,Jody Scheckter,22,0,3,48,Brakes
+1974,Canadian Grand Prix,Jean-Pierre Jarier,23,0,5,46,Halfshaft
+1974,Canadian Grand Prix,Arturo Merzario,24,0,19,40,Handling
+1974,Canadian Grand Prix,Eppie Wietzes,25,0,26,33,Engine
+1974,Canadian Grand Prix,Hans-Joachim Stuck,26,0,23,12,Fuel system
+1974,United States Grand Prix,Carlos Reutemann,1,9,1,59,RAS
+1974,United States Grand Prix,Carlos Pace,2,6,4,59,RAS
+1974,United States Grand Prix,James Hunt,3,4,2,59,RAS
+1974,United States Grand Prix,Emerson Fittipaldi,4,3,8,59,RAS
+1974,United States Grand Prix,John Watson,5,2,7,59,RAS
+1974,United States Grand Prix,Patrick Depailler,6,1,13,59,RAS
+1974,United States Grand Prix,Jochen Mass,7,0,20,59,RAS
+1974,United States Grand Prix,Graham Hill,8,0,24,58,RAS
+1974,United States Grand Prix,Chris Amon,9,0,12,57,RAS
+1974,United States Grand Prix,Jean-Pierre Jarier,10,0,10,57,RAS
+1974,United States Grand Prix,Clay Regazzoni,11,0,9,55,RAS
+1974,United States Grand Prix,Rolf Stommelen,12,0,21,54,RAS
+1974,United States Grand Prix,Ronnie Peterson,13,0,19,52,Fuel system
+1974,United States Grand Prix,Mike Wilds,14,0,22,50,Not classified
+1974,United States Grand Prix,Tom Pryce,15,0,18,47,Not classified
+1974,United States Grand Prix,Jody Scheckter,16,0,6,44,Fuel system
+1974,United States Grand Prix,Arturo Merzario,17,0,15,43,Electrical
+1974,United States Grand Prix,Niki Lauda,18,0,5,38,Suspension
+1974,United States Grand Prix,Jacques Laffite,19,0,11,31,Engine
+1974,United States Grand Prix,Mark Donohue,20,0,14,27,Suspension
+1974,United States Grand Prix,José Dolhem,21,0,26,25,Withdrew
+1974,United States Grand Prix,Vittorio Brambilla,22,0,25,21,Fuel system
+1974,United States Grand Prix,Helmuth Koinigg,23,0,23,9,Fatal accident
+1974,United States Grand Prix,Jacky Ickx,24,0,16,7,Suspension
+1974,United States Grand Prix,Tim Schenken,25,0,27,6,DQ
+1974,United States Grand Prix,Mario Andretti,26,0,3,4,DQ
+1974,United States Grand Prix,Denny Hulme,27,0,17,4,Engine

@@ -1,0 +1,421 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2019,Australian Grand Prix,Valtteri Bottas,1,26,2,58,RAS
+2019,Australian Grand Prix,Lewis Hamilton,2,18,1,58,RAS
+2019,Australian Grand Prix,Max Verstappen,3,15,4,58,RAS
+2019,Australian Grand Prix,Sebastian Vettel,4,12,3,58,RAS
+2019,Australian Grand Prix,Charles Leclerc,5,10,5,58,RAS
+2019,Australian Grand Prix,Kevin Magnussen,6,8,7,58,RAS
+2019,Australian Grand Prix,Nico Hülkenberg,7,6,11,57,RAS
+2019,Australian Grand Prix,Kimi Räikkönen,8,4,9,57,RAS
+2019,Australian Grand Prix,Lance Stroll,9,2,16,57,RAS
+2019,Australian Grand Prix,Daniil Kvyat,10,1,15,57,RAS
+2019,Australian Grand Prix,Pierre Gasly,11,0,17,57,RAS
+2019,Australian Grand Prix,Lando Norris,12,0,8,57,RAS
+2019,Australian Grand Prix,Sergio Pérez,13,0,10,57,RAS
+2019,Australian Grand Prix,Alexander Albon,14,0,13,57,RAS
+2019,Australian Grand Prix,Antonio Giovinazzi,15,0,14,57,RAS
+2019,Australian Grand Prix,George Russell,16,0,19,56,RAS
+2019,Australian Grand Prix,Robert Kubica,17,0,20,55,RAS
+2019,Australian Grand Prix,Romain Grosjean,18,0,6,29,Wheel
+2019,Australian Grand Prix,Daniel Ricciardo,19,0,12,28,Damage
+2019,Australian Grand Prix,Carlos Sainz,20,0,18,9,Engine
+2019,Bahrain Grand Prix,Lewis Hamilton,1,25,3,57,RAS
+2019,Bahrain Grand Prix,Valtteri Bottas,2,18,4,57,RAS
+2019,Bahrain Grand Prix,Charles Leclerc,3,16,1,57,RAS
+2019,Bahrain Grand Prix,Max Verstappen,4,12,5,57,RAS
+2019,Bahrain Grand Prix,Sebastian Vettel,5,10,2,57,RAS
+2019,Bahrain Grand Prix,Lando Norris,6,8,9,57,RAS
+2019,Bahrain Grand Prix,Kimi Räikkönen,7,6,8,57,RAS
+2019,Bahrain Grand Prix,Pierre Gasly,8,4,13,57,RAS
+2019,Bahrain Grand Prix,Alexander Albon,9,2,12,57,RAS
+2019,Bahrain Grand Prix,Sergio Pérez,10,1,14,57,RAS
+2019,Bahrain Grand Prix,Antonio Giovinazzi,11,0,16,57,RAS
+2019,Bahrain Grand Prix,Daniil Kvyat,12,0,15,56,RAS
+2019,Bahrain Grand Prix,Kevin Magnussen,13,0,6,56,RAS
+2019,Bahrain Grand Prix,Lance Stroll,14,0,18,56,RAS
+2019,Bahrain Grand Prix,George Russell,15,0,19,56,RAS
+2019,Bahrain Grand Prix,Robert Kubica,16,0,20,55,RAS
+2019,Bahrain Grand Prix,Nico Hülkenberg,17,0,17,53,Engine
+2019,Bahrain Grand Prix,Daniel Ricciardo,18,0,10,53,Out of fuel
+2019,Bahrain Grand Prix,Carlos Sainz,19,0,7,53,Collision damage
+2019,Bahrain Grand Prix,Romain Grosjean,20,0,11,16,DNF
+2019,Chinese Grand Prix,Lewis Hamilton,1,25,2,56,RAS
+2019,Chinese Grand Prix,Valtteri Bottas,2,18,1,56,RAS
+2019,Chinese Grand Prix,Sebastian Vettel,3,15,3,56,RAS
+2019,Chinese Grand Prix,Max Verstappen,4,12,5,56,RAS
+2019,Chinese Grand Prix,Charles Leclerc,5,10,4,56,RAS
+2019,Chinese Grand Prix,Pierre Gasly,6,9,6,56,RAS
+2019,Chinese Grand Prix,Daniel Ricciardo,7,6,7,55,RAS
+2019,Chinese Grand Prix,Sergio Pérez,8,4,12,55,RAS
+2019,Chinese Grand Prix,Kimi Räikkönen,9,2,13,55,RAS
+2019,Chinese Grand Prix,Alexander Albon,10,1,0,55,RAS
+2019,Chinese Grand Prix,Romain Grosjean,11,0,10,55,RAS
+2019,Chinese Grand Prix,Lance Stroll,12,0,16,55,RAS
+2019,Chinese Grand Prix,Kevin Magnussen,13,0,9,55,RAS
+2019,Chinese Grand Prix,Carlos Sainz,14,0,14,55,RAS
+2019,Chinese Grand Prix,Antonio Giovinazzi,15,0,19,55,RAS
+2019,Chinese Grand Prix,George Russell,16,0,17,54,RAS
+2019,Chinese Grand Prix,Robert Kubica,17,0,18,54,RAS
+2019,Chinese Grand Prix,Lando Norris,18,0,15,50,Collision
+2019,Chinese Grand Prix,Daniil Kvyat,19,0,11,41,Collision
+2019,Chinese Grand Prix,Nico Hülkenberg,20,0,8,16,Power Unit
+2019,Azerbaijan Grand Prix,Valtteri Bottas,1,25,1,51,RAS
+2019,Azerbaijan Grand Prix,Lewis Hamilton,2,18,2,51,RAS
+2019,Azerbaijan Grand Prix,Sebastian Vettel,3,15,3,51,RAS
+2019,Azerbaijan Grand Prix,Max Verstappen,4,12,4,51,RAS
+2019,Azerbaijan Grand Prix,Charles Leclerc,5,11,8,51,RAS
+2019,Azerbaijan Grand Prix,Sergio Pérez,6,8,5,51,RAS
+2019,Azerbaijan Grand Prix,Carlos Sainz,7,6,9,51,RAS
+2019,Azerbaijan Grand Prix,Lando Norris,8,4,7,51,RAS
+2019,Azerbaijan Grand Prix,Lance Stroll,9,2,13,51,RAS
+2019,Azerbaijan Grand Prix,Kimi Räikkönen,10,1,0,50,RAS
+2019,Azerbaijan Grand Prix,Alexander Albon,11,0,11,50,RAS
+2019,Azerbaijan Grand Prix,Antonio Giovinazzi,12,0,17,50,RAS
+2019,Azerbaijan Grand Prix,Kevin Magnussen,13,0,12,50,RAS
+2019,Azerbaijan Grand Prix,Nico Hülkenberg,14,0,15,50,RAS
+2019,Azerbaijan Grand Prix,George Russell,15,0,16,49,RAS
+2019,Azerbaijan Grand Prix,Robert Kubica,16,0,0,49,RAS
+2019,Azerbaijan Grand Prix,Pierre Gasly,17,0,0,38,Transmission
+2019,Azerbaijan Grand Prix,Romain Grosjean,18,0,14,38,Brakes
+2019,Azerbaijan Grand Prix,Daniil Kvyat,19,0,6,33,Collision
+2019,Azerbaijan Grand Prix,Daniel Ricciardo,20,0,10,31,Collision
+2019,Spanish Grand Prix,Lewis Hamilton,1,26,2,66,RAS
+2019,Spanish Grand Prix,Valtteri Bottas,2,18,1,66,RAS
+2019,Spanish Grand Prix,Max Verstappen,3,15,4,66,RAS
+2019,Spanish Grand Prix,Sebastian Vettel,4,12,3,66,RAS
+2019,Spanish Grand Prix,Charles Leclerc,5,10,5,66,RAS
+2019,Spanish Grand Prix,Pierre Gasly,6,8,6,66,RAS
+2019,Spanish Grand Prix,Kevin Magnussen,7,6,8,66,RAS
+2019,Spanish Grand Prix,Carlos Sainz,8,4,12,66,RAS
+2019,Spanish Grand Prix,Daniil Kvyat,9,2,9,66,RAS
+2019,Spanish Grand Prix,Romain Grosjean,10,1,7,66,RAS
+2019,Spanish Grand Prix,Alexander Albon,11,0,11,66,RAS
+2019,Spanish Grand Prix,Daniel Ricciardo,12,0,13,66,RAS
+2019,Spanish Grand Prix,Nico Hülkenberg,13,0,0,66,RAS
+2019,Spanish Grand Prix,Kimi Räikkönen,14,0,14,66,RAS
+2019,Spanish Grand Prix,Sergio Pérez,15,0,15,66,RAS
+2019,Spanish Grand Prix,Antonio Giovinazzi,16,0,18,66,RAS
+2019,Spanish Grand Prix,George Russell,17,0,19,65,RAS
+2019,Spanish Grand Prix,Robert Kubica,18,0,17,65,RAS
+2019,Spanish Grand Prix,Lance Stroll,19,0,16,44,Collision
+2019,Spanish Grand Prix,Lando Norris,20,0,10,44,Collision
+2019,Monaco Grand Prix,Lewis Hamilton,1,25,1,78,RAS
+2019,Monaco Grand Prix,Sebastian Vettel,2,18,4,78,RAS
+2019,Monaco Grand Prix,Valtteri Bottas,3,15,2,78,RAS
+2019,Monaco Grand Prix,Max Verstappen,4,12,3,78,RAS
+2019,Monaco Grand Prix,Pierre Gasly,5,11,8,78,RAS
+2019,Monaco Grand Prix,Carlos Sainz,6,8,9,78,RAS
+2019,Monaco Grand Prix,Daniil Kvyat,7,6,7,78,RAS
+2019,Monaco Grand Prix,Alexander Albon,8,4,10,78,RAS
+2019,Monaco Grand Prix,Daniel Ricciardo,9,2,6,78,RAS
+2019,Monaco Grand Prix,Romain Grosjean,10,1,13,78,RAS
+2019,Monaco Grand Prix,Lando Norris,11,0,12,78,RAS
+2019,Monaco Grand Prix,Sergio Pérez,12,0,16,77,RAS
+2019,Monaco Grand Prix,Nico Hülkenberg,13,0,11,77,RAS
+2019,Monaco Grand Prix,Kevin Magnussen,14,0,5,77,RAS
+2019,Monaco Grand Prix,George Russell,15,0,19,77,RAS
+2019,Monaco Grand Prix,Lance Stroll,16,0,17,77,RAS
+2019,Monaco Grand Prix,Kimi Räikkönen,17,0,14,77,RAS
+2019,Monaco Grand Prix,Robert Kubica,18,0,20,77,RAS
+2019,Monaco Grand Prix,Antonio Giovinazzi,19,0,18,76,RAS
+2019,Monaco Grand Prix,Charles Leclerc,20,0,15,16,Collision
+2019,Canadian Grand Prix,Lewis Hamilton,1,25,2,70,RAS
+2019,Canadian Grand Prix,Sebastian Vettel,2,18,1,70,RAS
+2019,Canadian Grand Prix,Charles Leclerc,3,15,3,70,RAS
+2019,Canadian Grand Prix,Valtteri Bottas,4,13,6,70,RAS
+2019,Canadian Grand Prix,Max Verstappen,5,10,9,70,RAS
+2019,Canadian Grand Prix,Daniel Ricciardo,6,8,4,69,RAS
+2019,Canadian Grand Prix,Nico Hülkenberg,7,6,7,69,RAS
+2019,Canadian Grand Prix,Pierre Gasly,8,4,5,69,RAS
+2019,Canadian Grand Prix,Lance Stroll,9,2,17,69,RAS
+2019,Canadian Grand Prix,Daniil Kvyat,10,1,10,69,RAS
+2019,Canadian Grand Prix,Carlos Sainz,11,0,11,69,RAS
+2019,Canadian Grand Prix,Sergio Pérez,12,0,15,69,RAS
+2019,Canadian Grand Prix,Antonio Giovinazzi,13,0,12,69,RAS
+2019,Canadian Grand Prix,Romain Grosjean,14,0,14,69,RAS
+2019,Canadian Grand Prix,Kimi Räikkönen,15,0,16,69,RAS
+2019,Canadian Grand Prix,George Russell,16,0,18,68,RAS
+2019,Canadian Grand Prix,Kevin Magnussen,17,0,0,68,RAS
+2019,Canadian Grand Prix,Robert Kubica,18,0,19,67,RAS
+2019,Canadian Grand Prix,Alexander Albon,19,0,13,59,Collision damage
+2019,Canadian Grand Prix,Lando Norris,20,0,8,8,Suspension
+2019,French Grand Prix,Lewis Hamilton,1,25,1,53,RAS
+2019,French Grand Prix,Valtteri Bottas,2,18,2,53,RAS
+2019,French Grand Prix,Charles Leclerc,3,15,3,53,RAS
+2019,French Grand Prix,Max Verstappen,4,12,4,53,RAS
+2019,French Grand Prix,Sebastian Vettel,5,11,7,53,RAS
+2019,French Grand Prix,Carlos Sainz,6,8,6,53,RAS
+2019,French Grand Prix,Kimi Räikkönen,7,6,12,52,RAS
+2019,French Grand Prix,Nico Hülkenberg,8,4,13,52,RAS
+2019,French Grand Prix,Lando Norris,9,2,5,52,RAS
+2019,French Grand Prix,Pierre Gasly,10,1,9,52,RAS
+2019,French Grand Prix,Daniel Ricciardo,11,0,8,52,RAS
+2019,French Grand Prix,Sergio Pérez,12,0,14,52,RAS
+2019,French Grand Prix,Lance Stroll,13,0,17,52,RAS
+2019,French Grand Prix,Daniil Kvyat,14,0,19,52,RAS
+2019,French Grand Prix,Alexander Albon,15,0,11,52,RAS
+2019,French Grand Prix,Antonio Giovinazzi,16,0,10,52,RAS
+2019,French Grand Prix,Kevin Magnussen,17,0,15,52,RAS
+2019,French Grand Prix,Robert Kubica,18,0,18,51,RAS
+2019,French Grand Prix,George Russell,19,0,20,51,RAS
+2019,French Grand Prix,Romain Grosjean,20,0,16,44,DNF
+2019,Austrian Grand Prix,Max Verstappen,1,26,2,71,RAS
+2019,Austrian Grand Prix,Charles Leclerc,2,18,1,71,RAS
+2019,Austrian Grand Prix,Valtteri Bottas,3,15,3,71,RAS
+2019,Austrian Grand Prix,Sebastian Vettel,4,12,9,71,RAS
+2019,Austrian Grand Prix,Lewis Hamilton,5,10,4,71,RAS
+2019,Austrian Grand Prix,Lando Norris,6,8,5,70,RAS
+2019,Austrian Grand Prix,Pierre Gasly,7,6,8,70,RAS
+2019,Austrian Grand Prix,Carlos Sainz,8,4,19,70,RAS
+2019,Austrian Grand Prix,Kimi Räikkönen,9,2,6,70,RAS
+2019,Austrian Grand Prix,Antonio Giovinazzi,10,1,7,70,RAS
+2019,Austrian Grand Prix,Sergio Pérez,11,0,13,70,RAS
+2019,Austrian Grand Prix,Daniel Ricciardo,12,0,12,70,RAS
+2019,Austrian Grand Prix,Nico Hülkenberg,13,0,15,70,RAS
+2019,Austrian Grand Prix,Lance Stroll,14,0,14,70,RAS
+2019,Austrian Grand Prix,Alexander Albon,15,0,18,70,RAS
+2019,Austrian Grand Prix,Romain Grosjean,16,0,11,70,RAS
+2019,Austrian Grand Prix,Daniil Kvyat,17,0,16,70,RAS
+2019,Austrian Grand Prix,George Russell,18,0,0,69,RAS
+2019,Austrian Grand Prix,Kevin Magnussen,19,0,10,69,RAS
+2019,Austrian Grand Prix,Robert Kubica,20,0,17,68,RAS
+2019,British Grand Prix,Lewis Hamilton,1,26,2,52,RAS
+2019,British Grand Prix,Valtteri Bottas,2,18,1,52,RAS
+2019,British Grand Prix,Charles Leclerc,3,15,3,52,RAS
+2019,British Grand Prix,Pierre Gasly,4,12,5,52,RAS
+2019,British Grand Prix,Max Verstappen,5,10,4,52,RAS
+2019,British Grand Prix,Carlos Sainz,6,8,13,52,RAS
+2019,British Grand Prix,Daniel Ricciardo,7,6,7,52,RAS
+2019,British Grand Prix,Kimi Räikkönen,8,4,12,52,RAS
+2019,British Grand Prix,Daniil Kvyat,9,2,17,52,RAS
+2019,British Grand Prix,Nico Hülkenberg,10,1,10,52,RAS
+2019,British Grand Prix,Lando Norris,11,0,8,52,RAS
+2019,British Grand Prix,Alexander Albon,12,0,9,52,RAS
+2019,British Grand Prix,Lance Stroll,13,0,18,52,RAS
+2019,British Grand Prix,George Russell,14,0,19,51,RAS
+2019,British Grand Prix,Robert Kubica,15,0,20,51,RAS
+2019,British Grand Prix,Sebastian Vettel,16,0,6,51,RAS
+2019,British Grand Prix,Sergio Pérez,17,0,15,51,RAS
+2019,British Grand Prix,Antonio Giovinazzi,18,0,11,18,Spun off
+2019,British Grand Prix,Romain Grosjean,19,0,14,9,Collision
+2019,British Grand Prix,Kevin Magnussen,20,0,16,6,Collision
+2019,German Grand Prix,Max Verstappen,1,26,2,64,RAS
+2019,German Grand Prix,Sebastian Vettel,2,18,20,64,RAS
+2019,German Grand Prix,Daniil Kvyat,3,15,14,64,RAS
+2019,German Grand Prix,Lance Stroll,4,12,15,64,RAS
+2019,German Grand Prix,Carlos Sainz,5,10,7,64,RAS
+2019,German Grand Prix,Alexander Albon,6,8,16,64,RAS
+2019,German Grand Prix,Romain Grosjean,7,6,6,64,RAS
+2019,German Grand Prix,Kevin Magnussen,8,4,12,64,RAS
+2019,German Grand Prix,Lewis Hamilton,9,2,1,64,RAS
+2019,German Grand Prix,Robert Kubica,10,1,18,64,RAS
+2019,German Grand Prix,George Russell,11,0,17,64,RAS
+2019,German Grand Prix,Kimi Räikkönen,12,0,5,64,RAS
+2019,German Grand Prix,Antonio Giovinazzi,13,0,11,64,RAS
+2019,German Grand Prix,Pierre Gasly,14,0,4,61,Collision
+2019,German Grand Prix,Valtteri Bottas,15,0,3,56,Accident
+2019,German Grand Prix,Nico Hülkenberg,16,0,9,39,Accident
+2019,German Grand Prix,Charles Leclerc,17,0,10,27,Accident
+2019,German Grand Prix,Lando Norris,18,0,19,25,Power loss
+2019,German Grand Prix,Daniel Ricciardo,19,0,13,13,Exhaust
+2019,German Grand Prix,Sergio Pérez,20,0,8,1,Spun off
+2019,Hungarian Grand Prix,Lewis Hamilton,1,25,3,70,RAS
+2019,Hungarian Grand Prix,Max Verstappen,2,19,1,70,RAS
+2019,Hungarian Grand Prix,Sebastian Vettel,3,15,5,70,RAS
+2019,Hungarian Grand Prix,Charles Leclerc,4,12,4,70,RAS
+2019,Hungarian Grand Prix,Carlos Sainz,5,10,8,69,RAS
+2019,Hungarian Grand Prix,Pierre Gasly,6,8,6,69,RAS
+2019,Hungarian Grand Prix,Kimi Räikkönen,7,6,10,69,RAS
+2019,Hungarian Grand Prix,Valtteri Bottas,8,4,2,69,RAS
+2019,Hungarian Grand Prix,Lando Norris,9,2,7,69,RAS
+2019,Hungarian Grand Prix,Alexander Albon,10,1,12,69,RAS
+2019,Hungarian Grand Prix,Sergio Pérez,11,0,16,69,RAS
+2019,Hungarian Grand Prix,Nico Hülkenberg,12,0,11,69,RAS
+2019,Hungarian Grand Prix,Kevin Magnussen,13,0,14,69,RAS
+2019,Hungarian Grand Prix,Daniel Ricciardo,14,0,20,69,RAS
+2019,Hungarian Grand Prix,Daniil Kvyat,15,0,13,68,RAS
+2019,Hungarian Grand Prix,George Russell,16,0,15,68,RAS
+2019,Hungarian Grand Prix,Lance Stroll,17,0,18,68,RAS
+2019,Hungarian Grand Prix,Antonio Giovinazzi,18,0,17,68,RAS
+2019,Hungarian Grand Prix,Robert Kubica,19,0,19,67,RAS
+2019,Hungarian Grand Prix,Romain Grosjean,20,0,9,49,Water pressure
+2019,Belgian Grand Prix,Charles Leclerc,1,25,1,44,RAS
+2019,Belgian Grand Prix,Lewis Hamilton,2,18,3,44,RAS
+2019,Belgian Grand Prix,Valtteri Bottas,3,15,4,44,RAS
+2019,Belgian Grand Prix,Sebastian Vettel,4,13,2,44,RAS
+2019,Belgian Grand Prix,Alexander Albon,5,10,17,44,RAS
+2019,Belgian Grand Prix,Sergio Pérez,6,8,7,44,RAS
+2019,Belgian Grand Prix,Daniil Kvyat,7,6,19,44,RAS
+2019,Belgian Grand Prix,Nico Hülkenberg,8,4,12,44,RAS
+2019,Belgian Grand Prix,Pierre Gasly,9,2,13,44,RAS
+2019,Belgian Grand Prix,Lance Stroll,10,1,16,44,RAS
+2019,Belgian Grand Prix,Lando Norris,11,0,11,43,Engine
+2019,Belgian Grand Prix,Kevin Magnussen,12,0,8,43,RAS
+2019,Belgian Grand Prix,Romain Grosjean,13,0,9,43,RAS
+2019,Belgian Grand Prix,Daniel Ricciardo,14,0,10,43,RAS
+2019,Belgian Grand Prix,George Russell,15,0,14,43,RAS
+2019,Belgian Grand Prix,Kimi Räikkönen,16,0,6,43,RAS
+2019,Belgian Grand Prix,Robert Kubica,17,0,0,43,RAS
+2019,Belgian Grand Prix,Antonio Giovinazzi,18,0,18,42,Accident
+2019,Belgian Grand Prix,Carlos Sainz,19,0,15,1,Power loss
+2019,Belgian Grand Prix,Max Verstappen,20,0,5,0,Accident
+2019,Italian Grand Prix,Charles Leclerc,1,25,1,53,RAS
+2019,Italian Grand Prix,Valtteri Bottas,2,18,3,53,RAS
+2019,Italian Grand Prix,Lewis Hamilton,3,16,2,53,RAS
+2019,Italian Grand Prix,Daniel Ricciardo,4,12,5,53,RAS
+2019,Italian Grand Prix,Nico Hülkenberg,5,10,6,53,RAS
+2019,Italian Grand Prix,Alexander Albon,6,8,8,53,RAS
+2019,Italian Grand Prix,Sergio Pérez,7,6,18,53,RAS
+2019,Italian Grand Prix,Max Verstappen,8,4,19,53,RAS
+2019,Italian Grand Prix,Antonio Giovinazzi,9,2,10,52,RAS
+2019,Italian Grand Prix,Lando Norris,10,1,16,52,RAS
+2019,Italian Grand Prix,Pierre Gasly,11,0,17,52,RAS
+2019,Italian Grand Prix,Lance Stroll,12,0,9,52,RAS
+2019,Italian Grand Prix,Sebastian Vettel,13,0,4,52,RAS
+2019,Italian Grand Prix,George Russell,14,0,14,52,RAS
+2019,Italian Grand Prix,Kimi Räikkönen,15,0,0,52,RAS
+2019,Italian Grand Prix,Romain Grosjean,16,0,13,52,RAS
+2019,Italian Grand Prix,Robert Kubica,17,0,15,51,RAS
+2019,Italian Grand Prix,Kevin Magnussen,18,0,11,43,Hydraulics
+2019,Italian Grand Prix,Daniil Kvyat,19,0,12,29,Engine
+2019,Italian Grand Prix,Carlos Sainz,20,0,7,27,Wheel
+2019,Singapore Grand Prix,Sebastian Vettel,1,25,3,61,RAS
+2019,Singapore Grand Prix,Charles Leclerc,2,18,1,61,RAS
+2019,Singapore Grand Prix,Max Verstappen,3,15,4,61,RAS
+2019,Singapore Grand Prix,Lewis Hamilton,4,12,2,61,RAS
+2019,Singapore Grand Prix,Valtteri Bottas,5,10,5,61,RAS
+2019,Singapore Grand Prix,Alexander Albon,6,8,6,61,RAS
+2019,Singapore Grand Prix,Lando Norris,7,6,9,61,RAS
+2019,Singapore Grand Prix,Pierre Gasly,8,4,11,61,RAS
+2019,Singapore Grand Prix,Nico Hülkenberg,9,2,8,61,RAS
+2019,Singapore Grand Prix,Antonio Giovinazzi,10,1,10,61,RAS
+2019,Singapore Grand Prix,Romain Grosjean,11,0,17,61,RAS
+2019,Singapore Grand Prix,Carlos Sainz,12,0,7,61,RAS
+2019,Singapore Grand Prix,Lance Stroll,13,0,16,61,RAS
+2019,Singapore Grand Prix,Daniel Ricciardo,14,0,20,61,RAS
+2019,Singapore Grand Prix,Daniil Kvyat,15,0,14,61,RAS
+2019,Singapore Grand Prix,Robert Kubica,16,0,19,61,RAS
+2019,Singapore Grand Prix,Kevin Magnussen,17,0,13,61,RAS
+2019,Singapore Grand Prix,Kimi Räikkönen,18,0,12,49,Collision
+2019,Singapore Grand Prix,Sergio Pérez,19,0,15,42,Engine
+2019,Singapore Grand Prix,George Russell,20,0,18,34,Collision
+2019,Russian Grand Prix,Lewis Hamilton,1,26,2,53,RAS
+2019,Russian Grand Prix,Valtteri Bottas,2,18,4,53,RAS
+2019,Russian Grand Prix,Charles Leclerc,3,15,1,53,RAS
+2019,Russian Grand Prix,Max Verstappen,4,12,9,53,RAS
+2019,Russian Grand Prix,Alexander Albon,5,10,0,53,RAS
+2019,Russian Grand Prix,Carlos Sainz,6,8,5,53,RAS
+2019,Russian Grand Prix,Sergio Pérez,7,6,11,53,RAS
+2019,Russian Grand Prix,Lando Norris,8,4,7,53,RAS
+2019,Russian Grand Prix,Kevin Magnussen,9,2,13,53,RAS
+2019,Russian Grand Prix,Nico Hülkenberg,10,1,6,53,RAS
+2019,Russian Grand Prix,Lance Stroll,11,0,14,53,RAS
+2019,Russian Grand Prix,Daniil Kvyat,12,0,19,53,RAS
+2019,Russian Grand Prix,Kimi Räikkönen,13,0,15,53,RAS
+2019,Russian Grand Prix,Pierre Gasly,14,0,16,53,RAS
+2019,Russian Grand Prix,Antonio Giovinazzi,15,0,12,53,RAS
+2019,Russian Grand Prix,Robert Kubica,16,0,18,28,Brakes
+2019,Russian Grand Prix,George Russell,17,0,17,27,Brakes
+2019,Russian Grand Prix,Sebastian Vettel,18,0,3,26,Power loss
+2019,Russian Grand Prix,Daniel Ricciardo,19,0,10,24,Collision
+2019,Russian Grand Prix,Romain Grosjean,20,0,8,0,Collision
+2019,Japanese Grand Prix,Valtteri Bottas,1,25,3,52,RAS
+2019,Japanese Grand Prix,Sebastian Vettel,2,18,1,52,RAS
+2019,Japanese Grand Prix,Lewis Hamilton,3,16,4,52,RAS
+2019,Japanese Grand Prix,Alexander Albon,4,12,6,52,RAS
+2019,Japanese Grand Prix,Carlos Sainz,5,10,7,52,RAS
+2019,Japanese Grand Prix,Charles Leclerc,6,8,2,51,RAS
+2019,Japanese Grand Prix,Pierre Gasly,7,6,9,51,RAS
+2019,Japanese Grand Prix,Sergio Pérez,8,4,17,51,RAS
+2019,Japanese Grand Prix,Lance Stroll,9,2,12,51,RAS
+2019,Japanese Grand Prix,Daniil Kvyat,10,1,14,51,RAS
+2019,Japanese Grand Prix,Lando Norris,11,0,8,51,RAS
+2019,Japanese Grand Prix,Kimi Räikkönen,12,0,13,51,RAS
+2019,Japanese Grand Prix,Romain Grosjean,13,0,10,51,RAS
+2019,Japanese Grand Prix,Antonio Giovinazzi,14,0,11,51,RAS
+2019,Japanese Grand Prix,Kevin Magnussen,15,0,19,51,RAS
+2019,Japanese Grand Prix,George Russell,16,0,18,50,RAS
+2019,Japanese Grand Prix,Robert Kubica,17,0,0,50,RAS
+2019,Japanese Grand Prix,Max Verstappen,18,0,5,14,Brakes
+2019,Japanese Grand Prix,Daniel Ricciardo,19,0,16,51,DQ
+2019,Japanese Grand Prix,Nico Hülkenberg,20,0,15,51,DQ
+2019,Mexican Grand Prix,Lewis Hamilton,1,25,3,71,RAS
+2019,Mexican Grand Prix,Sebastian Vettel,2,18,2,71,RAS
+2019,Mexican Grand Prix,Valtteri Bottas,3,15,6,71,RAS
+2019,Mexican Grand Prix,Charles Leclerc,4,13,1,71,RAS
+2019,Mexican Grand Prix,Alexander Albon,5,10,5,71,RAS
+2019,Mexican Grand Prix,Max Verstappen,6,8,4,71,RAS
+2019,Mexican Grand Prix,Sergio Pérez,7,6,11,71,RAS
+2019,Mexican Grand Prix,Daniel Ricciardo,8,4,13,71,RAS
+2019,Mexican Grand Prix,Pierre Gasly,9,2,10,70,RAS
+2019,Mexican Grand Prix,Nico Hülkenberg,10,1,12,70,RAS
+2019,Mexican Grand Prix,Daniil Kvyat,11,0,9,70,RAS
+2019,Mexican Grand Prix,Lance Stroll,12,0,16,70,RAS
+2019,Mexican Grand Prix,Carlos Sainz,13,0,7,70,RAS
+2019,Mexican Grand Prix,Antonio Giovinazzi,14,0,15,70,RAS
+2019,Mexican Grand Prix,Kevin Magnussen,15,0,17,69,RAS
+2019,Mexican Grand Prix,George Russell,16,0,19,69,RAS
+2019,Mexican Grand Prix,Romain Grosjean,17,0,18,69,RAS
+2019,Mexican Grand Prix,Robert Kubica,18,0,20,69,RAS
+2019,Mexican Grand Prix,Kimi Räikkönen,19,0,14,58,Overheating
+2019,Mexican Grand Prix,Lando Norris,20,0,8,48,Withdrew
+2019,United States Grand Prix,Valtteri Bottas,1,25,1,56,RAS
+2019,United States Grand Prix,Lewis Hamilton,2,18,5,56,RAS
+2019,United States Grand Prix,Max Verstappen,3,15,3,56,RAS
+2019,United States Grand Prix,Charles Leclerc,4,13,4,56,RAS
+2019,United States Grand Prix,Alexander Albon,5,10,6,56,RAS
+2019,United States Grand Prix,Daniel Ricciardo,6,8,9,56,RAS
+2019,United States Grand Prix,Lando Norris,7,6,8,56,RAS
+2019,United States Grand Prix,Carlos Sainz,8,4,7,55,RAS
+2019,United States Grand Prix,Nico Hülkenberg,9,2,11,55,RAS
+2019,United States Grand Prix,Sergio Pérez,10,1,0,55,RAS
+2019,United States Grand Prix,Kimi Räikkönen,11,0,17,55,RAS
+2019,United States Grand Prix,Daniil Kvyat,12,0,13,55,RAS
+2019,United States Grand Prix,Lance Stroll,13,0,14,55,RAS
+2019,United States Grand Prix,Antonio Giovinazzi,14,0,16,55,RAS
+2019,United States Grand Prix,Romain Grosjean,15,0,15,55,RAS
+2019,United States Grand Prix,Pierre Gasly,16,0,10,54,Suspension
+2019,United States Grand Prix,George Russell,17,0,18,54,RAS
+2019,United States Grand Prix,Kevin Magnussen,18,0,12,52,Brakes
+2019,United States Grand Prix,Robert Kubica,19,0,19,31,Oil leak
+2019,United States Grand Prix,Sebastian Vettel,20,0,2,7,Suspension
+2019,Brazilian Grand Prix,Max Verstappen,1,25,1,71,RAS
+2019,Brazilian Grand Prix,Pierre Gasly,2,18,6,71,RAS
+2019,Brazilian Grand Prix,Carlos Sainz,3,15,20,71,RAS
+2019,Brazilian Grand Prix,Kimi Räikkönen,4,12,8,71,RAS
+2019,Brazilian Grand Prix,Antonio Giovinazzi,5,10,12,71,RAS
+2019,Brazilian Grand Prix,Daniel Ricciardo,6,8,11,71,RAS
+2019,Brazilian Grand Prix,Lewis Hamilton,7,6,3,71,RAS
+2019,Brazilian Grand Prix,Lando Norris,8,4,10,71,RAS
+2019,Brazilian Grand Prix,Sergio Pérez,9,2,15,71,RAS
+2019,Brazilian Grand Prix,Daniil Kvyat,10,1,16,71,RAS
+2019,Brazilian Grand Prix,Kevin Magnussen,11,0,9,71,RAS
+2019,Brazilian Grand Prix,George Russell,12,0,18,71,RAS
+2019,Brazilian Grand Prix,Romain Grosjean,13,0,7,71,RAS
+2019,Brazilian Grand Prix,Alexander Albon,14,0,5,71,RAS
+2019,Brazilian Grand Prix,Nico Hülkenberg,15,0,13,71,RAS
+2019,Brazilian Grand Prix,Robert Kubica,16,0,19,70,RAS
+2019,Brazilian Grand Prix,Sebastian Vettel,17,0,2,65,Collision
+2019,Brazilian Grand Prix,Charles Leclerc,18,0,14,65,Collision
+2019,Brazilian Grand Prix,Lance Stroll,19,0,17,65,Suspension
+2019,Brazilian Grand Prix,Valtteri Bottas,20,0,4,51,Power Unit
+2019,Abu Dhabi Grand Prix,Lewis Hamilton,1,26,1,55,RAS
+2019,Abu Dhabi Grand Prix,Max Verstappen,2,18,2,55,RAS
+2019,Abu Dhabi Grand Prix,Charles Leclerc,3,15,3,55,RAS
+2019,Abu Dhabi Grand Prix,Valtteri Bottas,4,12,20,55,RAS
+2019,Abu Dhabi Grand Prix,Sebastian Vettel,5,10,4,55,RAS
+2019,Abu Dhabi Grand Prix,Alexander Albon,6,8,5,55,RAS
+2019,Abu Dhabi Grand Prix,Sergio Pérez,7,6,10,54,RAS
+2019,Abu Dhabi Grand Prix,Lando Norris,8,4,6,54,RAS
+2019,Abu Dhabi Grand Prix,Daniil Kvyat,9,2,13,54,RAS
+2019,Abu Dhabi Grand Prix,Carlos Sainz,10,1,8,54,RAS
+2019,Abu Dhabi Grand Prix,Daniel Ricciardo,11,0,7,54,RAS
+2019,Abu Dhabi Grand Prix,Nico Hülkenberg,12,0,9,54,RAS
+2019,Abu Dhabi Grand Prix,Kimi Räikkönen,13,0,17,54,RAS
+2019,Abu Dhabi Grand Prix,Kevin Magnussen,14,0,14,54,RAS
+2019,Abu Dhabi Grand Prix,Romain Grosjean,15,0,15,54,RAS
+2019,Abu Dhabi Grand Prix,Antonio Giovinazzi,16,0,16,54,RAS
+2019,Abu Dhabi Grand Prix,George Russell,17,0,18,54,RAS
+2019,Abu Dhabi Grand Prix,Pierre Gasly,18,0,11,53,RAS
+2019,Abu Dhabi Grand Prix,Robert Kubica,19,0,19,53,RAS
+2019,Abu Dhabi Grand Prix,Lance Stroll,20,0,12,45,Brakes

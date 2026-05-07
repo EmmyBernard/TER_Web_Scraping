@@ -1,0 +1,441 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2021,Bahrain Grand Prix,Lewis Hamilton,1,25,2,56,RAS
+2021,Bahrain Grand Prix,Max Verstappen,2,18,1,56,RAS
+2021,Bahrain Grand Prix,Valtteri Bottas,3,16,3,56,RAS
+2021,Bahrain Grand Prix,Lando Norris,4,12,7,56,RAS
+2021,Bahrain Grand Prix,Sergio Pérez,5,10,0,56,RAS
+2021,Bahrain Grand Prix,Charles Leclerc,6,8,4,56,RAS
+2021,Bahrain Grand Prix,Daniel Ricciardo,7,6,6,56,RAS
+2021,Bahrain Grand Prix,Carlos Sainz,8,4,8,56,RAS
+2021,Bahrain Grand Prix,Yuki Tsunoda,9,2,13,56,RAS
+2021,Bahrain Grand Prix,Lance Stroll,10,1,10,56,RAS
+2021,Bahrain Grand Prix,Kimi Räikkönen,11,0,14,56,RAS
+2021,Bahrain Grand Prix,Antonio Giovinazzi,12,0,12,55,RAS
+2021,Bahrain Grand Prix,Esteban Ocon,13,0,16,55,RAS
+2021,Bahrain Grand Prix,George Russell,14,0,15,55,RAS
+2021,Bahrain Grand Prix,Sebastian Vettel,15,0,20,55,RAS
+2021,Bahrain Grand Prix,Mick Schumacher,16,0,18,55,RAS
+2021,Bahrain Grand Prix,Pierre Gasly,17,0,5,52,DNF
+2021,Bahrain Grand Prix,Nicholas Latifi,18,0,17,51,DNF
+2021,Bahrain Grand Prix,Fernando Alonso,19,0,9,32,Brakes
+2021,Bahrain Grand Prix,Nikita Mazepin,20,0,19,0,Accident
+2021,Emilia Romagna Grand Prix,Max Verstappen,1,25,3,63,RAS
+2021,Emilia Romagna Grand Prix,Lewis Hamilton,2,19,1,63,RAS
+2021,Emilia Romagna Grand Prix,Lando Norris,3,15,7,63,RAS
+2021,Emilia Romagna Grand Prix,Charles Leclerc,4,12,4,63,RAS
+2021,Emilia Romagna Grand Prix,Carlos Sainz,5,10,11,63,RAS
+2021,Emilia Romagna Grand Prix,Daniel Ricciardo,6,8,6,63,RAS
+2021,Emilia Romagna Grand Prix,Pierre Gasly,7,6,5,63,RAS
+2021,Emilia Romagna Grand Prix,Lance Stroll,8,4,10,63,RAS
+2021,Emilia Romagna Grand Prix,Esteban Ocon,9,2,9,63,RAS
+2021,Emilia Romagna Grand Prix,Fernando Alonso,10,1,15,63,RAS
+2021,Emilia Romagna Grand Prix,Sergio Pérez,11,0,2,63,RAS
+2021,Emilia Romagna Grand Prix,Yuki Tsunoda,12,0,20,63,RAS
+2021,Emilia Romagna Grand Prix,Kimi Räikkönen,13,0,16,63,RAS
+2021,Emilia Romagna Grand Prix,Antonio Giovinazzi,14,0,17,62,RAS
+2021,Emilia Romagna Grand Prix,Sebastian Vettel,15,0,0,61,Gearbox
+2021,Emilia Romagna Grand Prix,Mick Schumacher,16,0,18,61,RAS
+2021,Emilia Romagna Grand Prix,Nikita Mazepin,17,0,19,61,RAS
+2021,Emilia Romagna Grand Prix,Valtteri Bottas,18,0,8,30,Collision
+2021,Emilia Romagna Grand Prix,George Russell,19,0,12,30,Collision
+2021,Emilia Romagna Grand Prix,Nicholas Latifi,20,0,14,0,Collision
+2021,Portuguese Grand Prix,Lewis Hamilton,1,25,2,66,RAS
+2021,Portuguese Grand Prix,Max Verstappen,2,18,3,66,RAS
+2021,Portuguese Grand Prix,Valtteri Bottas,3,16,1,66,RAS
+2021,Portuguese Grand Prix,Sergio Pérez,4,12,4,66,RAS
+2021,Portuguese Grand Prix,Lando Norris,5,10,7,66,RAS
+2021,Portuguese Grand Prix,Charles Leclerc,6,8,8,66,RAS
+2021,Portuguese Grand Prix,Esteban Ocon,7,6,6,66,RAS
+2021,Portuguese Grand Prix,Fernando Alonso,8,4,13,66,RAS
+2021,Portuguese Grand Prix,Daniel Ricciardo,9,2,16,66,RAS
+2021,Portuguese Grand Prix,Pierre Gasly,10,1,9,66,RAS
+2021,Portuguese Grand Prix,Carlos Sainz,11,0,5,66,RAS
+2021,Portuguese Grand Prix,Antonio Giovinazzi,12,0,12,65,RAS
+2021,Portuguese Grand Prix,Sebastian Vettel,13,0,10,65,RAS
+2021,Portuguese Grand Prix,Lance Stroll,14,0,17,65,RAS
+2021,Portuguese Grand Prix,Yuki Tsunoda,15,0,14,65,RAS
+2021,Portuguese Grand Prix,George Russell,16,0,11,65,RAS
+2021,Portuguese Grand Prix,Mick Schumacher,17,0,19,64,RAS
+2021,Portuguese Grand Prix,Nicholas Latifi,18,0,18,64,RAS
+2021,Portuguese Grand Prix,Nikita Mazepin,19,0,20,64,RAS
+2021,Portuguese Grand Prix,Kimi Räikkönen,20,0,15,1,Collision damage
+2021,Spanish Grand Prix,Lewis Hamilton,1,25,1,66,RAS
+2021,Spanish Grand Prix,Max Verstappen,2,19,2,66,RAS
+2021,Spanish Grand Prix,Valtteri Bottas,3,15,3,66,RAS
+2021,Spanish Grand Prix,Charles Leclerc,4,12,4,66,RAS
+2021,Spanish Grand Prix,Sergio Pérez,5,10,8,66,RAS
+2021,Spanish Grand Prix,Daniel Ricciardo,6,8,7,66,RAS
+2021,Spanish Grand Prix,Carlos Sainz,7,6,6,66,RAS
+2021,Spanish Grand Prix,Lando Norris,8,4,9,65,RAS
+2021,Spanish Grand Prix,Esteban Ocon,9,2,5,65,RAS
+2021,Spanish Grand Prix,Pierre Gasly,10,1,12,65,RAS
+2021,Spanish Grand Prix,Lance Stroll,11,0,11,65,RAS
+2021,Spanish Grand Prix,Kimi Räikkönen,12,0,17,65,RAS
+2021,Spanish Grand Prix,Sebastian Vettel,13,0,13,65,RAS
+2021,Spanish Grand Prix,George Russell,14,0,15,65,RAS
+2021,Spanish Grand Prix,Antonio Giovinazzi,15,0,14,65,RAS
+2021,Spanish Grand Prix,Nicholas Latifi,16,0,19,65,RAS
+2021,Spanish Grand Prix,Fernando Alonso,17,0,10,65,RAS
+2021,Spanish Grand Prix,Mick Schumacher,18,0,18,64,RAS
+2021,Spanish Grand Prix,Nikita Mazepin,19,0,20,64,RAS
+2021,Spanish Grand Prix,Yuki Tsunoda,20,0,16,6,Electrical
+2021,Monaco Grand Prix,Max Verstappen,1,25,2,78,RAS
+2021,Monaco Grand Prix,Carlos Sainz,2,18,4,78,RAS
+2021,Monaco Grand Prix,Lando Norris,3,15,5,78,RAS
+2021,Monaco Grand Prix,Sergio Pérez,4,12,9,78,RAS
+2021,Monaco Grand Prix,Sebastian Vettel,5,10,8,78,RAS
+2021,Monaco Grand Prix,Pierre Gasly,6,8,6,78,RAS
+2021,Monaco Grand Prix,Lewis Hamilton,7,7,7,78,RAS
+2021,Monaco Grand Prix,Lance Stroll,8,4,13,77,RAS
+2021,Monaco Grand Prix,Esteban Ocon,9,2,11,77,RAS
+2021,Monaco Grand Prix,Antonio Giovinazzi,10,1,10,77,RAS
+2021,Monaco Grand Prix,Kimi Räikkönen,11,0,14,77,RAS
+2021,Monaco Grand Prix,Daniel Ricciardo,12,0,12,77,RAS
+2021,Monaco Grand Prix,Fernando Alonso,13,0,17,77,RAS
+2021,Monaco Grand Prix,George Russell,14,0,15,77,RAS
+2021,Monaco Grand Prix,Nicholas Latifi,15,0,18,77,RAS
+2021,Monaco Grand Prix,Yuki Tsunoda,16,0,16,77,RAS
+2021,Monaco Grand Prix,Nikita Mazepin,17,0,19,75,RAS
+2021,Monaco Grand Prix,Mick Schumacher,18,0,20,75,RAS
+2021,Monaco Grand Prix,Valtteri Bottas,19,0,3,29,Wheel nut
+2021,Monaco Grand Prix,Charles Leclerc,20,0,1,0,Driveshaft
+2021,Azerbaijan Grand Prix,Sergio Pérez,1,25,6,51,RAS
+2021,Azerbaijan Grand Prix,Sebastian Vettel,2,18,11,51,RAS
+2021,Azerbaijan Grand Prix,Pierre Gasly,3,15,4,51,RAS
+2021,Azerbaijan Grand Prix,Charles Leclerc,4,12,1,51,RAS
+2021,Azerbaijan Grand Prix,Lando Norris,5,10,9,51,RAS
+2021,Azerbaijan Grand Prix,Fernando Alonso,6,8,8,51,RAS
+2021,Azerbaijan Grand Prix,Yuki Tsunoda,7,6,7,51,RAS
+2021,Azerbaijan Grand Prix,Carlos Sainz,8,4,5,51,RAS
+2021,Azerbaijan Grand Prix,Daniel Ricciardo,9,2,13,51,RAS
+2021,Azerbaijan Grand Prix,Kimi Räikkönen,10,1,14,51,RAS
+2021,Azerbaijan Grand Prix,Antonio Giovinazzi,11,0,20,51,RAS
+2021,Azerbaijan Grand Prix,Valtteri Bottas,12,0,10,51,RAS
+2021,Azerbaijan Grand Prix,Mick Schumacher,13,0,17,51,RAS
+2021,Azerbaijan Grand Prix,Nikita Mazepin,14,0,18,51,RAS
+2021,Azerbaijan Grand Prix,Lewis Hamilton,15,0,2,51,RAS
+2021,Azerbaijan Grand Prix,Nicholas Latifi,16,0,16,51,RAS
+2021,Azerbaijan Grand Prix,George Russell,17,0,15,48,Gearbox
+2021,Azerbaijan Grand Prix,Max Verstappen,18,0,3,45,Accident
+2021,Azerbaijan Grand Prix,Lance Stroll,19,0,19,29,Accident
+2021,Azerbaijan Grand Prix,Esteban Ocon,20,0,12,3,Turbo
+2021,French Grand Prix,Max Verstappen,1,26,1,53,RAS
+2021,French Grand Prix,Lewis Hamilton,2,18,2,53,RAS
+2021,French Grand Prix,Sergio Pérez,3,15,4,53,RAS
+2021,French Grand Prix,Valtteri Bottas,4,12,3,53,RAS
+2021,French Grand Prix,Lando Norris,5,10,8,53,RAS
+2021,French Grand Prix,Daniel Ricciardo,6,8,10,53,RAS
+2021,French Grand Prix,Pierre Gasly,7,6,6,53,RAS
+2021,French Grand Prix,Fernando Alonso,8,4,9,53,RAS
+2021,French Grand Prix,Sebastian Vettel,9,2,12,53,RAS
+2021,French Grand Prix,Lance Stroll,10,1,19,53,RAS
+2021,French Grand Prix,Carlos Sainz,11,0,5,53,RAS
+2021,French Grand Prix,George Russell,12,0,14,52,RAS
+2021,French Grand Prix,Yuki Tsunoda,13,0,0,52,RAS
+2021,French Grand Prix,Esteban Ocon,14,0,11,52,RAS
+2021,French Grand Prix,Antonio Giovinazzi,15,0,13,52,RAS
+2021,French Grand Prix,Charles Leclerc,16,0,7,52,RAS
+2021,French Grand Prix,Kimi Räikkönen,17,0,17,52,RAS
+2021,French Grand Prix,Nicholas Latifi,18,0,16,52,RAS
+2021,French Grand Prix,Mick Schumacher,19,0,15,52,RAS
+2021,French Grand Prix,Nikita Mazepin,20,0,18,52,RAS
+2021,Styrian Grand Prix,Max Verstappen,1,25,1,71,RAS
+2021,Styrian Grand Prix,Lewis Hamilton,2,19,2,71,RAS
+2021,Styrian Grand Prix,Valtteri Bottas,3,15,5,71,RAS
+2021,Styrian Grand Prix,Sergio Pérez,4,12,4,71,RAS
+2021,Styrian Grand Prix,Lando Norris,5,10,3,70,RAS
+2021,Styrian Grand Prix,Carlos Sainz,6,8,12,70,RAS
+2021,Styrian Grand Prix,Charles Leclerc,7,6,7,70,RAS
+2021,Styrian Grand Prix,Lance Stroll,8,4,9,70,RAS
+2021,Styrian Grand Prix,Fernando Alonso,9,2,8,70,RAS
+2021,Styrian Grand Prix,Yuki Tsunoda,10,1,11,70,RAS
+2021,Styrian Grand Prix,Kimi Räikkönen,11,0,18,70,RAS
+2021,Styrian Grand Prix,Sebastian Vettel,12,0,14,70,RAS
+2021,Styrian Grand Prix,Daniel Ricciardo,13,0,13,70,RAS
+2021,Styrian Grand Prix,Esteban Ocon,14,0,17,70,RAS
+2021,Styrian Grand Prix,Antonio Giovinazzi,15,0,15,70,RAS
+2021,Styrian Grand Prix,Mick Schumacher,16,0,19,69,RAS
+2021,Styrian Grand Prix,Nicholas Latifi,17,0,16,68,RAS
+2021,Styrian Grand Prix,Nikita Mazepin,18,0,20,68,RAS
+2021,Styrian Grand Prix,George Russell,19,0,10,36,Engine
+2021,Styrian Grand Prix,Pierre Gasly,20,0,6,1,Collision
+2021,Austrian Grand Prix,Max Verstappen,1,26,1,71,RAS
+2021,Austrian Grand Prix,Valtteri Bottas,2,18,5,71,RAS
+2021,Austrian Grand Prix,Lando Norris,3,15,2,71,RAS
+2021,Austrian Grand Prix,Lewis Hamilton,4,12,4,71,RAS
+2021,Austrian Grand Prix,Carlos Sainz,5,10,10,71,RAS
+2021,Austrian Grand Prix,Sergio Pérez,6,8,3,71,RAS
+2021,Austrian Grand Prix,Daniel Ricciardo,7,6,13,71,RAS
+2021,Austrian Grand Prix,Charles Leclerc,8,4,12,71,RAS
+2021,Austrian Grand Prix,Pierre Gasly,9,2,6,71,RAS
+2021,Austrian Grand Prix,Fernando Alonso,10,1,14,70,RAS
+2021,Austrian Grand Prix,George Russell,11,0,8,70,RAS
+2021,Austrian Grand Prix,Yuki Tsunoda,12,0,7,70,RAS
+2021,Austrian Grand Prix,Lance Stroll,13,0,9,70,RAS
+2021,Austrian Grand Prix,Antonio Giovinazzi,14,0,15,70,RAS
+2021,Austrian Grand Prix,Kimi Räikkönen,15,0,16,70,RAS
+2021,Austrian Grand Prix,Nicholas Latifi,16,0,18,70,RAS
+2021,Austrian Grand Prix,Sebastian Vettel,17,0,11,69,Collision
+2021,Austrian Grand Prix,Mick Schumacher,18,0,19,69,RAS
+2021,Austrian Grand Prix,Nikita Mazepin,19,0,20,69,RAS
+2021,Austrian Grand Prix,Esteban Ocon,20,0,17,0,Collision
+2021,British Grand Prix,Lewis Hamilton,1,25,2,52,RAS
+2021,British Grand Prix,Charles Leclerc,2,18,4,52,RAS
+2021,British Grand Prix,Valtteri Bottas,3,15,3,52,RAS
+2021,British Grand Prix,Lando Norris,4,12,5,52,RAS
+2021,British Grand Prix,Daniel Ricciardo,5,10,6,52,RAS
+2021,British Grand Prix,Carlos Sainz,6,8,10,52,RAS
+2021,British Grand Prix,Fernando Alonso,7,6,7,52,RAS
+2021,British Grand Prix,Lance Stroll,8,4,14,52,RAS
+2021,British Grand Prix,Esteban Ocon,9,2,9,52,RAS
+2021,British Grand Prix,Yuki Tsunoda,10,1,16,52,RAS
+2021,British Grand Prix,Pierre Gasly,11,0,11,52,RAS
+2021,British Grand Prix,George Russell,12,0,12,51,RAS
+2021,British Grand Prix,Antonio Giovinazzi,13,0,15,51,RAS
+2021,British Grand Prix,Nicholas Latifi,14,0,17,51,RAS
+2021,British Grand Prix,Kimi Räikkönen,15,0,13,51,RAS
+2021,British Grand Prix,Sergio Pérez,16,0,0,51,RAS
+2021,British Grand Prix,Nikita Mazepin,17,0,19,51,RAS
+2021,British Grand Prix,Mick Schumacher,18,0,18,51,RAS
+2021,British Grand Prix,Sebastian Vettel,19,0,8,40,DNF
+2021,British Grand Prix,Max Verstappen,20,0,1,0,Collision
+2021,Hungarian Grand Prix,Esteban Ocon,1,25,8,70,RAS
+2021,Hungarian Grand Prix,Lewis Hamilton,2,18,1,70,RAS
+2021,Hungarian Grand Prix,Carlos Sainz,3,15,15,70,RAS
+2021,Hungarian Grand Prix,Fernando Alonso,4,12,9,70,RAS
+2021,Hungarian Grand Prix,Pierre Gasly,5,11,5,70,RAS
+2021,Hungarian Grand Prix,Yuki Tsunoda,6,8,16,70,RAS
+2021,Hungarian Grand Prix,Nicholas Latifi,7,6,18,70,RAS
+2021,Hungarian Grand Prix,George Russell,8,4,17,70,RAS
+2021,Hungarian Grand Prix,Max Verstappen,9,2,3,70,RAS
+2021,Hungarian Grand Prix,Kimi Räikkönen,10,1,13,69,RAS
+2021,Hungarian Grand Prix,Daniel Ricciardo,11,0,11,69,RAS
+2021,Hungarian Grand Prix,Mick Schumacher,12,0,20,69,RAS
+2021,Hungarian Grand Prix,Antonio Giovinazzi,13,0,0,69,RAS
+2021,Hungarian Grand Prix,Nikita Mazepin,14,0,19,3,Collision
+2021,Hungarian Grand Prix,Lando Norris,15,0,6,2,Collision
+2021,Hungarian Grand Prix,Valtteri Bottas,16,0,2,0,Collision
+2021,Hungarian Grand Prix,Sergio Pérez,17,0,4,0,Collision
+2021,Hungarian Grand Prix,Charles Leclerc,18,0,7,0,Collision
+2021,Hungarian Grand Prix,Lance Stroll,19,0,12,0,Collision
+2021,Hungarian Grand Prix,Sebastian Vettel,20,0,10,70,DQ
+2021,Belgian Grand Prix,Max Verstappen,1,12.5,1,1,RAS
+2021,Belgian Grand Prix,George Russell,2,9,2,1,RAS
+2021,Belgian Grand Prix,Lewis Hamilton,3,7.5,3,1,RAS
+2021,Belgian Grand Prix,Daniel Ricciardo,4,6,4,1,RAS
+2021,Belgian Grand Prix,Sebastian Vettel,5,5,5,1,RAS
+2021,Belgian Grand Prix,Pierre Gasly,6,4,6,1,RAS
+2021,Belgian Grand Prix,Esteban Ocon,7,3,8,1,RAS
+2021,Belgian Grand Prix,Charles Leclerc,8,2,9,1,RAS
+2021,Belgian Grand Prix,Nicholas Latifi,9,1,10,1,RAS
+2021,Belgian Grand Prix,Carlos Sainz,10,0.5,11,1,RAS
+2021,Belgian Grand Prix,Fernando Alonso,11,0,12,1,RAS
+2021,Belgian Grand Prix,Valtteri Bottas,12,0,13,1,RAS
+2021,Belgian Grand Prix,Antonio Giovinazzi,13,0,14,1,RAS
+2021,Belgian Grand Prix,Lando Norris,14,0,15,1,RAS
+2021,Belgian Grand Prix,Yuki Tsunoda,15,0,16,1,RAS
+2021,Belgian Grand Prix,Mick Schumacher,16,0,17,1,RAS
+2021,Belgian Grand Prix,Nikita Mazepin,17,0,18,1,RAS
+2021,Belgian Grand Prix,Kimi Räikkönen,18,0,0,1,RAS
+2021,Belgian Grand Prix,Sergio Pérez,19,0,0,1,RAS
+2021,Belgian Grand Prix,Lance Stroll,20,0,19,1,RAS
+2021,Dutch Grand Prix,Max Verstappen,1,25,1,72,RAS
+2021,Dutch Grand Prix,Lewis Hamilton,2,19,2,72,RAS
+2021,Dutch Grand Prix,Valtteri Bottas,3,15,3,72,RAS
+2021,Dutch Grand Prix,Pierre Gasly,4,12,4,71,RAS
+2021,Dutch Grand Prix,Charles Leclerc,5,10,5,71,RAS
+2021,Dutch Grand Prix,Fernando Alonso,6,8,9,71,RAS
+2021,Dutch Grand Prix,Carlos Sainz,7,6,6,71,RAS
+2021,Dutch Grand Prix,Sergio Pérez,8,4,0,71,RAS
+2021,Dutch Grand Prix,Esteban Ocon,9,2,8,71,RAS
+2021,Dutch Grand Prix,Lando Norris,10,1,13,71,RAS
+2021,Dutch Grand Prix,Daniel Ricciardo,11,0,10,71,RAS
+2021,Dutch Grand Prix,Lance Stroll,12,0,12,70,RAS
+2021,Dutch Grand Prix,Sebastian Vettel,13,0,15,70,RAS
+2021,Dutch Grand Prix,Antonio Giovinazzi,14,0,7,70,RAS
+2021,Dutch Grand Prix,Robert Kubica,15,0,16,70,RAS
+2021,Dutch Grand Prix,Nicholas Latifi,16,0,0,70,RAS
+2021,Dutch Grand Prix,George Russell,17,0,11,69,Gearbox
+2021,Dutch Grand Prix,Mick Schumacher,18,0,17,69,RAS
+2021,Dutch Grand Prix,Yuki Tsunoda,19,0,14,48,Power Unit
+2021,Dutch Grand Prix,Nikita Mazepin,20,0,18,41,Hydraulics
+2021,Italian Grand Prix,Daniel Ricciardo,1,26,2,53,RAS
+2021,Italian Grand Prix,Lando Norris,2,18,3,53,RAS
+2021,Italian Grand Prix,Valtteri Bottas,3,15,19,53,RAS
+2021,Italian Grand Prix,Charles Leclerc,4,12,5,53,RAS
+2021,Italian Grand Prix,Sergio Pérez,5,10,8,53,RAS
+2021,Italian Grand Prix,Carlos Sainz,6,8,6,53,RAS
+2021,Italian Grand Prix,Lance Stroll,7,6,9,53,RAS
+2021,Italian Grand Prix,Fernando Alonso,8,4,10,53,RAS
+2021,Italian Grand Prix,George Russell,9,2,14,53,RAS
+2021,Italian Grand Prix,Esteban Ocon,10,1,12,53,RAS
+2021,Italian Grand Prix,Nicholas Latifi,11,0,13,53,RAS
+2021,Italian Grand Prix,Sebastian Vettel,12,0,11,53,RAS
+2021,Italian Grand Prix,Antonio Giovinazzi,13,0,7,53,RAS
+2021,Italian Grand Prix,Robert Kubica,14,0,17,53,RAS
+2021,Italian Grand Prix,Mick Schumacher,15,0,18,53,RAS
+2021,Italian Grand Prix,Nikita Mazepin,16,0,16,41,Power Unit
+2021,Italian Grand Prix,Lewis Hamilton,17,0,4,25,Collision
+2021,Italian Grand Prix,Max Verstappen,18,0,1,25,Collision
+2021,Italian Grand Prix,Pierre Gasly,19,0,0,3,Suspension
+2021,Italian Grand Prix,Yuki Tsunoda,20,0,0,0,Brakes
+2021,Russian Grand Prix,Lewis Hamilton,1,25,4,53,RAS
+2021,Russian Grand Prix,Max Verstappen,2,18,20,53,RAS
+2021,Russian Grand Prix,Carlos Sainz,3,15,2,53,RAS
+2021,Russian Grand Prix,Daniel Ricciardo,4,12,5,53,RAS
+2021,Russian Grand Prix,Valtteri Bottas,5,10,16,53,RAS
+2021,Russian Grand Prix,Fernando Alonso,6,8,6,53,RAS
+2021,Russian Grand Prix,Lando Norris,7,7,1,53,RAS
+2021,Russian Grand Prix,Kimi Räikkönen,8,4,13,53,RAS
+2021,Russian Grand Prix,Sergio Pérez,9,2,8,53,RAS
+2021,Russian Grand Prix,George Russell,10,1,3,53,RAS
+2021,Russian Grand Prix,Lance Stroll,11,0,7,53,RAS
+2021,Russian Grand Prix,Sebastian Vettel,12,0,10,52,RAS
+2021,Russian Grand Prix,Pierre Gasly,13,0,11,52,RAS
+2021,Russian Grand Prix,Esteban Ocon,14,0,9,52,RAS
+2021,Russian Grand Prix,Charles Leclerc,15,0,19,52,RAS
+2021,Russian Grand Prix,Antonio Giovinazzi,16,0,17,52,RAS
+2021,Russian Grand Prix,Yuki Tsunoda,17,0,12,52,RAS
+2021,Russian Grand Prix,Nikita Mazepin,18,0,15,51,RAS
+2021,Russian Grand Prix,Nicholas Latifi,19,0,18,47,Accident
+2021,Russian Grand Prix,Mick Schumacher,20,0,14,32,Oil leak
+2021,Turkish Grand Prix,Valtteri Bottas,1,26,1,58,RAS
+2021,Turkish Grand Prix,Max Verstappen,2,18,2,58,RAS
+2021,Turkish Grand Prix,Sergio Pérez,3,15,6,58,RAS
+2021,Turkish Grand Prix,Charles Leclerc,4,12,3,58,RAS
+2021,Turkish Grand Prix,Lewis Hamilton,5,10,11,58,RAS
+2021,Turkish Grand Prix,Pierre Gasly,6,8,4,58,RAS
+2021,Turkish Grand Prix,Lando Norris,7,6,7,58,RAS
+2021,Turkish Grand Prix,Carlos Sainz,8,4,19,58,RAS
+2021,Turkish Grand Prix,Lance Stroll,9,2,8,58,RAS
+2021,Turkish Grand Prix,Esteban Ocon,10,1,12,57,RAS
+2021,Turkish Grand Prix,Antonio Giovinazzi,11,0,16,57,RAS
+2021,Turkish Grand Prix,Kimi Räikkönen,12,0,17,57,RAS
+2021,Turkish Grand Prix,Daniel Ricciardo,13,0,20,57,RAS
+2021,Turkish Grand Prix,Yuki Tsunoda,14,0,9,57,RAS
+2021,Turkish Grand Prix,George Russell,15,0,13,57,RAS
+2021,Turkish Grand Prix,Fernando Alonso,16,0,5,57,RAS
+2021,Turkish Grand Prix,Nicholas Latifi,17,0,15,57,RAS
+2021,Turkish Grand Prix,Sebastian Vettel,18,0,10,57,RAS
+2021,Turkish Grand Prix,Mick Schumacher,19,0,14,56,RAS
+2021,Turkish Grand Prix,Nikita Mazepin,20,0,18,56,RAS
+2021,United States Grand Prix,Max Verstappen,1,25,1,56,RAS
+2021,United States Grand Prix,Lewis Hamilton,2,19,2,56,RAS
+2021,United States Grand Prix,Sergio Pérez,3,15,3,56,RAS
+2021,United States Grand Prix,Charles Leclerc,4,12,4,56,RAS
+2021,United States Grand Prix,Daniel Ricciardo,5,10,6,56,RAS
+2021,United States Grand Prix,Valtteri Bottas,6,8,9,56,RAS
+2021,United States Grand Prix,Carlos Sainz,7,6,5,56,RAS
+2021,United States Grand Prix,Lando Norris,8,4,7,56,RAS
+2021,United States Grand Prix,Yuki Tsunoda,9,2,10,55,RAS
+2021,United States Grand Prix,Sebastian Vettel,10,1,18,55,RAS
+2021,United States Grand Prix,Antonio Giovinazzi,11,0,12,55,RAS
+2021,United States Grand Prix,Lance Stroll,12,0,13,55,RAS
+2021,United States Grand Prix,Kimi Räikkönen,13,0,15,55,RAS
+2021,United States Grand Prix,George Russell,14,0,20,55,RAS
+2021,United States Grand Prix,Nicholas Latifi,15,0,14,55,RAS
+2021,United States Grand Prix,Mick Schumacher,16,0,16,54,RAS
+2021,United States Grand Prix,Nikita Mazepin,17,0,17,54,RAS
+2021,United States Grand Prix,Fernando Alonso,18,0,19,49,Rear wing
+2021,United States Grand Prix,Esteban Ocon,19,0,11,40,Mechanical
+2021,United States Grand Prix,Pierre Gasly,20,0,8,14,Suspension
+2021,Mexico City Grand Prix,Max Verstappen,1,25,3,71,RAS
+2021,Mexico City Grand Prix,Lewis Hamilton,2,18,2,71,RAS
+2021,Mexico City Grand Prix,Sergio Pérez,3,15,4,71,RAS
+2021,Mexico City Grand Prix,Pierre Gasly,4,12,5,71,RAS
+2021,Mexico City Grand Prix,Charles Leclerc,5,10,8,71,RAS
+2021,Mexico City Grand Prix,Carlos Sainz,6,8,6,70,RAS
+2021,Mexico City Grand Prix,Sebastian Vettel,7,6,9,70,RAS
+2021,Mexico City Grand Prix,Kimi Räikkönen,8,4,10,70,RAS
+2021,Mexico City Grand Prix,Fernando Alonso,9,2,12,70,RAS
+2021,Mexico City Grand Prix,Lando Norris,10,1,18,70,RAS
+2021,Mexico City Grand Prix,Antonio Giovinazzi,11,0,11,70,RAS
+2021,Mexico City Grand Prix,Daniel Ricciardo,12,0,7,70,RAS
+2021,Mexico City Grand Prix,Esteban Ocon,13,0,19,70,RAS
+2021,Mexico City Grand Prix,Lance Stroll,14,0,20,69,RAS
+2021,Mexico City Grand Prix,Valtteri Bottas,15,0,1,69,RAS
+2021,Mexico City Grand Prix,George Russell,16,0,16,69,RAS
+2021,Mexico City Grand Prix,Nicholas Latifi,17,0,13,69,RAS
+2021,Mexico City Grand Prix,Nikita Mazepin,18,0,15,68,RAS
+2021,Mexico City Grand Prix,Mick Schumacher,19,0,14,0,Collision
+2021,Mexico City Grand Prix,Yuki Tsunoda,20,0,17,0,Collision
+2021,São Paulo Grand Prix,Lewis Hamilton,1,25,10,71,RAS
+2021,São Paulo Grand Prix,Max Verstappen,2,18,2,71,RAS
+2021,São Paulo Grand Prix,Valtteri Bottas,3,15,1,71,RAS
+2021,São Paulo Grand Prix,Sergio Pérez,4,13,4,71,RAS
+2021,São Paulo Grand Prix,Charles Leclerc,5,10,6,71,RAS
+2021,São Paulo Grand Prix,Carlos Sainz,6,8,3,71,RAS
+2021,São Paulo Grand Prix,Pierre Gasly,7,6,7,70,RAS
+2021,São Paulo Grand Prix,Esteban Ocon,8,4,8,70,RAS
+2021,São Paulo Grand Prix,Fernando Alonso,9,2,12,70,RAS
+2021,São Paulo Grand Prix,Lando Norris,10,1,5,70,RAS
+2021,São Paulo Grand Prix,Sebastian Vettel,11,0,9,70,RAS
+2021,São Paulo Grand Prix,Kimi Räikkönen,12,0,0,70,RAS
+2021,São Paulo Grand Prix,George Russell,13,0,17,70,RAS
+2021,São Paulo Grand Prix,Antonio Giovinazzi,14,0,13,70,RAS
+2021,São Paulo Grand Prix,Yuki Tsunoda,15,0,15,70,RAS
+2021,São Paulo Grand Prix,Nicholas Latifi,16,0,16,70,RAS
+2021,São Paulo Grand Prix,Nikita Mazepin,17,0,19,69,RAS
+2021,São Paulo Grand Prix,Mick Schumacher,18,0,18,69,RAS
+2021,São Paulo Grand Prix,Daniel Ricciardo,19,0,11,49,Power loss
+2021,São Paulo Grand Prix,Lance Stroll,20,0,14,47,Collision damage
+2021,Qatar Grand Prix,Lewis Hamilton,1,25,1,57,RAS
+2021,Qatar Grand Prix,Max Verstappen,2,19,7,57,RAS
+2021,Qatar Grand Prix,Fernando Alonso,3,15,3,57,RAS
+2021,Qatar Grand Prix,Sergio Pérez,4,12,11,57,RAS
+2021,Qatar Grand Prix,Esteban Ocon,5,10,9,57,RAS
+2021,Qatar Grand Prix,Lance Stroll,6,8,12,57,RAS
+2021,Qatar Grand Prix,Carlos Sainz,7,6,5,57,RAS
+2021,Qatar Grand Prix,Charles Leclerc,8,4,13,57,RAS
+2021,Qatar Grand Prix,Lando Norris,9,2,4,56,RAS
+2021,Qatar Grand Prix,Sebastian Vettel,10,1,10,56,RAS
+2021,Qatar Grand Prix,Pierre Gasly,11,0,2,56,RAS
+2021,Qatar Grand Prix,Daniel Ricciardo,12,0,14,56,RAS
+2021,Qatar Grand Prix,Yuki Tsunoda,13,0,8,56,RAS
+2021,Qatar Grand Prix,Kimi Räikkönen,14,0,16,56,RAS
+2021,Qatar Grand Prix,Antonio Giovinazzi,15,0,18,56,RAS
+2021,Qatar Grand Prix,Mick Schumacher,16,0,19,56,RAS
+2021,Qatar Grand Prix,George Russell,17,0,15,55,RAS
+2021,Qatar Grand Prix,Nikita Mazepin,18,0,20,55,RAS
+2021,Qatar Grand Prix,Nicholas Latifi,19,0,17,50,Puncture
+2021,Qatar Grand Prix,Valtteri Bottas,20,0,6,48,Damage
+2021,Saudi Arabian Grand Prix,Lewis Hamilton,1,26,1,50,RAS
+2021,Saudi Arabian Grand Prix,Max Verstappen,2,18,3,50,RAS
+2021,Saudi Arabian Grand Prix,Valtteri Bottas,3,15,2,50,RAS
+2021,Saudi Arabian Grand Prix,Esteban Ocon,4,12,9,50,RAS
+2021,Saudi Arabian Grand Prix,Daniel Ricciardo,5,10,11,50,RAS
+2021,Saudi Arabian Grand Prix,Pierre Gasly,6,8,6,50,RAS
+2021,Saudi Arabian Grand Prix,Charles Leclerc,7,6,4,50,RAS
+2021,Saudi Arabian Grand Prix,Carlos Sainz,8,4,15,50,RAS
+2021,Saudi Arabian Grand Prix,Antonio Giovinazzi,9,2,10,50,RAS
+2021,Saudi Arabian Grand Prix,Lando Norris,10,1,7,50,RAS
+2021,Saudi Arabian Grand Prix,Lance Stroll,11,0,18,50,RAS
+2021,Saudi Arabian Grand Prix,Nicholas Latifi,12,0,16,50,RAS
+2021,Saudi Arabian Grand Prix,Fernando Alonso,13,0,13,49,RAS
+2021,Saudi Arabian Grand Prix,Yuki Tsunoda,14,0,8,49,RAS
+2021,Saudi Arabian Grand Prix,Kimi Räikkönen,15,0,12,49,RAS
+2021,Saudi Arabian Grand Prix,Sebastian Vettel,16,0,17,44,Collision damage
+2021,Saudi Arabian Grand Prix,Sergio Pérez,17,0,5,14,Collision
+2021,Saudi Arabian Grand Prix,Nikita Mazepin,18,0,20,14,Collision
+2021,Saudi Arabian Grand Prix,George Russell,19,0,14,14,Collision
+2021,Saudi Arabian Grand Prix,Mick Schumacher,20,0,19,8,Accident
+2021,Abu Dhabi Grand Prix,Max Verstappen,1,26,1,58,RAS
+2021,Abu Dhabi Grand Prix,Lewis Hamilton,2,18,2,58,RAS
+2021,Abu Dhabi Grand Prix,Carlos Sainz,3,15,5,58,RAS
+2021,Abu Dhabi Grand Prix,Yuki Tsunoda,4,12,8,58,RAS
+2021,Abu Dhabi Grand Prix,Pierre Gasly,5,10,12,58,RAS
+2021,Abu Dhabi Grand Prix,Valtteri Bottas,6,8,6,58,RAS
+2021,Abu Dhabi Grand Prix,Lando Norris,7,6,3,58,RAS
+2021,Abu Dhabi Grand Prix,Fernando Alonso,8,4,11,58,RAS
+2021,Abu Dhabi Grand Prix,Esteban Ocon,9,2,9,58,RAS
+2021,Abu Dhabi Grand Prix,Charles Leclerc,10,1,7,58,RAS
+2021,Abu Dhabi Grand Prix,Sebastian Vettel,11,0,15,58,RAS
+2021,Abu Dhabi Grand Prix,Daniel Ricciardo,12,0,10,57,RAS
+2021,Abu Dhabi Grand Prix,Lance Stroll,13,0,13,57,RAS
+2021,Abu Dhabi Grand Prix,Mick Schumacher,14,0,19,57,RAS
+2021,Abu Dhabi Grand Prix,Sergio Pérez,15,0,4,55,Engine
+2021,Abu Dhabi Grand Prix,Nicholas Latifi,16,0,16,50,Accident
+2021,Abu Dhabi Grand Prix,Antonio Giovinazzi,17,0,14,33,Gearbox
+2021,Abu Dhabi Grand Prix,George Russell,18,0,17,26,Gearbox
+2021,Abu Dhabi Grand Prix,Kimi Räikkönen,19,0,18,25,Brakes
+2021,Abu Dhabi Grand Prix,Nikita Mazepin,20,0,20,0,Illness

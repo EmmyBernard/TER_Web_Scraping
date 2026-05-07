@@ -1,0 +1,190 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1956,Argentine Grand Prix,Juan Fangio,1,5,3,98,RAS
+1956,Argentine Grand Prix,Luigi Musso,1,4,3,98,RAS
+1956,Argentine Grand Prix,Jean Behra,2,6,4,98,RAS
+1956,Argentine Grand Prix,Mike Hawthorn,3,4,8,96,RAS
+1956,Argentine Grand Prix,Chico Landi,4,1.5,11,92,RAS
+1956,Argentine Grand Prix,Gerino Gerini,4,1.5,11,92,RAS
+1956,Argentine Grand Prix,Olivier Gendebien,5,2,10,91,RAS
+1956,Argentine Grand Prix,Óscar González,6,0,13,88,RAS
+1956,Argentine Grand Prix,Alberto Uria,6,0,13,88,RAS
+1956,Argentine Grand Prix,Stirling Moss,7,0,7,81,Engine
+1956,Argentine Grand Prix,Peter Collins,8,0,9,58,Accident
+1956,Argentine Grand Prix,Luigi Piotti,9,0,12,57,Accident
+1956,Argentine Grand Prix,Carlos Menditeguy,10,0,6,42,Halfshaft
+1956,Argentine Grand Prix,Eugenio Castellotti,11,0,2,40,Gearbox
+1956,Argentine Grand Prix,José Froilán González,12,0,5,24,Engine
+1956,Argentine Grand Prix,Juan Fangio,13,0,1,22,Fuel pump
+1956,Monaco Grand Prix,Stirling Moss,1,8,2,100,RAS
+1956,Monaco Grand Prix,Juan Fangio,2,4,9,100,RAS
+1956,Monaco Grand Prix,Peter Collins,2,3,9,100,RAS
+1956,Monaco Grand Prix,Jean Behra,3,4,4,99,RAS
+1956,Monaco Grand Prix,Eugenio Castellotti,4,1.5,1,99,RAS
+1956,Monaco Grand Prix,Juan Fangio,4,1.5,1,99,RAS
+1956,Monaco Grand Prix,Hernando da Silva Ramos,5,2,14,93,RAS
+1956,Monaco Grand Prix,Élie Bayol,6,0,11,88,RAS
+1956,Monaco Grand Prix,André Pilette,6,0,11,88,RAS
+1956,Monaco Grand Prix,Cesare Perdisa,7,0,7,86,RAS
+1956,Monaco Grand Prix,Horace Gould,8,0,16,85,RAS
+1956,Monaco Grand Prix,Robert Manzon,9,0,12,90,Accident
+1956,Monaco Grand Prix,Louis Rosier,10,0,15,72,Engine
+1956,Monaco Grand Prix,Eugenio Castellotti,11,0,3,14,Clutch
+1956,Monaco Grand Prix,Maurice Trintignant,12,0,6,13,Overheating
+1956,Monaco Grand Prix,Harry Schell,13,0,5,2,Accident
+1956,Monaco Grand Prix,Luigi Musso,14,0,8,2,Accident
+1956,Monaco Grand Prix,Mike Hawthorn,16,0,0,0,Engine
+1956,Monaco Grand Prix,Tony Brooks,17,0,0,0,Engine
+1956,Monaco Grand Prix,Louis Chiron,18,0,0,0,Engine
+1956,Indianapolis 500,Pat Flaherty,1,8,1,200,RAS
+1956,Indianapolis 500,Sam Hanks,2,6,13,200,RAS
+1956,Indianapolis 500,Don Freeland,3,4,26,200,RAS
+1956,Indianapolis 500,Johnnie Parsons,4,3,6,200,RAS
+1956,Indianapolis 500,Dick Rathmann,5,2,4,200,RAS
+1956,Indianapolis 500,Bob Sweikert,6,0,10,200,RAS
+1956,Indianapolis 500,Bob Veith,7,0,23,200,RAS
+1956,Indianapolis 500,Rodger Ward,8,0,15,200,RAS
+1956,Indianapolis 500,Jimmy Reece,9,0,21,200,RAS
+1956,Indianapolis 500,Cliff Griffith,10,0,30,199,RAS
+1956,Indianapolis 500,Gene Hartley,11,0,22,196,RAS
+1956,Indianapolis 500,Fred Agabashian,12,0,7,196,RAS
+1956,Indianapolis 500,Bob Christie,13,0,25,196,RAS
+1956,Indianapolis 500,Al Keller,14,0,28,195,RAS
+1956,Indianapolis 500,Eddie Johnson,15,0,32,195,RAS
+1956,Indianapolis 500,Billy Garrett,16,0,29,194,RAS
+1956,Indianapolis 500,Duke Dinsmore,17,0,33,191,RAS
+1956,Indianapolis 500,Pat O'Connor,18,0,3,187,RAS
+1956,Indianapolis 500,Jimmy Bryan,19,0,19,185,RAS
+1956,Indianapolis 500,Jim Rathmann,20,0,2,175,Engine
+1956,Indianapolis 500,Johnnie Tolan,21,0,31,173,Engine
+1956,Indianapolis 500,Tony Bettenhausen,22,0,5,160,Accident
+1956,Indianapolis 500,Ed Elisian,23,0,14,160,Brakes
+1956,Indianapolis 500,Eddie Russo,23,0,14,160,Brakes
+1956,Indianapolis 500,Jimmy Daywalt,24,0,16,134,Accident
+1956,Indianapolis 500,Jack Turner,25,0,24,131,Engine
+1956,Indianapolis 500,Keith Andrews,26,0,20,94,Transmission
+1956,Indianapolis 500,Andy Linden,27,0,9,90,Oil leak
+1956,Indianapolis 500,Al Herman,28,0,27,74,Accident
+1956,Indianapolis 500,Ray Crawford,29,0,17,49,Accident
+1956,Indianapolis 500,Johnny Boyd,30,0,12,35,Oil leak
+1956,Indianapolis 500,Troy Ruttman,31,0,11,22,Spun off
+1956,Indianapolis 500,Johnny Thomson,32,0,18,22,Spun off
+1956,Indianapolis 500,Paul Russo,33,1,8,21,Accident
+1956,Belgian Grand Prix,Peter Collins,1,8,3,36,RAS
+1956,Belgian Grand Prix,Paul Frère,2,6,8,36,RAS
+1956,Belgian Grand Prix,Cesare Perdisa,3,2,9,36,RAS
+1956,Belgian Grand Prix,Stirling Moss,3,3,9,36,RAS
+1956,Belgian Grand Prix,Harry Schell,4,3,6,35,RAS
+1956,Belgian Grand Prix,Luigi Villoresi,5,2,11,34,RAS
+1956,Belgian Grand Prix,André Pilette,6,0,16,33,RAS
+1956,Belgian Grand Prix,Jean Behra,7,0,4,33,RAS
+1956,Belgian Grand Prix,Louis Rosier,8,0,10,33,RAS
+1956,Belgian Grand Prix,Juan Fangio,9,0,1,23,Transmission
+1956,Belgian Grand Prix,Maurice Trintignant,10,0,7,11,Fuel system
+1956,Belgian Grand Prix,Stirling Moss,11,0,2,10,Wheel
+1956,Belgian Grand Prix,Eugenio Castellotti,12,0,5,10,Transmission
+1956,Belgian Grand Prix,Piero Scotti,13,0,12,10,Engine
+1956,Belgian Grand Prix,Horace Gould,14,0,15,2,Gearbox
+1956,Belgian Grand Prix,Paco Godia,15,0,13,0,Accident
+1956,French Grand Prix,Peter Collins,1,8,3,61,RAS
+1956,French Grand Prix,Eugenio Castellotti,2,6,2,61,RAS
+1956,French Grand Prix,Jean Behra,3,4,7,61,RAS
+1956,French Grand Prix,Juan Fangio,4,4,1,61,RAS
+1956,French Grand Prix,Stirling Moss,5,1,13,59,RAS
+1956,French Grand Prix,Cesare Perdisa,5,1,13,59,RAS
+1956,French Grand Prix,Louis Rosier,6,0,12,58,RAS
+1956,French Grand Prix,Paco Godia,7,0,17,57,RAS
+1956,French Grand Prix,Hernando da Silva Ramos,8,0,14,57,RAS
+1956,French Grand Prix,Robert Manzon,9,0,15,56,RAS
+1956,French Grand Prix,Mike Hawthorn,10,0,6,56,RAS
+1956,French Grand Prix,Harry Schell,10,0,6,56,RAS
+1956,French Grand Prix,André Pilette,11,0,19,55,RAS
+1956,French Grand Prix,André Simon,12,0,20,41,Engine
+1956,French Grand Prix,Hernando da Silva Ramos,13,0,16,40,Engine
+1956,French Grand Prix,Olivier Gendebien,14,0,11,38,Clutch
+1956,French Grand Prix,Luigi Villoresi,15,0,10,23,Brakes
+1956,French Grand Prix,Alfonso de Portago,16,0,9,20,Gearbox
+1956,French Grand Prix,Maurice Trintignant,17,0,18,18,Throttle
+1956,French Grand Prix,Stirling Moss,18,0,8,12,Gearbox
+1956,French Grand Prix,Harry Schell,19,0,4,5,Engine
+1956,French Grand Prix,Colin Chapman,20,0,5,0,Accident
+1956,British Grand Prix,Juan Fangio,1,8,2,101,RAS
+1956,British Grand Prix,Peter Collins,2,3,12,100,RAS
+1956,British Grand Prix,Alfonso de Portago,2,3,12,100,RAS
+1956,British Grand Prix,Jean Behra,3,4,13,99,RAS
+1956,British Grand Prix,Jack Fairman,4,3,21,98,RAS
+1956,British Grand Prix,Horace Gould,5,2,14,97,RAS
+1956,British Grand Prix,Luigi Villoresi,6,0,19,96,RAS
+1956,British Grand Prix,Cesare Perdisa,7,0,15,95,RAS
+1956,British Grand Prix,Paco Godia,8,0,25,94,RAS
+1956,British Grand Prix,Robert Manzon,9,0,18,94,RAS
+1956,British Grand Prix,Alfonso de Portago,10,0,8,92,RAS
+1956,British Grand Prix,Eugenio Castellotti,10,0,8,92,RAS
+1956,British Grand Prix,Bob Gerard,11,0,22,88,RAS
+1956,British Grand Prix,Stirling Moss,12,1,1,94,Axle
+1956,British Grand Prix,Harry Schell,13,0,5,87,Fuel system
+1956,British Grand Prix,Desmond Titterington,14,0,11,74,Engine
+1956,British Grand Prix,Maurice Trintignant,15,0,16,74,Fuel system
+1956,British Grand Prix,Hernando da Silva Ramos,16,0,26,71,Axle
+1956,British Grand Prix,Peter Collins,17,0,4,64,Oil pressure
+1956,British Grand Prix,Roy Salvadori,18,0,7,59,Fuel system
+1956,British Grand Prix,Tony Brooks,19,0,9,39,Accident
+1956,British Grand Prix,Mike Hawthorn,20,0,3,24,Transmission
+1956,British Grand Prix,Louis Rosier,21,0,27,23,Electrical
+1956,British Grand Prix,Bruce Halford,22,0,20,22,Engine
+1956,British Grand Prix,Umberto Maglioli,23,0,24,21,Gearbox
+1956,British Grand Prix,Archie Scott Brown,24,0,10,16,Transmission
+1956,British Grand Prix,Paul Emery,25,0,23,12,Ignition
+1956,British Grand Prix,Jack Brabham,26,0,28,3,Engine
+1956,British Grand Prix,Ron Flockhart,27,0,17,2,Engine
+1956,British Grand Prix,José Froilán González,28,0,6,0,Transmission
+1956,German Grand Prix,Juan Fangio,1,9,1,22,RAS
+1956,German Grand Prix,Stirling Moss,2,6,4,22,RAS
+1956,German Grand Prix,Jean Behra,3,4,8,22,RAS
+1956,German Grand Prix,Paco Godia,4,3,16,20,RAS
+1956,German Grand Prix,Louis Rosier,5,2,14,19,RAS
+1956,German Grand Prix,Bruce Halford,6,0,11,20,DQ
+1956,German Grand Prix,Ottorino Volonterio,7,0,19,16,RAS
+1956,German Grand Prix,André Milhoux,8,0,21,15,Engine
+1956,German Grand Prix,Alfonso de Portago,9,0,10,14,Accident
+1956,German Grand Prix,Harry Schell,10,0,12,13,Overheating
+1956,German Grand Prix,Luigi Villoresi,11,0,20,13,Engine
+1956,German Grand Prix,Luigi Musso,12,0,5,11,Accident
+1956,German Grand Prix,Peter Collins,13,0,2,8,Fuel leak
+1956,German Grand Prix,Eugenio Castellotti,14,0,3,5,Electrical
+1956,German Grand Prix,Umberto Maglioli,15,0,7,3,Steering
+1956,German Grand Prix,Horace Gould,16,0,13,3,Oil pressure
+1956,German Grand Prix,Roy Salvadori,17,0,9,2,Suspension
+1956,German Grand Prix,Robert Manzon,18,0,15,0,Suspension
+1956,German Grand Prix,Giorgio Scarlatti,19,0,17,0,Engine
+1956,German Grand Prix,Cesare Perdisa,20,0,0,0,Withdrew
+1956,German Grand Prix,André Pilette,21,0,0,0,Withdrew
+1956,German Grand Prix,Luigi Piotti,22,0,0,0,Withdrew
+1956,Italian Grand Prix,Stirling Moss,1,9,6,50,RAS
+1956,Italian Grand Prix,Juan Fangio,2,3,7,50,RAS
+1956,Italian Grand Prix,Peter Collins,2,3,7,50,RAS
+1956,Italian Grand Prix,Ron Flockhart,3,4,26,49,RAS
+1956,Italian Grand Prix,Paco Godia,4,3,18,49,RAS
+1956,Italian Grand Prix,Jack Fairman,5,2,16,47,RAS
+1956,Italian Grand Prix,Luigi Piotti,6,0,15,47,RAS
+1956,Italian Grand Prix,Toulo de Graffenried,7,0,19,46,RAS
+1956,Italian Grand Prix,Juan Fangio,8,0,1,46,RAS
+1956,Italian Grand Prix,Eugenio Castellotti,8,0,1,46,RAS
+1956,Italian Grand Prix,André Simon,9,0,25,45,RAS
+1956,Italian Grand Prix,Gerino Gerini,10,0,17,42,RAS
+1956,Italian Grand Prix,Roy Salvadori,11,0,14,41,RAS
+1956,Italian Grand Prix,Luigi Musso,12,0,3,47,Steering
+1956,Italian Grand Prix,Umberto Maglioli,13,0,13,42,Steering
+1956,Italian Grand Prix,Jean Behra,13,0,13,42,Steering
+1956,Italian Grand Prix,Harry Schell,14,0,10,32,Transmission
+1956,Italian Grand Prix,Jean Behra,15,0,5,23,Magneto
+1956,Italian Grand Prix,Bruce Halford,16,0,22,16,Engine
+1956,Italian Grand Prix,Maurice Trintignant,17,0,11,13,Transmission
+1956,Italian Grand Prix,Piero Taruffi,18,0,4,12,Oil leak
+1956,Italian Grand Prix,Eugenio Castellotti,19,0,2,9,Tyre
+1956,Italian Grand Prix,Jo Bonnier,20,0,8,7,Engine
+1956,Italian Grand Prix,Luigi Villoresi,20,0,8,7,Engine
+1956,Italian Grand Prix,Robert Manzon,21,0,23,7,Chassis
+1956,Italian Grand Prix,Alfonso de Portago,22,0,9,6,Tyre
+1956,Italian Grand Prix,Les Leston,23,0,20,6,Suspension
+1956,Italian Grand Prix,Hernando da Silva Ramos,24,0,21,3,Engine
+1956,Italian Grand Prix,Wolfgang von Trips,25,0,0,0,Withdrew

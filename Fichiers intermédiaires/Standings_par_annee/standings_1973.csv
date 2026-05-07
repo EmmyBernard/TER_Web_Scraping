@@ -1,0 +1,358 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1973,Argentine Grand Prix,Emerson Fittipaldi,1,9,2,96,RAS
+1973,Argentine Grand Prix,François Cevert,2,6,6,96,RAS
+1973,Argentine Grand Prix,Jackie Stewart,3,4,4,96,RAS
+1973,Argentine Grand Prix,Jacky Ickx,4,3,3,96,RAS
+1973,Argentine Grand Prix,Denny Hulme,5,2,8,95,RAS
+1973,Argentine Grand Prix,Wilson Fittipaldi,6,1,13,95,RAS
+1973,Argentine Grand Prix,Clay Regazzoni,7,0,1,93,RAS
+1973,Argentine Grand Prix,Peter Revson,8,0,11,92,RAS
+1973,Argentine Grand Prix,Arturo Merzario,9,0,14,92,RAS
+1973,Argentine Grand Prix,Mike Beuttler,10,0,18,90,Suspension
+1973,Argentine Grand Prix,Jean-Pierre Jarier,11,0,17,84,Radiator
+1973,Argentine Grand Prix,Jean-Pierre Beltoise,12,0,7,79,Engine
+1973,Argentine Grand Prix,Howden Ganley,13,0,19,79,Not classified
+1973,Argentine Grand Prix,Ronnie Peterson,14,0,5,67,Oil pressure
+1973,Argentine Grand Prix,Niki Lauda,15,0,13,66,Oil pressure
+1973,Argentine Grand Prix,Carlos Reutemann,16,0,9,16,Gearbox
+1973,Argentine Grand Prix,Mike Hailwood,17,0,10,10,Halfshaft
+1973,Argentine Grand Prix,Carlos Pace,18,0,15,10,Suspension
+1973,Argentine Grand Prix,Nanni Galli,19,0,16,0,Engine
+1973,Brazilian Grand Prix,Emerson Fittipaldi,1,9,2,40,RAS
+1973,Brazilian Grand Prix,Jackie Stewart,2,6,8,40,RAS
+1973,Brazilian Grand Prix,Denny Hulme,3,4,5,40,RAS
+1973,Brazilian Grand Prix,Arturo Merzario,4,3,17,39,RAS
+1973,Brazilian Grand Prix,Jacky Ickx,5,2,3,39,RAS
+1973,Brazilian Grand Prix,Clay Regazzoni,6,1,4,39,RAS
+1973,Brazilian Grand Prix,Howden Ganley,7,0,14,39,RAS
+1973,Brazilian Grand Prix,Niki Lauda,8,0,13,38,RAS
+1973,Brazilian Grand Prix,Nanni Galli,9,0,18,38,RAS
+1973,Brazilian Grand Prix,François Cevert,10,0,9,38,RAS
+1973,Brazilian Grand Prix,Carlos Reutemann,11,0,7,38,RAS
+1973,Brazilian Grand Prix,Luiz Bueno,12,0,20,36,RAS
+1973,Brazilian Grand Prix,Jean-Pierre Beltoise,13,0,10,23,Electrical
+1973,Brazilian Grand Prix,Mike Beuttler,14,0,19,18,Overheating
+1973,Brazilian Grand Prix,Carlos Pace,15,0,6,9,Suspension
+1973,Brazilian Grand Prix,Mike Hailwood,16,0,14,6,Gearbox
+1973,Brazilian Grand Prix,Jean-Pierre Jarier,17,0,15,6,Gearbox
+1973,Brazilian Grand Prix,Ronnie Peterson,18,0,1,5,Wheel
+1973,Brazilian Grand Prix,Wilson Fittipaldi,19,0,11,5,Overheating
+1973,Brazilian Grand Prix,Peter Revson,20,0,12,3,Gearbox
+1973,South African Grand Prix,Jackie Stewart,1,9,16,79,RAS
+1973,South African Grand Prix,Peter Revson,2,6,6,79,RAS
+1973,South African Grand Prix,Emerson Fittipaldi,3,4,2,79,RAS
+1973,South African Grand Prix,Arturo Merzario,4,3,15,78,RAS
+1973,South African Grand Prix,Denny Hulme,5,2,1,77,RAS
+1973,South African Grand Prix,George Follmer,6,1,21,77,RAS
+1973,South African Grand Prix,Carlos Reutemann,7,0,8,77,RAS
+1973,South African Grand Prix,Andrea de Adamich,8,0,20,77,RAS
+1973,South African Grand Prix,Jody Scheckter,9,0,3,75,Engine
+1973,South African Grand Prix,Howden Ganley,10,0,19,73,RAS
+1973,South African Grand Prix,Ronnie Peterson,11,0,4,73,RAS
+1973,South African Grand Prix,Carlos Pace,12,0,9,69,Accident
+1973,South African Grand Prix,Eddie Keizan,13,0,22,67,Not classified
+1973,South African Grand Prix,Jean-Pierre Jarier,14,0,18,66,Not classified
+1973,South African Grand Prix,François Cevert,15,0,25,66,Not classified
+1973,South African Grand Prix,Mike Beuttler,16,0,23,65,Not classified
+1973,South African Grand Prix,Wilson Fittipaldi,17,0,17,52,Gearbox
+1973,South African Grand Prix,Jackie Pretorius,18,0,24,35,Overheating
+1973,South African Grand Prix,Niki Lauda,19,0,10,26,Engine
+1973,South African Grand Prix,Jackie Oliver,20,0,14,14,Engine
+1973,South African Grand Prix,Jean-Pierre Beltoise,21,0,7,4,Clutch
+1973,South African Grand Prix,Dave Charlton,22,0,13,3,Accident
+1973,South African Grand Prix,Clay Regazzoni,23,0,5,2,Accident
+1973,South African Grand Prix,Jacky Ickx,24,0,11,2,Accident
+1973,South African Grand Prix,Mike Hailwood,25,0,12,2,Accident
+1973,Spanish Grand Prix,Emerson Fittipaldi,1,9,7,75,RAS
+1973,Spanish Grand Prix,François Cevert,2,6,3,75,RAS
+1973,Spanish Grand Prix,George Follmer,3,4,14,75,RAS
+1973,Spanish Grand Prix,Peter Revson,4,3,5,74,RAS
+1973,Spanish Grand Prix,Jean-Pierre Beltoise,5,2,10,74,RAS
+1973,Spanish Grand Prix,Denny Hulme,6,1,2,74,RAS
+1973,Spanish Grand Prix,Mike Beuttler,7,0,19,74,RAS
+1973,Spanish Grand Prix,Henri Pescarolo,8,0,18,73,RAS
+1973,Spanish Grand Prix,Clay Regazzoni,9,0,8,69,RAS
+1973,Spanish Grand Prix,Wilson Fittipaldi,10,0,12,69,RAS
+1973,Spanish Grand Prix,Nanni Galli,11,0,20,69,RAS
+1973,Spanish Grand Prix,Jacky Ickx,12,0,6,69,RAS
+1973,Spanish Grand Prix,Carlos Reutemann,13,0,15,66,Halfshaft
+1973,Spanish Grand Prix,Howden Ganley,14,0,21,63,Out of fuel
+1973,Spanish Grand Prix,Ronnie Peterson,15,0,1,56,Gearbox
+1973,Spanish Grand Prix,Jackie Stewart,16,0,4,47,Brakes
+1973,Spanish Grand Prix,Niki Lauda,17,0,11,28,Tyre
+1973,Spanish Grand Prix,Graham Hill,18,0,22,27,Brakes
+1973,Spanish Grand Prix,Mike Hailwood,19,0,9,25,Oil leak
+1973,Spanish Grand Prix,Jackie Oliver,20,0,13,23,Engine
+1973,Spanish Grand Prix,Andrea de Adamich,21,0,17,17,Wheel
+1973,Spanish Grand Prix,Carlos Pace,22,0,16,13,Halfshaft
+1973,Belgian Grand Prix,Jackie Stewart,1,9,6,70,RAS
+1973,Belgian Grand Prix,François Cevert,2,6,4,70,RAS
+1973,Belgian Grand Prix,Emerson Fittipaldi,3,4,9,70,RAS
+1973,Belgian Grand Prix,Andrea de Adamich,4,3,18,69,RAS
+1973,Belgian Grand Prix,Niki Lauda,5,2,14,69,RAS
+1973,Belgian Grand Prix,Chris Amon,6,1,15,67,RAS
+1973,Belgian Grand Prix,Denny Hulme,7,0,2,67,RAS
+1973,Belgian Grand Prix,Carlos Pace,8,0,8,66,RAS
+1973,Belgian Grand Prix,Graham Hill,9,0,23,65,RAS
+1973,Belgian Grand Prix,Clay Regazzoni,10,0,12,63,Accident
+1973,Belgian Grand Prix,Mike Beuttler,11,0,20,63,Accident
+1973,Belgian Grand Prix,Jean-Pierre Jarier,12,0,16,60,Accident
+1973,Belgian Grand Prix,Jean-Pierre Beltoise,13,0,5,56,Not classified
+1973,Belgian Grand Prix,Wilson Fittipaldi,14,0,19,46,Engine
+1973,Belgian Grand Prix,Ronnie Peterson,15,0,1,42,Accident
+1973,Belgian Grand Prix,Peter Revson,16,0,10,33,Accident
+1973,Belgian Grand Prix,Howden Ganley,17,0,21,16,Accident
+1973,Belgian Grand Prix,Carlos Reutemann,18,0,7,14,Engine
+1973,Belgian Grand Prix,George Follmer,19,0,11,13,Throttle
+1973,Belgian Grand Prix,Jackie Oliver,20,0,22,11,Accident
+1973,Belgian Grand Prix,Jacky Ickx,21,0,3,6,Oil pump
+1973,Belgian Grand Prix,Nanni Galli,22,0,17,6,Engine
+1973,Belgian Grand Prix,Mike Hailwood,23,0,13,4,Accident
+1973,Monaco Grand Prix,Jackie Stewart,1,9,1,78,RAS
+1973,Monaco Grand Prix,Emerson Fittipaldi,2,6,5,78,RAS
+1973,Monaco Grand Prix,Ronnie Peterson,3,4,2,77,RAS
+1973,Monaco Grand Prix,François Cevert,4,3,4,77,RAS
+1973,Monaco Grand Prix,Peter Revson,5,2,15,76,RAS
+1973,Monaco Grand Prix,Denny Hulme,6,1,3,76,RAS
+1973,Monaco Grand Prix,Andrea de Adamich,7,0,25,75,RAS
+1973,Monaco Grand Prix,Mike Hailwood,8,0,13,75,RAS
+1973,Monaco Grand Prix,James Hunt,9,0,18,73,Engine
+1973,Monaco Grand Prix,Jackie Oliver,10,0,22,72,RAS
+1973,Monaco Grand Prix,Wilson Fittipaldi,11,0,9,71,Fuel system
+1973,Monaco Grand Prix,Jean-Pierre Jarier,12,0,14,67,Gearbox
+1973,Monaco Grand Prix,Graham Hill,13,0,24,62,Suspension
+1973,Monaco Grand Prix,Arturo Merzario,14,0,16,58,Oil pressure
+1973,Monaco Grand Prix,Carlos Reutemann,15,0,19,46,Gearbox
+1973,Monaco Grand Prix,Jacky Ickx,16,0,7,44,Halfshaft
+1973,Monaco Grand Prix,Howden Ganley,17,0,10,41,Halfshaft
+1973,Monaco Grand Prix,Jean-Pierre Beltoise,18,0,11,39,Accident
+1973,Monaco Grand Prix,Carlos Pace,19,0,17,31,Halfshaft
+1973,Monaco Grand Prix,David Purley,20,0,23,31,Fuel leak
+1973,Monaco Grand Prix,Nanni Galli,21,0,21,30,Halfshaft
+1973,Monaco Grand Prix,Niki Lauda,22,0,6,24,Gearbox
+1973,Monaco Grand Prix,Chris Amon,23,0,12,22,Overheating
+1973,Monaco Grand Prix,Clay Regazzoni,24,0,8,15,Brakes
+1973,Monaco Grand Prix,Mike Beuttler,25,0,20,3,Engine
+1973,Swedish Grand Prix,Denny Hulme,1,9,6,80,RAS
+1973,Swedish Grand Prix,Ronnie Peterson,2,6,1,80,RAS
+1973,Swedish Grand Prix,François Cevert,3,4,2,80,RAS
+1973,Swedish Grand Prix,Carlos Reutemann,4,3,5,80,RAS
+1973,Swedish Grand Prix,Jackie Stewart,5,2,3,80,RAS
+1973,Swedish Grand Prix,Jacky Ickx,6,1,8,79,RAS
+1973,Swedish Grand Prix,Peter Revson,7,0,7,79,RAS
+1973,Swedish Grand Prix,Mike Beuttler,8,0,21,78,RAS
+1973,Swedish Grand Prix,Clay Regazzoni,9,0,12,77,RAS
+1973,Swedish Grand Prix,Carlos Pace,10,0,16,77,RAS
+1973,Swedish Grand Prix,Howden Ganley,11,0,11,77,RAS
+1973,Swedish Grand Prix,Emerson Fittipaldi,12,0,4,76,Gearbox
+1973,Swedish Grand Prix,Niki Lauda,13,0,15,75,RAS
+1973,Swedish Grand Prix,George Follmer,14,0,19,74,RAS
+1973,Swedish Grand Prix,Jean-Pierre Beltoise,15,0,9,57,Engine
+1973,Swedish Grand Prix,Jackie Oliver,16,0,17,50,Suspension
+1973,Swedish Grand Prix,Mike Hailwood,17,0,10,41,Tyre
+1973,Swedish Grand Prix,Jean-Pierre Jarier,18,0,20,38,Throttle
+1973,Swedish Grand Prix,Graham Hill,19,0,18,16,Ignition
+1973,Swedish Grand Prix,Wilson Fittipaldi,20,0,12,0,Accident
+1973,Swedish Grand Prix,Reine Wisell,21,0,14,0,Suspension
+1973,French Grand Prix,Ronnie Peterson,1,9,5,54,RAS
+1973,French Grand Prix,François Cevert,2,6,4,54,RAS
+1973,French Grand Prix,Carlos Reutemann,3,4,8,54,RAS
+1973,French Grand Prix,Jackie Stewart,4,3,1,54,RAS
+1973,French Grand Prix,Jacky Ickx,5,2,12,54,RAS
+1973,French Grand Prix,James Hunt,6,1,14,54,RAS
+1973,French Grand Prix,Arturo Merzario,7,0,10,54,RAS
+1973,French Grand Prix,Denny Hulme,8,0,6,54,RAS
+1973,French Grand Prix,Niki Lauda,9,0,17,54,RAS
+1973,French Grand Prix,Graham Hill,10,0,16,53,RAS
+1973,French Grand Prix,Jean-Pierre Beltoise,11,0,15,53,RAS
+1973,French Grand Prix,Clay Regazzoni,12,0,9,53,RAS
+1973,French Grand Prix,Carlos Pace,13,0,18,51,RAS
+1973,French Grand Prix,Howden Ganley,14,0,24,51,RAS
+1973,French Grand Prix,Rikky von Opel,15,0,25,51,RAS
+1973,French Grand Prix,Wilson Fittipaldi,16,0,19,50,RAS
+1973,French Grand Prix,Jody Scheckter,17,0,2,43,Accident
+1973,French Grand Prix,Emerson Fittipaldi,18,0,3,41,Accident
+1973,French Grand Prix,Mike Hailwood,19,0,11,29,Oil leak
+1973,French Grand Prix,Andrea de Adamich,20,0,13,28,Halfshaft
+1973,French Grand Prix,Reine Wisell,21,0,22,20,Overheating
+1973,French Grand Prix,George Follmer,22,0,20,16,Fuel system
+1973,French Grand Prix,Henri Pescarolo,23,0,23,16,Overheating
+1973,French Grand Prix,Jean-Pierre Jarier,24,0,7,7,Halfshaft
+1973,French Grand Prix,Jackie Oliver,25,0,21,0,Clutch
+1973,British Grand Prix,Peter Revson,1,9,3,67,RAS
+1973,British Grand Prix,Ronnie Peterson,2,6,1,67,RAS
+1973,British Grand Prix,Denny Hulme,3,4,2,67,RAS
+1973,British Grand Prix,James Hunt,4,3,11,67,RAS
+1973,British Grand Prix,François Cevert,5,2,7,67,RAS
+1973,British Grand Prix,Carlos Reutemann,6,1,8,67,RAS
+1973,British Grand Prix,Clay Regazzoni,7,0,10,67,RAS
+1973,British Grand Prix,Jacky Ickx,8,0,19,67,RAS
+1973,British Grand Prix,Howden Ganley,9,0,18,66,RAS
+1973,British Grand Prix,Jackie Stewart,10,0,4,66,RAS
+1973,British Grand Prix,Mike Beuttler,11,0,24,65,RAS
+1973,British Grand Prix,Niki Lauda,12,0,9,63,RAS
+1973,British Grand Prix,Rikky von Opel,13,0,21,61,RAS
+1973,British Grand Prix,Wilson Fittipaldi,14,0,13,44,Oil leak
+1973,British Grand Prix,Emerson Fittipaldi,15,0,5,36,Transmission
+1973,British Grand Prix,John Watson,16,0,23,36,Fuel system
+1973,British Grand Prix,Graham Hill,17,0,27,24,Chassis
+1973,British Grand Prix,Chris Amon,18,0,29,6,Fuel system
+1973,British Grand Prix,Jody Scheckter,19,0,6,0,Collision
+1973,British Grand Prix,Mike Hailwood,20,0,12,0,Collision
+1973,British Grand Prix,Jochen Mass,21,0,14,0,Collision
+1973,British Grand Prix,Carlos Pace,22,0,15,0,Collision
+1973,British Grand Prix,Jean-Pierre Beltoise,23,0,17,0,Collision
+1973,British Grand Prix,Andrea de Adamich,24,0,20,0,Collision
+1973,British Grand Prix,Roger Williamson,25,0,22,0,Collision
+1973,British Grand Prix,George Follmer,26,0,25,0,Collision
+1973,British Grand Prix,Jackie Oliver,27,0,26,0,Collision
+1973,British Grand Prix,Graham McRae,28,0,28,0,Throttle
+1973,British Grand Prix,David Purley,29,0,16,0,Spun off
+1973,Dutch Grand Prix,Jackie Stewart,1,9,2,72,RAS
+1973,Dutch Grand Prix,François Cevert,2,6,3,72,RAS
+1973,Dutch Grand Prix,James Hunt,3,4,7,72,RAS
+1973,Dutch Grand Prix,Peter Revson,4,3,6,72,RAS
+1973,Dutch Grand Prix,Jean-Pierre Beltoise,5,2,9,72,RAS
+1973,Dutch Grand Prix,Gijs van Lennep,6,1,20,70,RAS
+1973,Dutch Grand Prix,Carlos Pace,7,0,8,69,RAS
+1973,Dutch Grand Prix,Clay Regazzoni,8,0,12,68,RAS
+1973,Dutch Grand Prix,Howden Ganley,9,0,15,68,RAS
+1973,Dutch Grand Prix,George Follmer,10,0,22,67,RAS
+1973,Dutch Grand Prix,Ronnie Peterson,11,0,1,66,Engine
+1973,Dutch Grand Prix,Graham Hill,12,0,17,56,Not classified
+1973,Dutch Grand Prix,Niki Lauda,13,0,11,52,Fuel pump
+1973,Dutch Grand Prix,Mike Hailwood,14,0,24,52,Electrical
+1973,Dutch Grand Prix,Denny Hulme,15,0,4,31,Engine
+1973,Dutch Grand Prix,Wilson Fittipaldi,16,0,13,27,Accident
+1973,Dutch Grand Prix,Chris Amon,17,0,19,22,Fuel system
+1973,Dutch Grand Prix,Carlos Reutemann,18,0,5,9,Tyre
+1973,Dutch Grand Prix,David Purley,19,0,21,8,Withdrew
+1973,Dutch Grand Prix,Roger Williamson,20,0,18,7,Accident
+1973,Dutch Grand Prix,Emerson Fittipaldi,21,0,16,2,Physical
+1973,Dutch Grand Prix,Mike Beuttler,22,0,23,2,Electrical
+1973,Dutch Grand Prix,Jackie Oliver,23,0,10,1,Accident
+1973,Dutch Grand Prix,Rikky von Opel,24,0,14,0,Withdrew
+1973,German Grand Prix,Jackie Stewart,1,9,1,14,RAS
+1973,German Grand Prix,François Cevert,2,6,3,14,RAS
+1973,German Grand Prix,Jacky Ickx,3,4,4,14,RAS
+1973,German Grand Prix,Carlos Pace,4,3,11,14,RAS
+1973,German Grand Prix,Wilson Fittipaldi,5,2,13,14,RAS
+1973,German Grand Prix,Emerson Fittipaldi,6,1,14,14,RAS
+1973,German Grand Prix,Jochen Mass,7,0,15,14,RAS
+1973,German Grand Prix,Jackie Oliver,8,0,17,14,RAS
+1973,German Grand Prix,Peter Revson,9,0,7,14,RAS
+1973,German Grand Prix,Henri Pescarolo,10,0,12,14,RAS
+1973,German Grand Prix,Rolf Stommelen,11,0,16,14,RAS
+1973,German Grand Prix,Denny Hulme,12,0,8,14,RAS
+1973,German Grand Prix,Graham Hill,13,0,20,14,RAS
+1973,German Grand Prix,Mike Hailwood,14,0,18,13,RAS
+1973,German Grand Prix,David Purley,15,0,22,13,RAS
+1973,German Grand Prix,Mike Beuttler,16,0,19,13,RAS
+1973,German Grand Prix,Carlos Reutemann,17,0,6,7,Engine
+1973,German Grand Prix,Clay Regazzoni,18,0,10,7,Engine
+1973,German Grand Prix,George Follmer,19,0,21,5,Accident
+1973,German Grand Prix,Jean-Pierre Beltoise,20,0,9,4,Gearbox
+1973,German Grand Prix,Niki Lauda,21,0,5,1,Accident
+1973,German Grand Prix,Ronnie Peterson,22,0,2,0,Ignition
+1973,Austrian Grand Prix,Ronnie Peterson,1,9,2,54,RAS
+1973,Austrian Grand Prix,Jackie Stewart,2,6,7,54,RAS
+1973,Austrian Grand Prix,Carlos Pace,3,4,8,54,RAS
+1973,Austrian Grand Prix,Carlos Reutemann,4,3,5,54,RAS
+1973,Austrian Grand Prix,Jean-Pierre Beltoise,5,2,13,54,RAS
+1973,Austrian Grand Prix,Clay Regazzoni,6,1,14,54,RAS
+1973,Austrian Grand Prix,Arturo Merzario,7,0,6,53,RAS
+1973,Austrian Grand Prix,Denny Hulme,8,0,3,53,RAS
+1973,Austrian Grand Prix,Gijs van Lennep,9,0,23,52,RAS
+1973,Austrian Grand Prix,Mike Hailwood,10,0,15,49,RAS
+1973,Austrian Grand Prix,Emerson Fittipaldi,11,0,1,48,Fuel system
+1973,Austrian Grand Prix,Howden Ganley,12,0,21,44,Not classified
+1973,Austrian Grand Prix,Jean-Pierre Jarier,13,0,12,37,Engine
+1973,Austrian Grand Prix,Rikky von Opel,14,0,19,34,Fuel system
+1973,Austrian Grand Prix,Wilson Fittipaldi,15,0,16,31,Fuel system
+1973,Austrian Grand Prix,Graham Hill,16,0,22,28,Suspension
+1973,Austrian Grand Prix,George Follmer,17,0,20,23,Differential
+1973,Austrian Grand Prix,Rolf Stommelen,18,0,17,21,Wheel
+1973,Austrian Grand Prix,Jackie Oliver,19,0,18,9,Fuel system
+1973,Austrian Grand Prix,François Cevert,20,0,10,6,Suspension
+1973,Austrian Grand Prix,James Hunt,21,0,9,3,Injection
+1973,Austrian Grand Prix,Peter Revson,22,0,4,0,Clutch
+1973,Austrian Grand Prix,Mike Beuttler,23,0,11,0,Collision
+1973,Italian Grand Prix,Ronnie Peterson,1,9,1,55,RAS
+1973,Italian Grand Prix,Emerson Fittipaldi,2,6,4,55,RAS
+1973,Italian Grand Prix,Peter Revson,3,4,2,55,RAS
+1973,Italian Grand Prix,Jackie Stewart,4,3,6,55,RAS
+1973,Italian Grand Prix,François Cevert,5,2,11,55,RAS
+1973,Italian Grand Prix,Carlos Reutemann,6,1,10,55,RAS
+1973,Italian Grand Prix,Mike Hailwood,7,0,8,55,RAS
+1973,Italian Grand Prix,Jacky Ickx,8,0,14,54,RAS
+1973,Italian Grand Prix,David Purley,9,0,24,54,RAS
+1973,Italian Grand Prix,George Follmer,10,0,21,54,RAS
+1973,Italian Grand Prix,Jackie Oliver,11,0,19,54,RAS
+1973,Italian Grand Prix,Rolf Stommelen,12,0,9,54,RAS
+1973,Italian Grand Prix,Jean-Pierre Beltoise,13,0,13,54,RAS
+1973,Italian Grand Prix,Graham Hill,14,0,22,54,RAS
+1973,Italian Grand Prix,Denny Hulme,15,0,3,53,RAS
+1973,Italian Grand Prix,Howden Ganley,16,0,20,44,Not classified
+1973,Italian Grand Prix,Mike Beuttler,17,0,12,34,Gearbox
+1973,Italian Grand Prix,Niki Lauda,18,0,15,33,Accident
+1973,Italian Grand Prix,Clay Regazzoni,19,0,18,30,Ignition
+1973,Italian Grand Prix,Carlos Pace,20,0,5,17,Tyre
+1973,Italian Grand Prix,Gijs van Lennep,21,0,23,14,Overheating
+1973,Italian Grand Prix,Rikky von Opel,22,0,17,10,Overheating
+1973,Italian Grand Prix,Wilson Fittipaldi,23,0,16,6,Brakes
+1973,Italian Grand Prix,Arturo Merzario,24,0,7,2,Suspension
+1973,Italian Grand Prix,James Hunt,25,0,0,0,Accident
+1973,Canadian Grand Prix,Peter Revson,1,9,2,80,RAS
+1973,Canadian Grand Prix,Emerson Fittipaldi,2,6,5,80,RAS
+1973,Canadian Grand Prix,Jackie Oliver,3,4,14,80,RAS
+1973,Canadian Grand Prix,Jean-Pierre Beltoise,4,3,16,80,RAS
+1973,Canadian Grand Prix,Jackie Stewart,5,2,9,79,RAS
+1973,Canadian Grand Prix,Howden Ganley,6,1,22,79,RAS
+1973,Canadian Grand Prix,James Hunt,7,0,15,78,RAS
+1973,Canadian Grand Prix,Carlos Reutemann,8,0,4,78,RAS
+1973,Canadian Grand Prix,Mike Hailwood,9,0,12,78,RAS
+1973,Canadian Grand Prix,Chris Amon,10,0,11,77,RAS
+1973,Canadian Grand Prix,Wilson Fittipaldi,11,0,10,77,RAS
+1973,Canadian Grand Prix,Rolf Stommelen,12,0,18,76,RAS
+1973,Canadian Grand Prix,Denny Hulme,13,0,7,75,RAS
+1973,Canadian Grand Prix,Tim Schenken,14,0,24,75,RAS
+1973,Canadian Grand Prix,Arturo Merzario,15,0,20,75,RAS
+1973,Canadian Grand Prix,Graham Hill,16,0,17,73,RAS
+1973,Canadian Grand Prix,George Follmer,17,0,13,73,RAS
+1973,Canadian Grand Prix,Carlos Pace,18,0,19,72,RAS
+1973,Canadian Grand Prix,Jean-Pierre Jarier,19,0,23,71,Not classified
+1973,Canadian Grand Prix,Rikky von Opel,20,0,26,68,Not classified
+1973,Canadian Grand Prix,Niki Lauda,21,0,8,62,Transmission
+1973,Canadian Grand Prix,Jody Scheckter,22,0,3,32,Accident
+1973,Canadian Grand Prix,François Cevert,23,0,6,32,Accident
+1973,Canadian Grand Prix,Mike Beuttler,24,0,21,20,Engine
+1973,Canadian Grand Prix,Ronnie Peterson,25,0,1,16,Suspension
+1973,Canadian Grand Prix,Peter Gethin,26,0,25,5,Oil pump
+1973,United States Grand Prix,Ronnie Peterson,1,9,1,59,RAS
+1973,United States Grand Prix,James Hunt,2,6,4,59,RAS
+1973,United States Grand Prix,Carlos Reutemann,3,4,2,59,RAS
+1973,United States Grand Prix,Denny Hulme,4,3,8,59,RAS
+1973,United States Grand Prix,Peter Revson,5,2,7,59,RAS
+1973,United States Grand Prix,Emerson Fittipaldi,6,1,3,59,RAS
+1973,United States Grand Prix,Jacky Ickx,7,0,23,58,RAS
+1973,United States Grand Prix,Clay Regazzoni,8,0,15,58,RAS
+1973,United States Grand Prix,Jean-Pierre Beltoise,9,0,14,58,RAS
+1973,United States Grand Prix,Mike Beuttler,10,0,26,58,RAS
+1973,United States Grand Prix,Jean-Pierre Jarier,11,0,17,57,Accident
+1973,United States Grand Prix,Howden Ganley,12,0,19,57,RAS
+1973,United States Grand Prix,Graham Hill,13,0,18,57,RAS
+1973,United States Grand Prix,George Follmer,14,0,20,57,RAS
+1973,United States Grand Prix,Jackie Oliver,15,0,22,55,RAS
+1973,United States Grand Prix,Arturo Merzario,16,0,11,55,RAS
+1973,United States Grand Prix,Wilson Fittipaldi,17,0,25,52,Not classified
+1973,United States Grand Prix,Jody Scheckter,18,0,10,39,Suspension
+1973,United States Grand Prix,Jochen Mass,19,0,16,35,Engine
+1973,United States Grand Prix,Niki Lauda,20,0,21,35,Fuel pump
+1973,United States Grand Prix,Mike Hailwood,21,0,6,34,Suspension
+1973,United States Grand Prix,Carlos Pace,22,0,9,32,Suspension
+1973,United States Grand Prix,John Watson,23,0,24,7,Engine
+1973,United States Grand Prix,Brian Redman,24,0,13,5,DQ
+1973,United States Grand Prix,Rikky von Opel,25,0,27,0,Throttle
+1973,United States Grand Prix,Jackie Stewart,26,0,5,0,Withdrew
+1973,United States Grand Prix,Chris Amon,27,0,12,0,Withdrew
+1973,United States Grand Prix,François Cevert,28,0,0,0,Accident

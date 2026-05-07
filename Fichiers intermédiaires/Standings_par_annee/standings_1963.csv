@@ -1,0 +1,243 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1963,Monaco Grand Prix,Graham Hill,1,9,2,100,RAS
+1963,Monaco Grand Prix,Richie Ginther,2,6,4,100,RAS
+1963,Monaco Grand Prix,Bruce McLaren,3,4,8,100,RAS
+1963,Monaco Grand Prix,John Surtees,4,3,3,100,RAS
+1963,Monaco Grand Prix,Tony Maggs,5,2,10,98,RAS
+1963,Monaco Grand Prix,Trevor Taylor,6,1,9,98,RAS
+1963,Monaco Grand Prix,Jo Bonnier,7,0,11,94,RAS
+1963,Monaco Grand Prix,Jim Clark,8,0,1,78,Gearbox
+1963,Monaco Grand Prix,Jack Brabham,9,0,16,77,Gearbox
+1963,Monaco Grand Prix,Innes Ireland,10,0,5,40,Accident
+1963,Monaco Grand Prix,Willy Mairesse,11,0,7,37,Gearbox
+1963,Monaco Grand Prix,Maurice Trintignant,12,0,14,34,Clutch
+1963,Monaco Grand Prix,Dan Gurney,13,0,6,25,Differential
+1963,Monaco Grand Prix,Jim Hall,14,0,13,20,Gearbox
+1963,Monaco Grand Prix,Jo Siffert,15,0,12,3,Engine
+1963,Monaco Grand Prix,Chris Amon,16,0,0,0,Withdrew
+1963,Monaco Grand Prix,Phil Hill,18,0,0,0,Withdrew
+1963,Monaco Grand Prix,Giancarlo Baghetti,19,0,0,0,Withdrew
+1963,Monaco Grand Prix,John Campbell-Jones,20,0,0,0,Withdrew
+1963,Monaco Grand Prix,Ian Burgess,21,0,0,0,Withdrew
+1963,Monaco Grand Prix,Tony Settember,22,0,0,0,Withdrew
+1963,Monaco Grand Prix,Nasif Estéfano,23,0,0,0,Withdrew
+1963,Monaco Grand Prix,Lorenzo Bandini,24,0,0,0,Withdrew
+1963,Monaco Grand Prix,Carel Godin de Beaufort,25,0,0,0,Withdrew
+1963,Belgian Grand Prix,Jim Clark,1,9,8,32,RAS
+1963,Belgian Grand Prix,Bruce McLaren,2,6,5,32,RAS
+1963,Belgian Grand Prix,Dan Gurney,3,4,2,31,RAS
+1963,Belgian Grand Prix,Richie Ginther,4,3,9,31,RAS
+1963,Belgian Grand Prix,Jo Bonnier,5,2,13,30,RAS
+1963,Belgian Grand Prix,Carel Godin de Beaufort,6,1,18,30,RAS
+1963,Belgian Grand Prix,Tony Maggs,7,0,4,27,Accident
+1963,Belgian Grand Prix,Tony Settember,8,0,19,25,Accident
+1963,Belgian Grand Prix,John Surtees,9,0,10,19,Injection
+1963,Belgian Grand Prix,Graham Hill,10,0,1,17,Gearbox
+1963,Belgian Grand Prix,Lucien Bianchi,11,0,16,17,Accident
+1963,Belgian Grand Prix,Jim Hall,12,0,12,16,Accident
+1963,Belgian Grand Prix,Jo Siffert,13,0,14,16,Accident
+1963,Belgian Grand Prix,Phil Hill,14,0,17,13,Gearbox
+1963,Belgian Grand Prix,Jack Brabham,15,0,6,12,Injection
+1963,Belgian Grand Prix,Chris Amon,16,0,15,10,Oil leak
+1963,Belgian Grand Prix,Innes Ireland,17,0,7,9,Gearbox
+1963,Belgian Grand Prix,Willy Mairesse,18,0,3,7,Injection
+1963,Belgian Grand Prix,Giancarlo Baghetti,19,0,20,7,Gearbox
+1963,Belgian Grand Prix,Trevor Taylor,20,0,11,5,Physical
+1963,Belgian Grand Prix,Peter Arundell,21,0,0,0,Withdrew
+1963,Belgian Grand Prix,Ludovico Scarfiotti,22,0,0,0,Withdrew
+1963,Belgian Grand Prix,Lorenzo Bandini,23,0,0,0,Withdrew
+1963,Belgian Grand Prix,Ian Burgess,24,0,0,0,Withdrew
+1963,Dutch Grand Prix,Jim Clark,1,9,1,80,RAS
+1963,Dutch Grand Prix,Dan Gurney,2,6,14,79,RAS
+1963,Dutch Grand Prix,John Surtees,3,4,5,79,RAS
+1963,Dutch Grand Prix,Innes Ireland,4,3,7,79,RAS
+1963,Dutch Grand Prix,Richie Ginther,5,2,6,79,RAS
+1963,Dutch Grand Prix,Ludovico Scarfiotti,6,1,11,78,RAS
+1963,Dutch Grand Prix,Jo Siffert,7,0,17,77,RAS
+1963,Dutch Grand Prix,Jim Hall,8,0,18,77,RAS
+1963,Dutch Grand Prix,Carel Godin de Beaufort,9,0,19,75,RAS
+1963,Dutch Grand Prix,Trevor Taylor,10,0,10,66,RAS
+1963,Dutch Grand Prix,Jo Bonnier,11,0,8,56,RAS
+1963,Dutch Grand Prix,Graham Hill,12,0,2,69,Overheating
+1963,Dutch Grand Prix,Jack Brabham,13,0,4,68,Accident
+1963,Dutch Grand Prix,Chris Amon,14,0,12,29,Water pump
+1963,Dutch Grand Prix,Giancarlo Baghetti,15,0,15,17,Ignition
+1963,Dutch Grand Prix,Phil Hill,16,0,13,15,Suspension
+1963,Dutch Grand Prix,Tony Maggs,17,0,9,14,Overheating
+1963,Dutch Grand Prix,Bruce McLaren,18,0,3,7,Gearbox
+1963,Dutch Grand Prix,Gerhard Mitter,19,0,16,2,Clutch
+1963,Dutch Grand Prix,Tony Settember,20,0,0,0,Withdrew
+1963,Dutch Grand Prix,Ian Burgess,21,0,0,0,Withdrew
+1963,French Grand Prix,Jim Clark,1,9,1,53,RAS
+1963,French Grand Prix,Tony Maggs,2,6,8,53,RAS
+1963,French Grand Prix,Graham Hill,3,0,2,53,RAS
+1963,French Grand Prix,Jack Brabham,4,3,5,53,RAS
+1963,French Grand Prix,Dan Gurney,5,2,3,53,RAS
+1963,French Grand Prix,Jo Siffert,6,1,10,52,RAS
+1963,French Grand Prix,Chris Amon,7,0,17,51,RAS
+1963,French Grand Prix,Maurice Trintignant,8,0,15,50,RAS
+1963,French Grand Prix,Innes Ireland,9,0,9,49,RAS
+1963,French Grand Prix,Lorenzo Bandini,10,0,21,45,RAS
+1963,French Grand Prix,Jim Hall,11,0,18,45,RAS
+1963,French Grand Prix,Bruce McLaren,12,0,6,42,Ignition
+1963,French Grand Prix,Trevor Taylor,13,0,7,41,Suspension
+1963,French Grand Prix,Phil Hill,14,0,13,34,Not classified
+1963,French Grand Prix,Jo Bonnier,15,0,11,32,Not classified
+1963,French Grand Prix,Masten Gregory,16,0,19,30,Gearbox
+1963,French Grand Prix,John Surtees,17,0,4,12,Fuel pump
+1963,French Grand Prix,Tony Settember,18,0,20,5,Wheel bearing
+1963,French Grand Prix,Richie Ginther,19,0,12,4,Radiator
+1963,French Grand Prix,Ludovico Scarfiotti,20,0,0,0,Withdrew
+1963,French Grand Prix,Peter Arundell,21,0,0,0,Withdrew
+1963,French Grand Prix,Giancarlo Baghetti,22,0,0,0,Withdrew
+1963,French Grand Prix,Ian Burgess,23,0,0,0,Withdrew
+1963,French Grand Prix,Nasif Estéfano,24,0,0,0,Withdrew
+1963,British Grand Prix,Jim Clark,1,9,1,82,RAS
+1963,British Grand Prix,John Surtees,2,6,5,82,RAS
+1963,British Grand Prix,Graham Hill,3,4,3,82,RAS
+1963,British Grand Prix,Richie Ginther,4,3,9,81,RAS
+1963,British Grand Prix,Lorenzo Bandini,5,2,8,81,RAS
+1963,British Grand Prix,Jim Hall,6,1,13,80,RAS
+1963,British Grand Prix,Chris Amon,7,0,14,80,RAS
+1963,British Grand Prix,Mike Hailwood,8,0,17,78,RAS
+1963,British Grand Prix,Tony Maggs,9,0,7,78,RAS
+1963,British Grand Prix,Carel Godin de Beaufort,10,0,21,76,RAS
+1963,British Grand Prix,Masten Gregory,11,0,22,75,RAS
+1963,British Grand Prix,Bob Anderson,12,0,16,75,RAS
+1963,British Grand Prix,John Campbell-Jones,13,0,23,74,RAS
+1963,British Grand Prix,Jo Siffert,14,0,15,66,Gearbox
+1963,British Grand Prix,Jo Bonnier,15,0,12,65,Oil pressure
+1963,British Grand Prix,Dan Gurney,16,0,2,59,Engine
+1963,British Grand Prix,Ian Raby,17,0,19,59,Gearbox
+1963,British Grand Prix,Ian Burgess,18,0,20,36,Ignition
+1963,British Grand Prix,Jack Brabham,19,0,4,27,Engine
+1963,British Grand Prix,Innes Ireland,20,0,11,26,Ignition
+1963,British Grand Prix,Trevor Taylor,21,0,10,23,Fuel pump
+1963,British Grand Prix,Tony Settember,22,0,18,20,Ignition
+1963,British Grand Prix,Bruce McLaren,23,0,6,6,Engine
+1963,British Grand Prix,Nasif Estéfano,24,0,0,0,Withdrew
+1963,British Grand Prix,Giancarlo Baghetti,25,0,0,0,Withdrew
+1963,British Grand Prix,Phil Hill,26,0,0,0,Withdrew
+1963,German Grand Prix,John Surtees,1,9,2,15,RAS
+1963,German Grand Prix,Jim Clark,2,6,1,15,RAS
+1963,German Grand Prix,Richie Ginther,3,4,6,15,RAS
+1963,German Grand Prix,Gerhard Mitter,4,3,15,15,RAS
+1963,German Grand Prix,Jim Hall,5,2,16,14,RAS
+1963,German Grand Prix,Jo Bonnier,6,1,12,14,RAS
+1963,German Grand Prix,Jack Brabham,7,0,8,14,RAS
+1963,German Grand Prix,Trevor Taylor,8,0,18,14,RAS
+1963,German Grand Prix,Jo Siffert,9,0,9,10,Differential
+1963,German Grand Prix,Bernard Collomb,10,0,21,10,RAS
+1963,German Grand Prix,Carel Godin de Beaufort,11,0,17,9,Wheel
+1963,German Grand Prix,Tony Maggs,12,0,10,7,Engine
+1963,German Grand Prix,Dan Gurney,13,0,13,6,Gearbox
+1963,German Grand Prix,Mário de Araújo Cabral,14,0,20,6,Gearbox
+1963,German Grand Prix,Ian Burgess,15,0,19,5,Steering
+1963,German Grand Prix,Tony Settember,16,0,22,5,Accident
+1963,German Grand Prix,Bruce McLaren,17,0,5,3,Accident
+1963,German Grand Prix,Graham Hill,18,0,4,2,Gearbox
+1963,German Grand Prix,Chris Amon,19,0,14,1,Accident
+1963,German Grand Prix,Willy Mairesse,20,0,7,1,Accident
+1963,German Grand Prix,Innes Ireland,21,0,11,1,Accident
+1963,German Grand Prix,Lorenzo Bandini,22,0,3,0,Accident
+1963,German Grand Prix,Phil Hill,27,0,0,0,Withdrew
+1963,German Grand Prix,Giancarlo Baghetti,28,0,0,0,Withdrew
+1963,German Grand Prix,Masten Gregory,29,0,0,0,Withdrew
+1963,Italian Grand Prix,Jim Clark,1,9,3,86,RAS
+1963,Italian Grand Prix,Richie Ginther,2,6,4,86,RAS
+1963,Italian Grand Prix,Bruce McLaren,3,4,8,85,RAS
+1963,Italian Grand Prix,Innes Ireland,4,3,10,84,Engine
+1963,Italian Grand Prix,Jack Brabham,5,2,7,84,RAS
+1963,Italian Grand Prix,Tony Maggs,6,1,13,84,RAS
+1963,Italian Grand Prix,Jo Bonnier,7,0,11,84,RAS
+1963,Italian Grand Prix,Jim Hall,8,0,17,84,RAS
+1963,Italian Grand Prix,Maurice Trintignant,9,0,20,83,RAS
+1963,Italian Grand Prix,Mike Hailwood,10,0,18,82,RAS
+1963,Italian Grand Prix,Phil Hill,11,0,14,79,RAS
+1963,Italian Grand Prix,Bob Anderson,12,0,19,79,RAS
+1963,Italian Grand Prix,Mike Spence,13,0,9,73,Oil pressure
+1963,Italian Grand Prix,Dan Gurney,14,0,5,64,Fuel system
+1963,Italian Grand Prix,Giancarlo Baghetti,15,0,25,63,RAS
+1963,Italian Grand Prix,Graham Hill,16,0,2,59,Clutch
+1963,Italian Grand Prix,Jo Siffert,17,0,16,40,Oil pressure
+1963,Italian Grand Prix,Lorenzo Bandini,18,0,6,37,Gearbox
+1963,Italian Grand Prix,Masten Gregory,19,0,12,26,Engine
+1963,Italian Grand Prix,John Surtees,20,0,1,16,Engine
+1963,Italian Grand Prix,Chris Amon,21,0,0,0,Withdrew
+1963,Italian Grand Prix,Gerhard Mitter,29,0,0,0,Withdrew
+1963,Italian Grand Prix,Ian Burgess,30,0,0,0,Withdrew
+1963,Italian Grand Prix,Günther Seiffert,31,0,0,0,Withdrew
+1963,Italian Grand Prix,Carlo Abate,32,0,0,0,Withdrew
+1963,Italian Grand Prix,Gaetano Starrabba,33,0,0,0,Withdrew
+1963,United States Grand Prix,Graham Hill,1,9,1,110,RAS
+1963,United States Grand Prix,Richie Ginther,2,6,4,110,RAS
+1963,United States Grand Prix,Jim Clark,3,4,2,109,RAS
+1963,United States Grand Prix,Jack Brabham,4,3,5,108,RAS
+1963,United States Grand Prix,Lorenzo Bandini,5,2,9,106,RAS
+1963,United States Grand Prix,Carel Godin de Beaufort,6,1,19,99,RAS
+1963,United States Grand Prix,Peter Broeker,7,0,21,88,RAS
+1963,United States Grand Prix,Jo Bonnier,8,0,12,85,RAS
+1963,United States Grand Prix,John Surtees,9,0,3,82,Engine
+1963,United States Grand Prix,Jim Hall,10,0,16,76,Gearbox
+1963,United States Grand Prix,Bruce McLaren,11,0,11,74,Fuel pump
+1963,United States Grand Prix,Jo Siffert,12,0,14,56,Gearbox
+1963,United States Grand Prix,Tony Maggs,13,0,10,44,Ignition
+1963,United States Grand Prix,Rodger Ward,14,0,17,44,Gearbox
+1963,United States Grand Prix,Dan Gurney,15,0,6,42,Chassis
+1963,United States Grand Prix,Pedro Rodríguez,16,0,13,36,Engine
+1963,United States Grand Prix,Trevor Taylor,17,0,7,24,Electrical
+1963,United States Grand Prix,Masten Gregory,18,0,8,14,Engine
+1963,United States Grand Prix,Hap Sharp,19,0,18,6,DNF
+1963,United States Grand Prix,Phil Hill,20,0,15,4,Oil pump
+1963,United States Grand Prix,Giancarlo Baghetti,21,0,20,0,Oil pump
+1963,United States Grand Prix,Walt Hansgen,22,0,0,0,Withdrew
+1963,United States Grand Prix,Innes Ireland,23,0,0,0,Withdrew
+1963,United States Grand Prix,Ernie de Vos,24,0,0,0,Withdrew
+1963,Mexican Grand Prix,Jim Clark,1,9,1,65,RAS
+1963,Mexican Grand Prix,Jack Brabham,2,6,10,65,RAS
+1963,Mexican Grand Prix,Richie Ginther,3,4,5,65,RAS
+1963,Mexican Grand Prix,Graham Hill,4,3,3,64,RAS
+1963,Mexican Grand Prix,Jo Bonnier,5,2,8,62,RAS
+1963,Mexican Grand Prix,Dan Gurney,6,1,4,62,RAS
+1963,Mexican Grand Prix,Hap Sharp,7,0,16,61,RAS
+1963,Mexican Grand Prix,Jim Hall,8,0,15,61,RAS
+1963,Mexican Grand Prix,Jo Siffert,9,0,9,59,RAS
+1963,Mexican Grand Prix,Carel Godin de Beaufort,10,0,18,58,RAS
+1963,Mexican Grand Prix,Moisés Solana,11,0,11,57,Engine
+1963,Mexican Grand Prix,Phil Hill,12,0,17,46,Suspension
+1963,Mexican Grand Prix,Lorenzo Bandini,13,0,7,36,Ignition
+1963,Mexican Grand Prix,Bruce McLaren,14,0,6,30,Engine
+1963,Mexican Grand Prix,Pedro Rodríguez,15,0,20,26,Suspension
+1963,Mexican Grand Prix,Masten Gregory,16,0,14,23,Suspension
+1963,Mexican Grand Prix,John Surtees,17,0,2,19,DQ
+1963,Mexican Grand Prix,Trevor Taylor,18,0,12,19,Engine
+1963,Mexican Grand Prix,Giancarlo Baghetti,19,0,21,12,Engine
+1963,Mexican Grand Prix,Chris Amon,20,0,19,9,Gearbox
+1963,Mexican Grand Prix,Tony Maggs,21,0,13,7,Engine
+1963,Mexican Grand Prix,Frank Dochnal,22,0,0,0,Withdrew
+1963,Mexican Grand Prix,Walt Hansgen,23,0,0,0,Withdrew
+1963,Mexican Grand Prix,Innes Ireland,24,0,0,0,Withdrew
+1963,Mexican Grand Prix,Thomas Monarch,25,0,0,0,Withdrew
+1963,South African Grand Prix,Jim Clark,1,9,1,85,RAS
+1963,South African Grand Prix,Dan Gurney,2,6,3,85,RAS
+1963,South African Grand Prix,Graham Hill,3,4,6,84,RAS
+1963,South African Grand Prix,Bruce McLaren,4,3,9,84,RAS
+1963,South African Grand Prix,Lorenzo Bandini,5,2,5,84,RAS
+1963,South African Grand Prix,Jo Bonnier,6,1,11,83,RAS
+1963,South African Grand Prix,Tony Maggs,7,0,10,82,RAS
+1963,South African Grand Prix,Trevor Taylor,8,0,8,81,RAS
+1963,South African Grand Prix,John Love,9,0,13,80,RAS
+1963,South African Grand Prix,Carel Godin de Beaufort,10,0,20,79,RAS
+1963,South African Grand Prix,Doug Serrurier,11,0,18,78,RAS
+1963,South African Grand Prix,Trevor Blokdyk,12,0,19,77,RAS
+1963,South African Grand Prix,Jack Brabham,13,0,2,70,Accident
+1963,South African Grand Prix,Brausch Niemann,14,0,15,66,RAS
+1963,South African Grand Prix,Peter de Klerk,15,0,16,53,Gearbox
+1963,South African Grand Prix,David Prophet,16,0,14,49,Oil pressure
+1963,South African Grand Prix,John Surtees,17,0,4,43,Engine
+1963,South African Grand Prix,Richie Ginther,18,0,7,43,Halfshaft
+1963,South African Grand Prix,Ernie Pieterse,19,0,12,3,Engine
+1963,South African Grand Prix,Sam Tingle,20,0,17,2,Halfshaft
+1963,South African Grand Prix,Paddy Driver,21,0,0,0,Accident
+1963,South African Grand Prix,Neville Lederle,22,0,0,0,Withdrew
+1963,South African Grand Prix,Mike Hailwood,23,0,0,0,Withdrew

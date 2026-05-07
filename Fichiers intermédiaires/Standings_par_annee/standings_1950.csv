@@ -1,0 +1,161 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1950,British Grand Prix,Nino Farina,1,9,1,70,RAS
+1950,British Grand Prix,Luigi Fagioli,2,6,2,70,RAS
+1950,British Grand Prix,Reg Parnell,3,4,4,70,RAS
+1950,British Grand Prix,Yves Cabantous,4,3,6,68,RAS
+1950,British Grand Prix,Louis Rosier,5,2,9,68,RAS
+1950,British Grand Prix,Bob Gerard,6,0,13,67,RAS
+1950,British Grand Prix,Cuth Harrison,7,0,15,67,RAS
+1950,British Grand Prix,Philippe Étancelin,8,0,14,65,RAS
+1950,British Grand Prix,David Hampshire,9,0,16,64,RAS
+1950,British Grand Prix,Joe Fry,10,0,20,64,RAS
+1950,British Grand Prix,Brian Shawe Taylor,10,0,20,64,RAS
+1950,British Grand Prix,Johnny Claes,11,0,21,64,RAS
+1950,British Grand Prix,Juan Fangio,12,0,3,62,Oil leak
+1950,British Grand Prix,Joe Kelly,13,0,19,57,Not classified
+1950,British Grand Prix,Prince Bira,14,0,5,49,Out of fuel
+1950,British Grand Prix,David Murray,15,0,18,44,Engine
+1950,British Grand Prix,Geoff Crossley,16,0,17,43,Transmission
+1950,British Grand Prix,Toulo de Graffenried,17,0,8,36,Engine
+1950,British Grand Prix,Louis Chiron,18,0,11,26,Clutch
+1950,British Grand Prix,Eugène Martin,19,0,7,8,Oil pressure
+1950,British Grand Prix,Tony Rolt,20,0,10,5,Gearbox
+1950,British Grand Prix,Peter Walker,20,0,10,5,Gearbox
+1950,British Grand Prix,Leslie Johnson,21,0,12,2,Supercharger
+1950,Monaco Grand Prix,Juan Fangio,1,9,1,100,RAS
+1950,Monaco Grand Prix,Alberto Ascari,2,6,7,99,RAS
+1950,Monaco Grand Prix,Louis Chiron,3,4,8,98,RAS
+1950,Monaco Grand Prix,Raymond Sommer,4,3,9,97,RAS
+1950,Monaco Grand Prix,Prince Bira,5,2,15,95,RAS
+1950,Monaco Grand Prix,Bob Gerard,6,0,16,94,RAS
+1950,Monaco Grand Prix,Johnny Claes,7,0,19,94,RAS
+1950,Monaco Grand Prix,Luigi Villoresi,8,0,6,63,Axle
+1950,Monaco Grand Prix,Philippe Étancelin,9,0,4,38,Oil leak
+1950,Monaco Grand Prix,José Froilán González,10,0,3,1,Accident
+1950,Monaco Grand Prix,Nino Farina,11,0,2,0,Accident
+1950,Monaco Grand Prix,Luigi Fagioli,12,0,5,0,Accident
+1950,Monaco Grand Prix,Louis Rosier,13,0,10,0,Accident
+1950,Monaco Grand Prix,Robert Manzon,14,0,11,0,Accident
+1950,Monaco Grand Prix,Toulo de Graffenried,15,0,12,0,Accident
+1950,Monaco Grand Prix,Maurice Trintignant,16,0,13,0,Accident
+1950,Monaco Grand Prix,Cuth Harrison,17,0,14,0,Accident
+1950,Monaco Grand Prix,Franco Rol,18,0,17,0,Accident
+1950,Monaco Grand Prix,Harry Schell,19,0,20,0,Collision
+1950,Monaco Grand Prix,Peter Whitehead,20,0,21,0,Engine
+1950,Monaco Grand Prix,Alfredo Pián,21,0,18,0,Accident
+1950,Indianapolis 500,Johnnie Parsons,1,9,5,138,RAS
+1950,Indianapolis 500,Bill Holland,2,6,10,137,RAS
+1950,Indianapolis 500,Mauri Rose,3,4,3,137,RAS
+1950,Indianapolis 500,Cecil Green,4,3,12,137,RAS
+1950,Indianapolis 500,Tony Bettenhausen,5,1,9,136,RAS
+1950,Indianapolis 500,Joie Chitwood,5,1,9,136,RAS
+1950,Indianapolis 500,Lee Wallard,6,0,23,136,RAS
+1950,Indianapolis 500,Walt Faulkner,7,0,1,135,RAS
+1950,Indianapolis 500,George Connor,8,0,4,135,RAS
+1950,Indianapolis 500,Paul Russo,9,0,19,135,RAS
+1950,Indianapolis 500,Pat Flaherty,10,0,11,135,RAS
+1950,Indianapolis 500,Myron Fohr,11,0,16,133,RAS
+1950,Indianapolis 500,Duane Carter,12,0,13,133,RAS
+1950,Indianapolis 500,Mack Hellings,13,0,26,132,RAS
+1950,Indianapolis 500,Jack McGrath,14,0,6,131,Spun off
+1950,Indianapolis 500,Troy Ruttman,15,0,24,130,RAS
+1950,Indianapolis 500,Gene Hartley,16,0,31,128,RAS
+1950,Indianapolis 500,Jimmy Davies,17,0,27,128,RAS
+1950,Indianapolis 500,Johnny McDowell,18,0,33,128,RAS
+1950,Indianapolis 500,Walt Brown,19,0,20,127,RAS
+1950,Indianapolis 500,Travis Webb,20,0,14,126,RAS
+1950,Indianapolis 500,Jerry Hoyt,21,0,15,125,RAS
+1950,Indianapolis 500,Walt Ader,22,0,29,123,RAS
+1950,Indianapolis 500,Jackie Holmes,23,0,30,123,Spun off
+1950,Indianapolis 500,Jim Rathmann,24,0,28,122,RAS
+1950,Indianapolis 500,Henry Banks,25,0,21,112,Oil line
+1950,Indianapolis 500,Bill Schindler,26,0,22,111,Transmission
+1950,Indianapolis 500,Bayliss Levrett,27,0,17,108,Oil pressure
+1950,Indianapolis 500,Bill Cantrell,27,0,17,108,Oil pressure
+1950,Indianapolis 500,Fred Agabashian,28,0,2,64,Oil leak
+1950,Indianapolis 500,Jimmy Jackson,29,0,32,52,Supercharger
+1950,Indianapolis 500,Sam Hanks,30,0,25,42,Oil pressure
+1950,Indianapolis 500,Tony Bettenhausen,31,0,8,30,Wheel bearing
+1950,Indianapolis 500,Dick Rathmann,32,0,18,25,Stalled
+1950,Indianapolis 500,Duke Dinsmore,33,0,7,10,Oil leak
+1950,Swiss Grand Prix,Nino Farina,1,9,2,42,RAS
+1950,Swiss Grand Prix,Luigi Fagioli,2,6,3,42,RAS
+1950,Swiss Grand Prix,Louis Rosier,3,4,10,41,RAS
+1950,Swiss Grand Prix,Prince Bira,4,3,8,40,RAS
+1950,Swiss Grand Prix,Felice Bonetto,5,2,12,40,RAS
+1950,Swiss Grand Prix,Toulo de Graffenried,6,0,11,40,RAS
+1950,Swiss Grand Prix,Nello Pagani,7,0,15,39,RAS
+1950,Swiss Grand Prix,Harry Schell,8,0,18,39,RAS
+1950,Swiss Grand Prix,Louis Chiron,9,0,16,39,RAS
+1950,Swiss Grand Prix,Johnny Claes,10,0,14,38,RAS
+1950,Swiss Grand Prix,Toni Branca,11,0,17,35,RAS
+1950,Swiss Grand Prix,Juan Fangio,12,0,1,32,Engine
+1950,Swiss Grand Prix,Philippe Étancelin,13,0,6,25,Gearbox
+1950,Swiss Grand Prix,Eugène Martin,14,0,9,19,Accident
+1950,Swiss Grand Prix,Raymond Sommer,15,0,13,19,Suspension
+1950,Swiss Grand Prix,Luigi Villoresi,16,0,4,9,Engine
+1950,Swiss Grand Prix,Alberto Ascari,17,0,5,4,Oil pump
+1950,Swiss Grand Prix,Yves Cabantous,18,0,7,0,Accident
+1950,Belgian Grand Prix,Juan Fangio,1,8,2,35,RAS
+1950,Belgian Grand Prix,Luigi Fagioli,2,6,3,35,RAS
+1950,Belgian Grand Prix,Louis Rosier,3,4,8,35,RAS
+1950,Belgian Grand Prix,Nino Farina,4,4,1,35,RAS
+1950,Belgian Grand Prix,Alberto Ascari,5,2,7,34,RAS
+1950,Belgian Grand Prix,Luigi Villoresi,6,0,4,33,RAS
+1950,Belgian Grand Prix,Pierre Levegh,7,0,10,33,RAS
+1950,Belgian Grand Prix,Johnny Claes,8,0,14,22,RAS
+1950,Belgian Grand Prix,Geoff Crossley,9,0,12,30,RAS
+1950,Belgian Grand Prix,Toni Branca,10,0,11,29,RAS
+1950,Belgian Grand Prix,Eugène Chaboud,11,0,13,22,Oil pipe
+1950,Belgian Grand Prix,Raymond Sommer,12,0,5,20,Oil pressure
+1950,Belgian Grand Prix,Philippe Étancelin,13,0,6,15,Overheating
+1950,Belgian Grand Prix,Yves Cabantous,14,0,9,2,Oil pipe
+1950,French Grand Prix,Juan Fangio,1,9,1,64,RAS
+1950,French Grand Prix,Luigi Fagioli,2,6,3,64,RAS
+1950,French Grand Prix,Peter Whitehead,3,4,18,61,RAS
+1950,French Grand Prix,Robert Manzon,4,3,12,61,RAS
+1950,French Grand Prix,Philippe Étancelin,5,1,4,59,RAS
+1950,French Grand Prix,Eugène Chaboud,5,1,4,59,RAS
+1950,French Grand Prix,Louis Rosier,6,0,15,56,RAS
+1950,French Grand Prix,Charles Pozzi,6,0,15,56,RAS
+1950,French Grand Prix,Nino Farina,7,0,2,55,Fuel pump
+1950,French Grand Prix,Yves Cabantous,8,0,5,52,RAS
+1950,French Grand Prix,Pierre Levegh,9,0,9,36,Engine
+1950,French Grand Prix,Felice Bonetto,10,0,10,14,Engine
+1950,French Grand Prix,Johnny Claes,11,0,14,11,Overheating
+1950,French Grand Prix,Louis Rosier,12,0,6,10,Overheating
+1950,French Grand Prix,Reg Parnell,13,0,11,9,Engine
+1950,French Grand Prix,Franco Rol,14,0,7,6,Engine
+1950,French Grand Prix,Louis Chiron,15,0,13,6,Engine
+1950,French Grand Prix,David Hampshire,16,0,17,5,Engine
+1950,French Grand Prix,Raymond Sommer,17,0,16,4,Overheating
+1950,French Grand Prix,José Froilán González,18,0,8,3,Engine
+1950,Italian Grand Prix,Nino Farina,1,8,3,80,RAS
+1950,Italian Grand Prix,Dorino Serafini,2,3,6,80,RAS
+1950,Italian Grand Prix,Alberto Ascari,2,3,6,80,RAS
+1950,Italian Grand Prix,Luigi Fagioli,3,4,5,80,RAS
+1950,Italian Grand Prix,Louis Rosier,4,3,13,75,RAS
+1950,Italian Grand Prix,Philippe Étancelin,5,2,16,75,RAS
+1950,Italian Grand Prix,Toulo de Graffenried,6,0,17,72,RAS
+1950,Italian Grand Prix,Peter Whitehead,7,0,18,72,RAS
+1950,Italian Grand Prix,David Murray,8,0,24,56,Gearbox
+1950,Italian Grand Prix,Cuth Harrison,9,0,21,51,Radiator
+1950,Italian Grand Prix,Raymond Sommer,10,0,8,48,Gearbox
+1950,Italian Grand Prix,Guy Mairesse,11,0,11,42,Oil pipe
+1950,Italian Grand Prix,Franco Rol,12,0,9,39,DNF
+1950,Italian Grand Prix,Juan Fangio,13,0,7,34,Engine
+1950,Italian Grand Prix,Piero Taruffi,13,0,7,34,Engine
+1950,Italian Grand Prix,Pierre Levegh,14,0,20,29,Gearbox
+1950,Italian Grand Prix,Juan Fangio,15,1,1,23,Gearbox
+1950,Italian Grand Prix,Johnny Claes,16,0,22,22,Overheating
+1950,Italian Grand Prix,Alberto Ascari,17,0,2,21,Engine
+1950,Italian Grand Prix,Clemente Biondetti,18,0,25,17,Engine
+1950,Italian Grand Prix,Henri Louveau,19,0,16,16,Brakes
+1950,Italian Grand Prix,Franco Comotti,20,0,26,15,DNF
+1950,Italian Grand Prix,Maurice Trintignant,21,0,12,13,Water pipe
+1950,Italian Grand Prix,Louis Chiron,22,0,19,13,Oil pressure
+1950,Italian Grand Prix,Consalvo Sanesi,23,0,4,11,Engine
+1950,Italian Grand Prix,Robert Manzon,24,0,10,7,Transmission
+1950,Italian Grand Prix,Prince Bira,25,0,15,1,Engine
+1950,Italian Grand Prix,Paul Pietsch,26,0,27,0,Engine
+1950,Italian Grand Prix,Felice Bonetto,27,0,23,0,Withdrew

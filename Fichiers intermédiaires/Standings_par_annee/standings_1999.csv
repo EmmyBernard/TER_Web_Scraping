@@ -1,0 +1,352 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1999,Australian Grand Prix,Eddie Irvine,1,10,6,57,RAS
+1999,Australian Grand Prix,Heinz-Harald Frentzen,2,6,5,57,RAS
+1999,Australian Grand Prix,Ralf Schumacher,3,4,8,57,RAS
+1999,Australian Grand Prix,Giancarlo Fisichella,4,3,7,57,RAS
+1999,Australian Grand Prix,Rubens Barrichello,5,2,4,57,RAS
+1999,Australian Grand Prix,Pedro de la Rosa,6,1,18,57,RAS
+1999,Australian Grand Prix,Toranosuke Takagi,7,0,17,57,RAS
+1999,Australian Grand Prix,Michael Schumacher,8,0,3,56,RAS
+1999,Australian Grand Prix,Ricardo Zonta,9,0,19,48,Gearbox
+1999,Australian Grand Prix,Luca Badoer,10,0,21,42,Gearbox
+1999,Australian Grand Prix,Alexander Wurz,11,0,10,28,Suspension
+1999,Australian Grand Prix,Pedro Diniz,12,0,14,27,Transmission
+1999,Australian Grand Prix,Marc Gené,13,0,22,25,Collision
+1999,Australian Grand Prix,Jarno Trulli,14,0,12,25,Collision
+1999,Australian Grand Prix,Olivier Panis,15,0,20,23,Wheel
+1999,Australian Grand Prix,Mika Häkkinen,16,0,1,21,Throttle
+1999,Australian Grand Prix,Alessandro Zanardi,17,0,15,20,Spun off
+1999,Australian Grand Prix,David Coulthard,18,0,2,13,Hydraulics
+1999,Australian Grand Prix,Jacques Villeneuve,19,0,11,13,Rear wing
+1999,Australian Grand Prix,Damon Hill,20,0,9,0,Collision
+1999,Australian Grand Prix,Jean Alesi,21,0,16,0,Gearbox
+1999,Australian Grand Prix,Johnny Herbert,22,0,13,0,Fire
+1999,Brazilian Grand Prix,Mika Häkkinen,1,10,1,72,RAS
+1999,Brazilian Grand Prix,Michael Schumacher,2,6,4,72,RAS
+1999,Brazilian Grand Prix,Heinz-Harald Frentzen,3,4,8,71,Out of fuel
+1999,Brazilian Grand Prix,Ralf Schumacher,4,3,11,71,RAS
+1999,Brazilian Grand Prix,Eddie Irvine,5,2,6,71,RAS
+1999,Brazilian Grand Prix,Olivier Panis,6,1,12,71,RAS
+1999,Brazilian Grand Prix,Alexander Wurz,7,0,9,70,RAS
+1999,Brazilian Grand Prix,Toranosuke Takagi,8,0,19,69,RAS
+1999,Brazilian Grand Prix,Marc Gené,9,0,20,69,RAS
+1999,Brazilian Grand Prix,Pedro de la Rosa,10,0,17,52,Hydraulics
+1999,Brazilian Grand Prix,Jacques Villeneuve,11,0,21,49,Hydraulics
+1999,Brazilian Grand Prix,Alessandro Zanardi,12,0,16,43,Gearbox
+1999,Brazilian Grand Prix,Rubens Barrichello,13,0,3,42,Engine
+1999,Brazilian Grand Prix,Pedro Diniz,14,0,15,42,Collision
+1999,Brazilian Grand Prix,Giancarlo Fisichella,15,0,5,38,Clutch
+1999,Brazilian Grand Prix,Stéphane Sarrazin,16,0,18,31,Spun off
+1999,Brazilian Grand Prix,Jean Alesi,17,0,14,27,Gearbox
+1999,Brazilian Grand Prix,David Coulthard,18,0,2,22,Gearbox
+1999,Brazilian Grand Prix,Jarno Trulli,19,0,13,21,Gearbox
+1999,Brazilian Grand Prix,Johnny Herbert,20,0,10,15,Hydraulics
+1999,Brazilian Grand Prix,Damon Hill,21,0,7,10,Collision
+1999,San Marino Grand Prix,Michael Schumacher,1,10,3,62,RAS
+1999,San Marino Grand Prix,David Coulthard,2,6,2,62,RAS
+1999,San Marino Grand Prix,Rubens Barrichello,3,4,6,61,RAS
+1999,San Marino Grand Prix,Damon Hill,4,3,8,61,RAS
+1999,San Marino Grand Prix,Giancarlo Fisichella,5,2,16,61,RAS
+1999,San Marino Grand Prix,Jean Alesi,6,1,13,61,RAS
+1999,San Marino Grand Prix,Mika Salo,7,0,19,59,RAS
+1999,San Marino Grand Prix,Luca Badoer,8,0,22,59,RAS
+1999,San Marino Grand Prix,Marc Gené,9,0,21,59,RAS
+1999,San Marino Grand Prix,Johnny Herbert,10,0,12,58,Engine
+1999,San Marino Grand Prix,Alessandro Zanardi,11,0,10,58,Spun off
+1999,San Marino Grand Prix,Pedro Diniz,12,0,15,49,Spun off
+1999,San Marino Grand Prix,Olivier Panis,13,0,11,48,Throttle
+1999,San Marino Grand Prix,Eddie Irvine,14,0,4,46,Engine
+1999,San Marino Grand Prix,Heinz-Harald Frentzen,15,0,7,46,Spun off
+1999,San Marino Grand Prix,Toranosuke Takagi,16,0,20,29,Fuel pressure
+1999,San Marino Grand Prix,Ralf Schumacher,17,0,9,28,Throttle
+1999,San Marino Grand Prix,Mika Häkkinen,18,0,1,17,Spun off
+1999,San Marino Grand Prix,Pedro de la Rosa,19,0,18,5,Spun off
+1999,San Marino Grand Prix,Alexander Wurz,20,0,17,5,Spun off
+1999,San Marino Grand Prix,Jacques Villeneuve,21,0,14,0,Gearbox
+1999,San Marino Grand Prix,Jarno Trulli,22,0,5,0,Spun off
+1999,Monaco Grand Prix,Michael Schumacher,1,10,2,78,RAS
+1999,Monaco Grand Prix,Eddie Irvine,2,6,4,78,RAS
+1999,Monaco Grand Prix,Mika Häkkinen,3,4,1,78,RAS
+1999,Monaco Grand Prix,Heinz-Harald Frentzen,4,3,6,78,RAS
+1999,Monaco Grand Prix,Giancarlo Fisichella,5,2,9,77,RAS
+1999,Monaco Grand Prix,Alexander Wurz,6,1,10,77,RAS
+1999,Monaco Grand Prix,Jarno Trulli,7,0,7,77,RAS
+1999,Monaco Grand Prix,Alessandro Zanardi,8,0,11,76,RAS
+1999,Monaco Grand Prix,Rubens Barrichello,9,0,5,71,Spun off
+1999,Monaco Grand Prix,Ralf Schumacher,10,0,16,54,Spun off
+1999,Monaco Grand Prix,Jean Alesi,11,0,14,50,Suspension
+1999,Monaco Grand Prix,Pedro Diniz,12,0,15,49,Suspension
+1999,Monaco Grand Prix,Olivier Panis,13,0,18,40,Engine
+1999,Monaco Grand Prix,David Coulthard,14,0,3,36,Gearbox
+1999,Monaco Grand Prix,Mika Salo,15,0,12,36,Brakes
+1999,Monaco Grand Prix,Toranosuke Takagi,16,0,19,36,Engine
+1999,Monaco Grand Prix,Jacques Villeneuve,17,0,8,32,Oil leak
+1999,Monaco Grand Prix,Johnny Herbert,18,0,13,32,Suspension
+1999,Monaco Grand Prix,Pedro de la Rosa,19,0,21,30,Gearbox
+1999,Monaco Grand Prix,Marc Gené,20,0,22,24,Spun off
+1999,Monaco Grand Prix,Luca Badoer,21,0,20,10,Gearbox
+1999,Monaco Grand Prix,Damon Hill,22,0,17,3,Collision
+1999,Spanish Grand Prix,Mika Häkkinen,1,10,1,65,RAS
+1999,Spanish Grand Prix,David Coulthard,2,6,3,65,RAS
+1999,Spanish Grand Prix,Michael Schumacher,3,4,4,65,RAS
+1999,Spanish Grand Prix,Eddie Irvine,4,3,2,65,RAS
+1999,Spanish Grand Prix,Ralf Schumacher,5,2,10,65,RAS
+1999,Spanish Grand Prix,Jarno Trulli,6,1,9,64,RAS
+1999,Spanish Grand Prix,Damon Hill,7,0,11,64,RAS
+1999,Spanish Grand Prix,Mika Salo,8,0,16,64,RAS
+1999,Spanish Grand Prix,Giancarlo Fisichella,9,0,13,64,RAS
+1999,Spanish Grand Prix,Alexander Wurz,10,0,18,64,RAS
+1999,Spanish Grand Prix,Pedro de la Rosa,11,0,19,63,RAS
+1999,Spanish Grand Prix,Toranosuke Takagi,12,0,20,62,RAS
+1999,Spanish Grand Prix,Luca Badoer,13,0,22,50,Spun off
+1999,Spanish Grand Prix,Jacques Villeneuve,14,0,6,40,Gearbox
+1999,Spanish Grand Prix,Pedro Diniz,15,0,12,40,Transmission
+1999,Spanish Grand Prix,Johnny Herbert,16,0,14,40,Transmission
+1999,Spanish Grand Prix,Heinz-Harald Frentzen,17,0,8,35,Halfshaft
+1999,Spanish Grand Prix,Jean Alesi,18,0,5,27,Transmission
+1999,Spanish Grand Prix,Alessandro Zanardi,19,0,17,24,Gearbox
+1999,Spanish Grand Prix,Olivier Panis,20,0,15,24,Gearbox
+1999,Spanish Grand Prix,Marc Gené,21,0,21,0,Gearbox
+1999,Spanish Grand Prix,Rubens Barrichello,22,0,7,64,DQ
+1999,Canadian Grand Prix,Mika Häkkinen,1,10,2,69,RAS
+1999,Canadian Grand Prix,Giancarlo Fisichella,2,6,7,69,RAS
+1999,Canadian Grand Prix,Eddie Irvine,3,4,3,69,RAS
+1999,Canadian Grand Prix,Ralf Schumacher,4,3,13,69,RAS
+1999,Canadian Grand Prix,Johnny Herbert,5,2,10,69,RAS
+1999,Canadian Grand Prix,Pedro Diniz,6,1,18,69,RAS
+1999,Canadian Grand Prix,David Coulthard,7,0,4,69,RAS
+1999,Canadian Grand Prix,Marc Gené,8,0,22,68,RAS
+1999,Canadian Grand Prix,Olivier Panis,9,0,15,68,RAS
+1999,Canadian Grand Prix,Luca Badoer,10,0,21,67,RAS
+1999,Canadian Grand Prix,Heinz-Harald Frentzen,11,0,6,65,Brakes
+1999,Canadian Grand Prix,Alessandro Zanardi,12,0,12,50,Brakes
+1999,Canadian Grand Prix,Toranosuke Takagi,13,0,19,41,Transmission
+1999,Canadian Grand Prix,Jacques Villeneuve,14,0,16,34,Spun off
+1999,Canadian Grand Prix,Michael Schumacher,15,0,1,29,Spun off
+1999,Canadian Grand Prix,Pedro de la Rosa,16,0,20,22,Transmission
+1999,Canadian Grand Prix,Damon Hill,17,0,14,14,Spun off
+1999,Canadian Grand Prix,Rubens Barrichello,18,0,5,14,Steering
+1999,Canadian Grand Prix,Ricardo Zonta,19,0,17,2,Spun off
+1999,Canadian Grand Prix,Jean Alesi,20,0,8,0,Collision
+1999,Canadian Grand Prix,Jarno Trulli,21,0,9,0,Collision
+1999,Canadian Grand Prix,Alexander Wurz,22,0,11,0,Transmission
+1999,French Grand Prix,Heinz-Harald Frentzen,1,10,5,72,RAS
+1999,French Grand Prix,Mika Häkkinen,2,6,14,72,RAS
+1999,French Grand Prix,Rubens Barrichello,3,4,1,72,RAS
+1999,French Grand Prix,Ralf Schumacher,4,3,16,72,RAS
+1999,French Grand Prix,Michael Schumacher,5,2,6,72,RAS
+1999,French Grand Prix,Eddie Irvine,6,1,17,72,RAS
+1999,French Grand Prix,Jarno Trulli,7,0,8,72,RAS
+1999,French Grand Prix,Olivier Panis,8,0,3,72,RAS
+1999,French Grand Prix,Ricardo Zonta,9,0,10,72,RAS
+1999,French Grand Prix,Luca Badoer,10,0,20,71,RAS
+1999,French Grand Prix,Pedro de la Rosa,11,0,21,71,RAS
+1999,French Grand Prix,Giancarlo Fisichella,12,0,7,42,Spun off
+1999,French Grand Prix,Damon Hill,13,0,18,31,Electrical
+1999,French Grand Prix,Alessandro Zanardi,14,0,15,26,Engine
+1999,French Grand Prix,Jacques Villeneuve,15,0,12,25,Spun off
+1999,French Grand Prix,Alexander Wurz,16,0,13,25,Spun off
+1999,French Grand Prix,Marc Gené,17,0,19,25,Spun off
+1999,French Grand Prix,Jean Alesi,18,0,2,24,Spun off
+1999,French Grand Prix,David Coulthard,19,0,4,9,Electrical
+1999,French Grand Prix,Pedro Diniz,20,0,11,6,Transmission
+1999,French Grand Prix,Johnny Herbert,21,0,9,4,Gearbox
+1999,French Grand Prix,Toranosuke Takagi,22,0,22,71,DQ
+1999,British Grand Prix,David Coulthard,1,10,3,60,RAS
+1999,British Grand Prix,Eddie Irvine,2,6,4,60,RAS
+1999,British Grand Prix,Ralf Schumacher,3,4,8,60,RAS
+1999,British Grand Prix,Heinz-Harald Frentzen,4,3,5,60,RAS
+1999,British Grand Prix,Damon Hill,5,2,6,60,RAS
+1999,British Grand Prix,Pedro Diniz,6,1,12,60,RAS
+1999,British Grand Prix,Giancarlo Fisichella,7,0,17,60,RAS
+1999,British Grand Prix,Rubens Barrichello,8,0,7,60,RAS
+1999,British Grand Prix,Jarno Trulli,9,0,14,60,RAS
+1999,British Grand Prix,Alexander Wurz,10,0,18,60,RAS
+1999,British Grand Prix,Alessandro Zanardi,11,0,13,60,RAS
+1999,British Grand Prix,Johnny Herbert,12,0,11,60,RAS
+1999,British Grand Prix,Olivier Panis,13,0,15,60,RAS
+1999,British Grand Prix,Jean Alesi,14,0,10,59,RAS
+1999,British Grand Prix,Marc Gené,15,0,22,58,RAS
+1999,British Grand Prix,Toranosuke Takagi,16,0,19,58,RAS
+1999,British Grand Prix,Ricardo Zonta,17,0,16,41,Suspension
+1999,British Grand Prix,Mika Häkkinen,18,0,1,35,Wheel
+1999,British Grand Prix,Jacques Villeneuve,19,0,9,29,Halfshaft
+1999,British Grand Prix,Luca Badoer,20,0,21,6,Gearbox
+1999,British Grand Prix,Pedro de la Rosa,21,0,20,0,Gearbox
+1999,British Grand Prix,Michael Schumacher,22,0,2,0,Brakes
+1999,Austrian Grand Prix,Eddie Irvine,1,10,3,71,RAS
+1999,Austrian Grand Prix,David Coulthard,2,6,2,71,RAS
+1999,Austrian Grand Prix,Mika Häkkinen,3,4,1,71,RAS
+1999,Austrian Grand Prix,Heinz-Harald Frentzen,4,3,4,71,RAS
+1999,Austrian Grand Prix,Alexander Wurz,5,2,10,71,RAS
+1999,Austrian Grand Prix,Pedro Diniz,6,1,16,71,RAS
+1999,Austrian Grand Prix,Jarno Trulli,7,0,13,70,RAS
+1999,Austrian Grand Prix,Damon Hill,8,0,11,70,RAS
+1999,Austrian Grand Prix,Mika Salo,9,0,7,70,RAS
+1999,Austrian Grand Prix,Olivier Panis,10,0,18,70,RAS
+1999,Austrian Grand Prix,Marc Gené,11,0,22,70,RAS
+1999,Austrian Grand Prix,Giancarlo Fisichella,12,0,12,68,Engine
+1999,Austrian Grand Prix,Luca Badoer,13,0,19,68,RAS
+1999,Austrian Grand Prix,Johnny Herbert,14,0,6,67,RAS
+1999,Austrian Grand Prix,Ricardo Zonta,15,0,15,63,Clutch
+1999,Austrian Grand Prix,Rubens Barrichello,16,0,5,55,Engine
+1999,Austrian Grand Prix,Jean Alesi,17,0,17,49,Out of fuel
+1999,Austrian Grand Prix,Pedro de la Rosa,18,0,21,38,Spun off
+1999,Austrian Grand Prix,Alessandro Zanardi,19,0,14,35,Out of fuel
+1999,Austrian Grand Prix,Jacques Villeneuve,20,0,9,34,Halfshaft
+1999,Austrian Grand Prix,Toranosuke Takagi,21,0,20,25,Engine
+1999,Austrian Grand Prix,Ralf Schumacher,22,0,8,8,Spun off
+1999,German Grand Prix,Eddie Irvine,1,10,5,45,RAS
+1999,German Grand Prix,Mika Salo,2,6,4,45,RAS
+1999,German Grand Prix,Heinz-Harald Frentzen,3,4,2,45,RAS
+1999,German Grand Prix,Ralf Schumacher,4,3,11,45,RAS
+1999,German Grand Prix,David Coulthard,5,2,3,45,RAS
+1999,German Grand Prix,Olivier Panis,6,1,7,45,RAS
+1999,German Grand Prix,Alexander Wurz,7,0,13,45,RAS
+1999,German Grand Prix,Jean Alesi,8,0,21,45,RAS
+1999,German Grand Prix,Marc Gené,9,0,15,45,RAS
+1999,German Grand Prix,Luca Badoer,10,0,19,44,RAS
+1999,German Grand Prix,Johnny Herbert,11,0,17,40,Gearbox
+1999,German Grand Prix,Pedro de la Rosa,12,0,20,37,Spun off
+1999,German Grand Prix,Mika Häkkinen,13,0,1,25,Tyre
+1999,German Grand Prix,Alessandro Zanardi,14,0,14,21,Differential
+1999,German Grand Prix,Ricardo Zonta,15,0,18,20,Engine
+1999,German Grand Prix,Toranosuke Takagi,16,0,22,15,Engine
+1999,German Grand Prix,Damon Hill,17,0,8,13,Brakes
+1999,German Grand Prix,Jarno Trulli,18,0,9,10,Engine
+1999,German Grand Prix,Giancarlo Fisichella,19,0,10,7,Suspension
+1999,German Grand Prix,Rubens Barrichello,20,0,6,6,Hydraulics
+1999,German Grand Prix,Jacques Villeneuve,21,0,12,0,Collision
+1999,German Grand Prix,Pedro Diniz,22,0,16,0,Collision
+1999,Hungarian Grand Prix,Mika Häkkinen,1,10,1,77,RAS
+1999,Hungarian Grand Prix,David Coulthard,2,6,3,77,RAS
+1999,Hungarian Grand Prix,Eddie Irvine,3,4,2,77,RAS
+1999,Hungarian Grand Prix,Heinz-Harald Frentzen,4,3,5,77,RAS
+1999,Hungarian Grand Prix,Rubens Barrichello,5,2,8,77,RAS
+1999,Hungarian Grand Prix,Damon Hill,6,1,6,77,RAS
+1999,Hungarian Grand Prix,Alexander Wurz,7,0,7,77,RAS
+1999,Hungarian Grand Prix,Jarno Trulli,8,0,13,76,RAS
+1999,Hungarian Grand Prix,Ralf Schumacher,9,0,16,76,RAS
+1999,Hungarian Grand Prix,Olivier Panis,10,0,14,76,RAS
+1999,Hungarian Grand Prix,Johnny Herbert,11,0,10,76,RAS
+1999,Hungarian Grand Prix,Mika Salo,12,0,18,75,RAS
+1999,Hungarian Grand Prix,Ricardo Zonta,13,0,17,75,RAS
+1999,Hungarian Grand Prix,Luca Badoer,14,0,19,75,RAS
+1999,Hungarian Grand Prix,Pedro de la Rosa,15,0,20,75,RAS
+1999,Hungarian Grand Prix,Jean Alesi,16,0,11,74,Fuel pressure
+1999,Hungarian Grand Prix,Marc Gené,17,0,22,74,RAS
+1999,Hungarian Grand Prix,Jacques Villeneuve,18,0,9,60,Clutch
+1999,Hungarian Grand Prix,Giancarlo Fisichella,19,0,4,52,Engine
+1999,Hungarian Grand Prix,Toranosuke Takagi,20,0,21,26,Transmission
+1999,Hungarian Grand Prix,Pedro Diniz,21,0,12,19,Spun off
+1999,Hungarian Grand Prix,Alessandro Zanardi,22,0,15,10,Differential
+1999,Belgian Grand Prix,David Coulthard,1,10,2,44,RAS
+1999,Belgian Grand Prix,Mika Häkkinen,2,6,1,44,RAS
+1999,Belgian Grand Prix,Heinz-Harald Frentzen,3,4,3,44,RAS
+1999,Belgian Grand Prix,Eddie Irvine,4,3,6,44,RAS
+1999,Belgian Grand Prix,Ralf Schumacher,5,2,5,44,RAS
+1999,Belgian Grand Prix,Damon Hill,6,1,4,44,RAS
+1999,Belgian Grand Prix,Mika Salo,7,0,9,44,RAS
+1999,Belgian Grand Prix,Alessandro Zanardi,8,0,8,44,RAS
+1999,Belgian Grand Prix,Jean Alesi,9,0,16,44,RAS
+1999,Belgian Grand Prix,Rubens Barrichello,10,0,7,44,RAS
+1999,Belgian Grand Prix,Giancarlo Fisichella,11,0,13,44,RAS
+1999,Belgian Grand Prix,Jarno Trulli,12,0,12,44,RAS
+1999,Belgian Grand Prix,Olivier Panis,13,0,17,44,RAS
+1999,Belgian Grand Prix,Alexander Wurz,14,0,15,44,RAS
+1999,Belgian Grand Prix,Jacques Villeneuve,15,0,11,43,RAS
+1999,Belgian Grand Prix,Marc Gené,16,0,21,43,RAS
+1999,Belgian Grand Prix,Pedro de la Rosa,17,0,22,35,Transmission
+1999,Belgian Grand Prix,Luca Badoer,18,0,20,33,Suspension
+1999,Belgian Grand Prix,Ricardo Zonta,19,0,14,33,Gearbox
+1999,Belgian Grand Prix,Johnny Herbert,20,0,10,27,Brakes
+1999,Belgian Grand Prix,Pedro Diniz,21,0,18,19,Spun off
+1999,Belgian Grand Prix,Toranosuke Takagi,22,0,19,0,Clutch
+1999,Italian Grand Prix,Heinz-Harald Frentzen,1,10,2,53,RAS
+1999,Italian Grand Prix,Ralf Schumacher,2,6,5,53,RAS
+1999,Italian Grand Prix,Mika Salo,3,4,6,53,RAS
+1999,Italian Grand Prix,Rubens Barrichello,4,3,7,53,RAS
+1999,Italian Grand Prix,David Coulthard,5,2,3,53,RAS
+1999,Italian Grand Prix,Eddie Irvine,6,1,8,53,RAS
+1999,Italian Grand Prix,Alessandro Zanardi,7,0,4,53,RAS
+1999,Italian Grand Prix,Jacques Villeneuve,8,0,11,53,RAS
+1999,Italian Grand Prix,Jean Alesi,9,0,13,53,RAS
+1999,Italian Grand Prix,Damon Hill,10,0,9,53,RAS
+1999,Italian Grand Prix,Olivier Panis,11,0,10,52,Engine
+1999,Italian Grand Prix,Johnny Herbert,12,0,15,40,Clutch
+1999,Italian Grand Prix,Toranosuke Takagi,13,0,22,35,Spun off
+1999,Italian Grand Prix,Pedro de la Rosa,14,0,21,35,Withdrew
+1999,Italian Grand Prix,Mika Häkkinen,15,0,1,29,Spun off
+1999,Italian Grand Prix,Jarno Trulli,16,0,12,29,Overheating
+1999,Italian Grand Prix,Ricardo Zonta,17,0,18,25,Wheel bearing
+1999,Italian Grand Prix,Luca Badoer,18,0,19,23,Collision
+1999,Italian Grand Prix,Alexander Wurz,19,0,14,11,Electrical
+1999,Italian Grand Prix,Pedro Diniz,20,0,16,1,Spun off
+1999,Italian Grand Prix,Giancarlo Fisichella,21,0,17,1,Spun off
+1999,Italian Grand Prix,Marc Gené,22,0,20,0,Collision
+1999,European Grand Prix,Johnny Herbert,1,10,14,66,RAS
+1999,European Grand Prix,Jarno Trulli,2,6,10,66,RAS
+1999,European Grand Prix,Rubens Barrichello,3,4,15,66,RAS
+1999,European Grand Prix,Ralf Schumacher,4,3,4,66,RAS
+1999,European Grand Prix,Mika Häkkinen,5,2,3,66,RAS
+1999,European Grand Prix,Marc Gené,6,1,20,66,RAS
+1999,European Grand Prix,Eddie Irvine,7,0,9,66,RAS
+1999,European Grand Prix,Ricardo Zonta,8,0,17,65,RAS
+1999,European Grand Prix,Olivier Panis,9,0,5,65,RAS
+1999,European Grand Prix,Jacques Villeneuve,10,0,8,61,Clutch
+1999,European Grand Prix,Luca Badoer,11,0,19,53,Gearbox
+1999,European Grand Prix,Pedro de la Rosa,12,0,22,52,Gearbox
+1999,European Grand Prix,Giancarlo Fisichella,13,0,6,48,Spun off
+1999,European Grand Prix,Mika Salo,14,0,12,44,Brakes
+1999,European Grand Prix,Toranosuke Takagi,15,0,21,42,Spun off
+1999,European Grand Prix,David Coulthard,16,0,2,37,Spun off
+1999,European Grand Prix,Jean Alesi,17,0,16,35,Halfshaft
+1999,European Grand Prix,Heinz-Harald Frentzen,18,0,1,32,Electrical
+1999,European Grand Prix,Alessandro Zanardi,19,0,18,10,Collision
+1999,European Grand Prix,Damon Hill,20,0,7,0,Electrical
+1999,European Grand Prix,Alexander Wurz,21,0,11,0,Collision
+1999,European Grand Prix,Pedro Diniz,22,0,13,0,Collision
+1999,Malaysian Grand Prix,Eddie Irvine,1,10,2,56,RAS
+1999,Malaysian Grand Prix,Michael Schumacher,2,6,1,56,RAS
+1999,Malaysian Grand Prix,Mika Häkkinen,3,4,4,56,RAS
+1999,Malaysian Grand Prix,Johnny Herbert,4,3,5,56,RAS
+1999,Malaysian Grand Prix,Rubens Barrichello,5,2,6,56,RAS
+1999,Malaysian Grand Prix,Heinz-Harald Frentzen,6,1,14,56,RAS
+1999,Malaysian Grand Prix,Jean Alesi,7,0,15,56,RAS
+1999,Malaysian Grand Prix,Alexander Wurz,8,0,7,56,RAS
+1999,Malaysian Grand Prix,Marc Gené,9,0,19,55,RAS
+1999,Malaysian Grand Prix,Alessandro Zanardi,10,0,16,55,RAS
+1999,Malaysian Grand Prix,Giancarlo Fisichella,11,0,11,52,RAS
+1999,Malaysian Grand Prix,Jacques Villeneuve,12,0,10,48,Hydraulics
+1999,Malaysian Grand Prix,Pedro Diniz,13,0,17,44,Spun off
+1999,Malaysian Grand Prix,Pedro de la Rosa,14,0,20,30,Engine
+1999,Malaysian Grand Prix,Luca Badoer,15,0,21,15,Spun off
+1999,Malaysian Grand Prix,David Coulthard,16,0,3,14,Fuel pressure
+1999,Malaysian Grand Prix,Ralf Schumacher,17,0,8,7,Spun off
+1999,Malaysian Grand Prix,Toranosuke Takagi,18,0,22,7,Transmission
+1999,Malaysian Grand Prix,Ricardo Zonta,19,0,13,6,Engine
+1999,Malaysian Grand Prix,Olivier Panis,20,0,12,5,Engine
+1999,Malaysian Grand Prix,Damon Hill,21,0,9,0,Collision
+1999,Malaysian Grand Prix,Jarno Trulli,22,0,18,0,Engine
+1999,Japanese Grand Prix,Mika Häkkinen,1,10,2,53,RAS
+1999,Japanese Grand Prix,Michael Schumacher,2,6,1,53,RAS
+1999,Japanese Grand Prix,Eddie Irvine,3,4,5,53,RAS
+1999,Japanese Grand Prix,Heinz-Harald Frentzen,4,3,4,53,RAS
+1999,Japanese Grand Prix,Ralf Schumacher,5,2,9,53,RAS
+1999,Japanese Grand Prix,Jean Alesi,6,1,10,52,RAS
+1999,Japanese Grand Prix,Johnny Herbert,7,0,8,52,RAS
+1999,Japanese Grand Prix,Rubens Barrichello,8,0,13,52,RAS
+1999,Japanese Grand Prix,Jacques Villeneuve,9,0,11,52,RAS
+1999,Japanese Grand Prix,Alexander Wurz,10,0,15,52,RAS
+1999,Japanese Grand Prix,Pedro Diniz,11,0,17,52,RAS
+1999,Japanese Grand Prix,Ricardo Zonta,12,0,18,52,RAS
+1999,Japanese Grand Prix,Pedro de la Rosa,13,0,21,51,RAS
+1999,Japanese Grand Prix,Giancarlo Fisichella,14,0,14,47,Engine
+1999,Japanese Grand Prix,Toranosuke Takagi,15,0,19,43,Gearbox
+1999,Japanese Grand Prix,Luca Badoer,16,0,22,43,Engine
+1999,Japanese Grand Prix,David Coulthard,17,0,3,39,Hydraulics
+1999,Japanese Grand Prix,Marc Gené,18,0,20,31,Gearbox
+1999,Japanese Grand Prix,Damon Hill,19,0,12,21,Physical
+1999,Japanese Grand Prix,Olivier Panis,20,0,6,19,Alternator
+1999,Japanese Grand Prix,Jarno Trulli,21,0,7,3,Engine
+1999,Japanese Grand Prix,Alessandro Zanardi,22,0,8,0,Electrical

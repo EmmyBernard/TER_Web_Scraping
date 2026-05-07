@@ -1,0 +1,167 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1957,Argentine Grand Prix,Juan Fangio,1,8,2,100,RAS
+1957,Argentine Grand Prix,Jean Behra,2,6,3,100,RAS
+1957,Argentine Grand Prix,Carlos Menditeguy,3,4,8,99,RAS
+1957,Argentine Grand Prix,Harry Schell,4,3,9,98,RAS
+1957,Argentine Grand Prix,Alfonso de Portago,5,1,10,98,RAS
+1957,Argentine Grand Prix,José Froilán González,5,1,10,98,RAS
+1957,Argentine Grand Prix,Wolfgang von Trips,6,0,11,98,RAS
+1957,Argentine Grand Prix,Peter Collins,6,0,11,98,RAS
+1957,Argentine Grand Prix,Cesare Perdisa,6,0,11,98,RAS
+1957,Argentine Grand Prix,Jo Bonnier,7,0,13,95,RAS
+1957,Argentine Grand Prix,Stirling Moss,8,1,1,93,RAS
+1957,Argentine Grand Prix,Alessandro de Tomaso,9,0,12,91,RAS
+1957,Argentine Grand Prix,Luigi Piotti,10,0,14,90,RAS
+1957,Argentine Grand Prix,Eugenio Castellotti,11,0,4,75,Wheel
+1957,Argentine Grand Prix,Mike Hawthorn,12,0,7,35,Clutch
+1957,Argentine Grand Prix,Luigi Musso,13,0,6,31,Clutch
+1957,Argentine Grand Prix,Peter Collins,14,0,5,26,Clutch
+1957,Monaco Grand Prix,Juan Fangio,1,9,1,105,RAS
+1957,Monaco Grand Prix,Tony Brooks,2,6,4,105,RAS
+1957,Monaco Grand Prix,Masten Gregory,3,4,10,103,RAS
+1957,Monaco Grand Prix,Stuart Lewis-Evans,4,3,13,102,RAS
+1957,Monaco Grand Prix,Maurice Trintignant,5,2,6,100,RAS
+1957,Monaco Grand Prix,Jack Brabham,6,0,15,100,RAS
+1957,Monaco Grand Prix,Mike Hawthorn,7,0,9,95,Engine
+1957,Monaco Grand Prix,Wolfgang von Trips,7,0,9,95,Engine
+1957,Monaco Grand Prix,Harry Schell,8,0,14,64,Oil leak
+1957,Monaco Grand Prix,Giorgio Scarlatti,8,0,14,64,Oil leak
+1957,Monaco Grand Prix,Ron Flockhart,9,0,11,60,Engine
+1957,Monaco Grand Prix,Carlos Menditeguy,10,0,7,51,Spun off
+1957,Monaco Grand Prix,Ivor Bueb,11,0,16,47,Fuel leak
+1957,Monaco Grand Prix,Harry Schell,12,0,8,23,Suspension
+1957,Monaco Grand Prix,Horace Gould,13,0,12,10,Accident
+1957,Monaco Grand Prix,Peter Collins,14,0,2,4,Accident
+1957,Monaco Grand Prix,Stirling Moss,15,0,3,4,Accident
+1957,Monaco Grand Prix,Mike Hawthorn,16,0,5,4,Accident
+1957,Indianapolis 500,Sam Hanks,1,8,13,200,RAS
+1957,Indianapolis 500,Jim Rathmann,2,7,32,200,RAS
+1957,Indianapolis 500,Jimmy Bryan,3,4,15,200,RAS
+1957,Indianapolis 500,Paul Russo,4,3,10,200,RAS
+1957,Indianapolis 500,Andy Linden,5,2,12,200,RAS
+1957,Indianapolis 500,Johnny Boyd,6,0,5,200,RAS
+1957,Indianapolis 500,Marshall Teague,7,0,28,200,RAS
+1957,Indianapolis 500,Pat O'Connor,8,0,1,200,RAS
+1957,Indianapolis 500,Bob Veith,9,0,16,200,RAS
+1957,Indianapolis 500,Gene Hartley,10,0,14,200,RAS
+1957,Indianapolis 500,Jack Turner,11,0,19,200,RAS
+1957,Indianapolis 500,Johnny Thomson,12,0,11,199,RAS
+1957,Indianapolis 500,Bob Christie,13,0,33,197,RAS
+1957,Indianapolis 500,Chuck Weyant,14,0,25,196,RAS
+1957,Indianapolis 500,Tony Bettenhausen,15,0,22,195,RAS
+1957,Indianapolis 500,Johnnie Parsons,16,0,17,195,RAS
+1957,Indianapolis 500,Don Freeland,17,0,21,192,RAS
+1957,Indianapolis 500,Jimmy Reece,18,0,6,182,Throttle
+1957,Indianapolis 500,Don Edmunds,19,0,27,170,Spun off
+1957,Indianapolis 500,Johnnie Tolan,20,0,31,138,Clutch
+1957,Indianapolis 500,Al Herman,21,0,30,111,Accident
+1957,Indianapolis 500,Fred Agabashian,22,0,4,107,Fuel leak
+1957,Indianapolis 500,Eddie Sachs,23,0,2,105,Fuel leak
+1957,Indianapolis 500,Mike Magill,24,0,18,101,Accident
+1957,Indianapolis 500,Eddie Johnson,25,0,20,93,Wheel bearing
+1957,Indianapolis 500,Bill Cheesbourg,26,0,23,81,Fuel leak
+1957,Indianapolis 500,Al Keller,27,0,8,75,Accident
+1957,Indianapolis 500,Jimmy Daywalt,28,0,29,53,Accident
+1957,Indianapolis 500,Ed Elisian,29,0,7,51,DNF
+1957,Indianapolis 500,Rodger Ward,30,0,24,27,Turbo
+1957,Indianapolis 500,Troy Ruttman,31,0,3,13,Engine
+1957,Indianapolis 500,Eddie Russo,32,0,26,0,Accident
+1957,Indianapolis 500,Elmer George,33,0,9,0,Accident
+1957,French Grand Prix,Juan Fangio,1,8,1,77,RAS
+1957,French Grand Prix,Luigi Musso,2,7,3,77,RAS
+1957,French Grand Prix,Peter Collins,3,4,5,77,RAS
+1957,French Grand Prix,Mike Hawthorn,4,3,7,76,RAS
+1957,French Grand Prix,Harry Schell,5,2,4,70,RAS
+1957,French Grand Prix,Jean Behra,6,0,2,69,RAS
+1957,French Grand Prix,Jack Brabham,7,0,15,68,RAS
+1957,French Grand Prix,Mike MacDowel,7,0,15,68,RAS
+1957,French Grand Prix,Carlos Menditeguy,8,0,9,30,Engine
+1957,French Grand Prix,Stuart Lewis-Evans,9,0,10,30,Steering
+1957,French Grand Prix,Roy Salvadori,10,0,6,25,Engine
+1957,French Grand Prix,Herbert MacKay-Fraser,11,0,12,24,Transmission
+1957,French Grand Prix,Maurice Trintignant,12,0,8,23,Electrical
+1957,French Grand Prix,Jack Brabham,13,0,13,4,Accident
+1957,French Grand Prix,Horace Gould,14,0,14,4,Halfshaft
+1957,French Grand Prix,Ron Flockhart,15,0,11,2,Accident
+1957,British Grand Prix,Tony Brooks,1,4,3,90,RAS
+1957,British Grand Prix,Stirling Moss,1,5,3,90,RAS
+1957,British Grand Prix,Luigi Musso,2,6,10,90,RAS
+1957,British Grand Prix,Mike Hawthorn,3,4,5,90,RAS
+1957,British Grand Prix,Peter Collins,4,0,9,88,RAS
+1957,British Grand Prix,Maurice Trintignant,4,3,9,88,RAS
+1957,British Grand Prix,Roy Salvadori,5,2,15,85,RAS
+1957,British Grand Prix,Bob Gerard,6,0,18,82,RAS
+1957,British Grand Prix,Stuart Lewis-Evans,7,0,6,82,RAS
+1957,British Grand Prix,Ivor Bueb,8,0,19,71,RAS
+1957,British Grand Prix,Jack Brabham,9,0,13,74,Clutch
+1957,British Grand Prix,Jean Behra,10,0,2,69,Clutch
+1957,British Grand Prix,Peter Collins,11,0,8,53,Water leak
+1957,British Grand Prix,Tony Brooks,12,0,1,51,Engine
+1957,British Grand Prix,Stirling Moss,12,0,1,51,Engine
+1957,British Grand Prix,Juan Fangio,13,0,4,49,Engine
+1957,British Grand Prix,Jack Fairman,14,0,16,46,Engine
+1957,British Grand Prix,Les Leston,15,0,12,44,Engine
+1957,British Grand Prix,Harry Schell,16,0,7,39,Water pump
+1957,British Grand Prix,Carlos Menditeguy,17,0,11,35,Transmission
+1957,British Grand Prix,Jo Bonnier,18,0,17,18,Gearbox
+1957,British Grand Prix,Horace Gould,19,0,14,0,Accident
+1957,German Grand Prix,Juan Fangio,1,9,1,22,RAS
+1957,German Grand Prix,Mike Hawthorn,2,6,2,22,RAS
+1957,German Grand Prix,Peter Collins,3,4,4,22,RAS
+1957,German Grand Prix,Luigi Musso,4,3,8,22,RAS
+1957,German Grand Prix,Stirling Moss,5,2,7,22,RAS
+1957,German Grand Prix,Jean Behra,6,0,3,22,RAS
+1957,German Grand Prix,Harry Schell,7,0,6,22,RAS
+1957,German Grand Prix,Masten Gregory,8,0,10,21,RAS
+1957,German Grand Prix,Tony Brooks,9,0,5,21,RAS
+1957,German Grand Prix,Giorgio Scarlatti,10,0,13,21,RAS
+1957,German Grand Prix,Bruce Halford,11,0,16,21,RAS
+1957,German Grand Prix,Edgar Barth,12,0,12,21,RAS
+1957,German Grand Prix,Brian Naylor,13,0,17,20,RAS
+1957,German Grand Prix,Carel Godin de Beaufort,14,0,20,20,RAS
+1957,German Grand Prix,Tony Marsh,15,0,22,17,RAS
+1957,German Grand Prix,Hans Herrmann,16,0,11,14,Chassis
+1957,German Grand Prix,Umberto Maglioli,17,0,15,13,Engine
+1957,German Grand Prix,Roy Salvadori,18,0,14,11,Suspension
+1957,German Grand Prix,Paco Godia,19,0,21,11,Steering
+1957,German Grand Prix,Stuart Lewis-Evans,20,0,9,10,Gearbox
+1957,German Grand Prix,Jack Brabham,21,0,18,6,Transmission
+1957,German Grand Prix,Paul England,22,0,23,4,Distributor
+1957,German Grand Prix,Dick Gibson,23,0,24,3,Steering
+1957,German Grand Prix,Horace Gould,24,0,19,2,Axle
+1957,Pescara Grand Prix,Stirling Moss,1,9,2,18,RAS
+1957,Pescara Grand Prix,Juan Fangio,2,6,1,18,RAS
+1957,Pescara Grand Prix,Harry Schell,3,4,5,18,RAS
+1957,Pescara Grand Prix,Masten Gregory,4,3,7,18,RAS
+1957,Pescara Grand Prix,Stuart Lewis-Evans,5,2,8,17,RAS
+1957,Pescara Grand Prix,Giorgio Scarlatti,6,0,10,17,RAS
+1957,Pescara Grand Prix,Jack Brabham,7,0,16,15,RAS
+1957,Pescara Grand Prix,Luigi Musso,8,0,3,9,Oil leak
+1957,Pescara Grand Prix,Paco Godia,9,0,12,9,Engine
+1957,Pescara Grand Prix,Bruce Halford,10,0,14,9,Transmission
+1957,Pescara Grand Prix,Jo Bonnier,11,0,9,7,Overheating
+1957,Pescara Grand Prix,Jean Behra,12,0,4,3,Oil leak
+1957,Pescara Grand Prix,Roy Salvadori,13,0,15,3,Accident
+1957,Pescara Grand Prix,Tony Brooks,14,0,6,1,Engine
+1957,Pescara Grand Prix,Horace Gould,15,0,11,0,Accident
+1957,Pescara Grand Prix,Luigi Piotti,16,0,13,0,Engine
+1957,Italian Grand Prix,Stirling Moss,1,8,2,87,RAS
+1957,Italian Grand Prix,Juan Fangio,2,6,4,87,RAS
+1957,Italian Grand Prix,Wolfgang von Trips,3,4,8,85,RAS
+1957,Italian Grand Prix,Masten Gregory,4,3,11,84,RAS
+1957,Italian Grand Prix,Harry Schell,5,1,12,84,RAS
+1957,Italian Grand Prix,Giorgio Scarlatti,5,1,12,84,RAS
+1957,Italian Grand Prix,Mike Hawthorn,6,0,10,83,RAS
+1957,Italian Grand Prix,Tony Brooks,7,1,3,82,RAS
+1957,Italian Grand Prix,Luigi Musso,8,0,9,82,RAS
+1957,Italian Grand Prix,Paco Godia,9,0,15,81,RAS
+1957,Italian Grand Prix,Horace Gould,10,0,18,78,RAS
+1957,Italian Grand Prix,Ottorino Volonterio,11,0,16,72,RAS
+1957,Italian Grand Prix,André Simon,11,0,16,72,RAS
+1957,Italian Grand Prix,Peter Collins,12,0,7,62,Engine
+1957,Italian Grand Prix,Stuart Lewis-Evans,13,0,1,49,Engine
+1957,Italian Grand Prix,Jean Behra,14,0,5,49,Overheating
+1957,Italian Grand Prix,Bruce Halford,15,0,14,47,Engine
+1957,Italian Grand Prix,Harry Schell,16,0,6,34,Oil leak
+1957,Italian Grand Prix,Jo Bonnier,17,0,13,31,Overheating
+1957,Italian Grand Prix,Luigi Piotti,18,0,17,3,Engine

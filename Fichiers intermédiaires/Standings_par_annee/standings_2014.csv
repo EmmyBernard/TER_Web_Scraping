@@ -1,0 +1,408 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2014,Australian Grand Prix,Nico Rosberg,1,25,3,57,RAS
+2014,Australian Grand Prix,Kevin Magnussen,2,18,4,57,RAS
+2014,Australian Grand Prix,Jenson Button,3,15,10,57,RAS
+2014,Australian Grand Prix,Fernando Alonso,4,12,5,57,RAS
+2014,Australian Grand Prix,Valtteri Bottas,5,10,15,57,RAS
+2014,Australian Grand Prix,Nico Hülkenberg,6,8,7,57,RAS
+2014,Australian Grand Prix,Kimi Räikkönen,7,6,11,57,RAS
+2014,Australian Grand Prix,Jean-Éric Vergne,8,4,6,57,RAS
+2014,Australian Grand Prix,Daniil Kvyat,9,2,8,57,RAS
+2014,Australian Grand Prix,Sergio Pérez,10,1,16,57,RAS
+2014,Australian Grand Prix,Adrian Sutil,11,0,13,56,RAS
+2014,Australian Grand Prix,Esteban Gutiérrez,12,0,20,56,RAS
+2014,Australian Grand Prix,Max Chilton,13,0,17,55,RAS
+2014,Australian Grand Prix,Jules Bianchi,14,0,18,49,RAS
+2014,Australian Grand Prix,Romain Grosjean,15,0,22,43,ERS
+2014,Australian Grand Prix,Pastor Maldonado,16,0,21,29,ERS
+2014,Australian Grand Prix,Marcus Ericsson,17,0,19,27,Oil pressure
+2014,Australian Grand Prix,Sebastian Vettel,18,0,12,3,Engine
+2014,Australian Grand Prix,Lewis Hamilton,19,0,1,2,Engine
+2014,Australian Grand Prix,Felipe Massa,20,0,9,0,Collision
+2014,Australian Grand Prix,Kamui Kobayashi,21,0,14,0,Collision
+2014,Australian Grand Prix,Daniel Ricciardo,22,0,2,57,DQ
+2014,Malaysian Grand Prix,Lewis Hamilton,1,25,1,56,RAS
+2014,Malaysian Grand Prix,Nico Rosberg,2,18,3,56,RAS
+2014,Malaysian Grand Prix,Sebastian Vettel,3,15,2,56,RAS
+2014,Malaysian Grand Prix,Fernando Alonso,4,12,4,56,RAS
+2014,Malaysian Grand Prix,Nico Hülkenberg,5,10,7,56,RAS
+2014,Malaysian Grand Prix,Jenson Button,6,8,10,56,RAS
+2014,Malaysian Grand Prix,Felipe Massa,7,6,13,56,RAS
+2014,Malaysian Grand Prix,Valtteri Bottas,8,4,18,56,RAS
+2014,Malaysian Grand Prix,Kevin Magnussen,9,2,8,55,RAS
+2014,Malaysian Grand Prix,Daniil Kvyat,10,1,11,55,RAS
+2014,Malaysian Grand Prix,Romain Grosjean,11,0,15,55,RAS
+2014,Malaysian Grand Prix,Kimi Räikkönen,12,0,6,55,RAS
+2014,Malaysian Grand Prix,Kamui Kobayashi,13,0,20,55,RAS
+2014,Malaysian Grand Prix,Marcus Ericsson,14,0,22,54,RAS
+2014,Malaysian Grand Prix,Max Chilton,15,0,21,54,RAS
+2014,Malaysian Grand Prix,Daniel Ricciardo,16,0,5,49,Technical
+2014,Malaysian Grand Prix,Esteban Gutiérrez,17,0,12,35,Gearbox
+2014,Malaysian Grand Prix,Adrian Sutil,18,0,17,32,Electrical
+2014,Malaysian Grand Prix,Jean-Éric Vergne,19,0,9,18,Power Unit
+2014,Malaysian Grand Prix,Jules Bianchi,20,0,19,8,Brakes
+2014,Malaysian Grand Prix,Pastor Maldonado,21,0,16,7,Engine
+2014,Malaysian Grand Prix,Sergio Pérez,22,0,14,0,Withdrew
+2014,Bahrain Grand Prix,Lewis Hamilton,1,25,2,57,RAS
+2014,Bahrain Grand Prix,Nico Rosberg,2,18,1,57,RAS
+2014,Bahrain Grand Prix,Sergio Pérez,3,15,4,57,RAS
+2014,Bahrain Grand Prix,Daniel Ricciardo,4,12,13,57,RAS
+2014,Bahrain Grand Prix,Nico Hülkenberg,5,10,11,57,RAS
+2014,Bahrain Grand Prix,Sebastian Vettel,6,8,10,57,RAS
+2014,Bahrain Grand Prix,Felipe Massa,7,6,7,57,RAS
+2014,Bahrain Grand Prix,Valtteri Bottas,8,4,3,57,RAS
+2014,Bahrain Grand Prix,Fernando Alonso,9,2,9,57,RAS
+2014,Bahrain Grand Prix,Kimi Räikkönen,10,1,5,57,RAS
+2014,Bahrain Grand Prix,Daniil Kvyat,11,0,12,57,RAS
+2014,Bahrain Grand Prix,Romain Grosjean,12,0,16,57,RAS
+2014,Bahrain Grand Prix,Max Chilton,13,0,21,57,RAS
+2014,Bahrain Grand Prix,Pastor Maldonado,14,0,17,57,RAS
+2014,Bahrain Grand Prix,Kamui Kobayashi,15,0,18,57,RAS
+2014,Bahrain Grand Prix,Jules Bianchi,16,0,19,56,RAS
+2014,Bahrain Grand Prix,Jenson Button,17,0,6,55,Clutch
+2014,Bahrain Grand Prix,Kevin Magnussen,18,0,8,40,Clutch
+2014,Bahrain Grand Prix,Esteban Gutiérrez,19,0,15,39,Collision
+2014,Bahrain Grand Prix,Marcus Ericsson,20,0,20,33,DNF
+2014,Bahrain Grand Prix,Jean-Éric Vergne,21,0,14,18,DNF
+2014,Bahrain Grand Prix,Adrian Sutil,22,0,22,17,Collision
+2014,Chinese Grand Prix,Lewis Hamilton,1,25,1,54,RAS
+2014,Chinese Grand Prix,Nico Rosberg,2,18,4,54,RAS
+2014,Chinese Grand Prix,Fernando Alonso,3,15,5,54,RAS
+2014,Chinese Grand Prix,Daniel Ricciardo,4,12,2,54,RAS
+2014,Chinese Grand Prix,Sebastian Vettel,5,10,3,54,RAS
+2014,Chinese Grand Prix,Nico Hülkenberg,6,8,8,54,RAS
+2014,Chinese Grand Prix,Valtteri Bottas,7,6,7,54,RAS
+2014,Chinese Grand Prix,Kimi Räikkönen,8,4,11,54,RAS
+2014,Chinese Grand Prix,Sergio Pérez,9,2,16,54,RAS
+2014,Chinese Grand Prix,Daniil Kvyat,10,1,13,53,RAS
+2014,Chinese Grand Prix,Jenson Button,11,0,12,53,RAS
+2014,Chinese Grand Prix,Jean-Éric Vergne,12,0,9,53,RAS
+2014,Chinese Grand Prix,Kevin Magnussen,13,0,15,53,RAS
+2014,Chinese Grand Prix,Pastor Maldonado,14,0,22,53,RAS
+2014,Chinese Grand Prix,Felipe Massa,15,0,6,53,RAS
+2014,Chinese Grand Prix,Esteban Gutiérrez,16,0,17,53,RAS
+2014,Chinese Grand Prix,Jules Bianchi,17,0,19,53,RAS
+2014,Chinese Grand Prix,Kamui Kobayashi,18,0,18,53,RAS
+2014,Chinese Grand Prix,Max Chilton,19,0,21,52,RAS
+2014,Chinese Grand Prix,Marcus Ericsson,20,0,20,52,RAS
+2014,Chinese Grand Prix,Romain Grosjean,21,0,10,28,Gearbox
+2014,Chinese Grand Prix,Adrian Sutil,22,0,14,5,Engine
+2014,Spanish Grand Prix,Lewis Hamilton,1,25,1,66,RAS
+2014,Spanish Grand Prix,Nico Rosberg,2,18,2,66,RAS
+2014,Spanish Grand Prix,Daniel Ricciardo,3,15,3,66,RAS
+2014,Spanish Grand Prix,Sebastian Vettel,4,12,15,66,RAS
+2014,Spanish Grand Prix,Valtteri Bottas,5,10,4,66,RAS
+2014,Spanish Grand Prix,Fernando Alonso,6,8,7,66,RAS
+2014,Spanish Grand Prix,Kimi Räikkönen,7,6,6,65,RAS
+2014,Spanish Grand Prix,Romain Grosjean,8,4,5,65,RAS
+2014,Spanish Grand Prix,Sergio Pérez,9,2,11,65,RAS
+2014,Spanish Grand Prix,Nico Hülkenberg,10,1,10,65,RAS
+2014,Spanish Grand Prix,Jenson Button,11,0,8,65,RAS
+2014,Spanish Grand Prix,Kevin Magnussen,12,0,14,65,RAS
+2014,Spanish Grand Prix,Felipe Massa,13,0,9,65,RAS
+2014,Spanish Grand Prix,Daniil Kvyat,14,0,12,65,RAS
+2014,Spanish Grand Prix,Pastor Maldonado,15,0,22,65,RAS
+2014,Spanish Grand Prix,Esteban Gutiérrez,16,0,13,65,RAS
+2014,Spanish Grand Prix,Adrian Sutil,17,0,16,65,RAS
+2014,Spanish Grand Prix,Jules Bianchi,18,0,18,64,RAS
+2014,Spanish Grand Prix,Max Chilton,19,0,17,64,RAS
+2014,Spanish Grand Prix,Marcus Ericsson,20,0,19,64,RAS
+2014,Spanish Grand Prix,Kamui Kobayashi,21,0,20,34,Brakes
+2014,Spanish Grand Prix,Jean-Éric Vergne,22,0,21,24,Exhaust
+2014,Monaco Grand Prix,Nico Rosberg,1,25,1,78,RAS
+2014,Monaco Grand Prix,Lewis Hamilton,2,18,2,78,RAS
+2014,Monaco Grand Prix,Daniel Ricciardo,3,15,3,78,RAS
+2014,Monaco Grand Prix,Fernando Alonso,4,12,5,78,RAS
+2014,Monaco Grand Prix,Nico Hülkenberg,5,10,11,77,RAS
+2014,Monaco Grand Prix,Jenson Button,6,8,12,77,RAS
+2014,Monaco Grand Prix,Felipe Massa,7,6,16,77,RAS
+2014,Monaco Grand Prix,Romain Grosjean,8,4,14,77,RAS
+2014,Monaco Grand Prix,Jules Bianchi,9,2,21,77,RAS
+2014,Monaco Grand Prix,Kevin Magnussen,10,1,8,77,RAS
+2014,Monaco Grand Prix,Marcus Ericsson,11,0,22,77,RAS
+2014,Monaco Grand Prix,Kimi Räikkönen,12,0,6,77,RAS
+2014,Monaco Grand Prix,Kamui Kobayashi,13,0,20,75,RAS
+2014,Monaco Grand Prix,Max Chilton,14,0,19,75,RAS
+2014,Monaco Grand Prix,Esteban Gutiérrez,15,0,17,59,Accident
+2014,Monaco Grand Prix,Valtteri Bottas,16,0,13,55,Engine
+2014,Monaco Grand Prix,Jean-Éric Vergne,17,0,7,50,Engine
+2014,Monaco Grand Prix,Adrian Sutil,18,0,18,23,Accident
+2014,Monaco Grand Prix,Daniil Kvyat,19,0,9,10,Mechanical
+2014,Monaco Grand Prix,Sebastian Vettel,20,0,4,5,Turbo
+2014,Monaco Grand Prix,Sergio Pérez,21,0,10,0,Collision
+2014,Monaco Grand Prix,Pastor Maldonado,22,0,15,0,Withdrew
+2014,Canadian Grand Prix,Daniel Ricciardo,1,25,6,70,RAS
+2014,Canadian Grand Prix,Nico Rosberg,2,18,1,70,RAS
+2014,Canadian Grand Prix,Sebastian Vettel,3,15,3,70,RAS
+2014,Canadian Grand Prix,Jenson Button,4,12,9,70,RAS
+2014,Canadian Grand Prix,Nico Hülkenberg,5,10,11,70,RAS
+2014,Canadian Grand Prix,Fernando Alonso,6,8,7,70,RAS
+2014,Canadian Grand Prix,Valtteri Bottas,7,6,4,70,RAS
+2014,Canadian Grand Prix,Jean-Éric Vergne,8,4,8,70,RAS
+2014,Canadian Grand Prix,Kevin Magnussen,9,2,12,70,RAS
+2014,Canadian Grand Prix,Kimi Räikkönen,10,1,10,70,RAS
+2014,Canadian Grand Prix,Sergio Pérez,11,0,13,69,Collision
+2014,Canadian Grand Prix,Felipe Massa,12,0,5,69,Collision
+2014,Canadian Grand Prix,Adrian Sutil,13,0,16,69,RAS
+2014,Canadian Grand Prix,Esteban Gutiérrez,14,0,22,64,ERS
+2014,Canadian Grand Prix,Romain Grosjean,15,0,14,59,Rear wing
+2014,Canadian Grand Prix,Daniil Kvyat,16,0,15,47,Drivetrain
+2014,Canadian Grand Prix,Lewis Hamilton,17,0,2,46,Brakes
+2014,Canadian Grand Prix,Kamui Kobayashi,18,0,21,23,Suspension
+2014,Canadian Grand Prix,Pastor Maldonado,19,0,17,21,Power Unit
+2014,Canadian Grand Prix,Marcus Ericsson,20,0,20,7,Turbo
+2014,Canadian Grand Prix,Max Chilton,21,0,18,0,Collision
+2014,Canadian Grand Prix,Jules Bianchi,22,0,19,0,Collision
+2014,Austrian Grand Prix,Nico Rosberg,1,25,3,71,RAS
+2014,Austrian Grand Prix,Lewis Hamilton,2,18,9,71,RAS
+2014,Austrian Grand Prix,Valtteri Bottas,3,15,2,71,RAS
+2014,Austrian Grand Prix,Felipe Massa,4,12,1,71,RAS
+2014,Austrian Grand Prix,Fernando Alonso,5,10,4,71,RAS
+2014,Austrian Grand Prix,Sergio Pérez,6,8,15,71,RAS
+2014,Austrian Grand Prix,Kevin Magnussen,7,6,6,71,RAS
+2014,Austrian Grand Prix,Daniel Ricciardo,8,4,5,71,RAS
+2014,Austrian Grand Prix,Nico Hülkenberg,9,2,10,71,RAS
+2014,Austrian Grand Prix,Kimi Räikkönen,10,1,8,71,RAS
+2014,Austrian Grand Prix,Jenson Button,11,0,11,71,RAS
+2014,Austrian Grand Prix,Pastor Maldonado,12,0,13,70,RAS
+2014,Austrian Grand Prix,Adrian Sutil,13,0,16,70,RAS
+2014,Austrian Grand Prix,Romain Grosjean,14,0,22,70,RAS
+2014,Austrian Grand Prix,Jules Bianchi,15,0,18,69,RAS
+2014,Austrian Grand Prix,Kamui Kobayashi,16,0,19,69,RAS
+2014,Austrian Grand Prix,Max Chilton,17,0,21,69,RAS
+2014,Austrian Grand Prix,Marcus Ericsson,18,0,20,69,RAS
+2014,Austrian Grand Prix,Esteban Gutiérrez,19,0,17,69,RAS
+2014,Austrian Grand Prix,Jean-Éric Vergne,20,0,14,59,Brakes
+2014,Austrian Grand Prix,Sebastian Vettel,21,0,12,34,Electrical
+2014,Austrian Grand Prix,Daniil Kvyat,22,0,7,24,Suspension
+2014,British Grand Prix,Lewis Hamilton,1,25,6,52,RAS
+2014,British Grand Prix,Valtteri Bottas,2,18,14,52,RAS
+2014,British Grand Prix,Daniel Ricciardo,3,15,8,52,RAS
+2014,British Grand Prix,Jenson Button,4,12,3,52,RAS
+2014,British Grand Prix,Sebastian Vettel,5,10,2,52,RAS
+2014,British Grand Prix,Fernando Alonso,6,8,16,52,RAS
+2014,British Grand Prix,Kevin Magnussen,7,6,5,52,RAS
+2014,British Grand Prix,Nico Hülkenberg,8,4,4,52,RAS
+2014,British Grand Prix,Daniil Kvyat,9,2,9,52,RAS
+2014,British Grand Prix,Jean-Éric Vergne,10,1,10,51,RAS
+2014,British Grand Prix,Sergio Pérez,11,0,7,51,RAS
+2014,British Grand Prix,Romain Grosjean,12,0,11,51,RAS
+2014,British Grand Prix,Adrian Sutil,13,0,13,51,RAS
+2014,British Grand Prix,Jules Bianchi,14,0,12,51,RAS
+2014,British Grand Prix,Kamui Kobayashi,15,0,22,50,RAS
+2014,British Grand Prix,Max Chilton,16,0,17,50,RAS
+2014,British Grand Prix,Pastor Maldonado,17,0,20,49,RAS
+2014,British Grand Prix,Nico Rosberg,18,0,1,28,Gearbox
+2014,British Grand Prix,Marcus Ericsson,19,0,21,11,Suspension
+2014,British Grand Prix,Esteban Gutiérrez,20,0,19,9,Collision
+2014,British Grand Prix,Felipe Massa,21,0,15,0,Collision
+2014,British Grand Prix,Kimi Räikkönen,22,0,18,0,Collision
+2014,German Grand Prix,Nico Rosberg,1,25,1,67,RAS
+2014,German Grand Prix,Valtteri Bottas,2,18,2,67,RAS
+2014,German Grand Prix,Lewis Hamilton,3,15,20,67,RAS
+2014,German Grand Prix,Sebastian Vettel,4,12,6,67,RAS
+2014,German Grand Prix,Fernando Alonso,5,10,7,67,RAS
+2014,German Grand Prix,Daniel Ricciardo,6,8,5,67,RAS
+2014,German Grand Prix,Nico Hülkenberg,7,6,9,67,RAS
+2014,German Grand Prix,Jenson Button,8,4,11,67,RAS
+2014,German Grand Prix,Kevin Magnussen,9,2,4,66,RAS
+2014,German Grand Prix,Sergio Pérez,10,1,10,66,RAS
+2014,German Grand Prix,Kimi Räikkönen,11,0,12,66,RAS
+2014,German Grand Prix,Pastor Maldonado,12,0,18,66,RAS
+2014,German Grand Prix,Jean-Éric Vergne,13,0,13,66,RAS
+2014,German Grand Prix,Esteban Gutiérrez,14,0,16,66,RAS
+2014,German Grand Prix,Jules Bianchi,15,0,17,66,RAS
+2014,German Grand Prix,Kamui Kobayashi,16,0,19,65,RAS
+2014,German Grand Prix,Max Chilton,17,0,21,65,RAS
+2014,German Grand Prix,Marcus Ericsson,18,0,22,65,RAS
+2014,German Grand Prix,Adrian Sutil,19,0,15,47,Brakes
+2014,German Grand Prix,Daniil Kvyat,20,0,8,44,Oil leak
+2014,German Grand Prix,Romain Grosjean,21,0,14,26,Water leak
+2014,German Grand Prix,Felipe Massa,22,0,3,0,Collision
+2014,Hungarian Grand Prix,Daniel Ricciardo,1,25,4,70,RAS
+2014,Hungarian Grand Prix,Fernando Alonso,2,18,5,70,RAS
+2014,Hungarian Grand Prix,Lewis Hamilton,3,15,22,70,RAS
+2014,Hungarian Grand Prix,Nico Rosberg,4,12,1,70,RAS
+2014,Hungarian Grand Prix,Felipe Massa,5,10,6,70,RAS
+2014,Hungarian Grand Prix,Kimi Räikkönen,6,8,16,70,RAS
+2014,Hungarian Grand Prix,Sebastian Vettel,7,6,2,70,RAS
+2014,Hungarian Grand Prix,Valtteri Bottas,8,4,3,70,RAS
+2014,Hungarian Grand Prix,Jean-Éric Vergne,9,2,8,70,RAS
+2014,Hungarian Grand Prix,Jenson Button,10,1,7,70,RAS
+2014,Hungarian Grand Prix,Adrian Sutil,11,0,11,70,RAS
+2014,Hungarian Grand Prix,Kevin Magnussen,12,0,21,70,RAS
+2014,Hungarian Grand Prix,Pastor Maldonado,13,0,20,70,RAS
+2014,Hungarian Grand Prix,Daniil Kvyat,14,0,10,69,RAS
+2014,Hungarian Grand Prix,Jules Bianchi,15,0,15,69,RAS
+2014,Hungarian Grand Prix,Max Chilton,16,0,18,69,RAS
+2014,Hungarian Grand Prix,Esteban Gutiérrez,17,0,13,33,DNF
+2014,Hungarian Grand Prix,Kamui Kobayashi,18,0,17,26,DNF
+2014,Hungarian Grand Prix,Sergio Pérez,19,0,12,23,Accident
+2014,Hungarian Grand Prix,Nico Hülkenberg,20,0,9,16,Accident
+2014,Hungarian Grand Prix,Romain Grosjean,21,0,14,11,Accident
+2014,Hungarian Grand Prix,Marcus Ericsson,22,0,19,8,Accident
+2014,Belgian Grand Prix,Daniel Ricciardo,1,25,5,44,RAS
+2014,Belgian Grand Prix,Nico Rosberg,2,18,1,44,RAS
+2014,Belgian Grand Prix,Valtteri Bottas,3,15,6,44,RAS
+2014,Belgian Grand Prix,Kimi Räikkönen,4,12,8,44,RAS
+2014,Belgian Grand Prix,Sebastian Vettel,5,10,3,44,RAS
+2014,Belgian Grand Prix,Jenson Button,6,8,10,44,RAS
+2014,Belgian Grand Prix,Fernando Alonso,7,6,4,44,RAS
+2014,Belgian Grand Prix,Sergio Pérez,8,4,13,44,RAS
+2014,Belgian Grand Prix,Daniil Kvyat,9,2,11,44,RAS
+2014,Belgian Grand Prix,Nico Hülkenberg,10,1,18,44,RAS
+2014,Belgian Grand Prix,Jean-Éric Vergne,11,0,12,44,RAS
+2014,Belgian Grand Prix,Kevin Magnussen,12,0,7,44,RAS
+2014,Belgian Grand Prix,Felipe Massa,13,0,9,44,RAS
+2014,Belgian Grand Prix,Adrian Sutil,14,0,14,44,RAS
+2014,Belgian Grand Prix,Esteban Gutiérrez,15,0,20,44,RAS
+2014,Belgian Grand Prix,Max Chilton,16,0,19,43,RAS
+2014,Belgian Grand Prix,Marcus Ericsson,17,0,22,43,RAS
+2014,Belgian Grand Prix,Jules Bianchi,18,0,16,39,Gearbox
+2014,Belgian Grand Prix,Lewis Hamilton,19,0,2,38,DNF
+2014,Belgian Grand Prix,Romain Grosjean,20,0,15,33,DNF
+2014,Belgian Grand Prix,Pastor Maldonado,21,0,17,1,Mechanical
+2014,Belgian Grand Prix,André Lotterer,22,0,21,1,Power Unit
+2014,Italian Grand Prix,Lewis Hamilton,1,25,1,53,RAS
+2014,Italian Grand Prix,Nico Rosberg,2,18,2,53,RAS
+2014,Italian Grand Prix,Felipe Massa,3,15,4,53,RAS
+2014,Italian Grand Prix,Valtteri Bottas,4,12,3,53,RAS
+2014,Italian Grand Prix,Daniel Ricciardo,5,10,9,53,RAS
+2014,Italian Grand Prix,Sebastian Vettel,6,8,8,53,RAS
+2014,Italian Grand Prix,Sergio Pérez,7,6,10,53,RAS
+2014,Italian Grand Prix,Jenson Button,8,4,6,53,RAS
+2014,Italian Grand Prix,Kimi Räikkönen,9,2,11,53,RAS
+2014,Italian Grand Prix,Kevin Magnussen,10,1,5,53,RAS
+2014,Italian Grand Prix,Daniil Kvyat,11,0,21,53,RAS
+2014,Italian Grand Prix,Nico Hülkenberg,12,0,13,53,RAS
+2014,Italian Grand Prix,Jean-Éric Vergne,13,0,12,53,RAS
+2014,Italian Grand Prix,Pastor Maldonado,14,0,16,52,RAS
+2014,Italian Grand Prix,Adrian Sutil,15,0,14,52,RAS
+2014,Italian Grand Prix,Romain Grosjean,16,0,17,52,RAS
+2014,Italian Grand Prix,Kamui Kobayashi,17,0,18,52,RAS
+2014,Italian Grand Prix,Jules Bianchi,18,0,19,52,RAS
+2014,Italian Grand Prix,Esteban Gutiérrez,19,0,15,51,RAS
+2014,Italian Grand Prix,Marcus Ericsson,20,0,22,51,RAS
+2014,Italian Grand Prix,Fernando Alonso,21,0,7,28,Engine
+2014,Italian Grand Prix,Max Chilton,22,0,20,5,Accident
+2014,Singapore Grand Prix,Lewis Hamilton,1,25,1,60,RAS
+2014,Singapore Grand Prix,Sebastian Vettel,2,18,4,60,RAS
+2014,Singapore Grand Prix,Daniel Ricciardo,3,15,3,60,RAS
+2014,Singapore Grand Prix,Fernando Alonso,4,12,5,60,RAS
+2014,Singapore Grand Prix,Felipe Massa,5,10,6,60,RAS
+2014,Singapore Grand Prix,Jean-Éric Vergne,6,8,12,60,RAS
+2014,Singapore Grand Prix,Sergio Pérez,7,6,15,60,RAS
+2014,Singapore Grand Prix,Kimi Räikkönen,8,4,7,60,RAS
+2014,Singapore Grand Prix,Nico Hülkenberg,9,2,13,60,RAS
+2014,Singapore Grand Prix,Kevin Magnussen,10,1,9,60,RAS
+2014,Singapore Grand Prix,Valtteri Bottas,11,0,8,60,RAS
+2014,Singapore Grand Prix,Pastor Maldonado,12,0,18,60,RAS
+2014,Singapore Grand Prix,Romain Grosjean,13,0,16,60,RAS
+2014,Singapore Grand Prix,Daniil Kvyat,14,0,10,60,RAS
+2014,Singapore Grand Prix,Marcus Ericsson,15,0,22,60,RAS
+2014,Singapore Grand Prix,Jules Bianchi,16,0,19,60,RAS
+2014,Singapore Grand Prix,Max Chilton,17,0,21,59,RAS
+2014,Singapore Grand Prix,Jenson Button,18,0,11,52,DNF
+2014,Singapore Grand Prix,Adrian Sutil,19,0,17,40,Water pressure
+2014,Singapore Grand Prix,Esteban Gutiérrez,20,0,14,17,Electrical
+2014,Singapore Grand Prix,Nico Rosberg,21,0,2,13,Electrical
+2014,Singapore Grand Prix,Kamui Kobayashi,22,0,20,0,Power Unit
+2014,Japanese Grand Prix,Lewis Hamilton,1,25,2,44,RAS
+2014,Japanese Grand Prix,Nico Rosberg,2,18,1,44,RAS
+2014,Japanese Grand Prix,Sebastian Vettel,3,15,9,44,RAS
+2014,Japanese Grand Prix,Daniel Ricciardo,4,12,6,44,RAS
+2014,Japanese Grand Prix,Jenson Button,5,10,8,44,RAS
+2014,Japanese Grand Prix,Valtteri Bottas,6,8,3,44,RAS
+2014,Japanese Grand Prix,Felipe Massa,7,6,4,44,RAS
+2014,Japanese Grand Prix,Nico Hülkenberg,8,4,13,44,RAS
+2014,Japanese Grand Prix,Jean-Éric Vergne,9,2,20,44,RAS
+2014,Japanese Grand Prix,Sergio Pérez,10,1,11,43,RAS
+2014,Japanese Grand Prix,Daniil Kvyat,11,0,12,43,RAS
+2014,Japanese Grand Prix,Kimi Räikkönen,12,0,10,43,RAS
+2014,Japanese Grand Prix,Esteban Gutiérrez,13,0,15,43,RAS
+2014,Japanese Grand Prix,Kevin Magnussen,14,0,7,43,RAS
+2014,Japanese Grand Prix,Romain Grosjean,15,0,16,43,RAS
+2014,Japanese Grand Prix,Pastor Maldonado,16,0,22,43,RAS
+2014,Japanese Grand Prix,Marcus Ericsson,17,0,17,43,RAS
+2014,Japanese Grand Prix,Max Chilton,18,0,21,43,RAS
+2014,Japanese Grand Prix,Kamui Kobayashi,19,0,19,43,RAS
+2014,Japanese Grand Prix,Jules Bianchi,20,0,18,41,Accident
+2014,Japanese Grand Prix,Adrian Sutil,21,0,14,40,Accident
+2014,Japanese Grand Prix,Fernando Alonso,22,0,5,2,Electronics
+2014,Russian Grand Prix,Lewis Hamilton,1,25,1,53,RAS
+2014,Russian Grand Prix,Nico Rosberg,2,18,2,53,RAS
+2014,Russian Grand Prix,Valtteri Bottas,3,15,3,53,RAS
+2014,Russian Grand Prix,Jenson Button,4,12,4,53,RAS
+2014,Russian Grand Prix,Kevin Magnussen,5,10,11,53,RAS
+2014,Russian Grand Prix,Fernando Alonso,6,8,7,53,RAS
+2014,Russian Grand Prix,Daniel Ricciardo,7,6,6,53,RAS
+2014,Russian Grand Prix,Sebastian Vettel,8,4,10,53,RAS
+2014,Russian Grand Prix,Kimi Räikkönen,9,2,8,53,RAS
+2014,Russian Grand Prix,Sergio Pérez,10,1,12,53,RAS
+2014,Russian Grand Prix,Felipe Massa,11,0,18,53,RAS
+2014,Russian Grand Prix,Nico Hülkenberg,12,0,17,53,RAS
+2014,Russian Grand Prix,Jean-Éric Vergne,13,0,9,53,RAS
+2014,Russian Grand Prix,Daniil Kvyat,14,0,5,52,RAS
+2014,Russian Grand Prix,Esteban Gutiérrez,15,0,13,52,RAS
+2014,Russian Grand Prix,Adrian Sutil,16,0,14,52,RAS
+2014,Russian Grand Prix,Romain Grosjean,17,0,15,52,RAS
+2014,Russian Grand Prix,Pastor Maldonado,18,0,21,52,RAS
+2014,Russian Grand Prix,Marcus Ericsson,19,0,16,51,RAS
+2014,Russian Grand Prix,Kamui Kobayashi,20,0,19,21,Brakes
+2014,Russian Grand Prix,Max Chilton,21,0,20,9,Suspension
+2014,United States Grand Prix,Lewis Hamilton,1,25,2,56,RAS
+2014,United States Grand Prix,Nico Rosberg,2,18,1,56,RAS
+2014,United States Grand Prix,Daniel Ricciardo,3,15,5,56,RAS
+2014,United States Grand Prix,Felipe Massa,4,12,4,56,RAS
+2014,United States Grand Prix,Valtteri Bottas,5,10,3,56,RAS
+2014,United States Grand Prix,Fernando Alonso,6,8,6,56,RAS
+2014,United States Grand Prix,Sebastian Vettel,7,6,18,56,RAS
+2014,United States Grand Prix,Kevin Magnussen,8,4,7,56,RAS
+2014,United States Grand Prix,Pastor Maldonado,9,2,10,56,RAS
+2014,United States Grand Prix,Jean-Éric Vergne,10,1,14,56,RAS
+2014,United States Grand Prix,Romain Grosjean,11,0,16,55,RAS
+2014,United States Grand Prix,Jenson Button,12,0,12,55,RAS
+2014,United States Grand Prix,Kimi Räikkönen,13,0,8,55,RAS
+2014,United States Grand Prix,Esteban Gutiérrez,14,0,15,55,RAS
+2014,United States Grand Prix,Daniil Kvyat,15,0,17,55,RAS
+2014,United States Grand Prix,Nico Hülkenberg,16,0,13,16,Engine
+2014,United States Grand Prix,Sergio Pérez,17,0,11,1,Collision damage
+2014,United States Grand Prix,Adrian Sutil,18,0,9,0,Collision
+2014,Brazilian Grand Prix,Nico Rosberg,1,25,1,71,RAS
+2014,Brazilian Grand Prix,Lewis Hamilton,2,18,2,71,RAS
+2014,Brazilian Grand Prix,Felipe Massa,3,15,3,71,RAS
+2014,Brazilian Grand Prix,Jenson Button,4,12,5,71,RAS
+2014,Brazilian Grand Prix,Sebastian Vettel,5,10,6,71,RAS
+2014,Brazilian Grand Prix,Fernando Alonso,6,8,8,71,RAS
+2014,Brazilian Grand Prix,Kimi Räikkönen,7,6,10,71,RAS
+2014,Brazilian Grand Prix,Nico Hülkenberg,8,4,12,71,RAS
+2014,Brazilian Grand Prix,Kevin Magnussen,9,2,7,71,RAS
+2014,Brazilian Grand Prix,Valtteri Bottas,10,1,4,70,RAS
+2014,Brazilian Grand Prix,Daniil Kvyat,11,0,17,70,RAS
+2014,Brazilian Grand Prix,Pastor Maldonado,12,0,16,70,RAS
+2014,Brazilian Grand Prix,Jean-Éric Vergne,13,0,15,70,RAS
+2014,Brazilian Grand Prix,Esteban Gutiérrez,14,0,11,70,RAS
+2014,Brazilian Grand Prix,Sergio Pérez,15,0,18,70,RAS
+2014,Brazilian Grand Prix,Adrian Sutil,16,0,13,70,RAS
+2014,Brazilian Grand Prix,Romain Grosjean,17,0,14,63,RAS
+2014,Brazilian Grand Prix,Daniel Ricciardo,18,0,9,39,Suspension
+2014,Abu Dhabi Grand Prix,Lewis Hamilton,1,50,2,55,RAS
+2014,Abu Dhabi Grand Prix,Felipe Massa,2,36,4,55,RAS
+2014,Abu Dhabi Grand Prix,Valtteri Bottas,3,30,3,55,RAS
+2014,Abu Dhabi Grand Prix,Daniel Ricciardo,4,24,20,55,RAS
+2014,Abu Dhabi Grand Prix,Jenson Button,5,20,6,55,RAS
+2014,Abu Dhabi Grand Prix,Nico Hülkenberg,6,16,12,55,RAS
+2014,Abu Dhabi Grand Prix,Sergio Pérez,7,12,11,55,RAS
+2014,Abu Dhabi Grand Prix,Sebastian Vettel,8,8,19,55,RAS
+2014,Abu Dhabi Grand Prix,Fernando Alonso,9,4,8,55,RAS
+2014,Abu Dhabi Grand Prix,Kimi Räikkönen,10,2,7,55,RAS
+2014,Abu Dhabi Grand Prix,Kevin Magnussen,11,0,9,55,RAS
+2014,Abu Dhabi Grand Prix,Jean-Éric Vergne,12,0,10,55,RAS
+2014,Abu Dhabi Grand Prix,Romain Grosjean,13,0,18,54,RAS
+2014,Abu Dhabi Grand Prix,Nico Rosberg,14,0,1,54,RAS
+2014,Abu Dhabi Grand Prix,Esteban Gutiérrez,15,0,14,54,RAS
+2014,Abu Dhabi Grand Prix,Adrian Sutil,16,0,13,54,RAS
+2014,Abu Dhabi Grand Prix,Will Stevens,17,0,17,54,RAS
+2014,Abu Dhabi Grand Prix,Kamui Kobayashi,18,0,16,42,DNF
+2014,Abu Dhabi Grand Prix,Pastor Maldonado,19,0,15,26,Power Unit
+2014,Abu Dhabi Grand Prix,Daniil Kvyat,20,0,5,14,Power Unit

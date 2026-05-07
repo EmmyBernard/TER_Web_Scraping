@@ -1,0 +1,406 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1977,Argentine Grand Prix,Jody Scheckter,1,9,11,53,RAS
+1977,Argentine Grand Prix,Carlos Pace,2,6,6,53,RAS
+1977,Argentine Grand Prix,Carlos Reutemann,3,4,7,53,RAS
+1977,Argentine Grand Prix,Emerson Fittipaldi,4,3,16,53,RAS
+1977,Argentine Grand Prix,Mario Andretti,5,2,8,51,Wheel bearing
+1977,Argentine Grand Prix,Clay Regazzoni,6,1,12,51,RAS
+1977,Argentine Grand Prix,Vittorio Brambilla,7,0,13,48,Out of fuel
+1977,Argentine Grand Prix,Ian Scheckter,8,0,17,45,Electrical
+1977,Argentine Grand Prix,Tom Pryce,9,0,9,45,Not classified
+1977,Argentine Grand Prix,John Watson,10,0,2,41,Suspension
+1977,Argentine Grand Prix,Alex Ribeiro,11,0,20,39,Transmission
+1977,Argentine Grand Prix,Jacques Laffite,12,0,15,37,Not classified
+1977,Argentine Grand Prix,Patrick Depailler,13,0,3,32,Overheating
+1977,Argentine Grand Prix,James Hunt,14,0,1,31,Suspension
+1977,Argentine Grand Prix,Jochen Mass,15,0,5,28,Spun off
+1977,Argentine Grand Prix,Ronnie Peterson,16,0,14,28,Spun off
+1977,Argentine Grand Prix,Ingo Hoffmann,17,0,19,22,Engine
+1977,Argentine Grand Prix,Niki Lauda,18,0,4,20,Fuel system
+1977,Argentine Grand Prix,Hans Binder,19,0,18,18,Accident
+1977,Argentine Grand Prix,Renzo Zorzi,20,0,21,2,Gearbox
+1977,Argentine Grand Prix,Gunnar Nilsson,21,0,10,0,Withdrew
+1977,Brazilian Grand Prix,Carlos Reutemann,1,9,2,40,RAS
+1977,Brazilian Grand Prix,James Hunt,2,6,1,40,RAS
+1977,Brazilian Grand Prix,Niki Lauda,3,4,13,40,RAS
+1977,Brazilian Grand Prix,Emerson Fittipaldi,4,3,16,39,RAS
+1977,Brazilian Grand Prix,Gunnar Nilsson,5,2,10,39,RAS
+1977,Brazilian Grand Prix,Renzo Zorzi,6,1,18,39,RAS
+1977,Brazilian Grand Prix,Ingo Hoffmann,7,0,19,38,RAS
+1977,Brazilian Grand Prix,Carlos Pace,8,0,12,33,Accident
+1977,Brazilian Grand Prix,Tom Pryce,9,0,5,33,Engine
+1977,Brazilian Grand Prix,Hans Binder,10,0,20,32,Suspension
+1977,Brazilian Grand Prix,John Watson,11,0,7,30,Accident
+1977,Brazilian Grand Prix,Jacques Laffite,12,0,14,26,Accident
+1977,Brazilian Grand Prix,Patrick Depailler,13,0,6,23,Accident
+1977,Brazilian Grand Prix,Mario Andretti,14,0,3,19,Ignition
+1977,Brazilian Grand Prix,Alex Ribeiro,15,0,21,16,Engine
+1977,Brazilian Grand Prix,Jochen Mass,16,0,4,12,Accident
+1977,Brazilian Grand Prix,Ronnie Peterson,17,0,8,12,Accident
+1977,Brazilian Grand Prix,Clay Regazzoni,18,0,9,12,Accident
+1977,Brazilian Grand Prix,Vittorio Brambilla,19,0,11,11,Accident
+1977,Brazilian Grand Prix,Jody Scheckter,20,0,15,11,Engine
+1977,Brazilian Grand Prix,Ian Scheckter,21,0,17,1,Transmission
+1977,Brazilian Grand Prix,Larry Perkins,22,0,22,1,Overheating
+1977,South African Grand Prix,Niki Lauda,1,9,3,78,RAS
+1977,South African Grand Prix,Jody Scheckter,2,6,5,78,RAS
+1977,South African Grand Prix,Patrick Depailler,3,4,4,78,RAS
+1977,South African Grand Prix,James Hunt,4,3,1,78,RAS
+1977,South African Grand Prix,Jochen Mass,5,2,12,78,RAS
+1977,South African Grand Prix,John Watson,6,1,11,78,RAS
+1977,South African Grand Prix,Vittorio Brambilla,7,0,14,78,RAS
+1977,South African Grand Prix,Carlos Reutemann,8,0,8,78,RAS
+1977,South African Grand Prix,Clay Regazzoni,9,0,16,78,RAS
+1977,South African Grand Prix,Emerson Fittipaldi,10,0,9,78,RAS
+1977,South African Grand Prix,Hans Binder,11,0,19,77,RAS
+1977,South African Grand Prix,Gunnar Nilsson,12,0,10,77,RAS
+1977,South African Grand Prix,Carlos Pace,13,0,2,76,RAS
+1977,South African Grand Prix,Brett Lunger,14,0,23,76,RAS
+1977,South African Grand Prix,Larry Perkins,15,0,22,73,RAS
+1977,South African Grand Prix,Alex Ribeiro,16,0,17,66,Engine
+1977,South African Grand Prix,Hans-Joachim Stuck,17,0,18,55,Engine
+1977,South African Grand Prix,Mario Andretti,18,0,6,43,Accident
+1977,South African Grand Prix,Boy Lunger,19,0,21,33,Gearbox
+1977,South African Grand Prix,Jacques Laffite,20,0,12,22,Accident
+1977,South African Grand Prix,Tom Pryce,21,0,15,22,Accident
+1977,South African Grand Prix,Renzo Zorzi,22,0,20,21,Fuel leak
+1977,South African Grand Prix,Ronnie Peterson,23,0,7,5,Fuel system
+1977,United States Grand Prix West,Mario Andretti,1,9,2,80,RAS
+1977,United States Grand Prix West,Niki Lauda,2,6,1,80,RAS
+1977,United States Grand Prix West,Jody Scheckter,3,4,3,80,RAS
+1977,United States Grand Prix West,Patrick Depailler,4,3,12,80,RAS
+1977,United States Grand Prix West,Emerson Fittipaldi,5,2,7,80,RAS
+1977,United States Grand Prix West,Jean-Pierre Jarier,6,1,9,79,RAS
+1977,United States Grand Prix West,James Hunt,7,0,8,79,RAS
+1977,United States Grand Prix West,Gunnar Nilsson,8,0,16,79,RAS
+1977,United States Grand Prix West,Jacques Laffite,9,0,5,78,Electrical
+1977,United States Grand Prix West,Brian Henton,10,0,18,77,RAS
+1977,United States Grand Prix West,Hans Binder,11,0,19,77,RAS
+1977,United States Grand Prix West,Ronnie Peterson,12,0,10,62,Fuel system
+1977,United States Grand Prix West,Clay Regazzoni,13,0,13,57,Gearbox
+1977,United States Grand Prix West,Hans-Joachim Stuck,14,0,17,53,Brakes
+1977,United States Grand Prix West,Alan Jones,15,0,14,40,Gearbox
+1977,United States Grand Prix West,Jochen Mass,16,0,15,39,Handling
+1977,United States Grand Prix West,John Watson,17,0,6,33,DQ
+1977,United States Grand Prix West,Renzo Zorzi,18,0,20,27,Gearbox
+1977,United States Grand Prix West,Alex Ribeiro,19,0,22,15,Gearbox
+1977,United States Grand Prix West,Carlos Reutemann,20,0,4,5,Accident
+1977,United States Grand Prix West,Brett Lunger,21,0,21,4,Accident
+1977,United States Grand Prix West,Vittorio Brambilla,22,0,11,0,Accident
+1977,Spanish Grand Prix,Mario Andretti,1,9,1,75,RAS
+1977,Spanish Grand Prix,Carlos Reutemann,2,6,4,75,RAS
+1977,Spanish Grand Prix,Jody Scheckter,3,4,5,75,RAS
+1977,Spanish Grand Prix,Jochen Mass,4,3,9,75,RAS
+1977,Spanish Grand Prix,Gunnar Nilsson,5,2,12,75,RAS
+1977,Spanish Grand Prix,Hans-Joachim Stuck,6,1,13,74,RAS
+1977,Spanish Grand Prix,Jacques Laffite,7,0,2,74,RAS
+1977,Spanish Grand Prix,Ronnie Peterson,8,0,15,74,RAS
+1977,Spanish Grand Prix,Hans Binder,9,0,20,73,RAS
+1977,Spanish Grand Prix,Brett Lunger,10,0,28,72,RAS
+1977,Spanish Grand Prix,Ian Scheckter,11,0,17,72,RAS
+1977,Spanish Grand Prix,Patrick Nève,12,0,22,71,RAS
+1977,Spanish Grand Prix,Emilio de Villota,13,0,23,70,RAS
+1977,Spanish Grand Prix,Emerson Fittipaldi,14,0,19,70,RAS
+1977,Spanish Grand Prix,John Watson,15,0,6,64,Fuel system
+1977,Spanish Grand Prix,Alan Jones,16,0,14,56,Accident
+1977,Spanish Grand Prix,Rupert Keegan,17,0,16,32,Accident
+1977,Spanish Grand Prix,Harald Ertl,18,0,10,29,Radiator
+1977,Spanish Grand Prix,Renzo Zorzi,19,0,24,25,Engine
+1977,Spanish Grand Prix,Arturo Merzario,20,0,21,16,Suspension
+1977,Spanish Grand Prix,Patrick Depailler,21,0,10,12,Engine
+1977,Spanish Grand Prix,James Hunt,22,0,7,10,Engine
+1977,Spanish Grand Prix,Clay Regazzoni,23,0,8,9,Accident
+1977,Spanish Grand Prix,Vittorio Brambilla,24,0,11,9,Accident
+1977,Spanish Grand Prix,Niki Lauda,25,0,3,0,Injured
+1977,Monaco Grand Prix,Jody Scheckter,1,9,2,76,RAS
+1977,Monaco Grand Prix,Niki Lauda,2,6,6,76,RAS
+1977,Monaco Grand Prix,Carlos Reutemann,3,4,3,76,RAS
+1977,Monaco Grand Prix,Jochen Mass,4,3,9,76,RAS
+1977,Monaco Grand Prix,Mario Andretti,5,2,10,76,RAS
+1977,Monaco Grand Prix,Alan Jones,6,1,11,76,RAS
+1977,Monaco Grand Prix,Jacques Laffite,7,0,16,76,RAS
+1977,Monaco Grand Prix,Vittorio Brambilla,8,0,14,76,RAS
+1977,Monaco Grand Prix,Riccardo Patrese,9,0,15,75,RAS
+1977,Monaco Grand Prix,Jacky Ickx,10,0,17,75,RAS
+1977,Monaco Grand Prix,Jean-Pierre Jarier,11,0,12,74,RAS
+1977,Monaco Grand Prix,Rupert Keegan,12,0,20,73,RAS
+1977,Monaco Grand Prix,Gunnar Nilsson,13,0,13,51,Gearbox
+1977,Monaco Grand Prix,John Watson,14,0,1,48,Gearbox
+1977,Monaco Grand Prix,Patrick Depailler,15,0,8,46,Gearbox
+1977,Monaco Grand Prix,Hans Binder,16,0,19,41,Fuel system
+1977,Monaco Grand Prix,Emerson Fittipaldi,17,0,18,37,Engine
+1977,Monaco Grand Prix,James Hunt,18,0,7,25,Engine
+1977,Monaco Grand Prix,Hans-Joachim Stuck,19,0,5,19,Electrical
+1977,Monaco Grand Prix,Ronnie Peterson,20,0,4,10,Brakes
+1977,Belgian Grand Prix,Gunnar Nilsson,1,9,3,70,RAS
+1977,Belgian Grand Prix,Niki Lauda,2,6,11,70,RAS
+1977,Belgian Grand Prix,Ronnie Peterson,3,4,8,70,RAS
+1977,Belgian Grand Prix,Vittorio Brambilla,4,3,12,70,RAS
+1977,Belgian Grand Prix,Alan Jones,5,2,17,70,RAS
+1977,Belgian Grand Prix,Hans-Joachim Stuck,6,1,18,69,RAS
+1977,Belgian Grand Prix,James Hunt,7,0,9,69,RAS
+1977,Belgian Grand Prix,Patrick Depailler,8,0,5,69,RAS
+1977,Belgian Grand Prix,Harald Ertl,9,0,25,69,RAS
+1977,Belgian Grand Prix,Patrick Nève,10,0,24,68,RAS
+1977,Belgian Grand Prix,Jean-Pierre Jarier,11,0,26,68,RAS
+1977,Belgian Grand Prix,Larry Perkins,12,0,23,67,RAS
+1977,Belgian Grand Prix,David Purley,13,0,20,67,RAS
+1977,Belgian Grand Prix,Arturo Merzario,14,0,14,65,RAS
+1977,Belgian Grand Prix,Boy Lunger,15,0,27,63,Not classified
+1977,Belgian Grand Prix,Jody Scheckter,16,0,4,62,Engine
+1977,Belgian Grand Prix,Jochen Mass,17,0,6,39,Accident
+1977,Belgian Grand Prix,Jacques Laffite,18,0,10,32,Engine
+1977,Belgian Grand Prix,Clay Regazzoni,19,0,13,29,Engine
+1977,Belgian Grand Prix,Carlos Reutemann,20,0,7,14,Accident
+1977,Belgian Grand Prix,Rupert Keegan,21,0,19,14,Accident
+1977,Belgian Grand Prix,Riccardo Patrese,22,0,15,12,Accident
+1977,Belgian Grand Prix,Ian Scheckter,23,0,21,8,Accident
+1977,Belgian Grand Prix,Emerson Fittipaldi,24,0,16,2,Electrical
+1977,Belgian Grand Prix,Mario Andretti,25,0,1,0,Accident
+1977,Belgian Grand Prix,John Watson,26,0,2,0,Accident
+1977,Swedish Grand Prix,Jacques Laffite,1,9,8,72,RAS
+1977,Swedish Grand Prix,Jochen Mass,2,6,9,72,RAS
+1977,Swedish Grand Prix,Carlos Reutemann,3,4,12,72,RAS
+1977,Swedish Grand Prix,Patrick Depailler,4,3,6,72,RAS
+1977,Swedish Grand Prix,John Watson,5,2,2,72,RAS
+1977,Swedish Grand Prix,Mario Andretti,6,1,1,72,RAS
+1977,Swedish Grand Prix,Clay Regazzoni,7,0,14,72,RAS
+1977,Swedish Grand Prix,Jean-Pierre Jarier,8,0,17,72,RAS
+1977,Swedish Grand Prix,Jackie Oliver,9,0,16,72,RAS
+1977,Swedish Grand Prix,Hans-Joachim Stuck,10,0,5,71,RAS
+1977,Swedish Grand Prix,Brett Lunger,11,0,22,71,RAS
+1977,Swedish Grand Prix,James Hunt,12,0,3,71,RAS
+1977,Swedish Grand Prix,Rupert Keegan,13,0,24,71,RAS
+1977,Swedish Grand Prix,David Purley,14,0,19,70,RAS
+1977,Swedish Grand Prix,Patrick Nève,15,0,20,69,RAS
+1977,Swedish Grand Prix,Harald Ertl,16,0,23,68,RAS
+1977,Swedish Grand Prix,Alan Jones,17,0,11,67,RAS
+1977,Swedish Grand Prix,Emerson Fittipaldi,18,0,18,66,RAS
+1977,Swedish Grand Prix,Gunnar Nilsson,19,0,7,64,Wheel bearing
+1977,Swedish Grand Prix,Ian Scheckter,20,0,21,61,Transmission
+1977,Swedish Grand Prix,Vittorio Brambilla,21,0,13,52,Fuel pressure
+1977,Swedish Grand Prix,Niki Lauda,22,0,15,47,Handling
+1977,Swedish Grand Prix,Jody Scheckter,23,0,4,29,Accident
+1977,Swedish Grand Prix,Ronnie Peterson,24,0,10,7,Ignition
+1977,French Grand Prix,Mario Andretti,1,9,1,80,RAS
+1977,French Grand Prix,John Watson,2,6,4,80,RAS
+1977,French Grand Prix,James Hunt,3,4,2,80,RAS
+1977,French Grand Prix,Gunnar Nilsson,4,3,3,80,RAS
+1977,French Grand Prix,Niki Lauda,5,2,9,80,RAS
+1977,French Grand Prix,Carlos Reutemann,6,1,6,79,RAS
+1977,French Grand Prix,Clay Regazzoni,7,0,16,79,RAS
+1977,French Grand Prix,Jacques Laffite,8,0,5,78,RAS
+1977,French Grand Prix,Jochen Mass,9,0,7,78,RAS
+1977,French Grand Prix,Rupert Keegan,10,0,14,78,RAS
+1977,French Grand Prix,Emerson Fittipaldi,11,0,22,77,RAS
+1977,French Grand Prix,Ronnie Peterson,12,0,17,77,RAS
+1977,French Grand Prix,Vittorio Brambilla,13,0,11,77,RAS
+1977,French Grand Prix,Ian Scheckter,14,0,20,69,Not classified
+1977,French Grand Prix,Jody Scheckter,15,0,8,66,Accident
+1977,French Grand Prix,Hans-Joachim Stuck,16,0,13,64,Accident
+1977,French Grand Prix,Alan Jones,17,0,10,60,Transmission
+1977,French Grand Prix,Arturo Merzario,18,0,18,27,Gearbox
+1977,French Grand Prix,Patrick Depailler,19,0,12,21,Accident
+1977,French Grand Prix,Riccardo Patrese,20,0,15,6,Engine
+1977,French Grand Prix,David Purley,21,0,21,5,Accident
+1977,French Grand Prix,Jean-Pierre Jarier,22,0,19,4,Accident
+1977,British Grand Prix,James Hunt,1,9,1,68,RAS
+1977,British Grand Prix,Niki Lauda,2,6,3,68,RAS
+1977,British Grand Prix,Gunnar Nilsson,3,4,5,68,RAS
+1977,British Grand Prix,Jochen Mass,4,3,11,68,RAS
+1977,British Grand Prix,Hans-Joachim Stuck,5,2,7,68,RAS
+1977,British Grand Prix,Jacques Laffite,6,1,15,67,RAS
+1977,British Grand Prix,Alan Jones,7,0,12,67,RAS
+1977,British Grand Prix,Vittorio Brambilla,8,0,8,67,RAS
+1977,British Grand Prix,Jean-Pierre Jarier,9,0,20,67,RAS
+1977,British Grand Prix,Patrick Nève,10,0,26,66,RAS
+1977,British Grand Prix,Gilles Villeneuve,11,0,9,66,RAS
+1977,British Grand Prix,Vern Schuppan,12,0,23,66,RAS
+1977,British Grand Prix,Brett Lunger,13,0,19,64,RAS
+1977,British Grand Prix,Mario Andretti,14,0,6,62,Engine
+1977,British Grand Prix,Carlos Reutemann,15,0,14,62,RAS
+1977,British Grand Prix,John Watson,16,0,2,60,Fuel system
+1977,British Grand Prix,Jody Scheckter,17,0,4,59,Engine
+1977,British Grand Prix,Emerson Fittipaldi,18,0,22,42,Throttle
+1977,British Grand Prix,Arturo Merzario,19,0,17,28,Transmission
+1977,British Grand Prix,Riccardo Patrese,20,0,25,20,Fuel pressure
+1977,British Grand Prix,Patrick Depailler,21,0,18,16,Brakes
+1977,British Grand Prix,Jean-Pierre Jabouille,22,0,21,16,Turbo
+1977,British Grand Prix,Ian Scheckter,23,0,24,6,Accident
+1977,British Grand Prix,Ronnie Peterson,24,0,16,3,Engine
+1977,British Grand Prix,Patrick Tambay,25,0,10,3,Electrical
+1977,British Grand Prix,Rupert Keegan,26,0,13,0,Accident
+1977,German Grand Prix,Niki Lauda,1,9,3,47,RAS
+1977,German Grand Prix,Jody Scheckter,2,6,1,47,RAS
+1977,German Grand Prix,Hans-Joachim Stuck,3,4,5,47,RAS
+1977,German Grand Prix,Carlos Reutemann,4,3,8,47,RAS
+1977,German Grand Prix,Vittorio Brambilla,5,2,10,47,RAS
+1977,German Grand Prix,Patrick Tambay,6,1,11,47,RAS
+1977,German Grand Prix,Vern Schuppan,7,0,19,46,RAS
+1977,German Grand Prix,Alex Ribeiro,8,0,20,46,RAS
+1977,German Grand Prix,Ronnie Peterson,9,0,14,42,Engine
+1977,German Grand Prix,Riccardo Patrese,10,0,16,42,Wheel
+1977,German Grand Prix,Rupert Keegan,11,0,23,40,Accident
+1977,German Grand Prix,Mario Andretti,12,0,7,34,Engine
+1977,German Grand Prix,James Hunt,13,0,4,32,Fuel pump
+1977,German Grand Prix,Gunnar Nilsson,14,0,9,31,Engine
+1977,German Grand Prix,Jochen Mass,15,0,13,26,Gearbox
+1977,German Grand Prix,Patrick Depailler,16,0,15,22,Engine
+1977,German Grand Prix,Jacques Laffite,17,0,6,21,Engine
+1977,German Grand Prix,Hector Rebaque,18,0,24,20,Engine
+1977,German Grand Prix,Brett Lunger,19,0,21,14,Accident
+1977,German Grand Prix,Ian Scheckter,20,0,19,9,Clutch
+1977,German Grand Prix,John Watson,21,0,2,8,Engine
+1977,German Grand Prix,Jean-Pierre Jarier,22,0,12,5,Transmission
+1977,German Grand Prix,Alan Jones,23,0,17,0,Accident
+1977,Austrian Grand Prix,Alan Jones,1,9,14,54,RAS
+1977,Austrian Grand Prix,Niki Lauda,2,6,1,54,RAS
+1977,Austrian Grand Prix,Hans-Joachim Stuck,3,4,4,54,RAS
+1977,Austrian Grand Prix,Carlos Reutemann,4,3,5,54,RAS
+1977,Austrian Grand Prix,Ronnie Peterson,5,2,15,54,RAS
+1977,Austrian Grand Prix,Jochen Mass,6,1,9,53,RAS
+1977,Austrian Grand Prix,Rupert Keegan,7,0,20,53,RAS
+1977,Austrian Grand Prix,John Watson,8,0,12,53,RAS
+1977,Austrian Grand Prix,Patrick Nève,9,0,22,53,RAS
+1977,Austrian Grand Prix,Brett Lunger,10,0,17,53,RAS
+1977,Austrian Grand Prix,Emerson Fittipaldi,11,0,23,53,RAS
+1977,Austrian Grand Prix,Hans Binder,12,0,19,53,RAS
+1977,Austrian Grand Prix,Patrick Depailler,13,0,10,53,RAS
+1977,Austrian Grand Prix,Jean-Pierre Jarier,14,0,18,52,RAS
+1977,Austrian Grand Prix,Vittorio Brambilla,15,0,13,52,RAS
+1977,Austrian Grand Prix,Vern Schuppan,16,0,25,52,RAS
+1977,Austrian Grand Prix,Emilio de Villota,17,0,26,50,Accident
+1977,Austrian Grand Prix,Jody Scheckter,18,0,8,45,Spun off
+1977,Austrian Grand Prix,James Hunt,19,0,2,43,Engine
+1977,Austrian Grand Prix,Patrick Tambay,20,0,7,41,Engine
+1977,Austrian Grand Prix,Gunnar Nilsson,21,0,16,38,Engine
+1977,Austrian Grand Prix,Arturo Merzario,22,0,21,29,Gearbox
+1977,Austrian Grand Prix,Jacques Laffite,23,0,6,21,Oil leak
+1977,Austrian Grand Prix,Mario Andretti,24,0,3,11,Engine
+1977,Austrian Grand Prix,Ian Scheckter,25,0,24,2,Accident
+1977,Austrian Grand Prix,Clay Regazzoni,26,0,11,0,Accident
+1977,Dutch Grand Prix,Niki Lauda,1,9,4,75,RAS
+1977,Dutch Grand Prix,Jacques Laffite,2,6,2,75,RAS
+1977,Dutch Grand Prix,Jody Scheckter,3,4,15,74,RAS
+1977,Dutch Grand Prix,Emerson Fittipaldi,4,3,17,74,RAS
+1977,Dutch Grand Prix,Patrick Tambay,5,2,12,73,Out of fuel
+1977,Dutch Grand Prix,Carlos Reutemann,6,1,6,73,RAS
+1977,Dutch Grand Prix,Hans-Joachim Stuck,7,0,19,73,RAS
+1977,Dutch Grand Prix,Hans Binder,8,0,18,73,RAS
+1977,Dutch Grand Prix,Brett Lunger,9,0,20,73,RAS
+1977,Dutch Grand Prix,Ian Scheckter,10,0,25,73,RAS
+1977,Dutch Grand Prix,Alex Ribeiro,11,0,24,72,RAS
+1977,Dutch Grand Prix,Vittorio Brambilla,12,0,22,67,Accident
+1977,Dutch Grand Prix,Riccardo Patrese,13,0,16,67,Engine
+1977,Dutch Grand Prix,Brian Henton,14,0,23,52,DQ
+1977,Dutch Grand Prix,Jean-Pierre Jabouille,15,0,10,39,Suspension
+1977,Dutch Grand Prix,Gunnar Nilsson,16,0,5,34,Accident
+1977,Dutch Grand Prix,Alan Jones,17,0,13,32,Engine
+1977,Dutch Grand Prix,Patrick Depailler,18,0,11,31,Engine
+1977,Dutch Grand Prix,Ronnie Peterson,19,0,7,18,Ignition
+1977,Dutch Grand Prix,Clay Regazzoni,20,0,9,17,Throttle
+1977,Dutch Grand Prix,Mario Andretti,21,0,1,14,Engine
+1977,Dutch Grand Prix,Rupert Keegan,22,0,26,8,Accident
+1977,Dutch Grand Prix,James Hunt,23,0,3,5,Accident
+1977,Dutch Grand Prix,Jean-Pierre Jarier,24,0,21,4,Ignition
+1977,Dutch Grand Prix,John Watson,25,0,8,2,Oil leak
+1977,Dutch Grand Prix,Jochen Mass,26,0,14,0,Accident
+1977,Italian Grand Prix,Mario Andretti,1,9,4,52,RAS
+1977,Italian Grand Prix,Niki Lauda,2,6,5,52,RAS
+1977,Italian Grand Prix,Alan Jones,3,4,16,52,RAS
+1977,Italian Grand Prix,Jochen Mass,4,3,9,52,RAS
+1977,Italian Grand Prix,Clay Regazzoni,5,2,7,52,RAS
+1977,Italian Grand Prix,Ronnie Peterson,6,1,12,52,RAS
+1977,Italian Grand Prix,Patrick Nève,7,0,24,50,RAS
+1977,Italian Grand Prix,Jacques Laffite,8,0,8,50,RAS
+1977,Italian Grand Prix,Rupert Keegan,9,0,23,48,RAS
+1977,Italian Grand Prix,Ian Scheckter,10,0,17,41,Transmission
+1977,Italian Grand Prix,Carlos Reutemann,11,0,2,39,Spun off
+1977,Italian Grand Prix,Riccardo Patrese,12,0,6,39,Spun off
+1977,Italian Grand Prix,Bruno Giacomelli,13,0,15,38,Engine
+1977,Italian Grand Prix,Hans-Joachim Stuck,14,0,11,31,Engine
+1977,Italian Grand Prix,James Hunt,15,0,1,26,Spun off
+1977,Italian Grand Prix,Patrick Depailler,16,0,13,24,Engine
+1977,Italian Grand Prix,Jody Scheckter,17,0,3,23,Engine
+1977,Italian Grand Prix,Jean-Pierre Jabouille,18,0,20,23,Engine
+1977,Italian Grand Prix,Jean-Pierre Jarier,19,0,18,19,Engine
+1977,Italian Grand Prix,Patrick Tambay,20,0,21,9,Engine
+1977,Italian Grand Prix,Vittorio Brambilla,21,0,10,5,Accident
+1977,Italian Grand Prix,Gunnar Nilsson,22,0,22,4,Suspension
+1977,Italian Grand Prix,Brett Lunger,23,0,19,4,Engine
+1977,Italian Grand Prix,John Watson,24,0,14,3,Accident
+1977,United States Grand Prix,James Hunt,1,9,1,59,RAS
+1977,United States Grand Prix,Mario Andretti,2,6,4,59,RAS
+1977,United States Grand Prix,Jody Scheckter,3,4,9,59,RAS
+1977,United States Grand Prix,Niki Lauda,4,3,7,59,RAS
+1977,United States Grand Prix,Clay Regazzoni,5,2,19,59,RAS
+1977,United States Grand Prix,Carlos Reutemann,6,1,6,58,RAS
+1977,United States Grand Prix,Jacques Laffite,7,0,10,58,RAS
+1977,United States Grand Prix,Rupert Keegan,8,0,20,58,RAS
+1977,United States Grand Prix,Jean-Pierre Jarier,9,0,16,58,RAS
+1977,United States Grand Prix,Brett Lunger,10,0,17,57,RAS
+1977,United States Grand Prix,Hans Binder,11,0,25,57,RAS
+1977,United States Grand Prix,John Watson,12,0,3,57,RAS
+1977,United States Grand Prix,Emerson Fittipaldi,13,0,18,57,RAS
+1977,United States Grand Prix,Patrick Depailler,14,0,8,56,RAS
+1977,United States Grand Prix,Alex Ribeiro,15,0,23,56,RAS
+1977,United States Grand Prix,Ronnie Peterson,16,0,5,56,RAS
+1977,United States Grand Prix,Ian Ashley,17,0,22,55,RAS
+1977,United States Grand Prix,Patrick Nève,18,0,24,55,RAS
+1977,United States Grand Prix,Vittorio Brambilla,19,0,11,54,RAS
+1977,United States Grand Prix,Jean-Pierre Jabouille,20,0,14,30,Alternator
+1977,United States Grand Prix,Gunnar Nilsson,21,0,12,17,Accident
+1977,United States Grand Prix,Hans-Joachim Stuck,22,0,2,14,Accident
+1977,United States Grand Prix,Ian Scheckter,23,0,21,10,Accident
+1977,United States Grand Prix,Jochen Mass,24,0,15,8,Fuel pump
+1977,United States Grand Prix,Danny Ongais,25,0,26,6,Accident
+1977,United States Grand Prix,Alan Jones,26,0,13,3,Accident
+1977,Canadian Grand Prix,Jody Scheckter,1,9,9,80,RAS
+1977,Canadian Grand Prix,Patrick Depailler,2,6,6,80,RAS
+1977,Canadian Grand Prix,Jochen Mass,3,4,5,80,RAS
+1977,Canadian Grand Prix,Alan Jones,4,3,7,80,RAS
+1977,Canadian Grand Prix,Patrick Tambay,5,2,16,80,RAS
+1977,Canadian Grand Prix,Vittorio Brambilla,6,1,15,78,Accident
+1977,Canadian Grand Prix,Danny Ongais,7,0,22,78,RAS
+1977,Canadian Grand Prix,Alex Ribeiro,8,0,23,78,RAS
+1977,Canadian Grand Prix,Mario Andretti,9,0,1,77,Engine
+1977,Canadian Grand Prix,Riccardo Patrese,10,0,8,76,Spun off
+1977,Canadian Grand Prix,Brett Lunger,11,0,20,76,Engine
+1977,Canadian Grand Prix,Gilles Villeneuve,12,0,17,76,Transmission
+1977,Canadian Grand Prix,James Hunt,13,0,2,61,Accident
+1977,Canadian Grand Prix,Patrick Nève,14,0,21,56,Engine
+1977,Canadian Grand Prix,Ronnie Peterson,15,0,3,34,Fuel leak
+1977,Canadian Grand Prix,Rupert Keegan,16,0,25,32,Accident
+1977,Canadian Grand Prix,Hans Binder,17,0,24,31,Accident
+1977,Canadian Grand Prix,Ian Scheckter,18,0,18,29,Engine
+1977,Canadian Grand Prix,Emerson Fittipaldi,19,0,19,29,Engine
+1977,Canadian Grand Prix,Carlos Reutemann,20,0,12,20,Fuel system
+1977,Canadian Grand Prix,Hans-Joachim Stuck,21,0,13,19,Engine
+1977,Canadian Grand Prix,Gunnar Nilsson,22,0,4,17,Accident
+1977,Canadian Grand Prix,Jacques Laffite,23,0,11,12,Transmission
+1977,Canadian Grand Prix,John Watson,24,0,10,1,Suspension
+1977,Canadian Grand Prix,Clay Regazzoni,25,0,14,0,Accident
+1977,Canadian Grand Prix,Ian Ashley,26,0,0,0,Withdrew
+1977,Japanese Grand Prix,James Hunt,1,9,2,73,RAS
+1977,Japanese Grand Prix,Carlos Reutemann,2,6,7,73,RAS
+1977,Japanese Grand Prix,Patrick Depailler,3,4,15,73,RAS
+1977,Japanese Grand Prix,Alan Jones,4,3,12,73,RAS
+1977,Japanese Grand Prix,Jacques Laffite,5,2,5,72,Out of fuel
+1977,Japanese Grand Prix,Riccardo Patrese,6,1,13,72,RAS
+1977,Japanese Grand Prix,Hans-Joachim Stuck,7,0,4,72,RAS
+1977,Japanese Grand Prix,Vittorio Brambilla,8,0,9,71,RAS
+1977,Japanese Grand Prix,Kunimitsu Takahashi,9,0,22,71,RAS
+1977,Japanese Grand Prix,Jody Scheckter,10,0,6,71,RAS
+1977,Japanese Grand Prix,Kazuyoshi Hoshino,11,0,11,71,RAS
+1977,Japanese Grand Prix,Alex Ribeiro,12,0,23,69,RAS
+1977,Japanese Grand Prix,Gunnar Nilsson,13,0,14,63,Gearbox
+1977,Japanese Grand Prix,Clay Regazzoni,14,0,10,43,Engine
+1977,Japanese Grand Prix,John Watson,15,0,3,29,Gearbox
+1977,Japanese Grand Prix,Jochen Mass,16,0,8,28,Engine
+1977,Japanese Grand Prix,Patrick Tambay,17,0,16,14,Engine
+1977,Japanese Grand Prix,Ronnie Peterson,18,0,18,5,Accident
+1977,Japanese Grand Prix,Gilles Villeneuve,19,0,20,5,Accident
+1977,Japanese Grand Prix,Jean-Pierre Jarier,20,0,17,3,Engine
+1977,Japanese Grand Prix,Mario Andretti,21,0,1,1,Collision
+1977,Japanese Grand Prix,Noritake Takahara,22,0,19,1,Collision
+1977,Japanese Grand Prix,Hans Binder,23,0,21,1,Collision

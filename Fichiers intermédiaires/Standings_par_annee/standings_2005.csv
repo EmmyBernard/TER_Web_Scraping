@@ -1,0 +1,377 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2005,Australian Grand Prix,Giancarlo Fisichella,1,10,1,57,RAS
+2005,Australian Grand Prix,Rubens Barrichello,2,8,11,57,RAS
+2005,Australian Grand Prix,Fernando Alonso,3,6,13,57,RAS
+2005,Australian Grand Prix,David Coulthard,4,5,5,57,RAS
+2005,Australian Grand Prix,Mark Webber,5,4,3,57,RAS
+2005,Australian Grand Prix,Juan Pablo Montoya,6,3,9,57,RAS
+2005,Australian Grand Prix,Christian Klien,7,2,6,57,RAS
+2005,Australian Grand Prix,Kimi Räikkönen,8,1,10,57,RAS
+2005,Australian Grand Prix,Jarno Trulli,9,0,2,57,RAS
+2005,Australian Grand Prix,Felipe Massa,10,0,18,57,RAS
+2005,Australian Grand Prix,Jenson Button,11,0,8,56,RAS
+2005,Australian Grand Prix,Ralf Schumacher,12,0,15,56,RAS
+2005,Australian Grand Prix,Jacques Villeneuve,13,0,4,56,RAS
+2005,Australian Grand Prix,Takuma Sato,14,0,20,55,RAS
+2005,Australian Grand Prix,Narain Karthikeyan,15,0,12,55,RAS
+2005,Australian Grand Prix,Tiago Monteiro,16,0,14,55,RAS
+2005,Australian Grand Prix,Patrick Friesacher,17,0,16,55,RAS
+2005,Australian Grand Prix,Michael Schumacher,18,0,19,42,Accident
+2005,Australian Grand Prix,Nick Heidfeld,19,0,7,42,Accident
+2005,Australian Grand Prix,Christijan Albers,20,0,17,16,Gearbox
+2005,Malaysian Grand Prix,Fernando Alonso,1,10,1,56,RAS
+2005,Malaysian Grand Prix,Jarno Trulli,2,8,2,56,RAS
+2005,Malaysian Grand Prix,Nick Heidfeld,3,6,10,56,RAS
+2005,Malaysian Grand Prix,Juan Pablo Montoya,4,5,11,56,RAS
+2005,Malaysian Grand Prix,Ralf Schumacher,5,4,5,56,RAS
+2005,Malaysian Grand Prix,David Coulthard,6,3,8,56,RAS
+2005,Malaysian Grand Prix,Michael Schumacher,7,2,13,56,RAS
+2005,Malaysian Grand Prix,Christian Klien,8,1,7,56,RAS
+2005,Malaysian Grand Prix,Kimi Räikkönen,9,0,6,56,RAS
+2005,Malaysian Grand Prix,Felipe Massa,10,0,14,55,RAS
+2005,Malaysian Grand Prix,Narain Karthikeyan,11,0,17,54,RAS
+2005,Malaysian Grand Prix,Tiago Monteiro,12,0,18,53,RAS
+2005,Malaysian Grand Prix,Christijan Albers,13,0,19,52,RAS
+2005,Malaysian Grand Prix,Rubens Barrichello,14,0,12,49,Tyre
+2005,Malaysian Grand Prix,Giancarlo Fisichella,15,0,3,36,Collision
+2005,Malaysian Grand Prix,Mark Webber,16,0,4,36,Collision
+2005,Malaysian Grand Prix,Jacques Villeneuve,17,0,16,26,Spun off
+2005,Malaysian Grand Prix,Jenson Button,18,0,9,2,Engine
+2005,Malaysian Grand Prix,Anthony Davidson,19,0,15,2,Engine
+2005,Malaysian Grand Prix,Patrick Friesacher,20,0,20,2,Spun off
+2005,Bahrain Grand Prix,Fernando Alonso,1,10,1,57,RAS
+2005,Bahrain Grand Prix,Jarno Trulli,2,8,3,57,RAS
+2005,Bahrain Grand Prix,Kimi Räikkönen,3,6,9,57,RAS
+2005,Bahrain Grand Prix,Ralf Schumacher,4,5,6,57,RAS
+2005,Bahrain Grand Prix,Pedro de la Rosa,5,4,8,57,RAS
+2005,Bahrain Grand Prix,Mark Webber,6,3,5,57,RAS
+2005,Bahrain Grand Prix,Felipe Massa,7,2,12,56,RAS
+2005,Bahrain Grand Prix,David Coulthard,8,1,14,56,RAS
+2005,Bahrain Grand Prix,Rubens Barrichello,9,0,20,56,RAS
+2005,Bahrain Grand Prix,Tiago Monteiro,10,0,16,55,RAS
+2005,Bahrain Grand Prix,Jacques Villeneuve,11,0,15,54,Suspension
+2005,Bahrain Grand Prix,Patrick Friesacher,12,0,19,54,RAS
+2005,Bahrain Grand Prix,Christijan Albers,13,0,18,53,RAS
+2005,Bahrain Grand Prix,Jenson Button,14,0,11,46,Clutch
+2005,Bahrain Grand Prix,Takuma Sato,15,0,13,27,Brakes
+2005,Bahrain Grand Prix,Nick Heidfeld,16,0,4,25,Engine
+2005,Bahrain Grand Prix,Michael Schumacher,17,0,2,12,Hydraulics
+2005,Bahrain Grand Prix,Giancarlo Fisichella,18,0,10,4,Engine
+2005,Bahrain Grand Prix,Narain Karthikeyan,19,0,17,2,Electrical
+2005,Bahrain Grand Prix,Christian Klien,20,0,7,0,Electrical
+2005,San Marino Grand Prix,Fernando Alonso,1,10,2,62,RAS
+2005,San Marino Grand Prix,Michael Schumacher,2,8,13,62,RAS
+2005,San Marino Grand Prix,Alexander Wurz,3,6,7,62,RAS
+2005,San Marino Grand Prix,Jacques Villeneuve,4,5,11,62,RAS
+2005,San Marino Grand Prix,Jarno Trulli,5,4,5,62,RAS
+2005,San Marino Grand Prix,Nick Heidfeld,6,3,8,62,RAS
+2005,San Marino Grand Prix,Mark Webber,7,2,4,62,RAS
+2005,San Marino Grand Prix,Vitantonio Liuzzi,8,1,15,62,RAS
+2005,San Marino Grand Prix,Ralf Schumacher,9,0,10,62,RAS
+2005,San Marino Grand Prix,Felipe Massa,10,0,18,61,RAS
+2005,San Marino Grand Prix,David Coulthard,11,0,14,61,RAS
+2005,San Marino Grand Prix,Narain Karthikeyan,12,0,16,61,RAS
+2005,San Marino Grand Prix,Tiago Monteiro,13,0,17,60,RAS
+2005,San Marino Grand Prix,Christijan Albers,14,0,20,20,Hydraulics
+2005,San Marino Grand Prix,Rubens Barrichello,15,0,9,18,Electrical
+2005,San Marino Grand Prix,Kimi Räikkönen,16,0,1,9,Driveshaft
+2005,San Marino Grand Prix,Patrick Friesacher,17,0,19,8,Clutch
+2005,San Marino Grand Prix,Giancarlo Fisichella,18,0,12,5,Accident
+2005,San Marino Grand Prix,Jenson Button,19,0,3,62,DQ
+2005,San Marino Grand Prix,Takuma Sato,20,0,6,62,DQ
+2005,Spanish Grand Prix,Kimi Räikkönen,1,10,1,66,RAS
+2005,Spanish Grand Prix,Fernando Alonso,2,8,3,66,RAS
+2005,Spanish Grand Prix,Jarno Trulli,3,6,5,66,RAS
+2005,Spanish Grand Prix,Ralf Schumacher,4,5,4,66,RAS
+2005,Spanish Grand Prix,Giancarlo Fisichella,5,4,6,66,RAS
+2005,Spanish Grand Prix,Mark Webber,6,3,2,66,RAS
+2005,Spanish Grand Prix,Juan Pablo Montoya,7,2,7,65,RAS
+2005,Spanish Grand Prix,David Coulthard,8,1,9,65,RAS
+2005,Spanish Grand Prix,Rubens Barrichello,9,0,16,65,RAS
+2005,Spanish Grand Prix,Nick Heidfeld,10,0,17,65,RAS
+2005,Spanish Grand Prix,Felipe Massa,11,0,10,63,Wheel rim
+2005,Spanish Grand Prix,Tiago Monteiro,12,0,18,63,RAS
+2005,Spanish Grand Prix,Narain Karthikeyan,13,0,13,63,RAS
+2005,Spanish Grand Prix,Jacques Villeneuve,14,0,12,51,Engine
+2005,Spanish Grand Prix,Michael Schumacher,15,0,8,46,Puncture
+2005,Spanish Grand Prix,Christijan Albers,16,0,14,19,Gearbox
+2005,Spanish Grand Prix,Patrick Friesacher,17,0,15,11,Spun off
+2005,Spanish Grand Prix,Vitantonio Liuzzi,18,0,11,9,Spun off
+2005,Monaco Grand Prix,Kimi Räikkönen,1,10,1,78,RAS
+2005,Monaco Grand Prix,Nick Heidfeld,2,8,6,78,RAS
+2005,Monaco Grand Prix,Mark Webber,3,6,3,78,RAS
+2005,Monaco Grand Prix,Fernando Alonso,4,5,2,78,RAS
+2005,Monaco Grand Prix,Juan Pablo Montoya,5,4,16,78,RAS
+2005,Monaco Grand Prix,Ralf Schumacher,6,3,18,78,RAS
+2005,Monaco Grand Prix,Michael Schumacher,7,2,8,78,RAS
+2005,Monaco Grand Prix,Rubens Barrichello,8,1,10,78,RAS
+2005,Monaco Grand Prix,Felipe Massa,9,0,11,77,RAS
+2005,Monaco Grand Prix,Jarno Trulli,10,0,5,77,RAS
+2005,Monaco Grand Prix,Jacques Villeneuve,11,0,9,77,RAS
+2005,Monaco Grand Prix,Giancarlo Fisichella,12,0,4,77,RAS
+2005,Monaco Grand Prix,Tiago Monteiro,13,0,15,75,RAS
+2005,Monaco Grand Prix,Christijan Albers,14,0,14,73,RAS
+2005,Monaco Grand Prix,Vitantonio Liuzzi,15,0,12,59,Accident
+2005,Monaco Grand Prix,Patrick Friesacher,16,0,13,29,Accident
+2005,Monaco Grand Prix,David Coulthard,17,0,7,23,Accident
+2005,Monaco Grand Prix,Narain Karthikeyan,18,0,17,18,Hydraulics
+2005,European Grand Prix,Fernando Alonso,1,10,6,59,RAS
+2005,European Grand Prix,Nick Heidfeld,2,8,1,59,RAS
+2005,European Grand Prix,Rubens Barrichello,3,6,7,59,RAS
+2005,European Grand Prix,David Coulthard,4,5,12,59,RAS
+2005,European Grand Prix,Michael Schumacher,5,4,10,59,RAS
+2005,European Grand Prix,Giancarlo Fisichella,6,3,9,59,RAS
+2005,European Grand Prix,Juan Pablo Montoya,7,2,5,59,RAS
+2005,European Grand Prix,Jarno Trulli,8,1,4,59,RAS
+2005,European Grand Prix,Vitantonio Liuzzi,9,0,14,59,RAS
+2005,European Grand Prix,Jenson Button,10,0,13,59,RAS
+2005,European Grand Prix,Kimi Räikkönen,11,0,2,58,Accident
+2005,European Grand Prix,Takuma Sato,12,0,16,58,RAS
+2005,European Grand Prix,Jacques Villeneuve,13,0,15,58,RAS
+2005,European Grand Prix,Felipe Massa,14,0,11,58,RAS
+2005,European Grand Prix,Tiago Monteiro,15,0,17,58,RAS
+2005,European Grand Prix,Narain Karthikeyan,16,0,19,58,RAS
+2005,European Grand Prix,Christijan Albers,17,0,20,57,RAS
+2005,European Grand Prix,Patrick Friesacher,18,0,18,56,RAS
+2005,European Grand Prix,Ralf Schumacher,19,0,8,33,Spun off
+2005,European Grand Prix,Mark Webber,20,0,3,0,Accident
+2005,Canadian Grand Prix,Kimi Räikkönen,1,10,7,70,RAS
+2005,Canadian Grand Prix,Michael Schumacher,2,8,2,70,RAS
+2005,Canadian Grand Prix,Rubens Barrichello,3,6,20,70,RAS
+2005,Canadian Grand Prix,Felipe Massa,4,5,11,70,RAS
+2005,Canadian Grand Prix,Mark Webber,5,4,14,70,RAS
+2005,Canadian Grand Prix,Ralf Schumacher,6,3,10,69,RAS
+2005,Canadian Grand Prix,David Coulthard,7,2,12,69,RAS
+2005,Canadian Grand Prix,Christian Klien,8,1,16,69,RAS
+2005,Canadian Grand Prix,Jacques Villeneuve,9,0,8,69,RAS
+2005,Canadian Grand Prix,Tiago Monteiro,10,0,18,67,RAS
+2005,Canadian Grand Prix,Christijan Albers,11,0,15,67,RAS
+2005,Canadian Grand Prix,Jarno Trulli,12,0,9,62,Brakes
+2005,Canadian Grand Prix,Jenson Button,13,0,1,46,Accident
+2005,Canadian Grand Prix,Nick Heidfeld,14,0,13,43,Engine
+2005,Canadian Grand Prix,Takuma Sato,15,0,6,40,Brakes
+2005,Canadian Grand Prix,Patrick Friesacher,16,0,19,39,Hydraulics
+2005,Canadian Grand Prix,Fernando Alonso,17,0,3,38,Suspension
+2005,Canadian Grand Prix,Giancarlo Fisichella,18,0,4,32,Hydraulics
+2005,Canadian Grand Prix,Narain Karthikeyan,19,0,17,24,Suspension
+2005,Canadian Grand Prix,Juan Pablo Montoya,20,0,5,52,DQ
+2005,United States Grand Prix,Michael Schumacher,1,10,5,73,RAS
+2005,United States Grand Prix,Rubens Barrichello,2,8,7,73,RAS
+2005,United States Grand Prix,Tiago Monteiro,3,6,17,72,RAS
+2005,United States Grand Prix,Narain Karthikeyan,4,5,19,72,RAS
+2005,United States Grand Prix,Christijan Albers,5,4,18,71,RAS
+2005,United States Grand Prix,Patrick Friesacher,6,3,20,71,RAS
+2005,United States Grand Prix,Jarno Trulli,7,0,1,0,Withdrew
+2005,United States Grand Prix,Kimi Räikkönen,8,0,2,0,Withdrew
+2005,United States Grand Prix,Jenson Button,9,0,3,0,Withdrew
+2005,United States Grand Prix,Giancarlo Fisichella,10,0,4,0,Withdrew
+2005,United States Grand Prix,Fernando Alonso,11,0,6,0,Withdrew
+2005,United States Grand Prix,Takuma Sato,12,0,8,0,Withdrew
+2005,United States Grand Prix,Mark Webber,13,0,9,0,Withdrew
+2005,United States Grand Prix,Felipe Massa,14,0,10,0,Withdrew
+2005,United States Grand Prix,Juan Pablo Montoya,15,0,11,0,Withdrew
+2005,United States Grand Prix,Jacques Villeneuve,16,0,12,0,Withdrew
+2005,United States Grand Prix,Ricardo Zonta,17,0,13,0,Withdrew
+2005,United States Grand Prix,Christian Klien,18,0,14,0,Withdrew
+2005,United States Grand Prix,Nick Heidfeld,19,0,15,0,Withdrew
+2005,United States Grand Prix,David Coulthard,20,0,16,0,Withdrew
+2005,French Grand Prix,Fernando Alonso,1,10,1,70,RAS
+2005,French Grand Prix,Kimi Räikkönen,2,8,13,70,RAS
+2005,French Grand Prix,Michael Schumacher,3,6,3,70,RAS
+2005,French Grand Prix,Jenson Button,4,5,7,69,RAS
+2005,French Grand Prix,Jarno Trulli,5,4,2,69,RAS
+2005,French Grand Prix,Giancarlo Fisichella,6,3,6,69,RAS
+2005,French Grand Prix,Ralf Schumacher,7,2,11,69,RAS
+2005,French Grand Prix,Jacques Villeneuve,8,1,10,69,RAS
+2005,French Grand Prix,Rubens Barrichello,9,0,5,69,RAS
+2005,French Grand Prix,David Coulthard,10,0,15,69,RAS
+2005,French Grand Prix,Takuma Sato,11,0,4,69,RAS
+2005,French Grand Prix,Mark Webber,12,0,12,68,RAS
+2005,French Grand Prix,Tiago Monteiro,13,0,19,67,RAS
+2005,French Grand Prix,Nick Heidfeld,14,0,14,66,RAS
+2005,French Grand Prix,Narain Karthikeyan,15,0,17,66,RAS
+2005,French Grand Prix,Juan Pablo Montoya,16,0,8,46,Engine
+2005,French Grand Prix,Christijan Albers,17,0,20,37,Puncture
+2005,French Grand Prix,Patrick Friesacher,18,0,18,33,Puncture
+2005,French Grand Prix,Felipe Massa,19,0,9,30,Hydraulics
+2005,French Grand Prix,Christian Klien,20,0,16,1,Fuel pressure
+2005,British Grand Prix,Juan Pablo Montoya,1,10,3,60,RAS
+2005,British Grand Prix,Fernando Alonso,2,8,1,60,RAS
+2005,British Grand Prix,Kimi Räikkönen,3,6,12,60,RAS
+2005,British Grand Prix,Giancarlo Fisichella,4,5,6,60,RAS
+2005,British Grand Prix,Jenson Button,5,4,2,60,RAS
+2005,British Grand Prix,Michael Schumacher,6,3,9,60,RAS
+2005,British Grand Prix,Rubens Barrichello,7,2,5,60,RAS
+2005,British Grand Prix,Ralf Schumacher,8,1,8,60,RAS
+2005,British Grand Prix,Jarno Trulli,9,0,4,60,RAS
+2005,British Grand Prix,Felipe Massa,10,0,16,59,RAS
+2005,British Grand Prix,Mark Webber,11,0,11,59,RAS
+2005,British Grand Prix,Nick Heidfeld,12,0,14,59,RAS
+2005,British Grand Prix,David Coulthard,13,0,13,59,RAS
+2005,British Grand Prix,Jacques Villeneuve,14,0,10,59,RAS
+2005,British Grand Prix,Christian Klien,15,0,15,59,RAS
+2005,British Grand Prix,Takuma Sato,16,0,7,58,RAS
+2005,British Grand Prix,Tiago Monteiro,17,0,20,58,RAS
+2005,British Grand Prix,Christijan Albers,18,0,18,57,RAS
+2005,British Grand Prix,Patrick Friesacher,19,0,19,56,RAS
+2005,British Grand Prix,Narain Karthikeyan,20,0,17,10,Electrical
+2005,German Grand Prix,Fernando Alonso,1,10,3,67,RAS
+2005,German Grand Prix,Juan Pablo Montoya,2,8,20,67,RAS
+2005,German Grand Prix,Jenson Button,3,6,2,67,RAS
+2005,German Grand Prix,Giancarlo Fisichella,4,5,4,67,RAS
+2005,German Grand Prix,Michael Schumacher,5,4,5,67,RAS
+2005,German Grand Prix,Ralf Schumacher,6,3,12,67,RAS
+2005,German Grand Prix,David Coulthard,7,2,11,67,RAS
+2005,German Grand Prix,Felipe Massa,8,1,13,67,RAS
+2005,German Grand Prix,Christian Klien,9,0,10,67,RAS
+2005,German Grand Prix,Rubens Barrichello,10,0,15,66,RAS
+2005,German Grand Prix,Nick Heidfeld,11,0,7,66,RAS
+2005,German Grand Prix,Takuma Sato,12,0,8,66,RAS
+2005,German Grand Prix,Christijan Albers,13,0,16,65,RAS
+2005,German Grand Prix,Jarno Trulli,14,0,9,64,RAS
+2005,German Grand Prix,Jacques Villeneuve,15,0,14,64,RAS
+2005,German Grand Prix,Narain Karthikeyan,16,0,19,64,RAS
+2005,German Grand Prix,Tiago Monteiro,17,0,18,64,RAS
+2005,German Grand Prix,Robert Doornbos,18,0,17,63,RAS
+2005,German Grand Prix,Mark Webber,19,0,6,55,RAS
+2005,German Grand Prix,Kimi Räikkönen,20,0,1,32,Hydraulics
+2005,Hungarian Grand Prix,Kimi Räikkönen,1,10,4,70,RAS
+2005,Hungarian Grand Prix,Michael Schumacher,2,8,1,70,RAS
+2005,Hungarian Grand Prix,Ralf Schumacher,3,6,5,70,RAS
+2005,Hungarian Grand Prix,Jarno Trulli,4,5,3,70,RAS
+2005,Hungarian Grand Prix,Jenson Button,5,4,8,70,RAS
+2005,Hungarian Grand Prix,Nick Heidfeld,6,3,12,70,RAS
+2005,Hungarian Grand Prix,Mark Webber,7,2,16,69,RAS
+2005,Hungarian Grand Prix,Takuma Sato,8,1,10,69,RAS
+2005,Hungarian Grand Prix,Giancarlo Fisichella,9,0,9,69,RAS
+2005,Hungarian Grand Prix,Rubens Barrichello,10,0,7,69,RAS
+2005,Hungarian Grand Prix,Fernando Alonso,11,0,6,69,RAS
+2005,Hungarian Grand Prix,Narain Karthikeyan,12,0,18,67,RAS
+2005,Hungarian Grand Prix,Tiago Monteiro,13,0,20,66,RAS
+2005,Hungarian Grand Prix,Felipe Massa,14,0,14,63,RAS
+2005,Hungarian Grand Prix,Christijan Albers,15,0,17,59,RAS
+2005,Hungarian Grand Prix,Jacques Villeneuve,16,0,15,56,Engine fire
+2005,Hungarian Grand Prix,Juan Pablo Montoya,17,0,2,41,Driveshaft
+2005,Hungarian Grand Prix,Robert Doornbos,18,0,19,26,Hydraulics
+2005,Hungarian Grand Prix,David Coulthard,19,0,13,0,Accident
+2005,Hungarian Grand Prix,Christian Klien,20,0,11,0,Accident
+2005,Turkish Grand Prix,Kimi Räikkönen,1,10,1,58,RAS
+2005,Turkish Grand Prix,Fernando Alonso,2,8,3,58,RAS
+2005,Turkish Grand Prix,Juan Pablo Montoya,3,6,4,58,RAS
+2005,Turkish Grand Prix,Giancarlo Fisichella,4,5,2,58,RAS
+2005,Turkish Grand Prix,Jenson Button,5,4,13,58,RAS
+2005,Turkish Grand Prix,Jarno Trulli,6,3,5,58,RAS
+2005,Turkish Grand Prix,David Coulthard,7,2,12,58,RAS
+2005,Turkish Grand Prix,Christian Klien,8,1,10,58,RAS
+2005,Turkish Grand Prix,Takuma Sato,9,0,20,58,RAS
+2005,Turkish Grand Prix,Rubens Barrichello,10,0,11,57,RAS
+2005,Turkish Grand Prix,Jacques Villeneuve,11,0,16,57,RAS
+2005,Turkish Grand Prix,Ralf Schumacher,12,0,9,57,RAS
+2005,Turkish Grand Prix,Robert Doornbos,13,0,17,55,RAS
+2005,Turkish Grand Prix,Narain Karthikeyan,14,0,18,55,RAS
+2005,Turkish Grand Prix,Tiago Monteiro,15,0,14,55,RAS
+2005,Turkish Grand Prix,Christijan Albers,16,0,15,48,DNF
+2005,Turkish Grand Prix,Michael Schumacher,17,0,19,32,DNF
+2005,Turkish Grand Prix,Nick Heidfeld,18,0,6,29,Tyre
+2005,Turkish Grand Prix,Felipe Massa,19,0,8,28,Engine
+2005,Turkish Grand Prix,Mark Webber,20,0,7,20,Tyre
+2005,Italian Grand Prix,Juan Pablo Montoya,1,10,1,53,RAS
+2005,Italian Grand Prix,Fernando Alonso,2,8,2,53,RAS
+2005,Italian Grand Prix,Giancarlo Fisichella,3,6,8,53,RAS
+2005,Italian Grand Prix,Kimi Räikkönen,4,5,11,53,RAS
+2005,Italian Grand Prix,Jarno Trulli,5,4,5,53,RAS
+2005,Italian Grand Prix,Ralf Schumacher,6,3,9,53,RAS
+2005,Italian Grand Prix,Antônio Pizzonia,7,2,16,53,RAS
+2005,Italian Grand Prix,Jenson Button,8,1,3,53,RAS
+2005,Italian Grand Prix,Felipe Massa,9,0,15,53,RAS
+2005,Italian Grand Prix,Michael Schumacher,10,0,6,53,RAS
+2005,Italian Grand Prix,Jacques Villeneuve,11,0,12,52,RAS
+2005,Italian Grand Prix,Rubens Barrichello,12,0,7,52,RAS
+2005,Italian Grand Prix,Christian Klien,13,0,13,52,RAS
+2005,Italian Grand Prix,Mark Webber,14,0,14,52,RAS
+2005,Italian Grand Prix,David Coulthard,15,0,10,52,RAS
+2005,Italian Grand Prix,Takuma Sato,16,0,4,52,RAS
+2005,Italian Grand Prix,Tiago Monteiro,17,0,17,51,RAS
+2005,Italian Grand Prix,Robert Doornbos,18,0,18,51,RAS
+2005,Italian Grand Prix,Christijan Albers,19,0,20,51,RAS
+2005,Italian Grand Prix,Narain Karthikeyan,20,0,19,50,RAS
+2005,Belgian Grand Prix,Kimi Räikkönen,1,10,2,44,RAS
+2005,Belgian Grand Prix,Fernando Alonso,2,8,4,44,RAS
+2005,Belgian Grand Prix,Jenson Button,3,6,8,44,RAS
+2005,Belgian Grand Prix,Mark Webber,4,5,9,44,RAS
+2005,Belgian Grand Prix,Rubens Barrichello,5,4,12,44,RAS
+2005,Belgian Grand Prix,Jacques Villeneuve,6,3,14,44,RAS
+2005,Belgian Grand Prix,Ralf Schumacher,7,2,5,44,RAS
+2005,Belgian Grand Prix,Tiago Monteiro,8,1,19,43,RAS
+2005,Belgian Grand Prix,Christian Klien,9,0,16,43,RAS
+2005,Belgian Grand Prix,Felipe Massa,10,0,7,43,RAS
+2005,Belgian Grand Prix,Narain Karthikeyan,11,0,20,43,RAS
+2005,Belgian Grand Prix,Christijan Albers,12,0,18,42,RAS
+2005,Belgian Grand Prix,Robert Doornbos,13,0,17,41,RAS
+2005,Belgian Grand Prix,Juan Pablo Montoya,14,0,1,40,Collision
+2005,Belgian Grand Prix,Antônio Pizzonia,15,0,15,39,Collision
+2005,Belgian Grand Prix,Jarno Trulli,16,0,3,34,Accident
+2005,Belgian Grand Prix,David Coulthard,17,0,11,18,Engine
+2005,Belgian Grand Prix,Michael Schumacher,18,0,6,13,Accident
+2005,Belgian Grand Prix,Takuma Sato,19,0,10,13,Accident
+2005,Belgian Grand Prix,Giancarlo Fisichella,20,0,13,10,Accident
+2005,Brazilian Grand Prix,Juan Pablo Montoya,1,10,2,71,RAS
+2005,Brazilian Grand Prix,Kimi Räikkönen,2,8,5,71,RAS
+2005,Brazilian Grand Prix,Fernando Alonso,3,6,1,71,RAS
+2005,Brazilian Grand Prix,Michael Schumacher,4,5,7,71,RAS
+2005,Brazilian Grand Prix,Giancarlo Fisichella,5,4,3,71,RAS
+2005,Brazilian Grand Prix,Rubens Barrichello,6,3,9,71,RAS
+2005,Brazilian Grand Prix,Jenson Button,7,2,4,70,RAS
+2005,Brazilian Grand Prix,Ralf Schumacher,8,1,10,70,RAS
+2005,Brazilian Grand Prix,Christian Klien,9,0,6,70,RAS
+2005,Brazilian Grand Prix,Takuma Sato,10,0,19,70,RAS
+2005,Brazilian Grand Prix,Felipe Massa,11,0,8,70,RAS
+2005,Brazilian Grand Prix,Jacques Villeneuve,12,0,20,70,RAS
+2005,Brazilian Grand Prix,Jarno Trulli,13,0,17,69,RAS
+2005,Brazilian Grand Prix,Christijan Albers,14,0,16,69,RAS
+2005,Brazilian Grand Prix,Narain Karthikeyan,15,0,15,68,RAS
+2005,Brazilian Grand Prix,Tiago Monteiro,16,0,11,55,Mechanical
+2005,Brazilian Grand Prix,Mark Webber,17,0,12,45,RAS
+2005,Brazilian Grand Prix,Robert Doornbos,18,0,18,34,Engine
+2005,Brazilian Grand Prix,Antônio Pizzonia,19,0,13,0,Accident
+2005,Brazilian Grand Prix,David Coulthard,20,0,14,0,Accident
+2005,Japanese Grand Prix,Kimi Räikkönen,1,10,17,53,RAS
+2005,Japanese Grand Prix,Giancarlo Fisichella,2,8,3,53,RAS
+2005,Japanese Grand Prix,Fernando Alonso,3,6,16,53,RAS
+2005,Japanese Grand Prix,Mark Webber,4,5,7,53,RAS
+2005,Japanese Grand Prix,Jenson Button,5,4,2,53,RAS
+2005,Japanese Grand Prix,David Coulthard,6,3,6,53,RAS
+2005,Japanese Grand Prix,Michael Schumacher,7,2,14,53,RAS
+2005,Japanese Grand Prix,Ralf Schumacher,8,1,1,53,RAS
+2005,Japanese Grand Prix,Christian Klien,9,0,4,53,RAS
+2005,Japanese Grand Prix,Felipe Massa,10,0,10,53,RAS
+2005,Japanese Grand Prix,Rubens Barrichello,11,0,9,53,RAS
+2005,Japanese Grand Prix,Jacques Villeneuve,12,0,8,53,RAS
+2005,Japanese Grand Prix,Tiago Monteiro,13,0,20,52,RAS
+2005,Japanese Grand Prix,Robert Doornbos,14,0,15,51,RAS
+2005,Japanese Grand Prix,Narain Karthikeyan,15,0,11,51,RAS
+2005,Japanese Grand Prix,Christijan Albers,16,0,13,49,RAS
+2005,Japanese Grand Prix,Antônio Pizzonia,17,0,12,9,Accident
+2005,Japanese Grand Prix,Jarno Trulli,18,0,19,9,Accident
+2005,Japanese Grand Prix,Juan Pablo Montoya,19,0,18,0,Accident
+2005,Japanese Grand Prix,Takuma Sato,20,0,5,52,DQ
+2005,Chinese Grand Prix,Fernando Alonso,1,10,1,56,RAS
+2005,Chinese Grand Prix,Kimi Räikkönen,2,8,3,56,RAS
+2005,Chinese Grand Prix,Ralf Schumacher,3,6,9,56,RAS
+2005,Chinese Grand Prix,Giancarlo Fisichella,4,5,2,56,RAS
+2005,Chinese Grand Prix,Christian Klien,5,4,14,56,RAS
+2005,Chinese Grand Prix,Felipe Massa,6,3,11,56,RAS
+2005,Chinese Grand Prix,Mark Webber,7,2,10,56,RAS
+2005,Chinese Grand Prix,Jenson Button,8,1,4,56,RAS
+2005,Chinese Grand Prix,David Coulthard,9,0,7,56,RAS
+2005,Chinese Grand Prix,Jacques Villeneuve,10,0,16,56,RAS
+2005,Chinese Grand Prix,Tiago Monteiro,11,0,19,56,RAS
+2005,Chinese Grand Prix,Rubens Barrichello,12,0,8,56,RAS
+2005,Chinese Grand Prix,Antônio Pizzonia,13,0,13,55,Tyre puncture
+2005,Chinese Grand Prix,Robert Doornbos,14,0,20,55,Out of fuel
+2005,Chinese Grand Prix,Jarno Trulli,15,0,12,55,RAS
+2005,Chinese Grand Prix,Christijan Albers,16,0,18,50,Wheel nut
+2005,Chinese Grand Prix,Takuma Sato,17,0,17,34,Gearbox
+2005,Chinese Grand Prix,Narain Karthikeyan,18,0,15,28,Accident
+2005,Chinese Grand Prix,Juan Pablo Montoya,19,0,5,24,Engine
+2005,Chinese Grand Prix,Michael Schumacher,20,0,6,20,Spun off

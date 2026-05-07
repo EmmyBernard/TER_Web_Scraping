@@ -1,0 +1,202 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1967,South African Grand Prix,Pedro Rodríguez,1,9,4,80,RAS
+1967,South African Grand Prix,John Love,2,6,5,80,RAS
+1967,South African Grand Prix,John Surtees,3,4,6,79,RAS
+1967,South African Grand Prix,Denny Hulme,4,3,2,78,RAS
+1967,South African Grand Prix,Bob Anderson,5,2,10,78,RAS
+1967,South African Grand Prix,Jack Brabham,6,1,1,76,RAS
+1967,South African Grand Prix,Dave Charlton,7,0,8,63,Not classified
+1967,South African Grand Prix,Luki Botha,8,0,17,60,Not classified
+1967,South African Grand Prix,Sam Tingle,9,0,14,56,Accident
+1967,South African Grand Prix,Piers Courage,10,0,18,51,Fuel system
+1967,South African Grand Prix,Dan Gurney,11,0,11,44,Suspension
+1967,South African Grand Prix,Jo Siffert,12,0,16,41,Engine
+1967,South African Grand Prix,Jochen Rindt,13,0,7,38,Engine
+1967,South African Grand Prix,Mike Spence,14,0,13,31,Oil leak
+1967,South African Grand Prix,Jo Bonnier,15,0,12,30,Engine
+1967,South African Grand Prix,Jim Clark,16,0,3,22,Engine
+1967,South African Grand Prix,Graham Hill,17,0,15,6,Accident
+1967,South African Grand Prix,Jackie Stewart,18,0,9,2,Engine
+1967,Monaco Grand Prix,Denny Hulme,1,9,4,100,RAS
+1967,Monaco Grand Prix,Graham Hill,2,6,8,99,RAS
+1967,Monaco Grand Prix,Chris Amon,3,4,14,98,RAS
+1967,Monaco Grand Prix,Bruce McLaren,4,3,10,98,RAS
+1967,Monaco Grand Prix,Pedro Rodríguez,5,2,16,96,RAS
+1967,Monaco Grand Prix,Mike Spence,6,1,12,96,RAS
+1967,Monaco Grand Prix,Lorenzo Bandini,7,0,2,81,Accident
+1967,Monaco Grand Prix,Piers Courage,8,0,13,64,Spun off
+1967,Monaco Grand Prix,Jim Clark,9,0,5,42,Suspension
+1967,Monaco Grand Prix,John Surtees,10,0,3,32,Engine
+1967,Monaco Grand Prix,Jo Siffert,11,0,9,31,Oil pressure
+1967,Monaco Grand Prix,Jackie Stewart,12,0,6,14,Differential
+1967,Monaco Grand Prix,Jochen Rindt,13,0,15,14,Gearbox
+1967,Monaco Grand Prix,Dan Gurney,14,0,7,4,Fuel pump
+1967,Monaco Grand Prix,Johnny Servoz-Gavin,15,0,11,4,Injection
+1967,Monaco Grand Prix,Jack Brabham,16,0,1,0,Engine
+1967,Dutch Grand Prix,Jim Clark,1,9,8,90,RAS
+1967,Dutch Grand Prix,Jack Brabham,2,6,3,90,RAS
+1967,Dutch Grand Prix,Denny Hulme,3,4,7,90,RAS
+1967,Dutch Grand Prix,Chris Amon,4,3,9,90,RAS
+1967,Dutch Grand Prix,Mike Parkes,5,2,10,89,RAS
+1967,Dutch Grand Prix,Ludovico Scarfiotti,6,1,15,89,RAS
+1967,Dutch Grand Prix,Chris Irwin,7,0,13,88,RAS
+1967,Dutch Grand Prix,Mike Spence,8,0,12,87,RAS
+1967,Dutch Grand Prix,Bob Anderson,9,0,17,86,RAS
+1967,Dutch Grand Prix,Jo Siffert,10,0,16,83,RAS
+1967,Dutch Grand Prix,John Surtees,11,0,6,73,Throttle
+1967,Dutch Grand Prix,Jackie Stewart,12,0,11,51,Brakes
+1967,Dutch Grand Prix,Jochen Rindt,13,0,4,41,Suspension
+1967,Dutch Grand Prix,Pedro Rodríguez,14,0,5,39,Gearbox
+1967,Dutch Grand Prix,Graham Hill,15,0,1,11,Engine
+1967,Dutch Grand Prix,Dan Gurney,16,0,2,8,Injection
+1967,Dutch Grand Prix,Bruce McLaren,17,0,14,1,Accident
+1967,Belgian Grand Prix,Dan Gurney,1,9,2,28,RAS
+1967,Belgian Grand Prix,Jackie Stewart,2,6,6,28,RAS
+1967,Belgian Grand Prix,Chris Amon,3,4,5,28,RAS
+1967,Belgian Grand Prix,Jochen Rindt,4,3,4,28,RAS
+1967,Belgian Grand Prix,Mike Spence,5,2,11,27,RAS
+1967,Belgian Grand Prix,Jim Clark,6,1,1,27,RAS
+1967,Belgian Grand Prix,Jo Siffert,7,0,16,27,RAS
+1967,Belgian Grand Prix,Bob Anderson,8,0,17,26,RAS
+1967,Belgian Grand Prix,Pedro Rodríguez,9,0,13,25,Engine
+1967,Belgian Grand Prix,Guy Ligier,10,0,18,25,RAS
+1967,Belgian Grand Prix,Ludovico Scarfiotti,11,0,9,24,Not classified
+1967,Belgian Grand Prix,Jack Brabham,12,0,7,15,Engine
+1967,Belgian Grand Prix,Denny Hulme,13,0,14,14,Engine
+1967,Belgian Grand Prix,Jo Bonnier,14,0,12,10,Engine
+1967,Belgian Grand Prix,Graham Hill,15,0,3,3,Clutch
+1967,Belgian Grand Prix,John Surtees,16,0,10,1,Engine
+1967,Belgian Grand Prix,Chris Irwin,17,0,15,1,Engine
+1967,Belgian Grand Prix,Mike Parkes,18,0,8,0,Accident
+1967,French Grand Prix,Jack Brabham,1,9,2,80,RAS
+1967,French Grand Prix,Denny Hulme,2,6,6,80,RAS
+1967,French Grand Prix,Jackie Stewart,3,4,10,79,RAS
+1967,French Grand Prix,Jo Siffert,4,3,11,77,RAS
+1967,French Grand Prix,Chris Irwin,5,2,9,76,Engine
+1967,French Grand Prix,Pedro Rodríguez,6,1,13,76,RAS
+1967,French Grand Prix,Guy Ligier,7,0,15,68,Not classified
+1967,French Grand Prix,Chris Amon,8,0,7,47,Throttle
+1967,French Grand Prix,Dan Gurney,9,0,3,40,Fuel leak
+1967,French Grand Prix,Jochen Rindt,10,0,8,33,Engine
+1967,French Grand Prix,Bruce McLaren,11,0,5,26,Ignition
+1967,French Grand Prix,Jim Clark,12,0,4,23,Differential
+1967,French Grand Prix,Bob Anderson,13,0,14,16,Ignition
+1967,French Grand Prix,Graham Hill,14,0,1,13,Differential
+1967,French Grand Prix,Mike Spence,15,0,12,9,Halfshaft
+1967,British Grand Prix,Jim Clark,1,9,1,80,RAS
+1967,British Grand Prix,Denny Hulme,2,6,4,80,RAS
+1967,British Grand Prix,Chris Amon,3,4,6,80,RAS
+1967,British Grand Prix,Jack Brabham,4,3,3,80,RAS
+1967,British Grand Prix,Pedro Rodríguez,5,2,9,79,RAS
+1967,British Grand Prix,John Surtees,6,1,7,78,RAS
+1967,British Grand Prix,Chris Irwin,7,0,13,77,RAS
+1967,British Grand Prix,David Hobbs,8,0,14,77,RAS
+1967,British Grand Prix,Alan Rees,9,0,15,76,RAS
+1967,British Grand Prix,Guy Ligier,10,0,21,76,RAS
+1967,British Grand Prix,Bob Anderson,11,0,17,67,Engine
+1967,British Grand Prix,Graham Hill,12,0,2,64,Engine
+1967,British Grand Prix,Mike Spence,13,0,11,44,Ignition
+1967,British Grand Prix,Dan Gurney,14,0,5,34,Clutch
+1967,British Grand Prix,Silvio Moser,15,0,20,29,Oil pressure
+1967,British Grand Prix,Jochen Rindt,16,0,8,26,Engine
+1967,British Grand Prix,Jackie Stewart,17,0,12,20,Transmission
+1967,British Grand Prix,Bruce McLaren,18,0,10,14,Engine
+1967,British Grand Prix,Jo Siffert,19,0,18,10,Engine
+1967,British Grand Prix,Jo Bonnier,20,0,9,0,Engine
+1967,British Grand Prix,Piers Courage,21,0,0,0,Withdrew
+1967,German Grand Prix,Denny Hulme,1,9,2,15,RAS
+1967,German Grand Prix,Jack Brabham,2,6,7,15,RAS
+1967,German Grand Prix,Chris Amon,3,4,8,15,RAS
+1967,German Grand Prix,John Surtees,4,3,6,15,RAS
+1967,German Grand Prix,Jackie Oliver,5,0,19,15,RAS
+1967,German Grand Prix,Jo Bonnier,6,2,16,15,RAS
+1967,German Grand Prix,Alan Rees,7,0,20,15,RAS
+1967,German Grand Prix,Guy Ligier,8,1,17,14,RAS
+1967,German Grand Prix,Chris Irwin,9,0,15,13,RAS
+1967,German Grand Prix,David Hobbs,10,0,22,13,RAS
+1967,German Grand Prix,Pedro Rodríguez,11,0,10,13,RAS
+1967,German Grand Prix,Dan Gurney,12,0,4,12,Halfshaft
+1967,German Grand Prix,Jacky Ickx,13,0,18,12,Suspension
+1967,German Grand Prix,Brian Hart,14,0,25,12,RAS
+1967,German Grand Prix,Jo Siffert,15,0,12,12,Fuel pump
+1967,German Grand Prix,Graham Hill,16,0,13,8,Suspension
+1967,German Grand Prix,Hubert Hahne,17,0,14,6,Suspension
+1967,German Grand Prix,Jackie Stewart,18,0,3,5,Differential
+1967,German Grand Prix,Jim Clark,19,0,1,4,Suspension
+1967,German Grand Prix,Jochen Rindt,20,0,9,4,Radiator
+1967,German Grand Prix,Kurt Ahrens,21,0,23,4,Radiator
+1967,German Grand Prix,Bruce McLaren,22,0,5,3,Oil leak
+1967,German Grand Prix,Mike Spence,23,0,11,3,Differential
+1967,German Grand Prix,Jo Schlesser,24,0,21,2,Engine
+1967,Canadian Grand Prix,Jack Brabham,1,9,7,90,RAS
+1967,Canadian Grand Prix,Denny Hulme,2,6,3,90,RAS
+1967,Canadian Grand Prix,Dan Gurney,3,4,5,89,RAS
+1967,Canadian Grand Prix,Graham Hill,4,3,2,88,RAS
+1967,Canadian Grand Prix,Mike Spence,5,2,10,87,RAS
+1967,Canadian Grand Prix,Chris Amon,6,1,4,87,RAS
+1967,Canadian Grand Prix,Bruce McLaren,7,0,6,86,RAS
+1967,Canadian Grand Prix,Jo Bonnier,8,0,14,85,RAS
+1967,Canadian Grand Prix,David Hobbs,9,0,12,85,RAS
+1967,Canadian Grand Prix,Richard Attwood,10,0,13,84,RAS
+1967,Canadian Grand Prix,Mike Fisher,11,0,17,81,RAS
+1967,Canadian Grand Prix,Jim Clark,12,0,1,69,Ignition
+1967,Canadian Grand Prix,Eppie Wietzes,13,0,16,69,DQ
+1967,Canadian Grand Prix,Jackie Stewart,14,0,9,65,Throttle
+1967,Canadian Grand Prix,Al Pease,15,0,15,47,Not classified
+1967,Canadian Grand Prix,Chris Irwin,16,0,11,18,Spun off
+1967,Canadian Grand Prix,Jochen Rindt,17,0,8,4,Ignition
+1967,Italian Grand Prix,John Surtees,1,9,9,68,RAS
+1967,Italian Grand Prix,Jack Brabham,2,6,2,68,RAS
+1967,Italian Grand Prix,Jim Clark,3,4,1,68,RAS
+1967,Italian Grand Prix,Jochen Rindt,4,3,11,68,RAS
+1967,Italian Grand Prix,Mike Spence,5,2,12,67,RAS
+1967,Italian Grand Prix,Jacky Ickx,6,1,15,66,RAS
+1967,Italian Grand Prix,Chris Amon,7,0,4,64,RAS
+1967,Italian Grand Prix,Graham Hill,8,0,8,58,Engine
+1967,Italian Grand Prix,Jo Siffert,9,0,13,50,Accident
+1967,Italian Grand Prix,Giancarlo Baghetti,10,0,17,50,Engine
+1967,Italian Grand Prix,Bruce McLaren,11,0,3,46,Engine
+1967,Italian Grand Prix,Jo Bonnier,12,0,14,46,Overheating
+1967,Italian Grand Prix,Jackie Stewart,13,0,7,45,Engine
+1967,Italian Grand Prix,Denny Hulme,14,0,6,30,Overheating
+1967,Italian Grand Prix,Guy Ligier,15,0,18,26,Engine
+1967,Italian Grand Prix,Chris Irwin,16,0,16,16,Injection
+1967,Italian Grand Prix,Ludovico Scarfiotti,17,0,10,5,Engine
+1967,Italian Grand Prix,Dan Gurney,18,0,5,4,Engine
+1967,United States Grand Prix,Jim Clark,1,9,2,108,RAS
+1967,United States Grand Prix,Graham Hill,2,6,1,108,RAS
+1967,United States Grand Prix,Denny Hulme,3,4,6,107,RAS
+1967,United States Grand Prix,Jo Siffert,4,3,12,106,RAS
+1967,United States Grand Prix,Jack Brabham,5,2,5,104,RAS
+1967,United States Grand Prix,Jo Bonnier,6,1,15,101,RAS
+1967,United States Grand Prix,Jean-Pierre Beltoise,7,0,18,101,RAS
+1967,United States Grand Prix,John Surtees,8,0,11,96,Alternator
+1967,United States Grand Prix,Chris Amon,9,0,4,95,Engine
+1967,United States Grand Prix,Jackie Stewart,10,0,10,72,Injection
+1967,United States Grand Prix,Jacky Ickx,11,0,16,45,Overheating
+1967,United States Grand Prix,Guy Ligier,12,0,17,43,Engine
+1967,United States Grand Prix,Chris Irwin,13,0,14,41,Engine
+1967,United States Grand Prix,Mike Spence,14,0,13,35,Engine
+1967,United States Grand Prix,Jochen Rindt,15,0,8,33,Engine
+1967,United States Grand Prix,Dan Gurney,16,0,3,24,Suspension
+1967,United States Grand Prix,Bruce McLaren,17,0,9,16,Water leak
+1967,United States Grand Prix,Moisés Solana,18,0,7,7,Ignition
+1967,Mexican Grand Prix,Jim Clark,1,9,1,65,RAS
+1967,Mexican Grand Prix,Jack Brabham,2,6,5,65,RAS
+1967,Mexican Grand Prix,Denny Hulme,3,4,6,64,RAS
+1967,Mexican Grand Prix,John Surtees,4,3,7,64,RAS
+1967,Mexican Grand Prix,Mike Spence,5,2,11,63,RAS
+1967,Mexican Grand Prix,Pedro Rodríguez,6,1,13,63,RAS
+1967,Mexican Grand Prix,Jean-Pierre Beltoise,7,0,14,63,RAS
+1967,Mexican Grand Prix,Jonathan Williams,8,0,16,63,RAS
+1967,Mexican Grand Prix,Chris Amon,9,0,2,62,Out of fuel
+1967,Mexican Grand Prix,Jo Bonnier,10,0,17,61,RAS
+1967,Mexican Grand Prix,Guy Ligier,11,0,19,41,RAS
+1967,Mexican Grand Prix,Jo Siffert,12,0,10,59,Overheating
+1967,Mexican Grand Prix,Bruce McLaren,13,0,8,45,Oil pressure
+1967,Mexican Grand Prix,Chris Irwin,14,0,15,33,Oil leak
+1967,Mexican Grand Prix,Jackie Stewart,15,0,12,24,Engine
+1967,Mexican Grand Prix,Graham Hill,16,0,4,18,Halfshaft
+1967,Mexican Grand Prix,Moisés Solana,17,0,9,12,Suspension
+1967,Mexican Grand Prix,Dan Gurney,18,0,3,4,Radiator
+1967,Mexican Grand Prix,Mike Fisher,19,0,10,0,Fuel system

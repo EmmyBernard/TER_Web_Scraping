@@ -1,0 +1,363 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1979,Argentine Grand Prix,Jacques Laffite,1,9,1,53,RAS
+1979,Argentine Grand Prix,Carlos Reutemann,2,6,3,53,RAS
+1979,Argentine Grand Prix,John Watson,3,4,6,53,RAS
+1979,Argentine Grand Prix,Patrick Depailler,4,3,2,53,RAS
+1979,Argentine Grand Prix,Mario Andretti,5,2,7,52,RAS
+1979,Argentine Grand Prix,Emerson Fittipaldi,6,1,11,52,RAS
+1979,Argentine Grand Prix,Elio de Angelis,7,0,16,52,RAS
+1979,Argentine Grand Prix,Jochen Mass,8,0,14,51,RAS
+1979,Argentine Grand Prix,Alan Jones,9,0,15,51,RAS
+1979,Argentine Grand Prix,Clay Regazzoni,10,0,17,51,RAS
+1979,Argentine Grand Prix,Derek Daly,11,0,24,51,RAS
+1979,Argentine Grand Prix,Gilles Villeneuve,12,0,10,48,Engine
+1979,Argentine Grand Prix,Hector Rebaque,13,0,19,46,Suspension
+1979,Argentine Grand Prix,Jan Lammers,14,0,21,42,Transmission
+1979,Argentine Grand Prix,James Hunt,15,0,18,41,Electrical
+1979,Argentine Grand Prix,Jean-Pierre Jarier,16,0,4,15,Engine
+1979,Argentine Grand Prix,Jean-Pierre Jabouille,17,0,12,15,Engine
+1979,Argentine Grand Prix,Niki Lauda,18,0,23,8,Fuel system
+1979,Argentine Grand Prix,René Arnoux,19,0,25,6,Engine
+1979,Argentine Grand Prix,Jody Scheckter,20,0,5,0,Collision
+1979,Argentine Grand Prix,Didier Pironi,21,0,8,0,Collision
+1979,Argentine Grand Prix,Patrick Tambay,22,0,9,0,Collision
+1979,Argentine Grand Prix,Nelson Piquet,23,0,20,0,Collision
+1979,Argentine Grand Prix,Arturo Merzario,24,0,22,0,Collision
+1979,Argentine Grand Prix,Riccardo Patrese,25,0,13,0,Accident
+1979,Argentine Grand Prix,Hans-Joachim Stuck,26,0,0,0,Withdrew
+1979,Brazilian Grand Prix,Jacques Laffite,1,9,1,40,RAS
+1979,Brazilian Grand Prix,Patrick Depailler,2,6,2,40,RAS
+1979,Brazilian Grand Prix,Carlos Reutemann,3,4,3,40,RAS
+1979,Brazilian Grand Prix,Didier Pironi,4,3,8,40,RAS
+1979,Brazilian Grand Prix,Gilles Villeneuve,5,2,5,39,RAS
+1979,Brazilian Grand Prix,Jody Scheckter,6,1,6,39,RAS
+1979,Brazilian Grand Prix,Jochen Mass,7,0,19,39,RAS
+1979,Brazilian Grand Prix,John Watson,8,0,14,39,RAS
+1979,Brazilian Grand Prix,Riccardo Patrese,9,0,16,39,RAS
+1979,Brazilian Grand Prix,Jean-Pierre Jabouille,10,0,7,39,RAS
+1979,Brazilian Grand Prix,Emerson Fittipaldi,11,0,9,39,RAS
+1979,Brazilian Grand Prix,Elio de Angelis,12,0,20,39,RAS
+1979,Brazilian Grand Prix,Derek Daly,13,0,23,39,RAS
+1979,Brazilian Grand Prix,Jan Lammers,14,0,21,39,RAS
+1979,Brazilian Grand Prix,Clay Regazzoni,15,0,17,38,RAS
+1979,Brazilian Grand Prix,Alan Jones,16,0,13,33,Fuel system
+1979,Brazilian Grand Prix,Hans-Joachim Stuck,17,0,24,31,Steering
+1979,Brazilian Grand Prix,René Arnoux,18,0,11,28,Spun off
+1979,Brazilian Grand Prix,James Hunt,19,0,10,7,Steering
+1979,Brazilian Grand Prix,Patrick Tambay,20,0,18,7,Collision
+1979,Brazilian Grand Prix,Niki Lauda,21,0,12,5,Gearbox
+1979,Brazilian Grand Prix,Nelson Piquet,22,0,22,5,Accident
+1979,Brazilian Grand Prix,Mario Andretti,23,0,4,2,Fuel leak
+1979,Brazilian Grand Prix,Jean-Pierre Jarier,24,0,15,0,Electrical
+1979,South African Grand Prix,Gilles Villeneuve,1,9,3,78,RAS
+1979,South African Grand Prix,Jody Scheckter,2,6,2,78,RAS
+1979,South African Grand Prix,Jean-Pierre Jarier,3,4,9,78,RAS
+1979,South African Grand Prix,Mario Andretti,4,3,8,78,RAS
+1979,South African Grand Prix,Carlos Reutemann,5,2,11,78,RAS
+1979,South African Grand Prix,Niki Lauda,6,1,4,77,RAS
+1979,South African Grand Prix,Nelson Piquet,7,0,12,77,RAS
+1979,South African Grand Prix,James Hunt,8,0,13,77,RAS
+1979,South African Grand Prix,Clay Regazzoni,9,0,22,76,RAS
+1979,South African Grand Prix,Patrick Tambay,10,0,17,75,RAS
+1979,South African Grand Prix,Riccardo Patrese,11,0,16,75,RAS
+1979,South African Grand Prix,Jochen Mass,12,0,20,74,RAS
+1979,South African Grand Prix,Emerson Fittipaldi,13,0,18,74,RAS
+1979,South African Grand Prix,Hector Rebaque,14,0,23,71,Engine
+1979,South African Grand Prix,René Arnoux,15,0,10,67,Tyre
+1979,South African Grand Prix,Alan Jones,16,0,19,63,Suspension
+1979,South African Grand Prix,John Watson,17,0,14,61,Ignition
+1979,South African Grand Prix,Hans-Joachim Stuck,18,0,24,57,Accident
+1979,South African Grand Prix,Jean-Pierre Jabouille,19,0,1,47,Engine
+1979,South African Grand Prix,Jacques Laffite,20,0,6,45,Accident
+1979,South African Grand Prix,Didier Pironi,21,0,7,25,Throttle
+1979,South African Grand Prix,Elio de Angelis,22,0,15,16,Accident
+1979,South African Grand Prix,Patrick Depailler,23,0,5,4,Accident
+1979,South African Grand Prix,Jan Lammers,24,0,21,2,Accident
+1979,United States Grand Prix West,Gilles Villeneuve,1,9,1,80,RAS
+1979,United States Grand Prix West,Jody Scheckter,2,6,3,80,RAS
+1979,United States Grand Prix West,Alan Jones,3,4,10,80,RAS
+1979,United States Grand Prix West,Mario Andretti,4,3,6,80,RAS
+1979,United States Grand Prix West,Patrick Depailler,5,2,4,80,RAS
+1979,United States Grand Prix West,Jean-Pierre Jarier,6,1,7,79,RAS
+1979,United States Grand Prix West,Elio de Angelis,7,0,20,78,RAS
+1979,United States Grand Prix West,Nelson Piquet,8,0,12,78,RAS
+1979,United States Grand Prix West,Jochen Mass,9,0,13,78,RAS
+1979,United States Grand Prix West,Didier Pironi,10,0,17,72,DQ
+1979,United States Grand Prix West,Hector Rebaque,11,0,23,71,Accident
+1979,United States Grand Prix West,Derek Daly,12,0,24,69,Accident
+1979,United States Grand Prix West,John Watson,13,0,18,62,Injection
+1979,United States Grand Prix West,Hans-Joachim Stuck,14,0,21,49,DQ
+1979,United States Grand Prix West,Clay Regazzoni,15,0,15,48,Engine
+1979,United States Grand Prix West,Jan Lammers,16,0,14,47,Suspension
+1979,United States Grand Prix West,Riccardo Patrese,17,0,9,40,Brakes
+1979,United States Grand Prix West,Carlos Reutemann,18,0,2,21,Transmission
+1979,United States Grand Prix West,Emerson Fittipaldi,19,0,16,19,Transmission
+1979,United States Grand Prix West,Arturo Merzario,20,0,22,13,Engine
+1979,United States Grand Prix West,Jacques Laffite,21,0,5,8,Brakes
+1979,United States Grand Prix West,James Hunt,22,0,8,0,Transmission
+1979,United States Grand Prix West,Niki Lauda,23,0,11,0,Accident
+1979,United States Grand Prix West,Patrick Tambay,24,0,19,0,Collision
+1979,United States Grand Prix West,René Arnoux,25,0,0,0,Withdrew
+1979,United States Grand Prix West,Jean-Pierre Jabouille,26,0,0,0,Withdrew
+1979,Spanish Grand Prix,Patrick Depailler,1,9,2,75,RAS
+1979,Spanish Grand Prix,Carlos Reutemann,2,6,8,75,RAS
+1979,Spanish Grand Prix,Mario Andretti,3,4,4,75,RAS
+1979,Spanish Grand Prix,Jody Scheckter,4,3,5,75,RAS
+1979,Spanish Grand Prix,Jean-Pierre Jarier,5,2,12,75,RAS
+1979,Spanish Grand Prix,Didier Pironi,6,1,10,75,RAS
+1979,Spanish Grand Prix,Gilles Villeneuve,7,0,3,75,RAS
+1979,Spanish Grand Prix,Jochen Mass,8,0,17,75,RAS
+1979,Spanish Grand Prix,René Arnoux,9,0,11,74,RAS
+1979,Spanish Grand Prix,Riccardo Patrese,10,0,16,74,RAS
+1979,Spanish Grand Prix,Emerson Fittipaldi,11,0,19,74,RAS
+1979,Spanish Grand Prix,Jan Lammers,12,0,24,73,RAS
+1979,Spanish Grand Prix,Patrick Tambay,13,0,20,72,RAS
+1979,Spanish Grand Prix,Hans-Joachim Stuck,14,0,21,69,RAS
+1979,Spanish Grand Prix,Niki Lauda,15,0,6,63,Water leak
+1979,Spanish Grand Prix,Hector Rebaque,16,0,23,58,Engine
+1979,Spanish Grand Prix,Alan Jones,17,0,13,54,Gearbox
+1979,Spanish Grand Prix,Elio de Angelis,18,0,22,52,Engine
+1979,Spanish Grand Prix,Clay Regazzoni,19,0,14,32,Engine
+1979,Spanish Grand Prix,James Hunt,20,0,15,26,Brakes
+1979,Spanish Grand Prix,Jean-Pierre Jabouille,21,0,9,21,Turbo
+1979,Spanish Grand Prix,John Watson,22,0,18,21,Engine
+1979,Spanish Grand Prix,Jacques Laffite,23,0,1,15,Engine
+1979,Spanish Grand Prix,Nelson Piquet,24,0,7,15,Injection
+1979,Belgian Grand Prix,Jody Scheckter,1,9,7,70,RAS
+1979,Belgian Grand Prix,Jacques Laffite,2,6,1,70,RAS
+1979,Belgian Grand Prix,Didier Pironi,3,4,12,70,RAS
+1979,Belgian Grand Prix,Carlos Reutemann,4,3,10,70,RAS
+1979,Belgian Grand Prix,Riccardo Patrese,5,2,16,70,RAS
+1979,Belgian Grand Prix,John Watson,6,1,19,70,RAS
+1979,Belgian Grand Prix,Gilles Villeneuve,7,0,6,69,RAS
+1979,Belgian Grand Prix,Hans-Joachim Stuck,8,0,20,69,RAS
+1979,Belgian Grand Prix,Emerson Fittipaldi,9,0,23,68,RAS
+1979,Belgian Grand Prix,Jan Lammers,10,0,21,68,RAS
+1979,Belgian Grand Prix,Jean-Pierre Jarier,11,0,11,67,RAS
+1979,Belgian Grand Prix,Patrick Depailler,12,0,2,46,Accident
+1979,Belgian Grand Prix,James Hunt,13,0,9,40,Accident
+1979,Belgian Grand Prix,Alan Jones,14,0,4,39,Electrical
+1979,Belgian Grand Prix,Mario Andretti,15,0,5,27,Brakes
+1979,Belgian Grand Prix,Nelson Piquet,16,0,3,23,Engine
+1979,Belgian Grand Prix,Niki Lauda,17,0,13,23,Engine
+1979,Belgian Grand Prix,René Arnoux,18,0,18,22,Turbo
+1979,Belgian Grand Prix,Bruno Giacomelli,19,0,14,21,Accident
+1979,Belgian Grand Prix,Elio de Angelis,20,0,24,21,Accident
+1979,Belgian Grand Prix,Jochen Mass,21,0,22,17,Spun off
+1979,Belgian Grand Prix,Hector Rebaque,22,0,15,13,Transmission
+1979,Belgian Grand Prix,Jean-Pierre Jabouille,23,0,17,13,Turbo
+1979,Belgian Grand Prix,Clay Regazzoni,24,0,8,1,Accident
+1979,Monaco Grand Prix,Jody Scheckter,1,9,1,76,RAS
+1979,Monaco Grand Prix,Clay Regazzoni,2,6,16,76,RAS
+1979,Monaco Grand Prix,Carlos Reutemann,3,4,11,76,RAS
+1979,Monaco Grand Prix,John Watson,4,3,14,76,RAS
+1979,Monaco Grand Prix,Patrick Depailler,5,2,3,75,Engine
+1979,Monaco Grand Prix,Jochen Mass,6,1,8,69,RAS
+1979,Monaco Grand Prix,Nelson Piquet,7,0,18,68,Transmission
+1979,Monaco Grand Prix,Jean-Pierre Jabouille,8,0,20,68,RAS
+1979,Monaco Grand Prix,Jacques Laffite,9,0,5,55,Gearbox
+1979,Monaco Grand Prix,Gilles Villeneuve,10,0,2,54,Transmission
+1979,Monaco Grand Prix,Alan Jones,11,0,9,43,Steering
+1979,Monaco Grand Prix,Jean-Pierre Jarier,12,0,6,34,Suspension
+1979,Monaco Grand Prix,Hans-Joachim Stuck,13,0,12,30,Wheel
+1979,Monaco Grand Prix,Niki Lauda,14,0,4,21,Accident
+1979,Monaco Grand Prix,Didier Pironi,15,0,7,21,Accident
+1979,Monaco Grand Prix,Mario Andretti,16,0,13,21,Suspension
+1979,Monaco Grand Prix,Emerson Fittipaldi,17,0,17,17,Engine
+1979,Monaco Grand Prix,René Arnoux,18,0,19,8,Accident
+1979,Monaco Grand Prix,James Hunt,19,0,10,4,Transmission
+1979,Monaco Grand Prix,Riccardo Patrese,20,0,15,4,Suspension
+1979,French Grand Prix,Jean-Pierre Jabouille,1,9,1,80,RAS
+1979,French Grand Prix,Gilles Villeneuve,2,6,3,80,RAS
+1979,French Grand Prix,René Arnoux,3,4,2,80,RAS
+1979,French Grand Prix,Alan Jones,4,3,7,80,RAS
+1979,French Grand Prix,Jean-Pierre Jarier,5,2,10,80,RAS
+1979,French Grand Prix,Clay Regazzoni,6,1,9,80,RAS
+1979,French Grand Prix,Jody Scheckter,7,0,5,79,RAS
+1979,French Grand Prix,Jacques Laffite,8,0,8,79,RAS
+1979,French Grand Prix,Keke Rosberg,9,0,16,79,RAS
+1979,French Grand Prix,Patrick Tambay,10,0,20,78,RAS
+1979,French Grand Prix,John Watson,11,0,15,78,RAS
+1979,French Grand Prix,Hector Rebaque,12,0,23,78,RAS
+1979,French Grand Prix,Carlos Reutemann,13,0,13,77,RAS
+1979,French Grand Prix,Riccardo Patrese,14,0,19,77,RAS
+1979,French Grand Prix,Jochen Mass,15,0,22,75,RAS
+1979,French Grand Prix,Elio de Angelis,16,0,24,75,RAS
+1979,French Grand Prix,Bruno Giacomelli,17,0,17,75,RAS
+1979,French Grand Prix,Jan Lammers,18,0,21,73,RAS
+1979,French Grand Prix,Didier Pironi,19,0,11,71,Suspension
+1979,French Grand Prix,Emerson Fittipaldi,20,0,18,53,Engine
+1979,French Grand Prix,Nelson Piquet,21,0,4,52,Accident
+1979,French Grand Prix,Mario Andretti,22,0,12,51,Brakes
+1979,French Grand Prix,Jacky Ickx,23,0,14,45,Engine
+1979,French Grand Prix,Niki Lauda,24,0,6,23,Spun off
+1979,French Grand Prix,Hans-Joachim Stuck,25,0,0,0,Withdrew
+1979,British Grand Prix,Clay Regazzoni,1,9,4,68,RAS
+1979,British Grand Prix,René Arnoux,2,6,5,68,RAS
+1979,British Grand Prix,Jean-Pierre Jarier,3,4,16,67,RAS
+1979,British Grand Prix,John Watson,4,3,7,67,RAS
+1979,British Grand Prix,Jody Scheckter,5,2,11,67,RAS
+1979,British Grand Prix,Jacky Ickx,6,1,17,67,RAS
+1979,British Grand Prix,Patrick Tambay,7,0,18,66,Out of fuel
+1979,British Grand Prix,Carlos Reutemann,8,0,8,66,RAS
+1979,British Grand Prix,Hector Rebaque,9,0,26,66,RAS
+1979,British Grand Prix,Didier Pironi,10,0,15,66,RAS
+1979,British Grand Prix,Jan Lammers,11,0,21,65,RAS
+1979,British Grand Prix,Elio de Angelis,12,0,12,65,RAS
+1979,British Grand Prix,Patrick Gaillard,13,0,23,65,RAS
+1979,British Grand Prix,Gilles Villeneuve,14,0,13,63,Fuel system
+1979,British Grand Prix,Riccardo Patrese,15,0,19,45,Gearbox
+1979,British Grand Prix,Jacques Laffite,16,0,10,44,Engine
+1979,British Grand Prix,Keke Rosberg,17,0,14,44,Fuel system
+1979,British Grand Prix,Alan Jones,18,0,1,38,Water pump
+1979,British Grand Prix,Jochen Mass,19,0,20,37,Gearbox
+1979,British Grand Prix,Emerson Fittipaldi,20,0,22,25,Engine
+1979,British Grand Prix,Jean-Pierre Jabouille,21,0,2,21,Turbo
+1979,British Grand Prix,Niki Lauda,22,0,6,12,Brakes
+1979,British Grand Prix,Mario Andretti,23,0,9,3,Wheel
+1979,British Grand Prix,Nelson Piquet,24,0,3,1,Spun off
+1979,German Grand Prix,Alan Jones,1,9,2,45,RAS
+1979,German Grand Prix,Clay Regazzoni,2,6,6,45,RAS
+1979,German Grand Prix,Jacques Laffite,3,4,3,45,RAS
+1979,German Grand Prix,Jody Scheckter,4,3,5,45,RAS
+1979,German Grand Prix,John Watson,5,2,12,45,RAS
+1979,German Grand Prix,Jochen Mass,6,1,18,44,RAS
+1979,German Grand Prix,Geoff Lees,7,0,16,44,RAS
+1979,German Grand Prix,Gilles Villeneuve,8,0,9,44,RAS
+1979,German Grand Prix,Didier Pironi,9,0,8,44,RAS
+1979,German Grand Prix,Jan Lammers,10,0,20,44,RAS
+1979,German Grand Prix,Elio de Angelis,11,0,21,43,RAS
+1979,German Grand Prix,Nelson Piquet,12,0,4,42,Engine
+1979,German Grand Prix,Riccardo Patrese,13,0,19,34,Tyre
+1979,German Grand Prix,Patrick Tambay,14,0,15,30,Suspension
+1979,German Grand Prix,Keke Rosberg,15,0,17,29,Engine
+1979,German Grand Prix,Niki Lauda,16,0,7,27,Engine
+1979,German Grand Prix,Jacky Ickx,17,0,14,24,Tyre
+1979,German Grand Prix,Hector Rebaque,18,0,24,22,Handling
+1979,German Grand Prix,Mario Andretti,19,0,11,16,Transmission
+1979,German Grand Prix,René Arnoux,20,0,10,9,Tyre
+1979,German Grand Prix,Jean-Pierre Jabouille,21,0,1,7,Spun off
+1979,German Grand Prix,Emerson Fittipaldi,22,0,22,4,Electrical
+1979,German Grand Prix,Carlos Reutemann,23,0,13,1,Accident
+1979,German Grand Prix,Hans-Joachim Stuck,24,0,23,0,Suspension
+1979,Austrian Grand Prix,Alan Jones,1,9,2,54,RAS
+1979,Austrian Grand Prix,Gilles Villeneuve,2,6,5,54,RAS
+1979,Austrian Grand Prix,Jacques Laffite,3,4,8,54,RAS
+1979,Austrian Grand Prix,Jody Scheckter,4,3,9,54,RAS
+1979,Austrian Grand Prix,Clay Regazzoni,5,2,6,54,RAS
+1979,Austrian Grand Prix,René Arnoux,6,1,1,53,RAS
+1979,Austrian Grand Prix,Didier Pironi,7,0,10,53,RAS
+1979,Austrian Grand Prix,Derek Daly,8,0,11,53,RAS
+1979,Austrian Grand Prix,John Watson,9,0,16,53,RAS
+1979,Austrian Grand Prix,Patrick Tambay,10,0,14,53,RAS
+1979,Austrian Grand Prix,Niki Lauda,11,0,4,45,Engine
+1979,Austrian Grand Prix,Patrick Gaillard,12,0,24,42,Suspension
+1979,Austrian Grand Prix,Riccardo Patrese,13,0,13,34,Suspension
+1979,Austrian Grand Prix,Elio de Angelis,14,0,22,34,Engine
+1979,Austrian Grand Prix,Nelson Piquet,15,0,7,32,Engine
+1979,Austrian Grand Prix,Hans-Joachim Stuck,16,0,18,28,Engine
+1979,Austrian Grand Prix,Jacky Ickx,17,0,21,26,Engine
+1979,Austrian Grand Prix,Carlos Reutemann,18,0,17,22,Handling
+1979,Austrian Grand Prix,Jean-Pierre Jabouille,19,0,3,16,Gearbox
+1979,Austrian Grand Prix,Keke Rosberg,20,0,19,15,Electrical
+1979,Austrian Grand Prix,Emerson Fittipaldi,21,0,12,15,Brakes
+1979,Austrian Grand Prix,Jan Lammers,22,0,23,3,Accident
+1979,Austrian Grand Prix,Jochen Mass,23,0,20,1,Engine
+1979,Austrian Grand Prix,Mario Andretti,24,0,15,0,Clutch
+1979,Dutch Grand Prix,Alan Jones,1,9,2,75,RAS
+1979,Dutch Grand Prix,Jody Scheckter,2,6,5,75,RAS
+1979,Dutch Grand Prix,Jacques Laffite,3,4,7,75,RAS
+1979,Dutch Grand Prix,Nelson Piquet,4,3,11,74,RAS
+1979,Dutch Grand Prix,Jacky Ickx,5,2,20,74,RAS
+1979,Dutch Grand Prix,Jochen Mass,6,1,18,73,RAS
+1979,Dutch Grand Prix,Hector Rebaque,7,0,24,73,RAS
+1979,Dutch Grand Prix,Didier Pironi,8,0,10,51,Suspension
+1979,Dutch Grand Prix,Gilles Villeneuve,9,0,6,49,Tyre
+1979,Dutch Grand Prix,Elio de Angelis,10,0,22,40,Transmission
+1979,Dutch Grand Prix,Keke Rosberg,11,0,8,33,Engine
+1979,Dutch Grand Prix,Jean-Pierre Jabouille,12,0,4,26,Clutch
+1979,Dutch Grand Prix,John Watson,13,0,12,22,Engine
+1979,Dutch Grand Prix,Jean-Pierre Jarier,14,0,16,20,Spun off
+1979,Dutch Grand Prix,Hans-Joachim Stuck,15,0,15,19,Transmission
+1979,Dutch Grand Prix,Jan Lammers,16,0,23,12,Gearbox
+1979,Dutch Grand Prix,Mario Andretti,17,0,17,9,Suspension
+1979,Dutch Grand Prix,Riccardo Patrese,18,0,19,7,Brakes
+1979,Dutch Grand Prix,Patrick Tambay,19,0,14,6,Engine
+1979,Dutch Grand Prix,Niki Lauda,20,0,9,4,Withdrew
+1979,Dutch Grand Prix,Emerson Fittipaldi,21,0,21,2,Electrical
+1979,Dutch Grand Prix,Carlos Reutemann,22,0,13,1,Suspension
+1979,Dutch Grand Prix,René Arnoux,23,0,1,1,Suspension
+1979,Dutch Grand Prix,Clay Regazzoni,24,0,3,0,Accident
+1979,Italian Grand Prix,Jody Scheckter,1,9,3,50,RAS
+1979,Italian Grand Prix,Gilles Villeneuve,2,6,5,50,RAS
+1979,Italian Grand Prix,Clay Regazzoni,3,4,6,50,RAS
+1979,Italian Grand Prix,Niki Lauda,4,3,9,50,RAS
+1979,Italian Grand Prix,Mario Andretti,5,2,10,50,RAS
+1979,Italian Grand Prix,Jean-Pierre Jarier,6,1,16,50,RAS
+1979,Italian Grand Prix,Carlos Reutemann,7,0,13,50,RAS
+1979,Italian Grand Prix,Emerson Fittipaldi,8,0,20,49,RAS
+1979,Italian Grand Prix,Alan Jones,9,0,4,49,RAS
+1979,Italian Grand Prix,Didier Pironi,10,0,12,49,RAS
+1979,Italian Grand Prix,Hans-Joachim Stuck,11,0,15,49,RAS
+1979,Italian Grand Prix,Vittorio Brambilla,12,0,22,49,RAS
+1979,Italian Grand Prix,Riccardo Patrese,13,0,17,47,RAS
+1979,Italian Grand Prix,Jean-Pierre Jabouille,14,0,1,45,Engine
+1979,Italian Grand Prix,Jacques Laffite,15,0,7,41,Engine
+1979,Italian Grand Prix,Keke Rosberg,16,0,23,41,Engine
+1979,Italian Grand Prix,Jacky Ickx,17,0,11,40,Engine
+1979,Italian Grand Prix,Elio de Angelis,18,0,24,33,Clutch
+1979,Italian Grand Prix,Bruno Giacomelli,19,0,18,28,Spun off
+1979,Italian Grand Prix,René Arnoux,20,0,2,13,Engine
+1979,Italian Grand Prix,John Watson,21,0,19,13,Accident
+1979,Italian Grand Prix,Patrick Tambay,22,0,14,3,Engine
+1979,Italian Grand Prix,Jochen Mass,23,0,21,3,Suspension
+1979,Italian Grand Prix,Nelson Piquet,24,0,8,1,Accident
+1979,Canadian Grand Prix,Alan Jones,1,9,1,72,RAS
+1979,Canadian Grand Prix,Gilles Villeneuve,2,6,2,72,RAS
+1979,Canadian Grand Prix,Clay Regazzoni,3,4,3,72,RAS
+1979,Canadian Grand Prix,Jody Scheckter,4,3,9,71,RAS
+1979,Canadian Grand Prix,Didier Pironi,5,2,6,71,RAS
+1979,Canadian Grand Prix,John Watson,6,1,17,70,RAS
+1979,Canadian Grand Prix,Ricardo Zunino,7,0,17,68,RAS
+1979,Canadian Grand Prix,Emerson Fittipaldi,8,0,15,67,RAS
+1979,Canadian Grand Prix,Jan Lammers,9,0,21,67,RAS
+1979,Canadian Grand Prix,Mario Andretti,10,0,10,66,Out of fuel
+1979,Canadian Grand Prix,Nelson Piquet,11,0,4,61,Gearbox
+1979,Canadian Grand Prix,Vittorio Brambilla,12,0,18,52,Fuel system
+1979,Canadian Grand Prix,Jacky Ickx,13,0,16,47,Gearbox
+1979,Canadian Grand Prix,Jean-Pierre Jarier,14,0,13,33,Engine
+1979,Canadian Grand Prix,Derek Daly,15,0,24,28,Engine
+1979,Canadian Grand Prix,Hector Rebaque,16,0,22,26,Chassis
+1979,Canadian Grand Prix,Jean-Pierre Jabouille,17,0,7,24,Brakes
+1979,Canadian Grand Prix,Elio de Angelis,18,0,23,24,Ignition
+1979,Canadian Grand Prix,Carlos Reutemann,19,0,11,23,Suspension
+1979,Canadian Grand Prix,Riccardo Patrese,20,0,14,20,Spun off
+1979,Canadian Grand Prix,Patrick Tambay,21,0,20,19,Engine
+1979,Canadian Grand Prix,René Arnoux,22,0,8,14,Accident
+1979,Canadian Grand Prix,Hans-Joachim Stuck,23,0,12,14,Accident
+1979,Canadian Grand Prix,Jacques Laffite,24,0,5,10,Engine
+1979,Canadian Grand Prix,Niki Lauda,30,0,0,0,Withdrew
+1979,United States Grand Prix,Gilles Villeneuve,1,9,3,59,RAS
+1979,United States Grand Prix,René Arnoux,2,6,7,59,RAS
+1979,United States Grand Prix,Didier Pironi,3,4,10,59,RAS
+1979,United States Grand Prix,Elio de Angelis,4,3,20,59,RAS
+1979,United States Grand Prix,Hans-Joachim Stuck,5,2,14,59,RAS
+1979,United States Grand Prix,John Watson,6,1,13,58,RAS
+1979,United States Grand Prix,Emerson Fittipaldi,7,0,23,54,RAS
+1979,United States Grand Prix,Nelson Piquet,8,0,2,53,Transmission
+1979,United States Grand Prix,Derek Daly,9,0,15,52,Spun off
+1979,United States Grand Prix,Jody Scheckter,10,0,16,48,Tyre
+1979,United States Grand Prix,Riccardo Patrese,11,0,19,44,Suspension
+1979,United States Grand Prix,Alan Jones,12,0,1,36,Wheel
+1979,United States Grand Prix,Marc Surer,13,0,21,32,Engine
+1979,United States Grand Prix,Clay Regazzoni,14,0,5,29,Accident
+1979,United States Grand Prix,Ricardo Zunino,15,0,9,25,Spun off
+1979,United States Grand Prix,Jean-Pierre Jabouille,16,0,8,24,Engine
+1979,United States Grand Prix,Keke Rosberg,17,0,12,20,Accident
+1979,United States Grand Prix,Patrick Tambay,18,0,22,20,Engine
+1979,United States Grand Prix,Jean-Pierre Jarier,19,0,11,18,Accident
+1979,United States Grand Prix,Mario Andretti,20,0,17,16,Gearbox
+1979,United States Grand Prix,Carlos Reutemann,21,0,6,6,Spun off
+1979,United States Grand Prix,Jacques Laffite,22,0,4,3,Spun off
+1979,United States Grand Prix,Jacky Ickx,23,0,24,2,Spun off
+1979,United States Grand Prix,Bruno Giacomelli,24,0,18,0,Spun off

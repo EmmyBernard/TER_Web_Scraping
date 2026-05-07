@@ -1,0 +1,216 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1960,Argentine Grand Prix,Bruce McLaren,1,8,13,80,RAS
+1960,Argentine Grand Prix,Cliff Allison,2,6,7,80,RAS
+1960,Argentine Grand Prix,Stirling Moss,3,0,8,80,RAS
+1960,Argentine Grand Prix,Maurice Trintignant,3,0,8,80,RAS
+1960,Argentine Grand Prix,Carlos Menditeguy,4,3,12,80,RAS
+1960,Argentine Grand Prix,Wolfgang von Trips,5,2,5,79,RAS
+1960,Argentine Grand Prix,Innes Ireland,6,1,2,79,RAS
+1960,Argentine Grand Prix,Jo Bonnier,7,0,4,79,RAS
+1960,Argentine Grand Prix,Phil Hill,8,0,6,77,RAS
+1960,Argentine Grand Prix,Alberto Rodriguez Larreta,9,0,15,77,RAS
+1960,Argentine Grand Prix,José Froilán González,10,0,11,77,RAS
+1960,Argentine Grand Prix,Roberto Bonomi,11,0,17,76,RAS
+1960,Argentine Grand Prix,Masten Gregory,12,0,16,76,RAS
+1960,Argentine Grand Prix,Gino Munaron,13,0,19,72,RAS
+1960,Argentine Grand Prix,Nasif Estéfano,14,0,20,70,RAS
+1960,Argentine Grand Prix,Harry Schell,15,0,9,63,Fuel pump
+1960,Argentine Grand Prix,Jack Brabham,16,0,10,42,Gearbox
+1960,Argentine Grand Prix,Stirling Moss,17,0,1,40,Suspension
+1960,Argentine Grand Prix,Graham Hill,18,0,3,37,Overheating
+1960,Argentine Grand Prix,Alan Stacey,19,0,14,24,Physical
+1960,Argentine Grand Prix,Ettore Chimeri,20,0,21,23,Physical
+1960,Argentine Grand Prix,Antonio Creus,21,0,22,16,Physical
+1960,Argentine Grand Prix,Giorgio Scarlatti,22,0,18,11,Overheating
+1960,Monaco Grand Prix,Stirling Moss,1,8,1,100,RAS
+1960,Monaco Grand Prix,Bruce McLaren,2,6,11,100,RAS
+1960,Monaco Grand Prix,Phil Hill,3,4,10,100,RAS
+1960,Monaco Grand Prix,Tony Brooks,4,3,3,99,RAS
+1960,Monaco Grand Prix,Jo Bonnier,5,2,5,83,RAS
+1960,Monaco Grand Prix,Richie Ginther,6,1,9,70,RAS
+1960,Monaco Grand Prix,Graham Hill,7,0,6,66,Spun off
+1960,Monaco Grand Prix,Wolfgang von Trips,8,0,8,61,Clutch
+1960,Monaco Grand Prix,Innes Ireland,9,0,7,56,RAS
+1960,Monaco Grand Prix,Dan Gurney,10,0,14,44,Suspension
+1960,Monaco Grand Prix,Jack Brabham,11,0,2,40,DQ
+1960,Monaco Grand Prix,Roy Salvadori,12,0,12,29,Overheating
+1960,Monaco Grand Prix,Alan Stacey,13,0,13,23,Chassis
+1960,Monaco Grand Prix,Chris Bristow,14,0,4,17,Gearbox
+1960,Monaco Grand Prix,John Surtees,15,0,15,17,Transmission
+1960,Monaco Grand Prix,Maurice Trintignant,16,0,16,4,Gearbox
+1960,Indianapolis 500,Jim Rathmann,1,8,2,200,RAS
+1960,Indianapolis 500,Rodger Ward,2,6,3,200,RAS
+1960,Indianapolis 500,Paul Goldsmith,3,4,26,200,RAS
+1960,Indianapolis 500,Don Branson,4,3,8,200,RAS
+1960,Indianapolis 500,Johnny Thomson,5,2,17,200,RAS
+1960,Indianapolis 500,Eddie Johnson,6,1,7,200,RAS
+1960,Indianapolis 500,Lloyd Ruby,7,0,12,200,RAS
+1960,Indianapolis 500,Bob Veith,8,0,25,200,RAS
+1960,Indianapolis 500,Bud Tingelstad,9,0,28,200,RAS
+1960,Indianapolis 500,Bob Christie,10,0,14,200,RAS
+1960,Indianapolis 500,Red Amick,11,0,22,200,RAS
+1960,Indianapolis 500,Duane Carter,12,0,27,200,RAS
+1960,Indianapolis 500,Bill Homeier,13,0,31,200,RAS
+1960,Indianapolis 500,Gene Hartley,14,0,24,196,RAS
+1960,Indianapolis 500,Chuck Stevenson,15,0,9,196,RAS
+1960,Indianapolis 500,Bobby Grim,16,0,21,194,RAS
+1960,Indianapolis 500,Shorty Templeman,17,0,19,191,Clutch
+1960,Indianapolis 500,Jim Hurtubise,18,0,23,185,Engine
+1960,Indianapolis 500,Jimmy Bryan,19,0,10,152,Fuel system
+1960,Indianapolis 500,Troy Ruttman,20,0,6,134,Axle
+1960,Indianapolis 500,Eddie Sachs,21,0,1,132,Magneto
+1960,Indianapolis 500,Don Freeland,22,0,11,129,Magneto
+1960,Indianapolis 500,Tony Bettenhausen,23,0,18,125,Engine
+1960,Indianapolis 500,Wayne Weiler,24,0,15,103,Accident
+1960,Indianapolis 500,Anthony Foyt,25,0,16,90,Clutch
+1960,Indianapolis 500,Eddie Russo,26,0,29,90,Accident
+1960,Indianapolis 500,Johnny Boyd,27,0,13,77,Engine
+1960,Indianapolis 500,Gene Force,28,0,20,74,Brakes
+1960,Indianapolis 500,Jim McWithey,29,0,32,60,Brakes
+1960,Indianapolis 500,Len Sutton,30,0,5,47,Engine
+1960,Indianapolis 500,Dick Rathmann,31,0,4,42,Brakes
+1960,Indianapolis 500,Al Herman,32,0,30,34,Clutch
+1960,Indianapolis 500,Dempsey Wilson,33,0,33,11,Magneto
+1960,Dutch Grand Prix,Jack Brabham,1,8,2,75,RAS
+1960,Dutch Grand Prix,Innes Ireland,2,6,3,75,RAS
+1960,Dutch Grand Prix,Graham Hill,3,4,5,75,RAS
+1960,Dutch Grand Prix,Stirling Moss,4,3,1,75,RAS
+1960,Dutch Grand Prix,Wolfgang von Trips,5,2,15,74,RAS
+1960,Dutch Grand Prix,Richie Ginther,6,1,12,74,RAS
+1960,Dutch Grand Prix,Henry Taylor,7,0,14,78,RAS
+1960,Dutch Grand Prix,Carel Godin de Beaufort,8,0,18,69,RAS
+1960,Dutch Grand Prix,Alan Stacey,9,0,8,57,Transmission
+1960,Dutch Grand Prix,Jo Bonnier,10,0,4,54,Engine
+1960,Dutch Grand Prix,Phil Hill,11,0,13,54,Engine
+1960,Dutch Grand Prix,Jim Clark,12,0,11,42,Transmission
+1960,Dutch Grand Prix,Maurice Trintignant,13,0,17,39,Gearbox
+1960,Dutch Grand Prix,Dan Gurney,14,0,6,11,Accident
+1960,Dutch Grand Prix,Chris Bristow,15,0,7,9,Engine
+1960,Dutch Grand Prix,Bruce McLaren,16,0,9,8,Transmission
+1960,Dutch Grand Prix,Tony Brooks,17,0,10,4,Gearbox
+1960,Dutch Grand Prix,Roy Salvadori,18,0,0,0,Withdrew
+1960,Dutch Grand Prix,Masten Gregory,19,0,0,0,Withdrew
+1960,Dutch Grand Prix,Lance Reventlow,20,0,0,0,Withdrew
+1960,Dutch Grand Prix,Chuck Daigh,21,0,0,0,Withdrew
+1960,Belgian Grand Prix,Jack Brabham,1,8,1,36,RAS
+1960,Belgian Grand Prix,Bruce McLaren,2,6,14,36,RAS
+1960,Belgian Grand Prix,Olivier Gendebien,3,4,5,35,RAS
+1960,Belgian Grand Prix,Phil Hill,4,3,4,35,RAS
+1960,Belgian Grand Prix,Jim Clark,5,2,10,34,RAS
+1960,Belgian Grand Prix,Lucien Bianchi,6,1,15,28,RAS
+1960,Belgian Grand Prix,Graham Hill,7,0,6,35,Engine
+1960,Belgian Grand Prix,Alan Stacey,8,0,17,24,Accident
+1960,Belgian Grand Prix,Willy Mairesse,9,0,13,23,Transmission
+1960,Belgian Grand Prix,Wolfgang von Trips,10,0,11,22,Transmission
+1960,Belgian Grand Prix,Chris Bristow,11,0,9,19,Accident
+1960,Belgian Grand Prix,Chuck Daigh,12,0,18,16,Engine
+1960,Belgian Grand Prix,Jo Bonnier,13,0,7,14,Engine
+1960,Belgian Grand Prix,Innes Ireland,14,0,8,13,Accident
+1960,Belgian Grand Prix,Dan Gurney,15,0,12,4,Engine
+1960,Belgian Grand Prix,Tony Brooks,16,0,2,2,Gearbox
+1960,Belgian Grand Prix,Lance Reventlow,17,0,16,1,Engine
+1960,Belgian Grand Prix,Stirling Moss,18,0,3,0,Accident
+1960,Belgian Grand Prix,Mike Taylor,19,0,19,0,Accident
+1960,French Grand Prix,Jack Brabham,1,8,1,50,RAS
+1960,French Grand Prix,Olivier Gendebien,2,6,9,50,RAS
+1960,French Grand Prix,Bruce McLaren,3,4,7,50,RAS
+1960,French Grand Prix,Henry Taylor,4,3,12,49,RAS
+1960,French Grand Prix,Jim Clark,5,2,10,49,RAS
+1960,French Grand Prix,Ron Flockhart,6,1,14,49,RAS
+1960,French Grand Prix,Innes Ireland,7,0,4,43,RAS
+1960,French Grand Prix,Bruce Halford,8,0,15,40,Engine
+1960,French Grand Prix,Masten Gregory,9,0,17,37,RAS
+1960,French Grand Prix,Ian Burgess,10,0,22,36,RAS
+1960,French Grand Prix,Wolfgang von Trips,11,0,5,30,Transmission
+1960,French Grand Prix,Phil Hill,12,0,2,29,Transmission
+1960,French Grand Prix,Jo Bonnier,13,0,8,22,Engine
+1960,French Grand Prix,Lucien Bianchi,14,0,15,18,Transmission
+1960,French Grand Prix,Dan Gurney,15,0,6,17,Engine
+1960,French Grand Prix,Gino Munaron,16,0,19,16,Transmission
+1960,French Grand Prix,Willy Mairesse,17,0,11,14,Transmission
+1960,French Grand Prix,Tony Brooks,18,0,13,7,Vibrations
+1960,French Grand Prix,Graham Hill,19,0,3,0,Accident
+1960,French Grand Prix,Maurice Trintignant,20,0,18,0,Accident
+1960,French Grand Prix,Richie Ginther,21,0,20,0,Engine
+1960,French Grand Prix,David Piper,22,0,21,0,Engine
+1960,French Grand Prix,Chuck Daigh,23,0,23,0,Engine
+1960,British Grand Prix,Jack Brabham,1,8,1,77,RAS
+1960,British Grand Prix,John Surtees,2,6,11,77,RAS
+1960,British Grand Prix,Innes Ireland,3,4,5,77,RAS
+1960,British Grand Prix,Bruce McLaren,4,3,3,76,RAS
+1960,British Grand Prix,Tony Brooks,5,2,9,76,RAS
+1960,British Grand Prix,Wolfgang von Trips,6,1,7,75,RAS
+1960,British Grand Prix,Phil Hill,7,0,10,75,RAS
+1960,British Grand Prix,Henry Taylor,8,0,16,74,RAS
+1960,British Grand Prix,Olivier Gendebien,9,0,12,74,RAS
+1960,British Grand Prix,Dan Gurney,10,0,6,74,RAS
+1960,British Grand Prix,Maurice Trintignant,11,0,21,72,RAS
+1960,British Grand Prix,David Piper,12,0,24,72,RAS
+1960,British Grand Prix,Brian Naylor,13,0,18,72,RAS
+1960,British Grand Prix,Masten Gregory,14,0,14,71,RAS
+1960,British Grand Prix,Gino Munaron,15,0,25,70,RAS
+1960,British Grand Prix,Jim Clark,16,0,8,70,RAS
+1960,British Grand Prix,Graham Hill,17,0,2,71,Spun off
+1960,British Grand Prix,Lucien Bianchi,18,0,17,62,Electrical
+1960,British Grand Prix,Jo Bonnier,19,0,4,59,Suspension
+1960,British Grand Prix,Chuck Daigh,20,0,19,58,Overheating
+1960,British Grand Prix,Ian Burgess,21,0,20,58,Engine
+1960,British Grand Prix,Roy Salvadori,22,0,13,46,Steering
+1960,British Grand Prix,Jack Fairman,23,0,15,46,Fuel pump
+1960,British Grand Prix,Keith Greene,24,0,22,12,Overheating
+1960,British Grand Prix,Lance Reventlow,25,0,0,0,Withdrew
+1960,Portuguese Grand Prix,Jack Brabham,1,8,3,55,RAS
+1960,Portuguese Grand Prix,Bruce McLaren,2,6,6,55,RAS
+1960,Portuguese Grand Prix,Jim Clark,3,4,8,55,RAS
+1960,Portuguese Grand Prix,Wolfgang von Trips,4,3,9,55,RAS
+1960,Portuguese Grand Prix,Tony Brooks,5,2,12,49,RAS
+1960,Portuguese Grand Prix,Innes Ireland,6,1,7,48,RAS
+1960,Portuguese Grand Prix,Olivier Gendebien,7,0,14,46,RAS
+1960,Portuguese Grand Prix,Stirling Moss,8,0,4,51,DQ
+1960,Portuguese Grand Prix,Mário de Araújo Cabral,9,0,15,38,Accident
+1960,Portuguese Grand Prix,John Surtees,10,0,1,37,Radiator
+1960,Portuguese Grand Prix,Phil Hill,11,0,10,30,Accident
+1960,Portuguese Grand Prix,Dan Gurney,12,0,2,25,Engine
+1960,Portuguese Grand Prix,Masten Gregory,13,0,11,21,Gearbox
+1960,Portuguese Grand Prix,Graham Hill,14,0,5,9,Gearbox
+1960,Portuguese Grand Prix,Jo Bonnier,15,0,13,6,Engine
+1960,Italian Grand Prix,Phil Hill,1,8,1,50,RAS
+1960,Italian Grand Prix,Richie Ginther,2,6,2,50,RAS
+1960,Italian Grand Prix,Willy Mairesse,3,4,3,49,RAS
+1960,Italian Grand Prix,Giulio Cabianca,4,3,4,48,RAS
+1960,Italian Grand Prix,Wolfgang von Trips,5,2,6,48,RAS
+1960,Italian Grand Prix,Hans Herrmann,6,1,10,47,RAS
+1960,Italian Grand Prix,Edgar Barth,7,0,12,47,RAS
+1960,Italian Grand Prix,Piero Drogo,8,0,15,45,RAS
+1960,Italian Grand Prix,Wolfgang Seidel,9,0,13,44,RAS
+1960,Italian Grand Prix,Fred Gamble,10,0,14,41,RAS
+1960,Italian Grand Prix,Brian Naylor,11,0,7,41,Gearbox
+1960,Italian Grand Prix,Alfonso Thiele,12,0,9,32,Gearbox
+1960,Italian Grand Prix,Gino Munaron,13,0,8,27,Engine
+1960,Italian Grand Prix,Giorgio Scarlatti,14,0,5,26,Engine
+1960,Italian Grand Prix,Vic Wilson,15,0,16,23,Engine
+1960,Italian Grand Prix,Arthur Owen,16,0,11,0,Accident
+1960,Italian Grand Prix,Horace Gould,17,0,0,0,Fuel system
+1960,United States Grand Prix,Stirling Moss,1,8,1,75,RAS
+1960,United States Grand Prix,Innes Ireland,2,6,7,75,RAS
+1960,United States Grand Prix,Bruce McLaren,3,4,10,75,RAS
+1960,United States Grand Prix,Jack Brabham,4,3,2,74,RAS
+1960,United States Grand Prix,Jo Bonnier,5,2,4,74,RAS
+1960,United States Grand Prix,Phil Hill,6,1,13,74,RAS
+1960,United States Grand Prix,Jim Hall,7,0,12,73,RAS
+1960,United States Grand Prix,Roy Salvadori,8,0,15,73,RAS
+1960,United States Grand Prix,Wolfgang von Trips,9,0,16,72,RAS
+1960,United States Grand Prix,Chuck Daigh,10,0,18,70,RAS
+1960,United States Grand Prix,Pete Lovely,11,0,20,69,RAS
+1960,United States Grand Prix,Olivier Gendebien,12,0,8,69,RAS
+1960,United States Grand Prix,Bob Drake,13,0,22,68,RAS
+1960,United States Grand Prix,Henry Taylor,14,0,14,68,RAS
+1960,United States Grand Prix,Maurice Trintignant,15,0,19,66,RAS
+1960,United States Grand Prix,Jim Clark,16,0,5,61,RAS
+1960,United States Grand Prix,Graham Hill,17,0,11,34,Gearbox
+1960,United States Grand Prix,Ian Burgess,18,0,23,29,Ignition
+1960,United States Grand Prix,Brian Naylor,19,0,17,20,Engine
+1960,United States Grand Prix,Dan Gurney,20,0,3,18,Engine
+1960,United States Grand Prix,Ron Flockhart,21,0,21,11,Transmission
+1960,United States Grand Prix,Tony Brooks,22,0,9,6,Spun off
+1960,United States Grand Prix,John Surtees,23,0,6,3,Accident

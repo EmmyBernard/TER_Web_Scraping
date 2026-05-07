@@ -1,0 +1,341 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2020,Austrian Grand Prix,Valtteri Bottas,1,25,1,71,RAS
+2020,Austrian Grand Prix,Charles Leclerc,2,18,7,71,RAS
+2020,Austrian Grand Prix,Lando Norris,3,16,3,71,RAS
+2020,Austrian Grand Prix,Lewis Hamilton,4,12,5,71,RAS
+2020,Austrian Grand Prix,Carlos Sainz,5,10,8,71,RAS
+2020,Austrian Grand Prix,Sergio Pérez,6,8,6,71,RAS
+2020,Austrian Grand Prix,Pierre Gasly,7,6,12,71,RAS
+2020,Austrian Grand Prix,Esteban Ocon,8,4,14,71,RAS
+2020,Austrian Grand Prix,Antonio Giovinazzi,9,2,18,71,RAS
+2020,Austrian Grand Prix,Sebastian Vettel,10,1,11,71,RAS
+2020,Austrian Grand Prix,Nicholas Latifi,11,0,20,71,RAS
+2020,Austrian Grand Prix,Daniil Kvyat,12,0,13,69,Suspension
+2020,Austrian Grand Prix,Alexander Albon,13,0,4,67,Electronics
+2020,Austrian Grand Prix,Kimi Räikkönen,14,0,19,53,Wheel
+2020,Austrian Grand Prix,George Russell,15,0,17,49,Fuel pressure
+2020,Austrian Grand Prix,Romain Grosjean,16,0,15,49,Brakes
+2020,Austrian Grand Prix,Kevin Magnussen,17,0,16,24,Brakes
+2020,Austrian Grand Prix,Lance Stroll,18,0,9,20,Engine
+2020,Austrian Grand Prix,Daniel Ricciardo,19,0,10,17,Overheating
+2020,Austrian Grand Prix,Max Verstappen,20,0,2,11,Electronics
+2020,Styrian Grand Prix,Lewis Hamilton,1,25,1,71,RAS
+2020,Styrian Grand Prix,Valtteri Bottas,2,18,4,71,RAS
+2020,Styrian Grand Prix,Max Verstappen,3,15,2,71,RAS
+2020,Styrian Grand Prix,Alexander Albon,4,12,6,71,RAS
+2020,Styrian Grand Prix,Lando Norris,5,10,9,71,RAS
+2020,Styrian Grand Prix,Sergio Pérez,6,8,17,71,RAS
+2020,Styrian Grand Prix,Lance Stroll,7,6,12,71,RAS
+2020,Styrian Grand Prix,Daniel Ricciardo,8,4,8,71,RAS
+2020,Styrian Grand Prix,Carlos Sainz,9,3,3,70,RAS
+2020,Styrian Grand Prix,Daniil Kvyat,10,1,13,70,RAS
+2020,Styrian Grand Prix,Kimi Räikkönen,11,0,16,70,RAS
+2020,Styrian Grand Prix,Kevin Magnussen,12,0,15,70,RAS
+2020,Styrian Grand Prix,Romain Grosjean,13,0,0,70,RAS
+2020,Styrian Grand Prix,Antonio Giovinazzi,14,0,19,70,RAS
+2020,Styrian Grand Prix,Pierre Gasly,15,0,7,70,RAS
+2020,Styrian Grand Prix,George Russell,16,0,11,69,RAS
+2020,Styrian Grand Prix,Nicholas Latifi,17,0,18,69,RAS
+2020,Styrian Grand Prix,Esteban Ocon,18,0,5,25,Overheating
+2020,Styrian Grand Prix,Charles Leclerc,19,0,14,4,Collision damage
+2020,Styrian Grand Prix,Sebastian Vettel,20,0,10,1,Collision damage
+2020,Hungarian Grand Prix,Lewis Hamilton,1,26,1,70,RAS
+2020,Hungarian Grand Prix,Max Verstappen,2,18,7,70,RAS
+2020,Hungarian Grand Prix,Valtteri Bottas,3,15,2,70,RAS
+2020,Hungarian Grand Prix,Lance Stroll,4,12,3,70,RAS
+2020,Hungarian Grand Prix,Alexander Albon,5,10,13,70,RAS
+2020,Hungarian Grand Prix,Sebastian Vettel,6,8,5,69,RAS
+2020,Hungarian Grand Prix,Sergio Pérez,7,6,4,69,RAS
+2020,Hungarian Grand Prix,Daniel Ricciardo,8,4,11,69,RAS
+2020,Hungarian Grand Prix,Carlos Sainz,9,2,9,69,RAS
+2020,Hungarian Grand Prix,Kevin Magnussen,10,1,0,69,RAS
+2020,Hungarian Grand Prix,Charles Leclerc,11,0,6,69,RAS
+2020,Hungarian Grand Prix,Daniil Kvyat,12,0,17,69,RAS
+2020,Hungarian Grand Prix,Lando Norris,13,0,8,69,RAS
+2020,Hungarian Grand Prix,Esteban Ocon,14,0,14,69,RAS
+2020,Hungarian Grand Prix,Kimi Räikkönen,15,0,20,69,RAS
+2020,Hungarian Grand Prix,Romain Grosjean,16,0,0,69,RAS
+2020,Hungarian Grand Prix,Antonio Giovinazzi,17,0,19,69,RAS
+2020,Hungarian Grand Prix,George Russell,18,0,12,69,RAS
+2020,Hungarian Grand Prix,Nicholas Latifi,19,0,15,65,RAS
+2020,Hungarian Grand Prix,Pierre Gasly,20,0,10,15,Engine
+2020,British Grand Prix,Lewis Hamilton,1,25,1,52,RAS
+2020,British Grand Prix,Max Verstappen,2,19,3,52,RAS
+2020,British Grand Prix,Charles Leclerc,3,15,4,52,RAS
+2020,British Grand Prix,Daniel Ricciardo,4,12,8,52,RAS
+2020,British Grand Prix,Lando Norris,5,10,5,52,RAS
+2020,British Grand Prix,Esteban Ocon,6,8,9,52,RAS
+2020,British Grand Prix,Pierre Gasly,7,6,11,52,RAS
+2020,British Grand Prix,Alexander Albon,8,4,12,52,RAS
+2020,British Grand Prix,Lance Stroll,9,2,6,52,RAS
+2020,British Grand Prix,Sebastian Vettel,10,1,10,52,RAS
+2020,British Grand Prix,Valtteri Bottas,11,0,2,52,RAS
+2020,British Grand Prix,George Russell,12,0,20,52,RAS
+2020,British Grand Prix,Carlos Sainz,13,0,7,52,RAS
+2020,British Grand Prix,Antonio Giovinazzi,14,0,15,52,RAS
+2020,British Grand Prix,Nicholas Latifi,15,0,18,52,RAS
+2020,British Grand Prix,Romain Grosjean,16,0,17,52,RAS
+2020,British Grand Prix,Kimi Räikkönen,17,0,16,51,RAS
+2020,British Grand Prix,Daniil Kvyat,18,0,19,11,Accident
+2020,British Grand Prix,Kevin Magnussen,19,0,14,1,Collision
+2020,British Grand Prix,Nico Hülkenberg,20,0,13,0,Power Unit
+2020,70th Anniversary Grand Prix,Max Verstappen,1,25,4,52,RAS
+2020,70th Anniversary Grand Prix,Lewis Hamilton,2,19,2,52,RAS
+2020,70th Anniversary Grand Prix,Valtteri Bottas,3,15,1,52,RAS
+2020,70th Anniversary Grand Prix,Charles Leclerc,4,12,8,52,RAS
+2020,70th Anniversary Grand Prix,Alexander Albon,5,10,9,52,RAS
+2020,70th Anniversary Grand Prix,Lance Stroll,6,8,6,52,RAS
+2020,70th Anniversary Grand Prix,Nico Hülkenberg,7,6,3,52,RAS
+2020,70th Anniversary Grand Prix,Esteban Ocon,8,4,14,52,RAS
+2020,70th Anniversary Grand Prix,Lando Norris,9,2,10,52,RAS
+2020,70th Anniversary Grand Prix,Daniil Kvyat,10,1,16,52,RAS
+2020,70th Anniversary Grand Prix,Pierre Gasly,11,0,7,52,RAS
+2020,70th Anniversary Grand Prix,Sebastian Vettel,12,0,11,52,RAS
+2020,70th Anniversary Grand Prix,Carlos Sainz,13,0,12,52,RAS
+2020,70th Anniversary Grand Prix,Daniel Ricciardo,14,0,5,51,RAS
+2020,70th Anniversary Grand Prix,Kimi Räikkönen,15,0,20,51,RAS
+2020,70th Anniversary Grand Prix,Romain Grosjean,16,0,13,51,RAS
+2020,70th Anniversary Grand Prix,Antonio Giovinazzi,17,0,19,51,RAS
+2020,70th Anniversary Grand Prix,George Russell,18,0,15,51,RAS
+2020,70th Anniversary Grand Prix,Nicholas Latifi,19,0,18,51,RAS
+2020,70th Anniversary Grand Prix,Kevin Magnussen,20,0,17,43,DNF
+2020,Spanish Grand Prix,Lewis Hamilton,1,25,1,66,RAS
+2020,Spanish Grand Prix,Max Verstappen,2,18,3,66,RAS
+2020,Spanish Grand Prix,Valtteri Bottas,3,16,2,66,RAS
+2020,Spanish Grand Prix,Lance Stroll,4,12,5,65,RAS
+2020,Spanish Grand Prix,Sergio Pérez,5,10,4,65,RAS
+2020,Spanish Grand Prix,Carlos Sainz,6,8,7,65,RAS
+2020,Spanish Grand Prix,Sebastian Vettel,7,6,11,65,RAS
+2020,Spanish Grand Prix,Alexander Albon,8,4,6,65,RAS
+2020,Spanish Grand Prix,Pierre Gasly,9,2,10,65,RAS
+2020,Spanish Grand Prix,Lando Norris,10,1,8,65,RAS
+2020,Spanish Grand Prix,Daniel Ricciardo,11,0,13,65,RAS
+2020,Spanish Grand Prix,Daniil Kvyat,12,0,12,65,RAS
+2020,Spanish Grand Prix,Esteban Ocon,13,0,15,65,RAS
+2020,Spanish Grand Prix,Kimi Räikkönen,14,0,14,65,RAS
+2020,Spanish Grand Prix,Kevin Magnussen,15,0,16,65,RAS
+2020,Spanish Grand Prix,Antonio Giovinazzi,16,0,20,65,RAS
+2020,Spanish Grand Prix,George Russell,17,0,18,65,RAS
+2020,Spanish Grand Prix,Nicholas Latifi,18,0,19,64,RAS
+2020,Spanish Grand Prix,Romain Grosjean,19,0,17,64,RAS
+2020,Spanish Grand Prix,Charles Leclerc,20,0,9,38,Electronics
+2020,Belgian Grand Prix,Lewis Hamilton,1,25,1,44,RAS
+2020,Belgian Grand Prix,Valtteri Bottas,2,18,2,44,RAS
+2020,Belgian Grand Prix,Max Verstappen,3,15,3,44,RAS
+2020,Belgian Grand Prix,Daniel Ricciardo,4,13,4,44,RAS
+2020,Belgian Grand Prix,Esteban Ocon,5,10,6,44,RAS
+2020,Belgian Grand Prix,Alexander Albon,6,8,5,44,RAS
+2020,Belgian Grand Prix,Lando Norris,7,6,10,44,RAS
+2020,Belgian Grand Prix,Pierre Gasly,8,4,12,44,RAS
+2020,Belgian Grand Prix,Lance Stroll,9,2,9,44,RAS
+2020,Belgian Grand Prix,Sergio Pérez,10,1,8,44,RAS
+2020,Belgian Grand Prix,Daniil Kvyat,11,0,11,44,RAS
+2020,Belgian Grand Prix,Kimi Räikkönen,12,0,16,44,RAS
+2020,Belgian Grand Prix,Sebastian Vettel,13,0,14,44,RAS
+2020,Belgian Grand Prix,Charles Leclerc,14,0,13,44,RAS
+2020,Belgian Grand Prix,Romain Grosjean,15,0,17,44,RAS
+2020,Belgian Grand Prix,Nicholas Latifi,16,0,19,44,RAS
+2020,Belgian Grand Prix,Kevin Magnussen,17,0,20,44,RAS
+2020,Belgian Grand Prix,Antonio Giovinazzi,18,0,18,9,Accident
+2020,Belgian Grand Prix,George Russell,19,0,15,9,Debris
+2020,Belgian Grand Prix,Carlos Sainz,20,0,7,0,Exhaust
+2020,Italian Grand Prix,Pierre Gasly,1,25,10,53,RAS
+2020,Italian Grand Prix,Carlos Sainz,2,18,3,53,RAS
+2020,Italian Grand Prix,Lance Stroll,3,15,8,53,RAS
+2020,Italian Grand Prix,Lando Norris,4,12,6,53,RAS
+2020,Italian Grand Prix,Valtteri Bottas,5,10,2,53,RAS
+2020,Italian Grand Prix,Daniel Ricciardo,6,8,7,53,RAS
+2020,Italian Grand Prix,Lewis Hamilton,7,7,1,53,RAS
+2020,Italian Grand Prix,Esteban Ocon,8,4,12,53,RAS
+2020,Italian Grand Prix,Daniil Kvyat,9,2,11,53,RAS
+2020,Italian Grand Prix,Sergio Pérez,10,1,4,53,RAS
+2020,Italian Grand Prix,Nicholas Latifi,11,0,20,53,RAS
+2020,Italian Grand Prix,Romain Grosjean,12,0,16,53,RAS
+2020,Italian Grand Prix,Kimi Räikkönen,13,0,14,53,RAS
+2020,Italian Grand Prix,George Russell,14,0,19,53,RAS
+2020,Italian Grand Prix,Alexander Albon,15,0,9,53,RAS
+2020,Italian Grand Prix,Antonio Giovinazzi,16,0,18,53,RAS
+2020,Italian Grand Prix,Max Verstappen,17,0,5,30,Power Unit
+2020,Italian Grand Prix,Charles Leclerc,18,0,13,23,Accident
+2020,Italian Grand Prix,Kevin Magnussen,19,0,15,17,Power Unit
+2020,Italian Grand Prix,Sebastian Vettel,20,0,17,6,Brakes
+2020,Tuscan Grand Prix,Lewis Hamilton,1,26,1,59,RAS
+2020,Tuscan Grand Prix,Valtteri Bottas,2,18,2,59,RAS
+2020,Tuscan Grand Prix,Alexander Albon,3,15,4,59,RAS
+2020,Tuscan Grand Prix,Daniel Ricciardo,4,12,8,59,RAS
+2020,Tuscan Grand Prix,Sergio Pérez,5,10,7,59,RAS
+2020,Tuscan Grand Prix,Lando Norris,6,8,11,59,RAS
+2020,Tuscan Grand Prix,Daniil Kvyat,7,6,12,59,RAS
+2020,Tuscan Grand Prix,Charles Leclerc,8,4,5,59,RAS
+2020,Tuscan Grand Prix,Kimi Räikkönen,9,2,13,59,RAS
+2020,Tuscan Grand Prix,Sebastian Vettel,10,1,14,59,RAS
+2020,Tuscan Grand Prix,George Russell,11,0,18,59,RAS
+2020,Tuscan Grand Prix,Romain Grosjean,12,0,15,59,RAS
+2020,Tuscan Grand Prix,Lance Stroll,13,0,6,42,Puncture
+2020,Tuscan Grand Prix,Esteban Ocon,14,0,10,7,Brakes
+2020,Tuscan Grand Prix,Nicholas Latifi,15,0,19,6,Collision
+2020,Tuscan Grand Prix,Kevin Magnussen,16,0,20,5,Collision
+2020,Tuscan Grand Prix,Antonio Giovinazzi,17,0,17,5,Collision
+2020,Tuscan Grand Prix,Carlos Sainz,18,0,9,5,Collision
+2020,Tuscan Grand Prix,Max Verstappen,19,0,3,0,Collision
+2020,Tuscan Grand Prix,Pierre Gasly,20,0,16,0,Collision
+2020,Russian Grand Prix,Valtteri Bottas,1,26,3,53,RAS
+2020,Russian Grand Prix,Max Verstappen,2,18,2,53,RAS
+2020,Russian Grand Prix,Lewis Hamilton,3,15,1,53,RAS
+2020,Russian Grand Prix,Sergio Pérez,4,12,4,53,RAS
+2020,Russian Grand Prix,Daniel Ricciardo,5,10,5,53,RAS
+2020,Russian Grand Prix,Charles Leclerc,6,8,10,53,RAS
+2020,Russian Grand Prix,Esteban Ocon,7,6,7,53,RAS
+2020,Russian Grand Prix,Daniil Kvyat,8,4,11,53,RAS
+2020,Russian Grand Prix,Pierre Gasly,9,2,9,53,RAS
+2020,Russian Grand Prix,Alexander Albon,10,1,15,53,RAS
+2020,Russian Grand Prix,Antonio Giovinazzi,11,0,17,52,RAS
+2020,Russian Grand Prix,Kevin Magnussen,12,0,18,52,RAS
+2020,Russian Grand Prix,Sebastian Vettel,13,0,14,52,RAS
+2020,Russian Grand Prix,Kimi Räikkönen,14,0,19,52,RAS
+2020,Russian Grand Prix,Lando Norris,15,0,8,52,RAS
+2020,Russian Grand Prix,Nicholas Latifi,16,0,20,52,RAS
+2020,Russian Grand Prix,Romain Grosjean,17,0,16,52,RAS
+2020,Russian Grand Prix,George Russell,18,0,13,52,RAS
+2020,Russian Grand Prix,Carlos Sainz,19,0,6,0,Accident
+2020,Russian Grand Prix,Lance Stroll,20,0,12,0,Collision
+2020,Eifel Grand Prix,Lewis Hamilton,1,25,2,60,RAS
+2020,Eifel Grand Prix,Max Verstappen,2,19,3,60,RAS
+2020,Eifel Grand Prix,Daniel Ricciardo,3,15,6,60,RAS
+2020,Eifel Grand Prix,Sergio Pérez,4,12,9,60,RAS
+2020,Eifel Grand Prix,Carlos Sainz,5,10,10,60,RAS
+2020,Eifel Grand Prix,Pierre Gasly,6,8,12,60,RAS
+2020,Eifel Grand Prix,Charles Leclerc,7,6,4,60,RAS
+2020,Eifel Grand Prix,Nico Hülkenberg,8,4,20,60,RAS
+2020,Eifel Grand Prix,Romain Grosjean,9,2,16,60,RAS
+2020,Eifel Grand Prix,Antonio Giovinazzi,10,1,14,60,RAS
+2020,Eifel Grand Prix,Sebastian Vettel,11,0,11,60,RAS
+2020,Eifel Grand Prix,Kimi Räikkönen,12,0,19,60,RAS
+2020,Eifel Grand Prix,Kevin Magnussen,13,0,15,60,RAS
+2020,Eifel Grand Prix,Nicholas Latifi,14,0,18,60,RAS
+2020,Eifel Grand Prix,Daniil Kvyat,15,0,13,60,RAS
+2020,Eifel Grand Prix,Lando Norris,16,0,8,42,Power Unit
+2020,Eifel Grand Prix,Alexander Albon,17,0,5,23,Radiator
+2020,Eifel Grand Prix,Esteban Ocon,18,0,7,22,Gearbox
+2020,Eifel Grand Prix,Valtteri Bottas,19,0,1,18,Power Unit
+2020,Eifel Grand Prix,George Russell,20,0,17,12,Collision
+2020,Portuguese Grand Prix,Lewis Hamilton,1,26,1,66,RAS
+2020,Portuguese Grand Prix,Valtteri Bottas,2,18,2,66,RAS
+2020,Portuguese Grand Prix,Max Verstappen,3,15,3,66,RAS
+2020,Portuguese Grand Prix,Charles Leclerc,4,12,4,66,RAS
+2020,Portuguese Grand Prix,Pierre Gasly,5,10,9,65,RAS
+2020,Portuguese Grand Prix,Carlos Sainz,6,8,7,65,RAS
+2020,Portuguese Grand Prix,Sergio Pérez,7,6,5,65,RAS
+2020,Portuguese Grand Prix,Esteban Ocon,8,4,11,65,RAS
+2020,Portuguese Grand Prix,Daniel Ricciardo,9,2,10,65,RAS
+2020,Portuguese Grand Prix,Sebastian Vettel,10,1,15,65,RAS
+2020,Portuguese Grand Prix,Kimi Räikkönen,11,0,16,65,RAS
+2020,Portuguese Grand Prix,Alexander Albon,12,0,6,65,RAS
+2020,Portuguese Grand Prix,Lando Norris,13,0,8,65,RAS
+2020,Portuguese Grand Prix,George Russell,14,0,14,65,RAS
+2020,Portuguese Grand Prix,Antonio Giovinazzi,15,0,17,65,RAS
+2020,Portuguese Grand Prix,Kevin Magnussen,16,0,19,65,RAS
+2020,Portuguese Grand Prix,Romain Grosjean,17,0,18,65,RAS
+2020,Portuguese Grand Prix,Nicholas Latifi,18,0,20,64,RAS
+2020,Portuguese Grand Prix,Daniil Kvyat,19,0,13,64,RAS
+2020,Portuguese Grand Prix,Lance Stroll,20,0,12,51,Collision damage
+2020,Emilia Romagna Grand Prix,Lewis Hamilton,1,26,2,63,RAS
+2020,Emilia Romagna Grand Prix,Valtteri Bottas,2,18,1,63,RAS
+2020,Emilia Romagna Grand Prix,Daniel Ricciardo,3,15,5,63,RAS
+2020,Emilia Romagna Grand Prix,Daniil Kvyat,4,12,8,63,RAS
+2020,Emilia Romagna Grand Prix,Charles Leclerc,5,10,7,63,RAS
+2020,Emilia Romagna Grand Prix,Sergio Pérez,6,8,11,63,RAS
+2020,Emilia Romagna Grand Prix,Carlos Sainz,7,6,10,63,RAS
+2020,Emilia Romagna Grand Prix,Lando Norris,8,4,9,63,RAS
+2020,Emilia Romagna Grand Prix,Kimi Räikkönen,9,2,18,63,RAS
+2020,Emilia Romagna Grand Prix,Antonio Giovinazzi,10,1,20,63,RAS
+2020,Emilia Romagna Grand Prix,Nicholas Latifi,11,0,19,63,RAS
+2020,Emilia Romagna Grand Prix,Sebastian Vettel,12,0,14,63,RAS
+2020,Emilia Romagna Grand Prix,Lance Stroll,13,0,15,63,RAS
+2020,Emilia Romagna Grand Prix,Romain Grosjean,14,0,16,63,RAS
+2020,Emilia Romagna Grand Prix,Alexander Albon,15,0,6,63,RAS
+2020,Emilia Romagna Grand Prix,George Russell,16,0,13,51,Accident
+2020,Emilia Romagna Grand Prix,Max Verstappen,17,0,3,50,Puncture
+2020,Emilia Romagna Grand Prix,Kevin Magnussen,18,0,17,47,Illness
+2020,Emilia Romagna Grand Prix,Esteban Ocon,19,0,12,27,Gearbox
+2020,Emilia Romagna Grand Prix,Pierre Gasly,20,0,4,8,Water pressure
+2020,Turkish Grand Prix,Lewis Hamilton,1,25,6,58,RAS
+2020,Turkish Grand Prix,Sergio Pérez,2,18,3,58,RAS
+2020,Turkish Grand Prix,Sebastian Vettel,3,15,11,58,RAS
+2020,Turkish Grand Prix,Charles Leclerc,4,12,12,58,RAS
+2020,Turkish Grand Prix,Carlos Sainz,5,10,15,58,RAS
+2020,Turkish Grand Prix,Max Verstappen,6,8,2,58,RAS
+2020,Turkish Grand Prix,Alexander Albon,7,6,4,58,RAS
+2020,Turkish Grand Prix,Lando Norris,8,5,14,58,RAS
+2020,Turkish Grand Prix,Lance Stroll,9,2,1,58,RAS
+2020,Turkish Grand Prix,Daniel Ricciardo,10,1,5,58,RAS
+2020,Turkish Grand Prix,Esteban Ocon,11,0,7,57,RAS
+2020,Turkish Grand Prix,Daniil Kvyat,12,0,16,57,RAS
+2020,Turkish Grand Prix,Pierre Gasly,13,0,19,57,RAS
+2020,Turkish Grand Prix,Valtteri Bottas,14,0,9,57,RAS
+2020,Turkish Grand Prix,Kimi Räikkönen,15,0,8,57,RAS
+2020,Turkish Grand Prix,George Russell,16,0,0,57,RAS
+2020,Turkish Grand Prix,Kevin Magnussen,17,0,13,55,Withdrew
+2020,Turkish Grand Prix,Romain Grosjean,18,0,17,49,Collision damage
+2020,Turkish Grand Prix,Nicholas Latifi,19,0,0,39,Collision damage
+2020,Turkish Grand Prix,Antonio Giovinazzi,20,0,10,11,Gearbox
+2020,Bahrain Grand Prix,Lewis Hamilton,1,25,1,57,RAS
+2020,Bahrain Grand Prix,Max Verstappen,2,19,3,57,RAS
+2020,Bahrain Grand Prix,Alexander Albon,3,15,4,57,RAS
+2020,Bahrain Grand Prix,Lando Norris,4,12,9,57,RAS
+2020,Bahrain Grand Prix,Carlos Sainz,5,10,15,57,RAS
+2020,Bahrain Grand Prix,Pierre Gasly,6,8,8,57,RAS
+2020,Bahrain Grand Prix,Daniel Ricciardo,7,6,6,57,RAS
+2020,Bahrain Grand Prix,Valtteri Bottas,8,4,2,57,RAS
+2020,Bahrain Grand Prix,Esteban Ocon,9,2,7,57,RAS
+2020,Bahrain Grand Prix,Charles Leclerc,10,1,12,56,RAS
+2020,Bahrain Grand Prix,Daniil Kvyat,11,0,10,56,RAS
+2020,Bahrain Grand Prix,George Russell,12,0,14,56,RAS
+2020,Bahrain Grand Prix,Sebastian Vettel,13,0,11,56,RAS
+2020,Bahrain Grand Prix,Nicholas Latifi,14,0,20,56,RAS
+2020,Bahrain Grand Prix,Kimi Räikkönen,15,0,17,56,RAS
+2020,Bahrain Grand Prix,Antonio Giovinazzi,16,0,16,56,RAS
+2020,Bahrain Grand Prix,Kevin Magnussen,17,0,18,56,RAS
+2020,Bahrain Grand Prix,Sergio Pérez,18,0,5,53,Engine
+2020,Bahrain Grand Prix,Lance Stroll,19,0,13,2,Collision
+2020,Bahrain Grand Prix,Romain Grosjean,20,0,19,0,Collision
+2020,Sakhir Grand Prix,Sergio Pérez,1,25,5,87,RAS
+2020,Sakhir Grand Prix,Esteban Ocon,2,18,11,87,RAS
+2020,Sakhir Grand Prix,Lance Stroll,3,15,10,87,RAS
+2020,Sakhir Grand Prix,Carlos Sainz,4,12,8,87,RAS
+2020,Sakhir Grand Prix,Daniel Ricciardo,5,10,7,87,RAS
+2020,Sakhir Grand Prix,Alexander Albon,6,8,12,87,RAS
+2020,Sakhir Grand Prix,Daniil Kvyat,7,6,6,87,RAS
+2020,Sakhir Grand Prix,Valtteri Bottas,8,4,1,87,RAS
+2020,Sakhir Grand Prix,George Russell,9,3,2,87,RAS
+2020,Sakhir Grand Prix,Lando Norris,10,1,19,87,RAS
+2020,Sakhir Grand Prix,Pierre Gasly,11,0,9,87,RAS
+2020,Sakhir Grand Prix,Sebastian Vettel,12,0,13,87,RAS
+2020,Sakhir Grand Prix,Antonio Giovinazzi,13,0,14,87,RAS
+2020,Sakhir Grand Prix,Kimi Räikkönen,14,0,18,87,RAS
+2020,Sakhir Grand Prix,Kevin Magnussen,15,0,15,87,RAS
+2020,Sakhir Grand Prix,Jack Aitken,16,0,17,87,RAS
+2020,Sakhir Grand Prix,Pietro Fittipaldi,17,0,20,87,RAS
+2020,Sakhir Grand Prix,Nicholas Latifi,18,0,16,52,Engine
+2020,Sakhir Grand Prix,Max Verstappen,19,0,3,0,Accident
+2020,Sakhir Grand Prix,Charles Leclerc,20,0,4,0,Collision
+2020,Abu Dhabi Grand Prix,Max Verstappen,1,25,1,55,RAS
+2020,Abu Dhabi Grand Prix,Valtteri Bottas,2,18,2,55,RAS
+2020,Abu Dhabi Grand Prix,Lewis Hamilton,3,15,3,55,RAS
+2020,Abu Dhabi Grand Prix,Alexander Albon,4,12,5,55,RAS
+2020,Abu Dhabi Grand Prix,Lando Norris,5,10,4,55,RAS
+2020,Abu Dhabi Grand Prix,Carlos Sainz,6,8,6,55,RAS
+2020,Abu Dhabi Grand Prix,Daniel Ricciardo,7,7,11,55,RAS
+2020,Abu Dhabi Grand Prix,Pierre Gasly,8,4,9,55,RAS
+2020,Abu Dhabi Grand Prix,Esteban Ocon,9,2,10,55,RAS
+2020,Abu Dhabi Grand Prix,Lance Stroll,10,1,8,55,RAS
+2020,Abu Dhabi Grand Prix,Daniil Kvyat,11,0,7,54,RAS
+2020,Abu Dhabi Grand Prix,Kimi Räikkönen,12,0,15,54,RAS
+2020,Abu Dhabi Grand Prix,Charles Leclerc,13,0,12,54,RAS
+2020,Abu Dhabi Grand Prix,Sebastian Vettel,14,0,13,54,RAS
+2020,Abu Dhabi Grand Prix,George Russell,15,0,16,54,RAS
+2020,Abu Dhabi Grand Prix,Antonio Giovinazzi,16,0,14,54,RAS
+2020,Abu Dhabi Grand Prix,Nicholas Latifi,17,0,18,54,RAS
+2020,Abu Dhabi Grand Prix,Kevin Magnussen,18,0,20,54,RAS
+2020,Abu Dhabi Grand Prix,Pietro Fittipaldi,19,0,17,53,RAS
+2020,Abu Dhabi Grand Prix,Sergio Pérez,20,0,19,8,Transmission

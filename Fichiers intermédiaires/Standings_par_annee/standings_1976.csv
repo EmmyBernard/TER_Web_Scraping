@@ -1,0 +1,400 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1976,Brazilian Grand Prix,Niki Lauda,1,9,2,40,RAS
+1976,Brazilian Grand Prix,Patrick Depailler,2,6,9,40,RAS
+1976,Brazilian Grand Prix,Tom Pryce,3,4,12,40,RAS
+1976,Brazilian Grand Prix,Hans-Joachim Stuck,4,3,14,40,RAS
+1976,Brazilian Grand Prix,Jody Scheckter,5,2,13,40,RAS
+1976,Brazilian Grand Prix,Jochen Mass,6,1,6,40,RAS
+1976,Brazilian Grand Prix,Clay Regazzoni,7,0,4,40,RAS
+1976,Brazilian Grand Prix,Jacky Ickx,8,0,19,39,RAS
+1976,Brazilian Grand Prix,Renzo Zorzi,9,0,17,39,RAS
+1976,Brazilian Grand Prix,Carlos Pace,10,0,10,39,RAS
+1976,Brazilian Grand Prix,Ingo Hoffmann,11,0,20,39,RAS
+1976,Brazilian Grand Prix,Carlos Reutemann,12,0,15,37,Out of fuel
+1976,Brazilian Grand Prix,Emerson Fittipaldi,13,0,5,37,RAS
+1976,Brazilian Grand Prix,Lella Lombardi,14,0,22,36,RAS
+1976,Brazilian Grand Prix,Jean-Pierre Jarier,15,0,3,33,Accident
+1976,Brazilian Grand Prix,James Hunt,16,0,1,32,Accident
+1976,Brazilian Grand Prix,Vittorio Brambilla,17,0,7,15,Oil leak
+1976,Brazilian Grand Prix,Jacques Laffite,18,0,11,14,Transmission
+1976,Brazilian Grand Prix,Ronnie Peterson,19,0,18,10,Accident
+1976,Brazilian Grand Prix,Mario Andretti,20,0,16,6,Accident
+1976,Brazilian Grand Prix,John Watson,21,0,8,2,Fuel system
+1976,Brazilian Grand Prix,Ian Ashley,22,0,21,2,Oil pump
+1976,South African Grand Prix,Niki Lauda,1,9,2,78,RAS
+1976,South African Grand Prix,James Hunt,2,6,1,78,RAS
+1976,South African Grand Prix,Jochen Mass,3,4,4,78,RAS
+1976,South African Grand Prix,Jody Scheckter,4,3,12,78,RAS
+1976,South African Grand Prix,John Watson,5,2,3,77,RAS
+1976,South African Grand Prix,Mario Andretti,6,1,13,77,RAS
+1976,South African Grand Prix,Tom Pryce,7,0,7,77,RAS
+1976,South African Grand Prix,Vittorio Brambilla,8,0,5,77,RAS
+1976,South African Grand Prix,Patrick Depailler,9,0,6,77,RAS
+1976,South African Grand Prix,Bob Evans,10,0,23,77,RAS
+1976,South African Grand Prix,Brett Lunger,11,0,20,77,RAS
+1976,South African Grand Prix,Hans-Joachim Stuck,12,0,17,76,RAS
+1976,South African Grand Prix,Michel Leclère,13,0,22,76,RAS
+1976,South African Grand Prix,Chris Amon,14,0,18,76,RAS
+1976,South African Grand Prix,Harald Ertl,15,0,24,74,RAS
+1976,South African Grand Prix,Jacky Ickx,16,0,19,73,RAS
+1976,South African Grand Prix,Emerson Fittipaldi,17,0,21,70,Engine
+1976,South African Grand Prix,Clay Regazzoni,18,0,9,52,Engine
+1976,South African Grand Prix,Jacques Laffite,19,0,8,49,Engine
+1976,South African Grand Prix,Jean-Pierre Jarier,20,0,15,28,Radiator
+1976,South African Grand Prix,Carlos Pace,21,0,14,22,Oil pressure
+1976,South African Grand Prix,Gunnar Nilsson,22,0,25,18,Clutch
+1976,South African Grand Prix,Carlos Reutemann,23,0,11,16,Oil pressure
+1976,South African Grand Prix,Ronnie Peterson,24,0,13,15,Accident
+1976,South African Grand Prix,Ian Scheckter,25,0,16,0,Accident
+1976,United States Grand Prix West,Clay Regazzoni,1,9,1,80,RAS
+1976,United States Grand Prix West,Niki Lauda,2,6,4,80,RAS
+1976,United States Grand Prix West,Patrick Depailler,3,4,2,80,RAS
+1976,United States Grand Prix West,Jacques Laffite,4,3,12,80,RAS
+1976,United States Grand Prix West,Jochen Mass,5,2,14,80,RAS
+1976,United States Grand Prix West,Emerson Fittipaldi,6,1,16,79,RAS
+1976,United States Grand Prix West,Jean-Pierre Jarier,7,0,7,79,RAS
+1976,United States Grand Prix West,Chris Amon,8,0,17,78,RAS
+1976,United States Grand Prix West,Carlos Pace,9,0,13,77,RAS
+1976,United States Grand Prix West,Ronnie Peterson,10,0,6,77,RAS
+1976,United States Grand Prix West,Alan Jones,11,0,19,70,Not classified
+1976,United States Grand Prix West,John Watson,12,0,9,69,Not classified
+1976,United States Grand Prix West,Jody Scheckter,13,0,11,34,Suspension
+1976,United States Grand Prix West,Tom Pryce,14,0,5,32,Halfshaft
+1976,United States Grand Prix West,Mario Andretti,15,0,15,15,Water leak
+1976,United States Grand Prix West,James Hunt,16,0,3,3,Accident
+1976,United States Grand Prix West,Hans-Joachim Stuck,17,0,18,2,Accident
+1976,United States Grand Prix West,Vittorio Brambilla,18,0,20,0,Accident
+1976,United States Grand Prix West,Carlos Reutemann,19,0,10,0,Accident
+1976,United States Grand Prix West,Gunnar Nilsson,20,0,8,0,Suspension
+1976,Spanish Grand Prix,James Hunt,1,9,1,75,RAS
+1976,Spanish Grand Prix,Niki Lauda,2,6,2,75,RAS
+1976,Spanish Grand Prix,Gunnar Nilsson,3,4,7,75,RAS
+1976,Spanish Grand Prix,Carlos Reutemann,4,3,12,74,RAS
+1976,Spanish Grand Prix,Chris Amon,5,2,10,74,RAS
+1976,Spanish Grand Prix,Carlos Pace,6,1,11,74,RAS
+1976,Spanish Grand Prix,Jacky Ickx,7,0,21,74,RAS
+1976,Spanish Grand Prix,Tom Pryce,8,0,22,74,RAS
+1976,Spanish Grand Prix,Alan Jones,9,0,20,74,RAS
+1976,Spanish Grand Prix,Michel Leclère,10,0,23,73,RAS
+1976,Spanish Grand Prix,Clay Regazzoni,11,0,5,72,RAS
+1976,Spanish Grand Prix,Jacques Laffite,12,0,8,72,RAS
+1976,Spanish Grand Prix,Larry Perkins,13,0,24,72,RAS
+1976,Spanish Grand Prix,Jochen Mass,14,0,4,65,Engine
+1976,Spanish Grand Prix,Jean-Pierre Jarier,15,0,15,61,Electrical
+1976,Spanish Grand Prix,Jody Scheckter,16,0,14,53,Engine
+1976,Spanish Grand Prix,John Watson,17,0,13,51,Engine
+1976,Spanish Grand Prix,Arturo Merzario,18,0,18,36,Gearbox
+1976,Spanish Grand Prix,Mario Andretti,19,0,9,34,Gearbox
+1976,Spanish Grand Prix,Patrick Depailler,20,0,3,25,Accident
+1976,Spanish Grand Prix,Vittorio Brambilla,21,0,6,21,Suspension
+1976,Spanish Grand Prix,Hans-Joachim Stuck,22,0,17,16,Gearbox
+1976,Spanish Grand Prix,Ronnie Peterson,23,0,16,11,Transmission
+1976,Spanish Grand Prix,Emerson Fittipaldi,24,0,19,3,Transmission
+1976,Belgian Grand Prix,Niki Lauda,1,9,1,70,RAS
+1976,Belgian Grand Prix,Clay Regazzoni,2,6,2,70,RAS
+1976,Belgian Grand Prix,Jacques Laffite,3,4,4,70,RAS
+1976,Belgian Grand Prix,Jody Scheckter,4,3,7,70,RAS
+1976,Belgian Grand Prix,Alan Jones,5,2,16,69,RAS
+1976,Belgian Grand Prix,Jochen Mass,6,1,18,69,RAS
+1976,Belgian Grand Prix,John Watson,7,0,17,69,RAS
+1976,Belgian Grand Prix,Larry Perkins,8,0,20,69,RAS
+1976,Belgian Grand Prix,Jean-Pierre Jarier,9,0,14,69,RAS
+1976,Belgian Grand Prix,Tom Pryce,10,0,13,68,RAS
+1976,Belgian Grand Prix,Michel Leclère,11,0,25,68,RAS
+1976,Belgian Grand Prix,Loris Kessel,12,0,23,63,RAS
+1976,Belgian Grand Prix,Brett Lunger,13,0,26,62,Electrical
+1976,Belgian Grand Prix,Carlos Pace,14,0,9,58,Electrical
+1976,Belgian Grand Prix,Chris Amon,15,0,8,51,Accident
+1976,Belgian Grand Prix,James Hunt,16,0,3,35,Gearbox
+1976,Belgian Grand Prix,Hans-Joachim Stuck,17,0,15,33,Suspension
+1976,Belgian Grand Prix,Harald Ertl,18,0,24,31,Engine
+1976,Belgian Grand Prix,Patrick Depailler,19,0,4,29,Engine
+1976,Belgian Grand Prix,Mario Andretti,20,0,11,28,Halfshaft
+1976,Belgian Grand Prix,Patrick Nève,21,0,19,26,Halfshaft
+1976,Belgian Grand Prix,Arturo Merzario,22,0,21,21,Engine
+1976,Belgian Grand Prix,Carlos Reutemann,23,0,12,17,Engine
+1976,Belgian Grand Prix,Ronnie Peterson,24,0,10,16,Accident
+1976,Belgian Grand Prix,Gunnar Nilsson,25,0,22,7,Accident
+1976,Belgian Grand Prix,Vittorio Brambilla,26,0,5,6,Halfshaft
+1976,Monaco Grand Prix,Niki Lauda,1,9,1,78,RAS
+1976,Monaco Grand Prix,Jody Scheckter,2,6,5,78,RAS
+1976,Monaco Grand Prix,Patrick Depailler,3,4,4,78,RAS
+1976,Monaco Grand Prix,Hans-Joachim Stuck,4,3,6,77,RAS
+1976,Monaco Grand Prix,Jochen Mass,5,2,11,77,RAS
+1976,Monaco Grand Prix,Emerson Fittipaldi,6,1,7,77,RAS
+1976,Monaco Grand Prix,Tom Pryce,7,0,15,77,RAS
+1976,Monaco Grand Prix,Jean-Pierre Jarier,8,0,10,76,RAS
+1976,Monaco Grand Prix,Carlos Pace,9,0,13,76,RAS
+1976,Monaco Grand Prix,John Watson,10,0,17,76,RAS
+1976,Monaco Grand Prix,Michel Leclère,11,0,18,76,RAS
+1976,Monaco Grand Prix,Jacques Laffite,12,0,8,75,Accident
+1976,Monaco Grand Prix,Chris Amon,13,0,12,74,RAS
+1976,Monaco Grand Prix,Clay Regazzoni,14,0,2,73,Accident
+1976,Monaco Grand Prix,Gunnar Nilsson,15,0,16,39,Engine
+1976,Monaco Grand Prix,Ronnie Peterson,16,0,3,26,Accident
+1976,Monaco Grand Prix,James Hunt,17,0,14,24,Engine
+1976,Monaco Grand Prix,Vittorio Brambilla,18,0,9,9,Suspension
+1976,Monaco Grand Prix,Alan Jones,19,0,19,1,Collision
+1976,Monaco Grand Prix,Carlos Reutemann,20,0,20,0,Accident
+1976,Swedish Grand Prix,Jody Scheckter,1,9,1,72,RAS
+1976,Swedish Grand Prix,Patrick Depailler,2,6,4,72,RAS
+1976,Swedish Grand Prix,Niki Lauda,3,4,5,72,RAS
+1976,Swedish Grand Prix,Jacques Laffite,4,3,7,72,RAS
+1976,Swedish Grand Prix,James Hunt,5,2,8,72,RAS
+1976,Swedish Grand Prix,Clay Regazzoni,6,1,11,72,RAS
+1976,Swedish Grand Prix,Ronnie Peterson,7,0,9,72,RAS
+1976,Swedish Grand Prix,Carlos Pace,8,0,10,72,RAS
+1976,Swedish Grand Prix,Tom Pryce,9,0,12,71,RAS
+1976,Swedish Grand Prix,Vittorio Brambilla,10,0,15,71,RAS
+1976,Swedish Grand Prix,Jochen Mass,11,0,13,71,RAS
+1976,Swedish Grand Prix,Jean-Pierre Jarier,12,0,14,71,RAS
+1976,Swedish Grand Prix,Alan Jones,13,0,18,71,RAS
+1976,Swedish Grand Prix,Arturo Merzario,14,0,19,70,Engine
+1976,Swedish Grand Prix,Brett Lunger,15,0,24,70,RAS
+1976,Swedish Grand Prix,Harald Ertl,16,0,23,54,Spun off
+1976,Swedish Grand Prix,Hans-Joachim Stuck,17,0,20,52,Engine
+1976,Swedish Grand Prix,Mario Andretti,18,0,2,45,Engine
+1976,Swedish Grand Prix,Chris Amon,19,0,3,38,Accident
+1976,Swedish Grand Prix,Michel Leclère,20,0,25,20,Engine
+1976,Swedish Grand Prix,Larry Perkins,21,0,22,18,Engine
+1976,Swedish Grand Prix,Emerson Fittipaldi,22,0,21,10,Handling
+1976,Swedish Grand Prix,Loris Kessel,23,0,26,5,Accident
+1976,Swedish Grand Prix,Gunnar Nilsson,24,0,6,2,Accident
+1976,Swedish Grand Prix,Carlos Reutemann,25,0,16,2,Engine
+1976,Swedish Grand Prix,John Watson,26,0,17,0,Accident
+1976,French Grand Prix,James Hunt,1,9,1,54,RAS
+1976,French Grand Prix,Patrick Depailler,2,6,3,54,RAS
+1976,French Grand Prix,John Watson,3,4,8,54,RAS
+1976,French Grand Prix,Carlos Pace,4,3,5,54,RAS
+1976,French Grand Prix,Mario Andretti,5,2,7,54,RAS
+1976,French Grand Prix,Jody Scheckter,6,1,9,54,RAS
+1976,French Grand Prix,Hans-Joachim Stuck,7,0,17,54,RAS
+1976,French Grand Prix,Tom Pryce,8,0,16,54,RAS
+1976,French Grand Prix,Arturo Merzario,9,0,20,54,RAS
+1976,French Grand Prix,Jacky Ickx,10,0,19,53,RAS
+1976,French Grand Prix,Carlos Reutemann,11,0,10,53,RAS
+1976,French Grand Prix,Jean-Pierre Jarier,12,0,15,53,RAS
+1976,French Grand Prix,Michel Leclère,13,0,22,53,RAS
+1976,French Grand Prix,Jacques Laffite,14,0,13,53,RAS
+1976,French Grand Prix,Jochen Mass,15,0,14,53,RAS
+1976,French Grand Prix,Brett Lunger,16,0,23,53,RAS
+1976,French Grand Prix,Guy Edwards,17,0,25,53,RAS
+1976,French Grand Prix,Patrick Nève,18,0,26,53,RAS
+1976,French Grand Prix,Ronnie Peterson,19,0,6,51,Fuel system
+1976,French Grand Prix,Alan Jones,20,0,18,44,Suspension
+1976,French Grand Prix,Vittorio Brambilla,21,0,11,28,Oil pressure
+1976,French Grand Prix,Emerson Fittipaldi,22,0,21,21,Oil pressure
+1976,French Grand Prix,Henri Pescarolo,23,0,24,19,Suspension
+1976,French Grand Prix,Clay Regazzoni,24,0,4,17,Engine
+1976,French Grand Prix,Niki Lauda,25,0,2,8,Engine
+1976,French Grand Prix,Gunnar Nilsson,26,0,12,8,Gearbox
+1976,French Grand Prix,Harald Ertl,27,0,29,4,Differential
+1976,British Grand Prix,Niki Lauda,1,9,1,76,RAS
+1976,British Grand Prix,Jody Scheckter,2,6,8,76,RAS
+1976,British Grand Prix,John Watson,3,4,11,75,RAS
+1976,British Grand Prix,Tom Pryce,4,3,20,75,RAS
+1976,British Grand Prix,Alan Jones,5,2,19,75,RAS
+1976,British Grand Prix,Emerson Fittipaldi,6,1,21,74,RAS
+1976,British Grand Prix,Harald Ertl,7,0,23,73,RAS
+1976,British Grand Prix,Carlos Pace,8,0,16,73,RAS
+1976,British Grand Prix,Jean-Pierre Jarier,9,0,24,70,RAS
+1976,British Grand Prix,James Hunt,10,0,2,76,DQ
+1976,British Grand Prix,Gunnar Nilsson,11,0,14,67,Engine
+1976,British Grand Prix,Ronnie Peterson,12,0,7,60,Fuel system
+1976,British Grand Prix,Brett Lunger,13,0,18,55,Gearbox
+1976,British Grand Prix,Patrick Depailler,14,0,5,47,Engine
+1976,British Grand Prix,Carlos Reutemann,15,0,15,46,Oil pressure
+1976,British Grand Prix,Arturo Merzario,16,0,9,39,Engine
+1976,British Grand Prix,Clay Regazzoni,17,0,4,36,Oil pressure
+1976,British Grand Prix,Jacques Laffite,18,0,13,31,Suspension
+1976,British Grand Prix,Bob Evans,19,0,22,24,Gearbox
+1976,British Grand Prix,Vittorio Brambilla,20,0,10,22,Accident
+1976,British Grand Prix,Henri Pescarolo,21,0,26,16,Fuel system
+1976,British Grand Prix,Chris Amon,22,0,6,8,Water leak
+1976,British Grand Prix,Mario Andretti,23,0,3,4,Ignition
+1976,British Grand Prix,Jochen Mass,24,0,12,1,Clutch
+1976,British Grand Prix,Hans-Joachim Stuck,25,0,17,0,Accident
+1976,British Grand Prix,Guy Edwards,26,0,25,0,Accident
+1976,German Grand Prix,James Hunt,1,9,1,14,RAS
+1976,German Grand Prix,Jody Scheckter,2,6,8,14,RAS
+1976,German Grand Prix,Jochen Mass,3,4,9,14,RAS
+1976,German Grand Prix,Carlos Pace,4,3,7,14,RAS
+1976,German Grand Prix,Gunnar Nilsson,5,2,16,14,RAS
+1976,German Grand Prix,Rolf Stommelen,6,1,15,14,RAS
+1976,German Grand Prix,John Watson,7,0,19,14,RAS
+1976,German Grand Prix,Tom Pryce,8,0,18,14,RAS
+1976,German Grand Prix,Clay Regazzoni,9,0,5,14,RAS
+1976,German Grand Prix,Alan Jones,10,0,14,14,RAS
+1976,German Grand Prix,Jean-Pierre Jarier,11,0,23,14,RAS
+1976,German Grand Prix,Mario Andretti,12,0,12,14,RAS
+1976,German Grand Prix,Emerson Fittipaldi,13,0,20,14,RAS
+1976,German Grand Prix,Alessandro Pesenti-Rossi,14,0,26,13,RAS
+1976,German Grand Prix,Guy Edwards,15,0,25,13,RAS
+1976,German Grand Prix,Arturo Merzario,16,0,21,3,Brakes
+1976,German Grand Prix,Vittorio Brambilla,17,0,13,1,Accident
+1976,German Grand Prix,Patrick Depailler,18,0,3,0,Accident
+1976,German Grand Prix,Carlos Reutemann,19,0,10,0,Fuel system
+1976,German Grand Prix,Ronnie Peterson,20,0,11,0,Accident
+1976,German Grand Prix,Hans-Joachim Stuck,21,0,4,0,Clutch
+1976,German Grand Prix,Jacques Laffite,22,0,6,0,Gearbox
+1976,German Grand Prix,Chris Amon,23,0,17,0,DNF
+1976,German Grand Prix,Niki Lauda,24,0,2,0,Accident
+1976,German Grand Prix,Brett Lunger,25,0,24,0,Accident
+1976,German Grand Prix,Harald Ertl,26,0,22,0,Accident
+1976,Austrian Grand Prix,John Watson,1,9,2,54,RAS
+1976,Austrian Grand Prix,Jacques Laffite,2,6,5,54,RAS
+1976,Austrian Grand Prix,Gunnar Nilsson,3,4,4,54,RAS
+1976,Austrian Grand Prix,James Hunt,4,3,1,54,RAS
+1976,Austrian Grand Prix,Mario Andretti,5,2,9,54,RAS
+1976,Austrian Grand Prix,Ronnie Peterson,6,1,3,54,RAS
+1976,Austrian Grand Prix,Jochen Mass,7,0,12,54,RAS
+1976,Austrian Grand Prix,Harald Ertl,8,0,20,53,RAS
+1976,Austrian Grand Prix,Henri Pescarolo,9,0,22,52,RAS
+1976,Austrian Grand Prix,Brett Lunger,10,0,16,51,Accident
+1976,Austrian Grand Prix,Alessandro Pesenti-Rossi,11,0,23,51,RAS
+1976,Austrian Grand Prix,Lella Lombardi,12,0,24,50,RAS
+1976,Austrian Grand Prix,Hans Binder,13,0,19,47,Throttle
+1976,Austrian Grand Prix,Loris Kessel,14,0,25,44,Not classified
+1976,Austrian Grand Prix,Vittorio Brambilla,15,0,7,43,Accident
+1976,Austrian Grand Prix,Emerson Fittipaldi,16,0,17,43,Accident
+1976,Austrian Grand Prix,Carlos Pace,17,0,18,40,Accident
+1976,Austrian Grand Prix,Jean-Pierre Jarier,18,0,8,40,Fuel pump
+1976,Austrian Grand Prix,Alan Jones,19,0,15,30,Accident
+1976,Austrian Grand Prix,Hans-Joachim Stuck,20,0,11,26,Fuel system
+1976,Austrian Grand Prix,Patrick Depailler,21,0,13,24,Suspension
+1976,Austrian Grand Prix,Arturo Merzario,22,0,21,17,Accident
+1976,Austrian Grand Prix,Tom Pryce,23,0,6,14,Brakes
+1976,Austrian Grand Prix,Jody Scheckter,24,0,10,14,Suspension
+1976,Austrian Grand Prix,Carlos Reutemann,25,0,14,0,Clutch
+1976,Dutch Grand Prix,James Hunt,1,9,2,75,RAS
+1976,Dutch Grand Prix,Clay Regazzoni,2,6,5,75,RAS
+1976,Dutch Grand Prix,Mario Andretti,3,4,6,75,RAS
+1976,Dutch Grand Prix,Tom Pryce,4,3,3,75,RAS
+1976,Dutch Grand Prix,Jody Scheckter,5,2,8,75,RAS
+1976,Dutch Grand Prix,Vittorio Brambilla,6,1,7,75,RAS
+1976,Dutch Grand Prix,Patrick Depailler,7,0,14,75,RAS
+1976,Dutch Grand Prix,Alan Jones,8,0,16,74,RAS
+1976,Dutch Grand Prix,Jochen Mass,9,0,15,74,RAS
+1976,Dutch Grand Prix,Jean-Pierre Jarier,10,0,20,74,RAS
+1976,Dutch Grand Prix,Henri Pescarolo,11,0,22,74,RAS
+1976,Dutch Grand Prix,Rolf Stommelen,12,0,25,72,RAS
+1976,Dutch Grand Prix,Jacky Ickx,13,0,11,66,Electrical
+1976,Dutch Grand Prix,Boy Lunger,14,0,21,63,Halfshaft
+1976,Dutch Grand Prix,Carlos Pace,15,0,9,53,Oil leak
+1976,Dutch Grand Prix,Jacques Laffite,16,0,10,53,Oil leak
+1976,Dutch Grand Prix,Ronnie Peterson,17,0,1,52,Oil pressure
+1976,Dutch Grand Prix,Harald Ertl,18,0,24,49,Spun off
+1976,Dutch Grand Prix,John Watson,19,0,4,47,Gearbox
+1976,Dutch Grand Prix,Larry Perkins,20,0,19,44,Accident
+1976,Dutch Grand Prix,Emerson Fittipaldi,21,0,17,40,Electrical
+1976,Dutch Grand Prix,Carlos Reutemann,22,0,12,11,Clutch
+1976,Dutch Grand Prix,Gunnar Nilsson,23,0,13,10,Accident
+1976,Dutch Grand Prix,Hans-Joachim Stuck,24,0,26,9,Engine
+1976,Dutch Grand Prix,Conny Andersson,25,0,18,9,Engine
+1976,Dutch Grand Prix,Arturo Merzario,26,0,23,5,Accident
+1976,Italian Grand Prix,Ronnie Peterson,1,9,8,52,RAS
+1976,Italian Grand Prix,Clay Regazzoni,2,6,9,52,RAS
+1976,Italian Grand Prix,Jacques Laffite,3,4,1,52,RAS
+1976,Italian Grand Prix,Niki Lauda,4,3,5,52,RAS
+1976,Italian Grand Prix,Jody Scheckter,5,2,2,52,RAS
+1976,Italian Grand Prix,Patrick Depailler,6,1,4,52,RAS
+1976,Italian Grand Prix,Vittorio Brambilla,7,0,16,52,RAS
+1976,Italian Grand Prix,Tom Pryce,8,0,15,52,RAS
+1976,Italian Grand Prix,Carlos Reutemann,9,0,7,52,RAS
+1976,Italian Grand Prix,Jacky Ickx,10,0,10,52,RAS
+1976,Italian Grand Prix,John Watson,11,0,26,52,RAS
+1976,Italian Grand Prix,Alan Jones,12,0,18,51,RAS
+1976,Italian Grand Prix,Gunnar Nilsson,13,0,12,51,RAS
+1976,Italian Grand Prix,Brett Lunger,14,0,24,50,RAS
+1976,Italian Grand Prix,Emerson Fittipaldi,15,0,20,50,RAS
+1976,Italian Grand Prix,Harald Ertl,16,0,19,49,Halfshaft
+1976,Italian Grand Prix,Henri Pescarolo,17,0,22,49,RAS
+1976,Italian Grand Prix,Alessandro Pesenti-Rossi,18,0,21,49,RAS
+1976,Italian Grand Prix,Jean-Pierre Jarier,19,0,17,47,RAS
+1976,Italian Grand Prix,Rolf Stommelen,20,0,11,41,Fuel system
+1976,Italian Grand Prix,Hans-Joachim Stuck,21,0,6,23,Accident
+1976,Italian Grand Prix,Mario Andretti,22,0,14,23,Accident
+1976,Italian Grand Prix,James Hunt,23,0,24,11,Spun off
+1976,Italian Grand Prix,Larry Perkins,24,0,13,8,Engine
+1976,Italian Grand Prix,Carlos Pace,25,0,3,4,Engine
+1976,Italian Grand Prix,Jochen Mass,26,0,25,2,Ignition
+1976,Italian Grand Prix,Guy Edwards,27,0,0,0,Withdrew
+1976,Italian Grand Prix,Arturo Merzario,28,0,0,0,Withdrew
+1976,Italian Grand Prix,Otto Stuppacher,29,0,0,0,Withdrew
+1976,Canadian Grand Prix,James Hunt,1,9,1,80,RAS
+1976,Canadian Grand Prix,Patrick Depailler,2,6,4,80,RAS
+1976,Canadian Grand Prix,Mario Andretti,3,4,5,80,RAS
+1976,Canadian Grand Prix,Jody Scheckter,4,3,7,80,RAS
+1976,Canadian Grand Prix,Jochen Mass,5,2,11,80,RAS
+1976,Canadian Grand Prix,Clay Regazzoni,6,1,12,80,RAS
+1976,Canadian Grand Prix,Carlos Pace,7,0,10,80,RAS
+1976,Canadian Grand Prix,Niki Lauda,8,0,6,80,RAS
+1976,Canadian Grand Prix,Ronnie Peterson,9,0,2,79,RAS
+1976,Canadian Grand Prix,John Watson,10,0,14,79,RAS
+1976,Canadian Grand Prix,Tom Pryce,11,0,13,79,RAS
+1976,Canadian Grand Prix,Gunnar Nilsson,12,0,15,79,RAS
+1976,Canadian Grand Prix,Jacky Ickx,13,0,16,79,RAS
+1976,Canadian Grand Prix,Vittorio Brambilla,14,0,3,79,RAS
+1976,Canadian Grand Prix,Brett Lunger,15,0,22,78,RAS
+1976,Canadian Grand Prix,Alan Jones,16,0,20,78,RAS
+1976,Canadian Grand Prix,Larry Perkins,17,0,19,78,RAS
+1976,Canadian Grand Prix,Jean-Pierre Jarier,18,0,18,77,RAS
+1976,Canadian Grand Prix,Henri Pescarolo,19,0,21,77,RAS
+1976,Canadian Grand Prix,Guy Edwards,20,0,23,75,RAS
+1976,Canadian Grand Prix,Jacques Laffite,21,0,9,43,Oil pressure
+1976,Canadian Grand Prix,Emerson Fittipaldi,22,0,17,41,Exhaust
+1976,Canadian Grand Prix,Hans-Joachim Stuck,23,0,8,36,Handling
+1976,Canadian Grand Prix,Arturo Merzario,24,0,24,11,Accident
+1976,Canadian Grand Prix,Harald Ertl,25,0,0,0,Accident
+1976,Canadian Grand Prix,Chris Amon,26,0,0,0,Accident
+1976,United States Grand Prix,James Hunt,1,9,1,59,RAS
+1976,United States Grand Prix,Jody Scheckter,2,6,2,59,RAS
+1976,United States Grand Prix,Niki Lauda,3,4,5,59,RAS
+1976,United States Grand Prix,Jochen Mass,4,3,17,59,RAS
+1976,United States Grand Prix,Hans-Joachim Stuck,5,2,6,59,RAS
+1976,United States Grand Prix,John Watson,6,1,8,59,RAS
+1976,United States Grand Prix,Clay Regazzoni,7,0,14,58,RAS
+1976,United States Grand Prix,Alan Jones,8,0,18,58,RAS
+1976,United States Grand Prix,Emerson Fittipaldi,9,0,15,57,RAS
+1976,United States Grand Prix,Jean-Pierre Jarier,10,0,16,57,RAS
+1976,United States Grand Prix,Brett Lunger,11,0,24,57,RAS
+1976,United States Grand Prix,Alex Ribeiro,12,0,22,57,RAS
+1976,United States Grand Prix,Harald Ertl,13,0,21,54,RAS
+1976,United States Grand Prix,Warwick Brown,14,0,23,54,RAS
+1976,United States Grand Prix,Henri Pescarolo,15,0,26,48,Not classified
+1976,United States Grand Prix,Tom Pryce,16,0,9,45,Engine
+1976,United States Grand Prix,Vittorio Brambilla,17,0,12,34,Tyre
+1976,United States Grand Prix,Jacques Laffite,18,0,4,34,Tyre
+1976,United States Grand Prix,Carlos Pace,19,0,10,31,Collision
+1976,United States Grand Prix,Larry Perkins,20,0,13,30,Suspension
+1976,United States Grand Prix,Mario Andretti,21,0,11,23,Suspension
+1976,United States Grand Prix,Jacky Ickx,22,0,19,14,Accident
+1976,United States Grand Prix,Gunnar Nilsson,23,0,20,13,Engine
+1976,United States Grand Prix,Ronnie Peterson,24,0,3,12,Suspension
+1976,United States Grand Prix,Arturo Merzario,25,0,25,9,Accident
+1976,United States Grand Prix,Patrick Depailler,26,0,7,7,Fuel pipe
+1976,Japanese Grand Prix,Mario Andretti,1,9,1,73,RAS
+1976,Japanese Grand Prix,Patrick Depailler,2,6,13,72,RAS
+1976,Japanese Grand Prix,James Hunt,3,4,2,72,RAS
+1976,Japanese Grand Prix,Alan Jones,4,3,20,72,RAS
+1976,Japanese Grand Prix,Clay Regazzoni,5,2,7,72,RAS
+1976,Japanese Grand Prix,Gunnar Nilsson,6,1,16,72,RAS
+1976,Japanese Grand Prix,Jacques Laffite,7,0,11,72,RAS
+1976,Japanese Grand Prix,Harald Ertl,8,0,22,72,RAS
+1976,Japanese Grand Prix,Noritake Takahara,9,0,24,70,RAS
+1976,Japanese Grand Prix,Jean-Pierre Jarier,10,0,15,69,RAS
+1976,Japanese Grand Prix,Masahiro Hasemi,11,0,10,66,RAS
+1976,Japanese Grand Prix,Jody Scheckter,12,0,5,58,Overheating
+1976,Japanese Grand Prix,Hans Binder,13,0,25,49,Wheel
+1976,Japanese Grand Prix,Tom Pryce,14,0,14,46,Physical
+1976,Japanese Grand Prix,Vittorio Brambilla,15,0,8,38,Electrical
+1976,Japanese Grand Prix,Hans-Joachim Stuck,16,0,18,37,Electrical
+1976,Japanese Grand Prix,Jochen Mass,17,0,12,35,Accident
+1976,Japanese Grand Prix,John Watson,18,0,4,33,Engine
+1976,Japanese Grand Prix,Kazuyoshi Hoshino,19,0,21,27,Tyre
+1976,Japanese Grand Prix,Arturo Merzario,20,0,19,23,Gearbox
+1976,Japanese Grand Prix,Emerson Fittipaldi,21,0,23,9,Withdrew
+1976,Japanese Grand Prix,Carlos Pace,22,0,6,7,Withdrew
+1976,Japanese Grand Prix,Niki Lauda,23,0,3,2,Withdrew
+1976,Japanese Grand Prix,Larry Perkins,24,0,17,1,Withdrew
+1976,Japanese Grand Prix,Ronnie Peterson,25,0,9,0,Engine

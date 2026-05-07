@@ -1,0 +1,1174 @@
+gpID,gName,circuitID#,gDate,gLaps,gRank
+1,British Grand Prix,,1950-05-13 00:00:00,70,1
+2,Monaco Grand Prix,,1950-05-21 00:00:00,100,2
+3,Indianapolis 500,,1950-05-30 00:00:00,138,3
+4,Swiss Grand Prix,,1950-06-04 00:00:00,42,4
+5,Belgian Grand Prix,,1950-06-18 00:00:00,35,5
+6,French Grand Prix,,1950-07-02 00:00:00,64,6
+7,Italian Grand Prix,,1950-09-03 00:00:00,80,7
+8,Swiss Grand Prix,,1951-05-27 00:00:00,42,1
+9,Indianapolis 500,,1951-05-30 00:00:00,200,2
+10,Belgian Grand Prix,,1951-06-17 00:00:00,36,3
+11,French Grand Prix,,1951-07-01 00:00:00,77,4
+12,British Grand Prix,,1951-07-14 00:00:00,90,5
+13,German Grand Prix,,1951-07-29 00:00:00,20,6
+14,Italian Grand Prix,,1951-09-16 00:00:00,80,7
+15,Spanish Grand Prix,,1951-10-28 00:00:00,70,8
+16,Swiss Grand Prix,,1952-05-18 00:00:00,62,1
+17,Indianapolis 500,,1952-05-30 00:00:00,200,2
+18,Belgian Grand Prix,,1952-06-22 00:00:00,36,3
+19,French Grand Prix,,1952-07-06 00:00:00,77,4
+20,British Grand Prix,,1952-07-19 00:00:00,85,5
+21,German Grand Prix,,1952-08-03 00:00:00,18,6
+22,Dutch Grand Prix,,1952-08-17 00:00:00,90,7
+23,Italian Grand Prix,,1952-09-07 00:00:00,80,8
+24,Argentine Grand Prix,,1953-01-18 00:00:00,97,1
+25,Indianapolis 500,,1953-05-30 00:00:00,200,2
+26,Dutch Grand Prix,,1953-06-07 00:00:00,90,3
+27,Belgian Grand Prix,,1953-06-21 00:00:00,36,4
+28,French Grand Prix,,1953-07-05 00:00:00,60,5
+29,British Grand Prix,,1953-07-18 00:00:00,90,6
+30,German Grand Prix,,1953-08-02 00:00:00,18,7
+31,Swiss Grand Prix,,1953-08-23 00:00:00,65,8
+32,Italian Grand Prix,,1953-09-13 00:00:00,80,9
+33,Argentine Grand Prix,,1954-01-17 00:00:00,87,1
+34,Indianapolis 500,,1954-05-31 00:00:00,200,2
+35,Belgian Grand Prix,,1954-06-20 00:00:00,36,3
+36,French Grand Prix,,1954-07-04 00:00:00,61,4
+37,British Grand Prix,,1954-07-17 00:00:00,90,5
+38,German Grand Prix,,1954-08-01 00:00:00,22,6
+39,Swiss Grand Prix,,1954-08-22 00:00:00,66,7
+40,Italian Grand Prix,,1954-09-05 00:00:00,80,8
+41,Spanish Grand Prix,,1954-10-24 00:00:00,80,9
+42,Argentine Grand Prix,,1955-01-16 00:00:00,96,1
+43,Monaco Grand Prix,,1955-05-22 00:00:00,100,2
+44,Indianapolis 500,,1955-05-30 00:00:00,200,3
+45,Belgian Grand Prix,,1955-06-05 00:00:00,36,4
+46,Dutch Grand Prix,,1955-06-19 00:00:00,100,5
+47,British Grand Prix,,1955-07-16 00:00:00,90,6
+48,Italian Grand Prix,,1955-09-11 00:00:00,50,7
+49,Argentine Grand Prix,,1956-01-22 00:00:00,98,1
+50,Monaco Grand Prix,,1956-05-13 00:00:00,100,2
+51,Indianapolis 500,,1956-05-30 00:00:00,200,3
+52,Belgian Grand Prix,,1956-06-03 00:00:00,36,4
+53,French Grand Prix,,1956-07-01 00:00:00,61,5
+54,British Grand Prix,,1956-07-14 00:00:00,101,6
+55,German Grand Prix,,1956-08-05 00:00:00,22,7
+56,Italian Grand Prix,,1956-09-02 00:00:00,50,8
+57,Argentine Grand Prix,,1957-01-13 00:00:00,100,1
+58,Monaco Grand Prix,,1957-05-19 00:00:00,105,2
+59,Indianapolis 500,,1957-05-30 00:00:00,200,3
+60,French Grand Prix,,1957-07-07 00:00:00,77,4
+61,British Grand Prix,,1957-07-20 00:00:00,90,5
+62,German Grand Prix,,1957-08-04 00:00:00,22,6
+63,Pescara Grand Prix,,1957-08-18 00:00:00,18,7
+64,Italian Grand Prix,,1957-09-08 00:00:00,87,8
+65,Argentine Grand Prix,,1958-01-19 00:00:00,80,1
+66,Monaco Grand Prix,,1958-05-18 00:00:00,100,2
+67,Dutch Grand Prix,,1958-05-26 00:00:00,75,3
+68,Indianapolis 500,,1958-05-30 00:00:00,200,4
+69,Belgian Grand Prix,,1958-06-15 00:00:00,24,5
+70,French Grand Prix,,1958-07-06 00:00:00,50,6
+71,British Grand Prix,,1958-07-19 00:00:00,75,7
+72,German Grand Prix,,1958-08-03 00:00:00,15,8
+73,Portuguese Grand Prix,,1958-08-24 00:00:00,50,9
+74,Italian Grand Prix,,1958-09-07 00:00:00,70,10
+75,Moroccan Grand Prix,,1958-10-19 00:00:00,53,11
+76,Monaco Grand Prix,,1959-05-10 00:00:00,100,1
+77,Indianapolis 500,,1959-05-30 00:00:00,200,2
+78,Dutch Grand Prix,,1959-05-31 00:00:00,75,3
+79,French Grand Prix,,1959-07-05 00:00:00,50,4
+80,British Grand Prix,,1959-07-18 00:00:00,75,5
+81,German Grand Prix,,1959-08-02 00:00:00,2,6
+82,Portuguese Grand Prix,,1959-08-23 00:00:00,62,7
+83,Italian Grand Prix,,1959-09-13 00:00:00,72,8
+84,United States Grand Prix,,1959-12-12 00:00:00,42,9
+85,Argentine Grand Prix,,1960-02-07 00:00:00,80,1
+86,Monaco Grand Prix,,1960-05-29 00:00:00,100,2
+87,Indianapolis 500,,1960-05-30 00:00:00,200,3
+88,Dutch Grand Prix,,1960-06-06 00:00:00,75,4
+89,Belgian Grand Prix,,1960-06-19 00:00:00,36,5
+90,French Grand Prix,,1960-07-03 00:00:00,50,6
+91,British Grand Prix,,1960-07-16 00:00:00,77,7
+92,Portuguese Grand Prix,,1960-08-14 00:00:00,55,8
+93,Italian Grand Prix,,1960-09-04 00:00:00,50,9
+94,United States Grand Prix,,1960-11-20 00:00:00,75,10
+95,Monaco Grand Prix,,1961-05-14 00:00:00,100,1
+96,Dutch Grand Prix,,1961-05-22 00:00:00,75,2
+97,Belgian Grand Prix,,1961-06-18 00:00:00,30,3
+98,French Grand Prix,,1961-07-02 00:00:00,52,4
+99,British Grand Prix,,1961-07-15 00:00:00,75,5
+100,German Grand Prix,,1961-08-06 00:00:00,15,6
+101,Italian Grand Prix,,1961-09-10 00:00:00,43,7
+102,United States Grand Prix,,1961-10-08 00:00:00,100,8
+103,Dutch Grand Prix,,1962-05-20 00:00:00,80,1
+104,Monaco Grand Prix,,1962-06-03 00:00:00,100,2
+105,Belgian Grand Prix,,1962-06-17 00:00:00,32,3
+106,French Grand Prix,,1962-07-08 00:00:00,54,4
+107,British Grand Prix,,1962-07-21 00:00:00,75,5
+108,German Grand Prix,,1962-08-05 00:00:00,15,6
+109,Italian Grand Prix,,1962-09-16 00:00:00,86,7
+110,United States Grand Prix,,1962-10-07 00:00:00,100,8
+111,South African Grand Prix,,1962-12-29 00:00:00,82,9
+112,Monaco Grand Prix,,1963-05-26 00:00:00,100,1
+113,Belgian Grand Prix,,1963-06-09 00:00:00,32,2
+114,Dutch Grand Prix,,1963-06-23 00:00:00,80,3
+115,French Grand Prix,,1963-06-30 00:00:00,53,4
+116,British Grand Prix,,1963-07-20 00:00:00,82,5
+117,German Grand Prix,,1963-08-04 00:00:00,15,6
+118,Italian Grand Prix,,1963-09-08 00:00:00,86,7
+119,United States Grand Prix,,1963-10-06 00:00:00,110,8
+120,Mexican Grand Prix,,1963-10-27 00:00:00,65,9
+121,South African Grand Prix,,1963-12-28 00:00:00,85,10
+122,Monaco Grand Prix,,1964-05-10 00:00:00,100,1
+123,Dutch Grand Prix,,1964-05-24 00:00:00,80,2
+124,Belgian Grand Prix,,1964-06-14 00:00:00,32,3
+125,French Grand Prix,,1964-06-28 00:00:00,57,4
+126,British Grand Prix,,1964-07-11 00:00:00,80,5
+127,German Grand Prix,,1964-08-02 00:00:00,15,6
+128,Austrian Grand Prix,,1964-08-23 00:00:00,105,7
+129,Italian Grand Prix,,1964-09-06 00:00:00,78,8
+130,United States Grand Prix,,1964-10-04 00:00:00,110,9
+131,Mexican Grand Prix,,1964-10-25 00:00:00,65,10
+132,South African Grand Prix,,1965-01-01 00:00:00,85,1
+133,Monaco Grand Prix,,1965-05-30 00:00:00,100,2
+134,Belgian Grand Prix,,1965-06-13 00:00:00,32,3
+135,French Grand Prix,,1965-06-27 00:00:00,40,4
+136,British Grand Prix,,1965-07-10 00:00:00,80,5
+137,Dutch Grand Prix,,1965-07-18 00:00:00,80,6
+138,German Grand Prix,,1965-08-01 00:00:00,15,7
+139,Italian Grand Prix,,1965-09-12 00:00:00,76,8
+140,United States Grand Prix,,1965-10-03 00:00:00,110,9
+141,Mexican Grand Prix,,1965-10-24 00:00:00,65,10
+142,Monaco Grand Prix,,1966-05-22 00:00:00,100,1
+143,Belgian Grand Prix,,1966-06-12 00:00:00,28,2
+144,French Grand Prix,,1966-07-03 00:00:00,48,3
+145,British Grand Prix,,1966-07-16 00:00:00,80,4
+146,Dutch Grand Prix,,1966-07-24 00:00:00,90,5
+147,German Grand Prix,,1966-08-07 00:00:00,15,6
+148,Italian Grand Prix,,1966-09-04 00:00:00,68,7
+149,United States Grand Prix,,1966-10-02 00:00:00,108,8
+150,Mexican Grand Prix,,1966-10-23 00:00:00,65,9
+151,South African Grand Prix,,1967-01-02 00:00:00,80,1
+152,Monaco Grand Prix,,1967-05-07 00:00:00,100,2
+153,Dutch Grand Prix,,1967-06-04 00:00:00,90,3
+154,Belgian Grand Prix,,1967-06-18 00:00:00,28,4
+155,French Grand Prix,,1967-07-02 00:00:00,80,5
+156,British Grand Prix,,1967-07-15 00:00:00,80,6
+157,German Grand Prix,,1967-08-06 00:00:00,15,7
+158,Canadian Grand Prix,,1967-08-27 00:00:00,90,8
+159,Italian Grand Prix,,1967-09-10 00:00:00,68,9
+160,United States Grand Prix,,1967-10-01 00:00:00,108,10
+161,Mexican Grand Prix,,1967-10-22 00:00:00,65,11
+162,South African Grand Prix,,1968-01-01 00:00:00,80,1
+163,Spanish Grand Prix,,1968-05-12 00:00:00,90,2
+164,Monaco Grand Prix,,1968-05-26 00:00:00,80,3
+165,Belgian Grand Prix,,1968-06-09 00:00:00,28,4
+166,Dutch Grand Prix,,1968-06-23 00:00:00,90,5
+167,French Grand Prix,,1968-07-07 00:00:00,60,6
+168,British Grand Prix,,1968-07-20 00:00:00,80,7
+169,German Grand Prix,,1968-08-04 00:00:00,14,8
+170,Italian Grand Prix,,1968-09-08 00:00:00,68,9
+171,Canadian Grand Prix,,1968-09-22 00:00:00,90,10
+172,United States Grand Prix,,1968-10-06 00:00:00,108,11
+173,Mexican Grand Prix,,1968-11-03 00:00:00,65,12
+174,South African Grand Prix,,1969-03-01 00:00:00,80,1
+175,Spanish Grand Prix,,1969-05-04 00:00:00,90,2
+176,Monaco Grand Prix,,1969-05-18 00:00:00,80,3
+177,Dutch Grand Prix,,1969-06-21 00:00:00,90,4
+178,French Grand Prix,,1969-07-06 00:00:00,38,5
+179,British Grand Prix,,1969-07-19 00:00:00,84,6
+180,German Grand Prix,,1969-08-03 00:00:00,14,7
+181,Italian Grand Prix,,1969-09-07 00:00:00,68,8
+182,Canadian Grand Prix,,1969-09-20 00:00:00,90,9
+183,United States Grand Prix,,1969-10-05 00:00:00,108,10
+184,Mexican Grand Prix,,1969-10-19 00:00:00,65,11
+185,South African Grand Prix,,1970-03-07 00:00:00,80,1
+186,Spanish Grand Prix,,1970-04-19 00:00:00,90,2
+187,Monaco Grand Prix,,1970-05-10 00:00:00,80,3
+188,Belgian Grand Prix,,1970-06-07 00:00:00,28,4
+189,Dutch Grand Prix,,1970-06-21 00:00:00,90,5
+190,French Grand Prix,,1970-07-05 00:00:00,38,6
+191,British Grand Prix,,1970-07-18 00:00:00,80,7
+192,German Grand Prix,,1970-08-02 00:00:00,50,8
+193,Austrian Grand Prix,,1970-08-16 00:00:00,60,9
+194,Italian Grand Prix,,1970-09-06 00:00:00,68,10
+195,Canadian Grand Prix,,1970-09-20 00:00:00,90,11
+196,United States Grand Prix,,1970-10-04 00:00:00,108,12
+197,Mexican Grand Prix,,1970-10-25 00:00:00,65,13
+198,South African Grand Prix,,1971-03-06 00:00:00,79,1
+199,Spanish Grand Prix,,1971-04-18 00:00:00,75,2
+200,Monaco Grand Prix,,1971-05-23 00:00:00,80,3
+201,Dutch Grand Prix,,1971-06-20 00:00:00,70,4
+202,French Grand Prix,,1971-07-04 00:00:00,55,5
+203,British Grand Prix,,1971-07-17 00:00:00,68,6
+204,German Grand Prix,,1971-08-01 00:00:00,12,7
+205,Austrian Grand Prix,,1971-08-15 00:00:00,54,8
+206,Italian Grand Prix,,1971-09-05 00:00:00,55,9
+207,Canadian Grand Prix,,1971-09-19 00:00:00,64,10
+208,United States Grand Prix,,1971-10-03 00:00:00,59,11
+209,Argentine Grand Prix,,1972-01-23 00:00:00,95,1
+210,South African Grand Prix,,1972-03-04 00:00:00,79,2
+211,Spanish Grand Prix,,1972-05-01 00:00:00,90,3
+212,Monaco Grand Prix,,1972-05-14 00:00:00,80,4
+213,Belgian Grand Prix,,1972-06-04 00:00:00,80,5
+214,French Grand Prix,,1972-07-02 00:00:00,80,6
+215,British Grand Prix,,1972-07-15 00:00:00,80,7
+216,German Grand Prix,,1972-07-30 00:00:00,14,8
+217,Austrian Grand Prix,,1972-08-13 00:00:00,54,9
+218,Italian Grand Prix,,1972-09-10 00:00:00,54,10
+219,Canadian Grand Prix,,1972-09-24 00:00:00,54,11
+220,United States Grand Prix,,1972-10-08 00:00:00,54,12
+221,Argentine Grand Prix,,1973-01-28 00:00:00,96,1
+222,Brazilian Grand Prix,,1973-02-11 00:00:00,96,2
+223,South African Grand Prix,,1973-03-03 00:00:00,96,3
+224,Spanish Grand Prix,,1973-04-29 00:00:00,75,4
+225,Belgian Grand Prix,,1973-05-20 00:00:00,75,5
+226,Monaco Grand Prix,,1973-06-03 00:00:00,75,6
+227,Swedish Grand Prix,,1973-06-17 00:00:00,80,7
+228,French Grand Prix,,1973-07-01 00:00:00,80,8
+229,British Grand Prix,,1973-07-14 00:00:00,80,9
+230,Dutch Grand Prix,,1973-07-29 00:00:00,80,10
+231,German Grand Prix,,1973-08-05 00:00:00,14,11
+232,Austrian Grand Prix,,1973-08-19 00:00:00,14,12
+233,Italian Grand Prix,,1973-09-09 00:00:00,14,13
+234,Canadian Grand Prix,,1973-09-23 00:00:00,14,14
+235,United States Grand Prix,,1973-10-07 00:00:00,59,15
+236,Argentine Grand Prix,,1974-01-13 00:00:00,59,1
+237,Brazilian Grand Prix,,1974-01-27 00:00:00,32,2
+238,South African Grand Prix,,1974-03-30 00:00:00,32,3
+239,Spanish Grand Prix,,1974-04-28 00:00:00,32,4
+240,Belgian Grand Prix,,1974-05-12 00:00:00,32,5
+241,Monaco Grand Prix,,1974-05-26 00:00:00,32,6
+242,Swedish Grand Prix,,1974-06-09 00:00:00,32,7
+243,Dutch Grand Prix,,1974-06-23 00:00:00,32,8
+244,French Grand Prix,,1974-07-07 00:00:00,80,9
+245,British Grand Prix,,1974-07-20 00:00:00,80,10
+246,German Grand Prix,,1974-08-04 00:00:00,80,11
+247,Austrian Grand Prix,,1974-08-18 00:00:00,80,12
+248,Italian Grand Prix,,1974-09-08 00:00:00,52,13
+249,Canadian Grand Prix,,1974-09-22 00:00:00,80,14
+250,United States Grand Prix,,1974-10-06 00:00:00,80,15
+251,Argentine Grand Prix,,1975-01-12 00:00:00,53,1
+252,Brazilian Grand Prix,,1975-01-26 00:00:00,40,2
+253,South African Grand Prix,,1975-03-01 00:00:00,78,3
+254,Spanish Grand Prix,,1975-04-27 00:00:00,29,4
+255,Monaco Grand Prix,,1975-05-11 00:00:00,75,5
+256,Belgian Grand Prix,,1975-05-25 00:00:00,70,6
+257,Swedish Grand Prix,,1975-06-08 00:00:00,80,7
+258,Dutch Grand Prix,,1975-06-22 00:00:00,80,8
+259,French Grand Prix,,1975-07-06 00:00:00,54,9
+260,British Grand Prix,,1975-07-19 00:00:00,56,10
+261,German Grand Prix,,1975-08-03 00:00:00,56,11
+262,Austrian Grand Prix,,1975-08-17 00:00:00,56,12
+263,Italian Grand Prix,,1975-09-07 00:00:00,52,13
+264,United States Grand Prix,,1975-10-05 00:00:00,52,14
+265,Brazilian Grand Prix,,1976-01-25 00:00:00,40,1
+266,South African Grand Prix,,1976-03-06 00:00:00,40,2
+267,United States Grand Prix West,,1976-03-28 00:00:00,40,3
+268,Spanish Grand Prix,,1976-05-02 00:00:00,40,4
+269,Belgian Grand Prix,,1976-05-16 00:00:00,70,5
+270,Monaco Grand Prix,,1976-05-30 00:00:00,78,6
+271,Swedish Grand Prix,,1976-06-13 00:00:00,78,7
+272,French Grand Prix,,1976-07-04 00:00:00,78,8
+273,British Grand Prix,,1976-07-18 00:00:00,78,9
+274,German Grand Prix,,1976-08-01 00:00:00,14,10
+275,Austrian Grand Prix,,1976-08-15 00:00:00,14,11
+276,Dutch Grand Prix,,1976-08-29 00:00:00,14,12
+277,Italian Grand Prix,,1976-09-12 00:00:00,14,13
+278,Canadian Grand Prix,,1976-10-03 00:00:00,80,14
+279,United States Grand Prix,,1976-10-10 00:00:00,80,15
+280,Japanese Grand Prix,,1976-10-24 00:00:00,80,16
+281,Argentine Grand Prix,,1977-01-09 00:00:00,53,1
+282,Brazilian Grand Prix,,1977-01-23 00:00:00,40,2
+283,South African Grand Prix,,1977-03-05 00:00:00,40,3
+284,United States Grand Prix West,,1977-04-03 00:00:00,40,4
+285,Spanish Grand Prix,,1977-05-08 00:00:00,75,5
+286,Monaco Grand Prix,,1977-05-22 00:00:00,76,6
+287,Belgian Grand Prix,,1977-06-05 00:00:00,76,7
+288,Swedish Grand Prix,,1977-06-19 00:00:00,76,8
+289,French Grand Prix,,1977-07-03 00:00:00,76,9
+290,British Grand Prix,,1977-07-16 00:00:00,68,10
+291,German Grand Prix,,1977-07-31 00:00:00,47,11
+292,Austrian Grand Prix,,1977-08-14 00:00:00,47,12
+293,Dutch Grand Prix,,1977-08-28 00:00:00,47,13
+294,Italian Grand Prix,,1977-09-11 00:00:00,52,14
+295,United States Grand Prix,,1977-10-02 00:00:00,59,15
+296,Canadian Grand Prix,,1977-10-09 00:00:00,59,16
+297,Japanese Grand Prix,,1977-10-23 00:00:00,59,17
+298,Argentine Grand Prix,,1978-01-15 00:00:00,52,1
+299,Brazilian Grand Prix,,1978-01-29 00:00:00,52,2
+300,South African Grand Prix,,1978-03-04 00:00:00,52,3
+301,United States Grand Prix West,,1978-04-02 00:00:00,52,4
+302,Monaco Grand Prix,,1978-05-07 00:00:00,75,5
+303,Belgian Grand Prix,,1978-05-21 00:00:00,75,6
+304,Spanish Grand Prix,,1978-06-04 00:00:00,75,7
+305,Swedish Grand Prix,,1978-06-17 00:00:00,70,8
+306,French Grand Prix,,1978-07-02 00:00:00,70,9
+307,British Grand Prix,,1978-07-16 00:00:00,70,10
+308,German Grand Prix,,1978-07-30 00:00:00,70,11
+309,Austrian Grand Prix,,1978-08-13 00:00:00,54,12
+310,Dutch Grand Prix,,1978-08-27 00:00:00,54,13
+311,Italian Grand Prix,,1978-09-10 00:00:00,40,14
+312,United States Grand Prix,,1978-10-01 00:00:00,59,15
+313,Canadian Grand Prix,,1978-10-08 00:00:00,70,16
+314,Argentine Grand Prix,,1979-01-21 00:00:00,53,1
+315,Brazilian Grand Prix,,1979-02-04 00:00:00,40,2
+316,South African Grand Prix,,1979-03-03 00:00:00,40,3
+317,United States Grand Prix West,,1979-04-08 00:00:00,80,4
+318,Spanish Grand Prix,,1979-04-29 00:00:00,75,5
+319,Belgian Grand Prix,,1979-05-13 00:00:00,70,6
+320,Monaco Grand Prix,,1979-05-27 00:00:00,70,7
+321,French Grand Prix,,1979-07-01 00:00:00,70,8
+322,British Grand Prix,,1979-07-14 00:00:00,68,9
+323,German Grand Prix,,1979-07-29 00:00:00,68,10
+324,Austrian Grand Prix,,1979-08-12 00:00:00,54,11
+325,Dutch Grand Prix,,1979-08-26 00:00:00,54,12
+326,Italian Grand Prix,,1979-09-09 00:00:00,54,13
+327,Canadian Grand Prix,,1979-09-30 00:00:00,72,14
+328,United States Grand Prix,,1979-10-07 00:00:00,59,15
+329,Argentine Grand Prix,,1980-01-13 00:00:00,53,1
+330,Brazilian Grand Prix,,1980-01-27 00:00:00,40,2
+331,South African Grand Prix,,1980-03-01 00:00:00,40,3
+332,United States Grand Prix West,,1980-03-30 00:00:00,40,4
+333,Belgian Grand Prix,,1980-05-04 00:00:00,72,5
+334,Monaco Grand Prix,,1980-05-18 00:00:00,72,6
+335,French Grand Prix,,1980-06-29 00:00:00,72,7
+336,British Grand Prix,,1980-07-13 00:00:00,72,8
+337,German Grand Prix,,1980-08-10 00:00:00,45,9
+338,Austrian Grand Prix,,1980-08-17 00:00:00,54,10
+339,Dutch Grand Prix,,1980-08-31 00:00:00,72,11
+340,Italian Grand Prix,,1980-09-14 00:00:00,60,12
+341,Canadian Grand Prix,,1980-09-28 00:00:00,70,13
+342,United States Grand Prix,,1980-10-05 00:00:00,70,14
+343,United States Grand Prix West,,1981-03-15 00:00:00,80,1
+344,Brazilian Grand Prix,,1981-03-29 00:00:00,80,2
+345,Argentine Grand Prix,,1981-04-12 00:00:00,80,3
+346,San Marino Grand Prix,,1981-05-03 00:00:00,60,4
+347,Belgian Grand Prix,,1981-05-17 00:00:00,54,5
+348,Monaco Grand Prix,,1981-05-31 00:00:00,54,6
+349,Spanish Grand Prix,,1981-06-21 00:00:00,54,7
+350,French Grand Prix,,1981-07-05 00:00:00,54,8
+351,British Grand Prix,,1981-07-18 00:00:00,68,9
+352,German Grand Prix,,1981-08-02 00:00:00,68,10
+353,Austrian Grand Prix,,1981-08-16 00:00:00,68,11
+354,Dutch Grand Prix,,1981-08-30 00:00:00,72,12
+355,Italian Grand Prix,,1981-09-13 00:00:00,72,13
+356,Canadian Grand Prix,,1981-09-27 00:00:00,72,14
+357,Caesars Palace Grand Prix,,1981-10-17 00:00:00,72,15
+358,South African Grand Prix,,1982-01-23 00:00:00,77,1
+359,Brazilian Grand Prix,,1982-03-21 00:00:00,63,2
+360,United States Grand Prix West,,1982-04-04 00:00:00,75,3
+361,San Marino Grand Prix,,1982-04-25 00:00:00,60,4
+362,Belgian Grand Prix,,1982-05-09 00:00:00,70,5
+363,Monaco Grand Prix,,1982-05-23 00:00:00,76,6
+364,Detroit Grand Prix,,1982-06-06 00:00:00,62,7
+365,Canadian Grand Prix,,1982-06-13 00:00:00,62,8
+366,Dutch Grand Prix,,1982-07-03 00:00:00,62,9
+367,British Grand Prix,,1982-07-18 00:00:00,62,10
+368,French Grand Prix,,1982-07-25 00:00:00,54,11
+369,German Grand Prix,,1982-08-08 00:00:00,54,12
+370,Austrian Grand Prix,,1982-08-15 00:00:00,54,13
+371,Swiss Grand Prix,,1982-08-29 00:00:00,54,14
+372,Italian Grand Prix,,1982-09-12 00:00:00,52,15
+373,Caesars Palace Grand Prix,,1982-09-25 00:00:00,52,16
+374,Brazilian Grand Prix,,1983-03-13 00:00:00,63,1
+375,United States Grand Prix West,,1983-03-27 00:00:00,75,2
+376,French Grand Prix,,1983-04-17 00:00:00,75,3
+377,San Marino Grand Prix,,1983-05-01 00:00:00,75,4
+378,Monaco Grand Prix,,1983-05-15 00:00:00,75,5
+379,Belgian Grand Prix,,1983-05-22 00:00:00,40,6
+380,Detroit Grand Prix,,1983-06-05 00:00:00,60,7
+381,Canadian Grand Prix,,1983-06-12 00:00:00,70,8
+382,British Grand Prix,,1983-07-16 00:00:00,67,9
+383,German Grand Prix,,1983-08-07 00:00:00,67,10
+384,Austrian Grand Prix,,1983-08-14 00:00:00,67,11
+385,Dutch Grand Prix,,1983-08-28 00:00:00,72,12
+386,Italian Grand Prix,,1983-09-11 00:00:00,72,13
+387,European Grand Prix,,1983-09-25 00:00:00,72,14
+388,South African Grand Prix,,1983-10-15 00:00:00,77,15
+389,Brazilian Grand Prix,,1984-03-25 00:00:00,77,1
+390,South African Grand Prix,,1984-04-07 00:00:00,75,2
+391,Belgian Grand Prix,,1984-04-29 00:00:00,75,3
+392,San Marino Grand Prix,,1984-05-06 00:00:00,75,4
+393,French Grand Prix,,1984-05-20 00:00:00,75,5
+394,Monaco Grand Prix,,1984-06-03 00:00:00,31,6
+395,Canadian Grand Prix,,1984-06-17 00:00:00,70,7
+396,Detroit Grand Prix,,1984-06-24 00:00:00,70,8
+397,Dallas Grand Prix,,1984-07-08 00:00:00,70,9
+398,British Grand Prix,,1984-07-22 00:00:00,71,10
+399,German Grand Prix,,1984-08-05 00:00:00,44,11
+400,Austrian Grand Prix,,1984-08-19 00:00:00,51,12
+401,Dutch Grand Prix,,1984-08-26 00:00:00,71,13
+402,Italian Grand Prix,,1984-09-09 00:00:00,51,14
+403,European Grand Prix,,1984-10-07 00:00:00,51,15
+404,Portuguese Grand Prix,,1984-10-21 00:00:00,51,16
+405,Brazilian Grand Prix,,1985-04-07 00:00:00,61,1
+406,Portuguese Grand Prix,,1985-04-21 00:00:00,67,2
+407,San Marino Grand Prix,,1985-05-05 00:00:00,60,3
+408,Monaco Grand Prix,,1985-05-19 00:00:00,60,4
+409,Canadian Grand Prix,,1985-06-16 00:00:00,60,5
+410,Detroit Grand Prix,,1985-06-23 00:00:00,63,6
+411,French Grand Prix,,1985-07-07 00:00:00,63,7
+412,British Grand Prix,,1985-07-21 00:00:00,63,8
+413,German Grand Prix,,1985-08-04 00:00:00,63,9
+414,Austrian Grand Prix,,1985-08-18 00:00:00,52,10
+415,Dutch Grand Prix,,1985-08-25 00:00:00,70,11
+416,Italian Grand Prix,,1985-09-08 00:00:00,70,12
+417,Belgian Grand Prix,,1985-09-15 00:00:00,70,13
+418,European Grand Prix,,1985-10-06 00:00:00,75,14
+419,South African Grand Prix,,1985-10-19 00:00:00,75,15
+420,Australian Grand Prix,,1985-11-03 00:00:00,75,16
+421,Brazilian Grand Prix,,1986-03-23 00:00:00,61,1
+422,Spanish Grand Prix,,1986-04-13 00:00:00,72,2
+423,San Marino Grand Prix,,1986-04-27 00:00:00,72,3
+424,Monaco Grand Prix,,1986-05-11 00:00:00,72,4
+425,Belgian Grand Prix,,1986-05-25 00:00:00,72,5
+426,Canadian Grand Prix,,1986-06-15 00:00:00,72,6
+427,Detroit Grand Prix,,1986-06-22 00:00:00,63,7
+428,French Grand Prix,,1986-07-06 00:00:00,80,8
+429,British Grand Prix,,1986-07-13 00:00:00,80,9
+430,German Grand Prix,,1986-07-27 00:00:00,80,10
+431,Hungarian Grand Prix,,1986-08-10 00:00:00,80,11
+432,Austrian Grand Prix,,1986-08-17 00:00:00,52,12
+433,Italian Grand Prix,,1986-09-07 00:00:00,52,13
+434,Portuguese Grand Prix,,1986-09-21 00:00:00,52,14
+435,Mexican Grand Prix,,1986-10-12 00:00:00,52,15
+436,Australian Grand Prix,,1986-10-26 00:00:00,82,16
+437,Brazilian Grand Prix,,1987-04-12 00:00:00,61,1
+438,San Marino Grand Prix,,1987-05-03 00:00:00,61,2
+439,Belgian Grand Prix,,1987-05-17 00:00:00,61,3
+440,Monaco Grand Prix,,1987-05-31 00:00:00,61,4
+441,Detroit Grand Prix,,1987-06-21 00:00:00,63,5
+442,French Grand Prix,,1987-07-05 00:00:00,80,6
+443,British Grand Prix,,1987-07-12 00:00:00,80,7
+444,German Grand Prix,,1987-07-26 00:00:00,80,8
+445,Hungarian Grand Prix,,1987-08-09 00:00:00,76,9
+446,Austrian Grand Prix,,1987-08-16 00:00:00,76,10
+447,Italian Grand Prix,,1987-09-06 00:00:00,76,11
+448,Portuguese Grand Prix,,1987-09-20 00:00:00,70,12
+449,Spanish Grand Prix,,1987-09-27 00:00:00,72,13
+450,Mexican Grand Prix,,1987-10-18 00:00:00,63,14
+451,Japanese Grand Prix,,1987-11-01 00:00:00,51,15
+452,Australian Grand Prix,,1987-11-15 00:00:00,51,16
+453,Brazilian Grand Prix,,1988-04-03 00:00:00,60,1
+454,San Marino Grand Prix,,1988-05-01 00:00:00,60,2
+455,Monaco Grand Prix,,1988-05-15 00:00:00,60,3
+456,Mexican Grand Prix,,1988-05-29 00:00:00,60,4
+457,Canadian Grand Prix,,1988-06-12 00:00:00,69,5
+458,Detroit Grand Prix,,1988-06-19 00:00:00,63,6
+459,French Grand Prix,,1988-07-03 00:00:00,80,7
+460,British Grand Prix,,1988-07-10 00:00:00,65,8
+461,German Grand Prix,,1988-07-24 00:00:00,44,9
+462,Hungarian Grand Prix,,1988-08-07 00:00:00,44,10
+463,Belgian Grand Prix,,1988-08-28 00:00:00,44,11
+464,Italian Grand Prix,,1988-09-11 00:00:00,51,12
+465,Portuguese Grand Prix,,1988-09-25 00:00:00,51,13
+466,Spanish Grand Prix,,1988-10-02 00:00:00,51,14
+467,Japanese Grand Prix,,1988-10-30 00:00:00,51,15
+468,Australian Grand Prix,,1988-11-13 00:00:00,82,16
+469,Brazilian Grand Prix,,1989-03-26 00:00:00,82,1
+470,San Marino Grand Prix,,1989-04-23 00:00:00,58,2
+471,Monaco Grand Prix,,1989-05-07 00:00:00,58,3
+472,Mexican Grand Prix,,1989-05-28 00:00:00,58,4
+473,United States Grand Prix,,1989-06-04 00:00:00,58,5
+474,Canadian Grand Prix,,1989-06-18 00:00:00,69,6
+475,French Grand Prix,,1989-07-09 00:00:00,69,7
+476,British Grand Prix,,1989-07-16 00:00:00,69,8
+477,German Grand Prix,,1989-07-30 00:00:00,69,9
+478,Hungarian Grand Prix,,1989-08-13 00:00:00,77,10
+479,Belgian Grand Prix,,1989-08-27 00:00:00,44,11
+480,Italian Grand Prix,,1989-09-10 00:00:00,44,12
+481,Portuguese Grand Prix,,1989-09-24 00:00:00,44,13
+482,Spanish Grand Prix,,1989-10-01 00:00:00,73,14
+483,Japanese Grand Prix,,1989-10-22 00:00:00,53,15
+484,Australian Grand Prix,,1989-11-05 00:00:00,70,16
+485,United States Grand Prix,,1990-03-11 00:00:00,72,1
+486,Brazilian Grand Prix,,1990-03-25 00:00:00,72,2
+487,San Marino Grand Prix,,1990-05-13 00:00:00,72,3
+488,Monaco Grand Prix,,1990-05-27 00:00:00,78,4
+489,Canadian Grand Prix,,1990-06-10 00:00:00,78,5
+490,Mexican Grand Prix,,1990-06-24 00:00:00,78,6
+491,French Grand Prix,,1990-07-08 00:00:00,78,7
+492,British Grand Prix,,1990-07-15 00:00:00,64,8
+493,German Grand Prix,,1990-07-29 00:00:00,64,9
+494,Hungarian Grand Prix,,1990-08-12 00:00:00,64,10
+495,Belgian Grand Prix,,1990-08-26 00:00:00,64,11
+496,Italian Grand Prix,,1990-09-09 00:00:00,53,12
+497,Portuguese Grand Prix,,1990-09-23 00:00:00,53,13
+498,Spanish Grand Prix,,1990-09-30 00:00:00,53,14
+499,Japanese Grand Prix,,1990-10-21 00:00:00,53,15
+500,Australian Grand Prix,,1990-11-04 00:00:00,81,16
+501,United States Grand Prix,,1991-03-10 00:00:00,81,1
+502,Brazilian Grand Prix,,1991-03-24 00:00:00,71,2
+503,San Marino Grand Prix,,1991-04-28 00:00:00,61,3
+504,Monaco Grand Prix,,1991-05-12 00:00:00,78,4
+505,Canadian Grand Prix,,1991-06-02 00:00:00,78,5
+506,Mexican Grand Prix,,1991-06-16 00:00:00,78,6
+507,French Grand Prix,,1991-07-07 00:00:00,78,7
+508,British Grand Prix,,1991-07-14 00:00:00,78,8
+509,German Grand Prix,,1991-07-28 00:00:00,45,9
+510,Hungarian Grand Prix,,1991-08-11 00:00:00,77,10
+511,Belgian Grand Prix,,1991-08-25 00:00:00,44,11
+512,Italian Grand Prix,,1991-09-08 00:00:00,44,12
+513,Portuguese Grand Prix,,1991-09-22 00:00:00,71,13
+514,Spanish Grand Prix,,1991-09-29 00:00:00,71,14
+515,Japanese Grand Prix,,1991-10-20 00:00:00,71,15
+516,Australian Grand Prix,,1991-11-03 00:00:00,14,16
+517,South African Grand Prix,,1992-03-01 00:00:00,14,1
+518,Mexican Grand Prix,,1992-03-22 00:00:00,69,2
+519,Brazilian Grand Prix,,1992-04-05 00:00:00,69,3
+520,Spanish Grand Prix,,1992-05-03 00:00:00,69,4
+521,San Marino Grand Prix,,1992-05-17 00:00:00,60,5
+522,Monaco Grand Prix,,1992-05-31 00:00:00,60,6
+523,Canadian Grand Prix,,1992-06-14 00:00:00,60,7
+524,French Grand Prix,,1992-07-05 00:00:00,69,8
+525,British Grand Prix,,1992-07-12 00:00:00,59,9
+526,German Grand Prix,,1992-07-26 00:00:00,45,10
+527,Hungarian Grand Prix,,1992-08-16 00:00:00,45,11
+528,Belgian Grand Prix,,1992-08-30 00:00:00,45,12
+529,Italian Grand Prix,,1992-09-13 00:00:00,53,13
+530,Portuguese Grand Prix,,1992-09-27 00:00:00,71,14
+531,Japanese Grand Prix,,1992-10-25 00:00:00,71,15
+532,Australian Grand Prix,,1992-11-08 00:00:00,71,16
+533,South African Grand Prix,,1993-03-14 00:00:00,72,1
+534,Brazilian Grand Prix,,1993-03-28 00:00:00,72,2
+535,European Grand Prix,,1993-04-11 00:00:00,72,3
+536,San Marino Grand Prix,,1993-04-25 00:00:00,72,4
+537,Spanish Grand Prix,,1993-05-09 00:00:00,72,5
+538,Monaco Grand Prix,,1993-05-23 00:00:00,78,6
+539,Canadian Grand Prix,,1993-06-13 00:00:00,69,7
+540,French Grand Prix,,1993-07-04 00:00:00,72,8
+541,British Grand Prix,,1993-07-11 00:00:00,72,9
+542,German Grand Prix,,1993-07-25 00:00:00,72,10
+543,Hungarian Grand Prix,,1993-08-15 00:00:00,77,11
+544,Belgian Grand Prix,,1993-08-29 00:00:00,77,12
+545,Italian Grand Prix,,1993-09-12 00:00:00,77,13
+546,Portuguese Grand Prix,,1993-09-26 00:00:00,77,14
+547,Japanese Grand Prix,,1993-10-24 00:00:00,77,15
+548,Australian Grand Prix,,1993-11-07 00:00:00,79,16
+549,Brazilian Grand Prix,,1994-03-27 00:00:00,71,1
+550,Pacific Grand Prix,,1994-04-17 00:00:00,71,2
+551,San Marino Grand Prix,,1994-05-01 00:00:00,58,3
+552,Monaco Grand Prix,,1994-05-15 00:00:00,58,4
+553,Spanish Grand Prix,,1994-05-29 00:00:00,65,5
+554,Canadian Grand Prix,,1994-06-12 00:00:00,65,6
+555,French Grand Prix,,1994-07-03 00:00:00,65,7
+556,British Grand Prix,,1994-07-10 00:00:00,65,8
+557,German Grand Prix,,1994-07-31 00:00:00,45,9
+558,Hungarian Grand Prix,,1994-08-14 00:00:00,45,10
+559,Belgian Grand Prix,,1994-08-28 00:00:00,44,11
+560,Italian Grand Prix,,1994-09-11 00:00:00,53,12
+561,Portuguese Grand Prix,,1994-09-25 00:00:00,53,13
+562,European Grand Prix,,1994-10-16 00:00:00,53,14
+563,Japanese Grand Prix,,1994-11-06 00:00:00,50,15
+564,Australian Grand Prix,,1994-11-13 00:00:00,50,16
+565,Brazilian Grand Prix,,1995-03-26 00:00:00,71,1
+566,Argentine Grand Prix,,1995-04-09 00:00:00,71,2
+567,San Marino Grand Prix,,1995-04-30 00:00:00,71,3
+568,Spanish Grand Prix,,1995-05-14 00:00:00,65,4
+569,Monaco Grand Prix,,1995-05-28 00:00:00,65,5
+570,Canadian Grand Prix,,1995-06-11 00:00:00,65,6
+571,French Grand Prix,,1995-07-02 00:00:00,72,7
+572,British Grand Prix,,1995-07-16 00:00:00,72,8
+573,German Grand Prix,,1995-07-30 00:00:00,72,9
+574,Hungarian Grand Prix,,1995-08-13 00:00:00,72,10
+575,Belgian Grand Prix,,1995-08-27 00:00:00,72,11
+576,Italian Grand Prix,,1995-09-10 00:00:00,53,12
+577,Portuguese Grand Prix,,1995-09-24 00:00:00,53,13
+578,European Grand Prix,,1995-10-01 00:00:00,53,14
+579,Pacific Grand Prix,,1995-10-22 00:00:00,83,15
+580,Japanese Grand Prix,,1995-10-29 00:00:00,83,16
+581,Australian Grand Prix,,1995-11-12 00:00:00,83,17
+582,Australian Grand Prix,,1996-03-10 00:00:00,58,1
+583,Brazilian Grand Prix,,1996-03-31 00:00:00,71,2
+584,Argentine Grand Prix,,1996-04-07 00:00:00,71,3
+585,European Grand Prix,,1996-04-28 00:00:00,71,4
+586,San Marino Grand Prix,,1996-05-05 00:00:00,63,5
+587,Monaco Grand Prix,,1996-05-19 00:00:00,63,6
+588,Spanish Grand Prix,,1996-06-02 00:00:00,63,7
+589,Canadian Grand Prix,,1996-06-16 00:00:00,63,8
+590,French Grand Prix,,1996-06-30 00:00:00,72,9
+591,British Grand Prix,,1996-07-14 00:00:00,72,10
+592,German Grand Prix,,1996-07-28 00:00:00,72,11
+593,Hungarian Grand Prix,,1996-08-11 00:00:00,72,12
+594,Belgian Grand Prix,,1996-08-25 00:00:00,44,13
+595,Italian Grand Prix,,1996-09-08 00:00:00,44,14
+596,Portuguese Grand Prix,,1996-09-22 00:00:00,44,15
+597,Japanese Grand Prix,,1996-10-13 00:00:00,44,16
+598,Australian Grand Prix,,1997-03-09 00:00:00,58,1
+599,Brazilian Grand Prix,,1997-03-30 00:00:00,58,2
+600,Argentine Grand Prix,,1997-04-13 00:00:00,58,3
+601,San Marino Grand Prix,,1997-04-27 00:00:00,58,4
+602,Monaco Grand Prix,,1997-05-11 00:00:00,62,5
+603,Spanish Grand Prix,,1997-05-25 00:00:00,64,6
+604,Canadian Grand Prix,,1997-06-15 00:00:00,64,7
+605,French Grand Prix,,1997-06-29 00:00:00,64,8
+606,British Grand Prix,,1997-07-13 00:00:00,59,9
+607,German Grand Prix,,1997-07-27 00:00:00,59,10
+608,Hungarian Grand Prix,,1997-08-10 00:00:00,59,11
+609,Belgian Grand Prix,,1997-08-24 00:00:00,59,12
+610,Italian Grand Prix,,1997-09-07 00:00:00,53,13
+611,Austrian Grand Prix,,1997-09-21 00:00:00,53,14
+612,Luxembourg Grand Prix,,1997-09-28 00:00:00,53,15
+613,Japanese Grand Prix,,1997-10-12 00:00:00,53,16
+614,European Grand Prix,,1997-10-26 00:00:00,69,17
+615,Australian Grand Prix,,1998-03-08 00:00:00,69,1
+616,Brazilian Grand Prix,,1998-03-29 00:00:00,72,2
+617,Argentine Grand Prix,,1998-04-12 00:00:00,72,3
+618,San Marino Grand Prix,,1998-04-26 00:00:00,72,4
+619,Spanish Grand Prix,,1998-05-10 00:00:00,65,5
+620,Monaco Grand Prix,,1998-05-24 00:00:00,78,6
+621,Canadian Grand Prix,,1998-06-07 00:00:00,78,7
+622,French Grand Prix,,1998-06-28 00:00:00,71,8
+623,British Grand Prix,,1998-07-12 00:00:00,71,9
+624,Austrian Grand Prix,,1998-07-26 00:00:00,71,10
+625,German Grand Prix,,1998-08-02 00:00:00,71,11
+626,Hungarian Grand Prix,,1998-08-16 00:00:00,77,12
+627,Belgian Grand Prix,,1998-08-30 00:00:00,77,13
+628,Italian Grand Prix,,1998-09-13 00:00:00,77,14
+629,Luxembourg Grand Prix,,1998-09-27 00:00:00,77,15
+630,Japanese Grand Prix,,1998-11-01 00:00:00,77,16
+631,Australian Grand Prix,,1999-03-07 00:00:00,57,1
+632,Brazilian Grand Prix,,1999-04-11 00:00:00,72,2
+633,San Marino Grand Prix,,1999-05-02 00:00:00,72,3
+634,Monaco Grand Prix,,1999-05-16 00:00:00,72,4
+635,Spanish Grand Prix,,1999-05-30 00:00:00,65,5
+636,Canadian Grand Prix,,1999-06-13 00:00:00,69,6
+637,French Grand Prix,,1999-06-27 00:00:00,69,7
+638,British Grand Prix,,1999-07-11 00:00:00,69,8
+639,Austrian Grand Prix,,1999-07-25 00:00:00,69,9
+640,German Grand Prix,,1999-08-01 00:00:00,69,10
+641,Hungarian Grand Prix,,1999-08-15 00:00:00,77,11
+642,Belgian Grand Prix,,1999-08-29 00:00:00,77,12
+643,Italian Grand Prix,,1999-09-12 00:00:00,77,13
+644,European Grand Prix,,1999-09-26 00:00:00,77,14
+645,Malaysian Grand Prix,,1999-10-17 00:00:00,56,15
+646,Japanese Grand Prix,,1999-10-31 00:00:00,56,16
+647,Australian Grand Prix,,2000-03-12 00:00:00,58,1
+648,Brazilian Grand Prix,,2000-03-26 00:00:00,58,2
+649,San Marino Grand Prix,,2000-04-09 00:00:00,58,3
+650,British Grand Prix,,2000-04-23 00:00:00,58,4
+651,Spanish Grand Prix,,2000-05-07 00:00:00,58,5
+652,European Grand Prix,,2000-05-21 00:00:00,67,6
+653,Monaco Grand Prix,,2000-06-04 00:00:00,67,7
+654,Canadian Grand Prix,,2000-06-18 00:00:00,67,8
+655,French Grand Prix,,2000-07-02 00:00:00,72,9
+656,Austrian Grand Prix,,2000-07-16 00:00:00,72,10
+657,German Grand Prix,,2000-07-30 00:00:00,72,11
+658,Hungarian Grand Prix,,2000-08-13 00:00:00,72,12
+659,Belgian Grand Prix,,2000-08-27 00:00:00,44,13
+660,Italian Grand Prix,,2000-09-10 00:00:00,44,14
+661,United States Grand Prix,,2000-09-24 00:00:00,44,15
+662,Japanese Grand Prix,,2000-10-08 00:00:00,44,16
+663,Malaysian Grand Prix,,2000-10-22 00:00:00,56,17
+664,Australian Grand Prix,,2001-03-04 00:00:00,56,1
+665,Malaysian Grand Prix,,2001-03-18 00:00:00,55,2
+666,Brazilian Grand Prix,,2001-04-01 00:00:00,55,3
+667,San Marino Grand Prix,,2001-04-15 00:00:00,55,4
+668,Spanish Grand Prix,,2001-04-29 00:00:00,55,5
+669,Austrian Grand Prix,,2001-05-13 00:00:00,71,6
+670,Monaco Grand Prix,,2001-05-27 00:00:00,71,7
+671,Canadian Grand Prix,,2001-06-10 00:00:00,71,8
+672,European Grand Prix,,2001-06-24 00:00:00,71,9
+673,French Grand Prix,,2001-07-01 00:00:00,72,10
+674,British Grand Prix,,2001-07-15 00:00:00,72,11
+675,German Grand Prix,,2001-07-29 00:00:00,72,12
+676,Hungarian Grand Prix,,2001-08-19 00:00:00,72,13
+677,Belgian Grand Prix,,2001-09-02 00:00:00,36,14
+678,Italian Grand Prix,,2001-09-16 00:00:00,53,15
+679,United States Grand Prix,,2001-09-30 00:00:00,53,16
+680,Japanese Grand Prix,,2001-10-14 00:00:00,53,17
+681,Australian Grand Prix,,2002-03-03 00:00:00,58,1
+682,Malaysian Grand Prix,,2002-03-17 00:00:00,56,2
+683,Brazilian Grand Prix,,2002-03-31 00:00:00,56,3
+684,San Marino Grand Prix,,2002-04-14 00:00:00,56,4
+685,Spanish Grand Prix,,2002-04-28 00:00:00,56,5
+686,Austrian Grand Prix,,2002-05-12 00:00:00,71,6
+687,Monaco Grand Prix,,2002-05-26 00:00:00,71,7
+688,Canadian Grand Prix,,2002-06-09 00:00:00,71,8
+689,European Grand Prix,,2002-06-23 00:00:00,71,9
+690,British Grand Prix,,2002-07-07 00:00:00,60,10
+691,French Grand Prix,,2002-07-21 00:00:00,60,11
+692,German Grand Prix,,2002-07-28 00:00:00,67,12
+693,Hungarian Grand Prix,,2002-08-18 00:00:00,67,13
+694,Belgian Grand Prix,,2002-09-01 00:00:00,67,14
+695,Italian Grand Prix,,2002-09-15 00:00:00,67,15
+696,United States Grand Prix,,2002-09-29 00:00:00,73,16
+697,Japanese Grand Prix,,2002-10-13 00:00:00,73,17
+698,Australian Grand Prix,,2003-03-09 00:00:00,58,1
+699,Malaysian Grand Prix,,2003-03-23 00:00:00,58,2
+700,Brazilian Grand Prix,,2003-04-06 00:00:00,58,3
+701,San Marino Grand Prix,,2003-04-20 00:00:00,58,4
+702,Spanish Grand Prix,,2003-05-04 00:00:00,65,5
+703,Austrian Grand Prix,,2003-05-18 00:00:00,65,6
+704,Monaco Grand Prix,,2003-06-01 00:00:00,65,7
+705,Canadian Grand Prix,,2003-06-15 00:00:00,65,8
+706,European Grand Prix,,2003-06-29 00:00:00,60,9
+707,French Grand Prix,,2003-07-06 00:00:00,60,10
+708,British Grand Prix,,2003-07-20 00:00:00,60,11
+709,German Grand Prix,,2003-08-03 00:00:00,60,12
+710,Hungarian Grand Prix,,2003-08-24 00:00:00,60,13
+711,Italian Grand Prix,,2003-09-14 00:00:00,53,14
+712,United States Grand Prix,,2003-09-28 00:00:00,53,15
+713,Japanese Grand Prix,,2003-10-12 00:00:00,53,16
+714,Australian Grand Prix,,2004-03-07 00:00:00,58,1
+715,Malaysian Grand Prix,,2004-03-21 00:00:00,58,2
+716,Bahrain Grand Prix,,2004-04-04 00:00:00,58,3
+717,San Marino Grand Prix,,2004-04-25 00:00:00,58,4
+718,Spanish Grand Prix,,2004-05-09 00:00:00,66,5
+719,Monaco Grand Prix,,2004-05-23 00:00:00,66,6
+720,European Grand Prix,,2004-05-30 00:00:00,66,7
+721,Canadian Grand Prix,,2004-06-13 00:00:00,66,8
+722,United States Grand Prix,,2004-06-20 00:00:00,66,9
+723,French Grand Prix,,2004-07-04 00:00:00,70,10
+724,British Grand Prix,,2004-07-11 00:00:00,70,11
+725,German Grand Prix,,2004-07-25 00:00:00,70,12
+726,Hungarian Grand Prix,,2004-08-15 00:00:00,70,13
+727,Belgian Grand Prix,,2004-08-29 00:00:00,44,14
+728,Italian Grand Prix,,2004-09-12 00:00:00,44,15
+729,Chinese Grand Prix,,2004-09-26 00:00:00,44,16
+730,Japanese Grand Prix,,2004-10-10 00:00:00,44,17
+731,Brazilian Grand Prix,,2004-10-24 00:00:00,71,18
+732,Australian Grand Prix,,2005-03-06 00:00:00,57,1
+733,Malaysian Grand Prix,,2005-03-20 00:00:00,56,2
+734,Bahrain Grand Prix,,2005-04-03 00:00:00,57,3
+735,San Marino Grand Prix,,2005-04-24 00:00:00,62,4
+736,Spanish Grand Prix,,2005-05-08 00:00:00,66,5
+737,Monaco Grand Prix,,2005-05-22 00:00:00,78,6
+738,European Grand Prix,,2005-05-29 00:00:00,78,7
+739,Canadian Grand Prix,,2005-06-12 00:00:00,78,8
+740,United States Grand Prix,,2005-06-19 00:00:00,73,9
+741,French Grand Prix,,2005-07-03 00:00:00,70,10
+742,British Grand Prix,,2005-07-10 00:00:00,70,11
+743,German Grand Prix,,2005-07-24 00:00:00,70,12
+744,Hungarian Grand Prix,,2005-07-31 00:00:00,70,13
+745,Turkish Grand Prix,,2005-08-21 00:00:00,70,14
+746,Italian Grand Prix,,2005-09-04 00:00:00,53,15
+747,Belgian Grand Prix,,2005-09-11 00:00:00,53,16
+748,Brazilian Grand Prix,,2005-09-25 00:00:00,53,17
+749,Japanese Grand Prix,,2005-10-09 00:00:00,53,18
+750,Chinese Grand Prix,,2005-10-16 00:00:00,56,19
+751,Bahrain Grand Prix,,2006-03-12 00:00:00,56,1
+752,Malaysian Grand Prix,,2006-03-19 00:00:00,56,2
+753,Australian Grand Prix,,2006-04-02 00:00:00,56,3
+754,San Marino Grand Prix,,2006-04-23 00:00:00,56,4
+755,European Grand Prix,,2006-05-07 00:00:00,60,5
+756,Spanish Grand Prix,,2006-05-14 00:00:00,60,6
+757,Monaco Grand Prix,,2006-05-28 00:00:00,60,7
+758,British Grand Prix,,2006-06-11 00:00:00,60,8
+759,Canadian Grand Prix,,2006-06-25 00:00:00,60,9
+760,United States Grand Prix,,2006-07-02 00:00:00,60,10
+761,French Grand Prix,,2006-07-16 00:00:00,70,11
+762,German Grand Prix,,2006-07-30 00:00:00,70,12
+763,Hungarian Grand Prix,,2006-08-06 00:00:00,70,13
+764,Turkish Grand Prix,,2006-08-27 00:00:00,70,14
+765,Italian Grand Prix,,2006-09-10 00:00:00,53,15
+766,Chinese Grand Prix,,2006-10-01 00:00:00,53,16
+767,Japanese Grand Prix,,2006-10-08 00:00:00,53,17
+768,Brazilian Grand Prix,,2006-10-22 00:00:00,71,18
+769,Australian Grand Prix,,2007-03-18 00:00:00,58,1
+770,Malaysian Grand Prix,,2007-04-08 00:00:00,56,2
+771,Bahrain Grand Prix,,2007-04-15 00:00:00,57,3
+772,Spanish Grand Prix,,2007-05-13 00:00:00,57,4
+773,Monaco Grand Prix,,2007-05-27 00:00:00,57,5
+774,Canadian Grand Prix,,2007-06-10 00:00:00,57,6
+775,United States Grand Prix,,2007-06-17 00:00:00,73,7
+776,French Grand Prix,,2007-07-01 00:00:00,70,8
+777,British Grand Prix,,2007-07-08 00:00:00,70,9
+778,European Grand Prix,,2007-07-22 00:00:00,70,10
+779,Hungarian Grand Prix,,2007-08-05 00:00:00,70,11
+780,Turkish Grand Prix,,2007-08-26 00:00:00,58,12
+781,Italian Grand Prix,,2007-09-09 00:00:00,58,13
+782,Belgian Grand Prix,,2007-09-16 00:00:00,58,14
+783,Japanese Grand Prix,,2007-09-30 00:00:00,58,15
+784,Chinese Grand Prix,,2007-10-07 00:00:00,56,16
+785,Brazilian Grand Prix,,2007-10-21 00:00:00,71,17
+786,Australian Grand Prix,,2008-03-16 00:00:00,58,1
+787,Malaysian Grand Prix,,2008-03-23 00:00:00,56,2
+788,Bahrain Grand Prix,,2008-04-06 00:00:00,56,3
+789,Spanish Grand Prix,,2008-04-27 00:00:00,56,4
+790,Turkish Grand Prix,,2008-05-11 00:00:00,56,5
+791,Monaco Grand Prix,,2008-05-25 00:00:00,76,6
+792,Canadian Grand Prix,,2008-06-08 00:00:00,70,7
+793,French Grand Prix,,2008-06-22 00:00:00,70,8
+794,British Grand Prix,,2008-07-06 00:00:00,70,9
+795,German Grand Prix,,2008-07-20 00:00:00,70,10
+796,Hungarian Grand Prix,,2008-08-03 00:00:00,70,11
+797,European Grand Prix,,2008-08-24 00:00:00,70,12
+798,Belgian Grand Prix,,2008-09-07 00:00:00,70,13
+799,Italian Grand Prix,,2008-09-14 00:00:00,70,14
+800,Singapore Grand Prix,,2008-09-28 00:00:00,61,15
+801,Japanese Grand Prix,,2008-10-12 00:00:00,61,16
+802,Chinese Grand Prix,,2008-10-19 00:00:00,61,17
+803,Brazilian Grand Prix,,2008-11-02 00:00:00,61,18
+804,Australian Grand Prix,,2009-03-29 00:00:00,58,1
+805,Malaysian Grand Prix,,2009-04-05 00:00:00,58,2
+806,Chinese Grand Prix,,2009-04-19 00:00:00,58,3
+807,Bahrain Grand Prix,,2009-04-26 00:00:00,58,4
+808,Spanish Grand Prix,,2009-05-10 00:00:00,66,5
+809,Monaco Grand Prix,,2009-05-24 00:00:00,66,6
+810,Turkish Grand Prix,,2009-06-07 00:00:00,66,7
+811,British Grand Prix,,2009-06-21 00:00:00,66,8
+812,German Grand Prix,,2009-07-12 00:00:00,60,9
+813,Hungarian Grand Prix,,2009-07-26 00:00:00,60,10
+814,European Grand Prix,,2009-08-23 00:00:00,60,11
+815,Belgian Grand Prix,,2009-08-30 00:00:00,44,12
+816,Italian Grand Prix,,2009-09-13 00:00:00,44,13
+817,Singapore Grand Prix,,2009-09-27 00:00:00,44,14
+818,Japanese Grand Prix,,2009-10-04 00:00:00,53,15
+819,Brazilian Grand Prix,,2009-10-18 00:00:00,71,16
+820,Abu Dhabi Grand Prix,,2009-11-01 00:00:00,71,17
+821,Bahrain Grand Prix,,2010-03-14 00:00:00,49,1
+822,Australian Grand Prix,,2010-03-28 00:00:00,49,2
+823,Malaysian Grand Prix,,2010-04-04 00:00:00,49,3
+824,Chinese Grand Prix,,2010-04-18 00:00:00,49,4
+825,Spanish Grand Prix,,2010-05-09 00:00:00,66,5
+826,Monaco Grand Prix,,2010-05-16 00:00:00,78,6
+827,Turkish Grand Prix,,2010-05-30 00:00:00,58,7
+828,Canadian Grand Prix,,2010-06-13 00:00:00,70,8
+829,European Grand Prix,,2010-06-27 00:00:00,57,9
+830,British Grand Prix,,2010-07-11 00:00:00,57,10
+831,German Grand Prix,,2010-07-25 00:00:00,57,11
+832,Hungarian Grand Prix,,2010-08-01 00:00:00,57,12
+833,Belgian Grand Prix,,2010-08-29 00:00:00,57,13
+834,Italian Grand Prix,,2010-09-12 00:00:00,53,14
+835,Singapore Grand Prix,,2010-09-26 00:00:00,53,15
+836,Japanese Grand Prix,,2010-10-10 00:00:00,53,16
+837,Korean Grand Prix,,2010-10-24 00:00:00,53,17
+838,Brazilian Grand Prix,,2010-11-07 00:00:00,71,18
+839,Abu Dhabi Grand Prix,,2010-11-14 00:00:00,55,19
+840,Australian Grand Prix,,2011-03-27 00:00:00,55,1
+841,Malaysian Grand Prix,,2011-04-10 00:00:00,56,2
+842,Chinese Grand Prix,,2011-04-17 00:00:00,56,3
+843,Turkish Grand Prix,,2011-05-08 00:00:00,56,4
+844,Spanish Grand Prix,,2011-05-22 00:00:00,56,5
+845,Monaco Grand Prix,,2011-05-29 00:00:00,56,6
+846,Canadian Grand Prix,,2011-06-12 00:00:00,70,7
+847,European Grand Prix,,2011-06-26 00:00:00,70,8
+848,British Grand Prix,,2011-07-10 00:00:00,70,9
+849,German Grand Prix,,2011-07-24 00:00:00,60,10
+850,Hungarian Grand Prix,,2011-07-31 00:00:00,60,11
+851,Belgian Grand Prix,,2011-08-28 00:00:00,60,12
+852,Italian Grand Prix,,2011-09-11 00:00:00,60,13
+853,Singapore Grand Prix,,2011-09-25 00:00:00,61,14
+854,Japanese Grand Prix,,2011-10-09 00:00:00,61,15
+855,Korean Grand Prix,,2011-10-16 00:00:00,61,16
+856,Indian Grand Prix,,2011-10-30 00:00:00,61,17
+857,Abu Dhabi Grand Prix,,2011-11-13 00:00:00,55,18
+858,Brazilian Grand Prix,,2011-11-27 00:00:00,55,19
+859,Australian Grand Prix,,2012-03-18 00:00:00,58,1
+860,Malaysian Grand Prix,,2012-03-25 00:00:00,58,2
+861,Chinese Grand Prix,,2012-04-15 00:00:00,58,3
+862,Bahrain Grand Prix,,2012-04-22 00:00:00,58,4
+863,Spanish Grand Prix,,2012-05-13 00:00:00,66,5
+864,Monaco Grand Prix,,2012-05-27 00:00:00,66,6
+865,Canadian Grand Prix,,2012-06-10 00:00:00,66,7
+866,European Grand Prix,,2012-06-24 00:00:00,66,8
+867,British Grand Prix,,2012-07-08 00:00:00,52,9
+868,German Grand Prix,,2012-07-22 00:00:00,52,10
+869,Hungarian Grand Prix,,2012-07-29 00:00:00,52,11
+870,Belgian Grand Prix,,2012-09-02 00:00:00,52,12
+871,Italian Grand Prix,,2012-09-09 00:00:00,53,13
+872,Singapore Grand Prix,,2012-09-23 00:00:00,53,14
+873,Japanese Grand Prix,,2012-10-07 00:00:00,53,15
+874,Korean Grand Prix,,2012-10-14 00:00:00,53,16
+875,Indian Grand Prix,,2012-10-28 00:00:00,60,17
+876,Abu Dhabi Grand Prix,,2012-11-04 00:00:00,55,18
+877,United States Grand Prix,,2012-11-18 00:00:00,55,19
+878,Brazilian Grand Prix,,2012-11-25 00:00:00,55,20
+879,Australian Grand Prix,,2013-03-17 00:00:00,58,1
+880,Malaysian Grand Prix,,2013-03-24 00:00:00,58,2
+881,Chinese Grand Prix,,2013-04-14 00:00:00,58,3
+882,Bahrain Grand Prix,,2013-04-21 00:00:00,57,4
+883,Spanish Grand Prix,,2013-05-12 00:00:00,66,5
+884,Monaco Grand Prix,,2013-05-26 00:00:00,66,6
+885,Canadian Grand Prix,,2013-06-09 00:00:00,66,7
+886,British Grand Prix,,2013-06-30 00:00:00,66,8
+887,German Grand Prix,,2013-07-07 00:00:00,60,9
+888,Hungarian Grand Prix,,2013-07-28 00:00:00,70,10
+889,Belgian Grand Prix,,2013-08-25 00:00:00,70,11
+890,Italian Grand Prix,,2013-09-08 00:00:00,70,12
+891,Singapore Grand Prix,,2013-09-22 00:00:00,70,13
+892,Korean Grand Prix,,2013-10-06 00:00:00,70,14
+893,Japanese Grand Prix,,2013-10-13 00:00:00,53,15
+894,Indian Grand Prix,,2013-10-27 00:00:00,53,16
+895,Abu Dhabi Grand Prix,,2013-11-03 00:00:00,53,17
+896,United States Grand Prix,,2013-11-17 00:00:00,56,18
+897,Brazilian Grand Prix,,2013-11-24 00:00:00,71,19
+898,Australian Grand Prix,,2014-03-16 00:00:00,57,1
+899,Malaysian Grand Prix,,2014-03-30 00:00:00,56,2
+900,Bahrain Grand Prix,,2014-04-06 00:00:00,56,3
+901,Chinese Grand Prix,,2014-04-20 00:00:00,56,4
+902,Spanish Grand Prix,,2014-05-11 00:00:00,56,5
+903,Monaco Grand Prix,,2014-05-25 00:00:00,56,6
+904,Canadian Grand Prix,,2014-06-08 00:00:00,70,7
+905,Austrian Grand Prix,,2014-06-22 00:00:00,71,8
+906,British Grand Prix,,2014-07-06 00:00:00,52,9
+907,German Grand Prix,,2014-07-20 00:00:00,67,10
+908,Hungarian Grand Prix,,2014-07-27 00:00:00,70,11
+909,Belgian Grand Prix,,2014-08-24 00:00:00,44,12
+910,Italian Grand Prix,,2014-09-07 00:00:00,53,13
+911,Singapore Grand Prix,,2014-09-21 00:00:00,53,14
+912,Japanese Grand Prix,,2014-10-05 00:00:00,53,15
+913,Russian Grand Prix,,2014-10-12 00:00:00,53,16
+914,United States Grand Prix,,2014-11-02 00:00:00,53,17
+915,Brazilian Grand Prix,,2014-11-09 00:00:00,53,18
+916,Abu Dhabi Grand Prix,,2014-11-23 00:00:00,55,19
+917,Australian Grand Prix,,2015-03-15 00:00:00,55,1
+918,Malaysian Grand Prix,,2015-03-29 00:00:00,56,2
+919,Chinese Grand Prix,,2015-04-12 00:00:00,56,3
+920,Bahrain Grand Prix,,2015-04-19 00:00:00,56,4
+921,Spanish Grand Prix,,2015-05-10 00:00:00,56,5
+922,Monaco Grand Prix,,2015-05-24 00:00:00,78,6
+923,Canadian Grand Prix,,2015-06-07 00:00:00,78,7
+924,Austrian Grand Prix,,2015-06-21 00:00:00,78,8
+925,British Grand Prix,,2015-07-05 00:00:00,52,9
+926,Hungarian Grand Prix,,2015-07-26 00:00:00,52,10
+927,Belgian Grand Prix,,2015-08-23 00:00:00,52,11
+928,Italian Grand Prix,,2015-09-06 00:00:00,52,12
+929,Singapore Grand Prix,,2015-09-20 00:00:00,61,13
+930,Japanese Grand Prix,,2015-09-27 00:00:00,61,14
+931,Russian Grand Prix,,2015-10-11 00:00:00,61,15
+932,United States Grand Prix,,2015-10-25 00:00:00,61,16
+933,Mexican Grand Prix,,2015-11-01 00:00:00,71,17
+934,Brazilian Grand Prix,,2015-11-15 00:00:00,71,18
+935,Abu Dhabi Grand Prix,,2015-11-29 00:00:00,71,19
+936,Australian Grand Prix,,2016-03-20 00:00:00,57,1
+937,Bahrain Grand Prix,,2016-04-03 00:00:00,57,2
+938,Chinese Grand Prix,,2016-04-17 00:00:00,57,3
+939,Russian Grand Prix,,2016-05-01 00:00:00,57,4
+940,Spanish Grand Prix,,2016-05-15 00:00:00,66,5
+941,Monaco Grand Prix,,2016-05-29 00:00:00,66,6
+942,Canadian Grand Prix,,2016-06-12 00:00:00,66,7
+943,European Grand Prix,,2016-06-19 00:00:00,51,8
+944,Austrian Grand Prix,,2016-07-03 00:00:00,51,9
+945,British Grand Prix,,2016-07-10 00:00:00,51,10
+946,Hungarian Grand Prix,,2016-07-24 00:00:00,51,11
+947,German Grand Prix,,2016-07-31 00:00:00,67,12
+948,Belgian Grand Prix,,2016-08-28 00:00:00,44,13
+949,Italian Grand Prix,,2016-09-04 00:00:00,53,14
+950,Singapore Grand Prix,,2016-09-18 00:00:00,61,15
+951,Malaysian Grand Prix,,2016-10-02 00:00:00,61,16
+952,Japanese Grand Prix,,2016-10-09 00:00:00,61,17
+953,United States Grand Prix,,2016-10-23 00:00:00,61,18
+954,Mexican Grand Prix,,2016-10-30 00:00:00,71,19
+955,Brazilian Grand Prix,,2016-11-13 00:00:00,71,20
+956,Abu Dhabi Grand Prix,,2016-11-27 00:00:00,55,21
+957,Australian Grand Prix,,2017-03-26 00:00:00,57,1
+958,Chinese Grand Prix,,2017-04-09 00:00:00,56,2
+959,Bahrain Grand Prix,,2017-04-16 00:00:00,56,3
+960,Russian Grand Prix,,2017-04-30 00:00:00,56,4
+961,Spanish Grand Prix,,2017-05-14 00:00:00,56,5
+962,Monaco Grand Prix,,2017-05-28 00:00:00,78,6
+963,Canadian Grand Prix,,2017-06-11 00:00:00,78,7
+964,Azerbaijan Grand Prix,,2017-06-25 00:00:00,78,8
+965,Austrian Grand Prix,,2017-07-09 00:00:00,78,9
+966,British Grand Prix,,2017-07-16 00:00:00,78,10
+967,Hungarian Grand Prix,,2017-07-30 00:00:00,70,11
+968,Belgian Grand Prix,,2017-08-27 00:00:00,70,12
+969,Italian Grand Prix,,2017-09-03 00:00:00,53,13
+970,Singapore Grand Prix,,2017-09-17 00:00:00,53,14
+971,Malaysian Grand Prix,,2017-10-01 00:00:00,53,15
+972,Japanese Grand Prix,,2017-10-08 00:00:00,53,16
+973,United States Grand Prix,,2017-10-22 00:00:00,56,17
+974,Mexican Grand Prix,,2017-10-29 00:00:00,71,18
+975,Brazilian Grand Prix,,2017-11-12 00:00:00,71,19
+976,Abu Dhabi Grand Prix,,2017-11-26 00:00:00,55,20
+977,Australian Grand Prix,,2018-03-25 00:00:00,58,1
+978,Bahrain Grand Prix,,2018-04-08 00:00:00,58,2
+979,Chinese Grand Prix,,2018-04-15 00:00:00,58,3
+980,Azerbaijan Grand Prix,,2018-04-29 00:00:00,58,4
+981,Spanish Grand Prix,,2018-05-13 00:00:00,66,5
+982,Monaco Grand Prix,,2018-05-27 00:00:00,66,6
+983,Canadian Grand Prix,,2018-06-10 00:00:00,66,7
+984,French Grand Prix,,2018-06-24 00:00:00,66,8
+985,Austrian Grand Prix,,2018-07-01 00:00:00,66,9
+986,British Grand Prix,,2018-07-08 00:00:00,52,10
+987,German Grand Prix,,2018-07-22 00:00:00,67,11
+988,Hungarian Grand Prix,,2018-07-29 00:00:00,67,12
+989,Belgian Grand Prix,,2018-08-26 00:00:00,67,13
+990,Italian Grand Prix,,2018-09-02 00:00:00,53,14
+991,Singapore Grand Prix,,2018-09-16 00:00:00,53,15
+992,Russian Grand Prix,,2018-09-30 00:00:00,53,16
+993,Japanese Grand Prix,,2018-10-07 00:00:00,53,17
+994,United States Grand Prix,,2018-10-21 00:00:00,53,18
+995,Mexican Grand Prix,,2018-10-28 00:00:00,53,19
+996,Brazilian Grand Prix,,2018-11-11 00:00:00,53,20
+997,Abu Dhabi Grand Prix,,2018-11-25 00:00:00,55,21
+998,Australian Grand Prix,,2019-03-17 00:00:00,58,1
+999,Bahrain Grand Prix,,2019-03-31 00:00:00,57,2
+1000,Chinese Grand Prix,,2019-04-14 00:00:00,57,3
+1001,Azerbaijan Grand Prix,,2019-04-28 00:00:00,57,4
+1002,Spanish Grand Prix,,2019-05-12 00:00:00,57,5
+1003,Monaco Grand Prix,,2019-05-26 00:00:00,78,6
+1004,Canadian Grand Prix,,2019-06-09 00:00:00,70,7
+1005,French Grand Prix,,2019-06-23 00:00:00,70,8
+1006,Austrian Grand Prix,,2019-06-30 00:00:00,70,9
+1007,British Grand Prix,,2019-07-14 00:00:00,52,10
+1008,German Grand Prix,,2019-07-28 00:00:00,64,11
+1009,Hungarian Grand Prix,,2019-08-04 00:00:00,64,12
+1010,Belgian Grand Prix,,2019-09-01 00:00:00,64,13
+1011,Italian Grand Prix,,2019-09-08 00:00:00,64,14
+1012,Singapore Grand Prix,,2019-09-22 00:00:00,61,15
+1013,Russian Grand Prix,,2019-09-29 00:00:00,53,16
+1014,Japanese Grand Prix,,2019-10-13 00:00:00,53,17
+1015,Mexican Grand Prix,,2019-10-27 00:00:00,71,18
+1016,United States Grand Prix,,2019-11-03 00:00:00,71,19
+1017,Brazilian Grand Prix,,2019-11-17 00:00:00,71,20
+1018,Abu Dhabi Grand Prix,,2019-12-01 00:00:00,71,21
+1019,Austrian Grand Prix,,2020-07-05 00:00:00,71,1
+1020,Styrian Grand Prix,,2020-07-12 00:00:00,71,2
+1021,Hungarian Grand Prix,,2020-07-19 00:00:00,71,3
+1022,British Grand Prix,,2020-08-02 00:00:00,71,4
+1023,70th Anniversary Grand Prix,,2020-08-09 00:00:00,52,5
+1024,Spanish Grand Prix,,2020-08-16 00:00:00,52,6
+1025,Belgian Grand Prix,,2020-08-30 00:00:00,52,7
+1026,Italian Grand Prix,,2020-09-06 00:00:00,52,8
+1027,Tuscan Grand Prix,,2020-09-13 00:00:00,59,9
+1028,Russian Grand Prix,,2020-09-27 00:00:00,59,10
+1029,Eifel Grand Prix,,2020-10-11 00:00:00,59,11
+1030,Portuguese Grand Prix,,2020-10-25 00:00:00,66,12
+1031,Emilia Romagna Grand Prix,,2020-11-01 00:00:00,66,13
+1032,Turkish Grand Prix,,2020-11-15 00:00:00,66,14
+1033,Bahrain Grand Prix,,2020-11-29 00:00:00,66,15
+1034,Sakhir Grand Prix,,2020-12-06 00:00:00,87,16
+1035,Abu Dhabi Grand Prix,,2020-12-13 00:00:00,55,17
+1036,Bahrain Grand Prix,,2021-03-28 00:00:00,55,1
+1037,Emilia Romagna Grand Prix,,2021-04-18 00:00:00,63,2
+1038,Portuguese Grand Prix,,2021-05-02 00:00:00,63,3
+1039,Spanish Grand Prix,,2021-05-09 00:00:00,63,4
+1040,Monaco Grand Prix,,2021-05-23 00:00:00,63,5
+1041,Azerbaijan Grand Prix,,2021-06-06 00:00:00,51,6
+1042,French Grand Prix,,2021-06-20 00:00:00,51,7
+1043,Styrian Grand Prix,,2021-06-27 00:00:00,51,8
+1044,Austrian Grand Prix,,2021-07-04 00:00:00,51,9
+1045,British Grand Prix,,2021-07-18 00:00:00,52,10
+1046,Hungarian Grand Prix,,2021-08-01 00:00:00,70,11
+1047,Belgian Grand Prix,,2021-08-29 00:00:00,70,12
+1048,Dutch Grand Prix,,2021-09-05 00:00:00,70,13
+1049,Italian Grand Prix,,2021-09-12 00:00:00,53,14
+1050,Russian Grand Prix,,2021-09-26 00:00:00,53,15
+1051,Turkish Grand Prix,,2021-10-10 00:00:00,53,16
+1052,United States Grand Prix,,2021-10-24 00:00:00,53,17
+1053,Mexico City Grand Prix,,2021-11-07 00:00:00,53,18
+1054,São Paulo Grand Prix,,2021-11-14 00:00:00,71,19
+1055,Qatar Grand Prix,,2021-11-21 00:00:00,71,20
+1056,Saudi Arabian Grand Prix,,2021-12-05 00:00:00,71,21
+1057,Abu Dhabi Grand Prix,,2021-12-12 00:00:00,71,22
+1058,Bahrain Grand Prix,,2022-03-20 00:00:00,57,1
+1059,Saudi Arabian Grand Prix,,2022-03-27 00:00:00,50,2
+1060,Australian Grand Prix,,2022-04-10 00:00:00,58,3
+1061,Emilia Romagna Grand Prix,,2022-04-24 00:00:00,63,4
+1062,Miami Grand Prix,,2022-05-08 00:00:00,63,5
+1063,Spanish Grand Prix,,2022-05-22 00:00:00,63,6
+1064,Monaco Grand Prix,,2022-05-29 00:00:00,64,7
+1065,Azerbaijan Grand Prix,,2022-06-12 00:00:00,64,8
+1066,Canadian Grand Prix,,2022-06-19 00:00:00,64,9
+1067,British Grand Prix,,2022-07-03 00:00:00,64,10
+1068,Austrian Grand Prix,,2022-07-10 00:00:00,71,11
+1069,French Grand Prix,,2022-07-24 00:00:00,53,12
+1070,Hungarian Grand Prix,,2022-07-31 00:00:00,70,13
+1071,Belgian Grand Prix,,2022-08-28 00:00:00,44,14
+1072,Dutch Grand Prix,,2022-09-04 00:00:00,44,15
+1073,Italian Grand Prix,,2022-09-11 00:00:00,44,16
+1074,Singapore Grand Prix,,2022-10-02 00:00:00,59,17
+1075,Japanese Grand Prix,,2022-10-09 00:00:00,59,18
+1076,United States Grand Prix,,2022-10-23 00:00:00,59,19
+1077,Mexico City Grand Prix,,2022-10-30 00:00:00,59,20
+1078,São Paulo Grand Prix,,2022-11-13 00:00:00,71,21
+1079,Abu Dhabi Grand Prix,,2022-11-20 00:00:00,71,22
+1080,Bahrain Grand Prix,,2023-03-05 00:00:00,57,1
+1081,Saudi Arabian Grand Prix,,2023-03-19 00:00:00,50,2
+1082,Australian Grand Prix,,2023-04-02 00:00:00,58,3
+1083,Azerbaijan Grand Prix,,2023-04-30 00:00:00,58,4
+1084,Miami Grand Prix,,2023-05-07 00:00:00,57,5
+1085,Monaco Grand Prix,,2023-05-28 00:00:00,78,6
+1086,Spanish Grand Prix,,2023-06-04 00:00:00,66,7
+1087,Canadian Grand Prix,,2023-06-18 00:00:00,70,8
+1088,Austrian Grand Prix,,2023-07-02 00:00:00,71,9
+1089,British Grand Prix,,2023-07-09 00:00:00,52,10
+1090,Hungarian Grand Prix,,2023-07-23 00:00:00,70,11
+1091,Belgian Grand Prix,,2023-07-30 00:00:00,44,12
+1092,Dutch Grand Prix,,2023-08-27 00:00:00,44,13
+1093,Italian Grand Prix,,2023-09-03 00:00:00,44,14
+1094,Singapore Grand Prix,,2023-09-17 00:00:00,62,15
+1095,Japanese Grand Prix,,2023-09-24 00:00:00,53,16
+1096,Qatar Grand Prix,,2023-10-08 00:00:00,53,17
+1097,United States Grand Prix,,2023-10-22 00:00:00,53,18
+1098,Mexico City Grand Prix,,2023-10-29 00:00:00,53,19
+1099,São Paulo Grand Prix,,2023-11-05 00:00:00,71,20
+1100,Las Vegas Grand Prix,,2023-11-19 00:00:00,50,21
+1101,Abu Dhabi Grand Prix,,2023-11-26 00:00:00,58,22
+1102,Bahrain Grand Prix,,2024-03-02 00:00:00,57,1
+1103,Saudi Arabian Grand Prix,,2024-03-09 00:00:00,57,2
+1104,Australian Grand Prix,,2024-03-24 00:00:00,58,3
+1105,Japanese Grand Prix,,2024-04-07 00:00:00,53,4
+1106,Chinese Grand Prix,,2024-04-21 00:00:00,53,5
+1107,Miami Grand Prix,,2024-05-05 00:00:00,53,6
+1108,Emilia Romagna Grand Prix,,2024-05-19 00:00:00,53,7
+1109,Monaco Grand Prix,,2024-05-26 00:00:00,78,8
+1110,Canadian Grand Prix,,2024-06-09 00:00:00,78,9
+1111,Spanish Grand Prix,,2024-06-23 00:00:00,78,10
+1112,Austrian Grand Prix,,2024-06-30 00:00:00,78,11
+1113,British Grand Prix,,2024-07-07 00:00:00,52,12
+1114,Hungarian Grand Prix,,2024-07-21 00:00:00,52,13
+1115,Belgian Grand Prix,,2024-07-28 00:00:00,52,14
+1116,Dutch Grand Prix,,2024-08-25 00:00:00,52,15
+1117,Italian Grand Prix,,2024-09-01 00:00:00,53,16
+1118,Azerbaijan Grand Prix,,2024-09-15 00:00:00,51,17
+1119,Singapore Grand Prix,,2024-09-22 00:00:00,51,18
+1120,United States Grand Prix,,2024-10-20 00:00:00,51,19
+1121,Mexico City Grand Prix,,2024-10-27 00:00:00,51,20
+1122,São Paulo Grand Prix,,2024-11-03 00:00:00,69,21
+1123,Las Vegas Grand Prix,,2024-11-23 00:00:00,69,22
+1124,Qatar Grand Prix,,2024-12-01 00:00:00,69,23
+1125,Abu Dhabi Grand Prix,,2024-12-08 00:00:00,69,24
+1126,Australian Grand Prix,,2025-03-16 00:00:00,57,1
+1127,Chinese Grand Prix,,2025-03-23 00:00:00,56,2
+1128,Japanese Grand Prix,,2025-04-06 00:00:00,53,3
+1129,Bahrain Grand Prix,,2025-04-13 00:00:00,53,4
+1130,Saudi Arabian Grand Prix,,2025-04-20 00:00:00,53,5
+1131,Miami Grand Prix,,2025-05-04 00:00:00,53,6
+1132,Emilia Romagna Grand Prix,,2025-05-18 00:00:00,63,7
+1133,Monaco Grand Prix,,2025-05-25 00:00:00,63,8
+1134,Spanish Grand Prix,,2025-06-01 00:00:00,63,9
+1135,Canadian Grand Prix,,2025-06-15 00:00:00,70,10
+1136,Austrian Grand Prix,,2025-06-29 00:00:00,70,11
+1137,British Grand Prix,,2025-07-06 00:00:00,70,12
+1138,Belgian Grand Prix,,2025-07-27 00:00:00,44,13
+1139,Hungarian Grand Prix,,2025-08-03 00:00:00,70,14
+1140,Dutch Grand Prix,,2025-08-31 00:00:00,70,15
+1141,Italian Grand Prix,,2025-09-07 00:00:00,70,16
+1142,Azerbaijan Grand Prix,,2025-09-21 00:00:00,70,17
+1143,Singapore Grand Prix,,2025-10-05 00:00:00,62,18
+1144,United States Grand Prix,,2025-10-19 00:00:00,62,19
+1145,Mexico City Grand Prix,,2025-10-26 00:00:00,62,20
+1146,São Paulo Grand Prix,,2025-11-09 00:00:00,62,21
+1147,Las Vegas Grand Prix,,2025-11-23 00:00:00,50,22
+1148,Qatar Grand Prix,,2025-11-30 00:00:00,50,23
+1149,Abu Dhabi Grand Prix,,2025-12-07 00:00:00,50,24
+1150,Australian Grand Prix,,2026-03-08 00:00:00,58,1
+1151,Chinese Grand Prix,,2026-03-15 00:00:00,58,2
+1152,Japanese Grand Prix,,2026-03-29 00:00:00,58,3
+1153,Bahrain Grand Prix,,2026-04-12 00:00:00,58,4
+1154,Saudi Arabian Grand Prix,,2026-04-19 00:00:00,58,5
+1155,Miami Grand Prix,,2026-05-03 00:00:00,58,6
+1156,Canadian Grand Prix,,2026-05-24 00:00:00,,7
+1157,Monaco Grand Prix,,2026-06-07 00:00:00,,8
+1158,Barcelona Grand Prix,,2026-06-14 00:00:00,,9
+1159,Austrian Grand Prix,,2026-06-28 00:00:00,,10
+1160,British Grand Prix,,2026-07-05 00:00:00,,11
+1161,Belgian Grand Prix,,2026-07-19 00:00:00,,12
+1162,Hungarian Grand Prix,,2026-07-26 00:00:00,,13
+1163,Dutch Grand Prix,,2026-08-23 00:00:00,,14
+1164,Italian Grand Prix,,2026-09-06 00:00:00,,15
+1165,Spanish Grand Prix,,2026-09-13 00:00:00,,16
+1166,Azerbaijan Grand Prix,,2026-09-26 00:00:00,,17
+1167,Singapore Grand Prix,,2026-10-11 00:00:00,,18
+1168,United States Grand Prix,,2026-10-25 00:00:00,,19
+1169,Mexico City Grand Prix,,2026-11-01 00:00:00,,20
+1170,Brazilian Grand Prix,,2026-11-08 00:00:00,,21
+1171,Las Vegas Grand Prix,,2026-11-22 00:00:00,,22
+1172,Qatar Grand Prix,,2026-11-29 00:00:00,,23
+1173,Abu Dhabi Grand Prix,,2026-12-06 00:00:00,,24

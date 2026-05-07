@@ -1,0 +1,386 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1983,Brazilian Grand Prix,Nelson Piquet,1,9,4,63,RAS
+1983,Brazilian Grand Prix,Niki Lauda,2,4,9,63,RAS
+1983,Brazilian Grand Prix,Jacques Laffite,3,3,18,63,RAS
+1983,Brazilian Grand Prix,Patrick Tambay,4,2,3,63,RAS
+1983,Brazilian Grand Prix,Marc Surer,5,1,20,63,RAS
+1983,Brazilian Grand Prix,Alain Prost,6,0,2,62,RAS
+1983,Brazilian Grand Prix,Derek Warwick,7,0,5,62,RAS
+1983,Brazilian Grand Prix,Chico Serra,8,0,23,62,RAS
+1983,Brazilian Grand Prix,René Arnoux,9,0,6,62,RAS
+1983,Brazilian Grand Prix,Danny Sullivan,10,0,21,62,RAS
+1983,Brazilian Grand Prix,Nigel Mansell,11,0,22,61,RAS
+1983,Brazilian Grand Prix,Johnny Cecotto,12,0,19,60,RAS
+1983,Brazilian Grand Prix,Eliseo Salazar,13,0,26,59,RAS
+1983,Brazilian Grand Prix,Manfred Winkelhock,14,0,25,59,RAS
+1983,Brazilian Grand Prix,Keke Rosberg,15,0,1,63,DQ
+1983,Brazilian Grand Prix,Elio de Angelis,16,0,13,60,DQ
+1983,Brazilian Grand Prix,Roberto Guerrero,17,0,14,53,Not classified
+1983,Brazilian Grand Prix,Eddie Cheever,18,0,8,41,Brakes
+1983,Brazilian Grand Prix,John Watson,19,0,16,34,Engine
+1983,Brazilian Grand Prix,Raul Boesel,20,0,17,25,Engine
+1983,Brazilian Grand Prix,Mauro Baldi,21,0,10,23,Collision
+1983,Brazilian Grand Prix,Jean-Pierre Jarier,22,0,12,22,Suspension
+1983,Brazilian Grand Prix,Riccardo Patrese,23,0,7,19,Exhaust
+1983,Brazilian Grand Prix,Corrado Fabi,24,0,24,17,Engine
+1983,Brazilian Grand Prix,Bruno Giacomelli,25,0,15,16,Spun off
+1983,Brazilian Grand Prix,Michele Alboreto,26,0,11,7,Engine
+1983,United States Grand Prix West,John Watson,1,9,22,75,RAS
+1983,United States Grand Prix West,Niki Lauda,2,6,23,75,RAS
+1983,United States Grand Prix West,René Arnoux,3,4,2,75,RAS
+1983,United States Grand Prix West,Jacques Laffite,4,3,4,74,RAS
+1983,United States Grand Prix West,Marc Surer,5,2,16,74,RAS
+1983,United States Grand Prix West,Johnny Cecotto,6,1,17,74,RAS
+1983,United States Grand Prix West,Raul Boesel,7,0,26,73,RAS
+1983,United States Grand Prix West,Danny Sullivan,8,0,9,73,RAS
+1983,United States Grand Prix West,Michele Alboreto,9,0,7,73,RAS
+1983,United States Grand Prix West,Riccardo Patrese,10,0,11,72,Distributor
+1983,United States Grand Prix West,Alain Prost,11,0,8,72,RAS
+1983,United States Grand Prix West,Nigel Mansell,12,0,13,72,RAS
+1983,United States Grand Prix West,Eddie Cheever,13,0,15,67,Gearbox
+1983,United States Grand Prix West,Alan Jones,14,0,12,58,Driver unwell
+1983,United States Grand Prix West,Nelson Piquet,15,0,20,51,Throttle
+1983,United States Grand Prix West,Andrea de Cesaris,16,0,19,48,Gearbox
+1983,United States Grand Prix West,Elio de Angelis,17,0,5,29,Handling
+1983,United States Grand Prix West,Roberto Guerrero,18,0,18,27,Gearbox
+1983,United States Grand Prix West,Jean-Pierre Jarier,19,0,10,26,Collision
+1983,United States Grand Prix West,Bruno Giacomelli,20,0,14,26,Battery
+1983,United States Grand Prix West,Mauro Baldi,21,0,21,26,Spun off
+1983,United States Grand Prix West,Patrick Tambay,22,0,1,25,Collision
+1983,United States Grand Prix West,Keke Rosberg,23,0,3,25,Collision
+1983,United States Grand Prix West,Eliseo Salazar,24,0,25,25,Gearbox
+1983,United States Grand Prix West,Derek Warwick,25,0,6,11,Spun off
+1983,United States Grand Prix West,Manfred Winkelhock,26,0,24,3,Spun off
+1983,French Grand Prix,Alain Prost,1,9,1,54,RAS
+1983,French Grand Prix,Nelson Piquet,2,6,6,54,RAS
+1983,French Grand Prix,Eddie Cheever,3,4,2,54,RAS
+1983,French Grand Prix,Patrick Tambay,4,3,11,54,RAS
+1983,French Grand Prix,Keke Rosberg,5,2,16,53,RAS
+1983,French Grand Prix,Jacques Laffite,6,1,19,53,RAS
+1983,French Grand Prix,René Arnoux,7,0,4,53,RAS
+1983,French Grand Prix,Michele Alboreto,8,0,15,53,RAS
+1983,French Grand Prix,Jean-Pierre Jarier,9,0,20,53,RAS
+1983,French Grand Prix,Marc Surer,10,0,21,53,RAS
+1983,French Grand Prix,Johnny Cecotto,11,0,17,52,RAS
+1983,French Grand Prix,Andrea de Cesaris,12,0,7,50,RAS
+1983,French Grand Prix,Bruno Giacomelli,13,0,13,49,Gearbox
+1983,French Grand Prix,Raul Boesel,14,0,25,47,Engine
+1983,French Grand Prix,Corrado Fabi,15,0,23,36,Engine
+1983,French Grand Prix,Manfred Winkelhock,16,0,10,36,Turbo
+1983,French Grand Prix,Niki Lauda,17,0,12,29,Wheel bearing
+1983,French Grand Prix,Mauro Baldi,18,0,8,28,Spun off
+1983,French Grand Prix,Chico Serra,19,0,26,26,Gearbox
+1983,French Grand Prix,Roberto Guerrero,20,0,22,23,Engine
+1983,French Grand Prix,Danny Sullivan,21,0,24,21,Clutch
+1983,French Grand Prix,Elio de Angelis,22,0,5,20,Electrical
+1983,French Grand Prix,Riccardo Patrese,23,0,3,19,Water leak
+1983,French Grand Prix,Derek Warwick,24,0,9,14,Engine
+1983,French Grand Prix,Nigel Mansell,25,0,18,6,Physical
+1983,French Grand Prix,John Watson,26,0,14,3,Engine
+1983,San Marino Grand Prix,Patrick Tambay,1,9,3,60,RAS
+1983,San Marino Grand Prix,Alain Prost,2,6,4,60,RAS
+1983,San Marino Grand Prix,René Arnoux,3,4,1,59,RAS
+1983,San Marino Grand Prix,Keke Rosberg,4,3,11,59,RAS
+1983,San Marino Grand Prix,John Watson,5,2,24,59,RAS
+1983,San Marino Grand Prix,Marc Surer,6,1,12,59,RAS
+1983,San Marino Grand Prix,Jacques Laffite,7,0,16,59,RAS
+1983,San Marino Grand Prix,Chico Serra,8,0,20,58,RAS
+1983,San Marino Grand Prix,Raul Boesel,9,0,25,58,RAS
+1983,San Marino Grand Prix,Mauro Baldi,10,0,10,57,Engine
+1983,San Marino Grand Prix,Manfred Winkelhock,11,0,7,57,RAS
+1983,San Marino Grand Prix,Nigel Mansell,12,0,15,56,Spun off
+1983,San Marino Grand Prix,Riccardo Patrese,13,0,5,54,Spun off
+1983,San Marino Grand Prix,Andrea de Cesaris,14,0,8,45,Ignition
+1983,San Marino Grand Prix,Elio de Angelis,15,0,9,43,Handling
+1983,San Marino Grand Prix,Nelson Piquet,16,0,2,41,Engine
+1983,San Marino Grand Prix,Jean-Pierre Jarier,17,0,19,39,Radiator
+1983,San Marino Grand Prix,Danny Sullivan,18,0,22,37,Collision
+1983,San Marino Grand Prix,Derek Warwick,19,0,14,27,Spun off
+1983,San Marino Grand Prix,Corrado Fabi,20,0,26,20,Spun off
+1983,San Marino Grand Prix,Bruno Giacomelli,21,0,17,20,Suspension
+1983,San Marino Grand Prix,Niki Lauda,22,0,18,11,Spun off
+1983,San Marino Grand Prix,Johnny Cecotto,23,0,23,11,Spun off
+1983,San Marino Grand Prix,Michele Alboreto,24,0,13,10,Collision
+1983,San Marino Grand Prix,Roberto Guerrero,25,0,21,3,Spun off
+1983,San Marino Grand Prix,Eddie Cheever,26,0,6,1,Turbo
+1983,Monaco Grand Prix,Keke Rosberg,1,9,5,76,RAS
+1983,Monaco Grand Prix,Nelson Piquet,2,6,6,76,RAS
+1983,Monaco Grand Prix,Alain Prost,3,4,1,76,RAS
+1983,Monaco Grand Prix,Patrick Tambay,4,3,4,76,RAS
+1983,Monaco Grand Prix,Danny Sullivan,5,2,20,74,RAS
+1983,Monaco Grand Prix,Mauro Baldi,6,1,13,74,RAS
+1983,Monaco Grand Prix,Chico Serra,7,0,15,74,RAS
+1983,Monaco Grand Prix,Riccardo Patrese,8,0,17,64,Electrical
+1983,Monaco Grand Prix,Jacques Laffite,9,0,8,53,Gearbox
+1983,Monaco Grand Prix,Marc Surer,10,0,12,49,Collision
+1983,Monaco Grand Prix,Derek Warwick,11,0,10,49,Collision
+1983,Monaco Grand Prix,Elio de Angelis,12,0,19,49,Halfshaft
+1983,Monaco Grand Prix,Jean-Pierre Jarier,13,0,9,32,Suspension
+1983,Monaco Grand Prix,Eddie Cheever,14,0,3,30,Engine
+1983,Monaco Grand Prix,Andrea de Cesaris,15,0,7,13,Gearbox
+1983,Monaco Grand Prix,René Arnoux,16,0,2,6,Suspension
+1983,Monaco Grand Prix,Raul Boesel,17,0,18,3,Collision
+1983,Monaco Grand Prix,Manfred Winkelhock,18,0,16,3,Collision
+1983,Monaco Grand Prix,Michele Alboreto,19,0,11,0,Collision
+1983,Monaco Grand Prix,Nigel Mansell,20,0,14,0,Collision
+1983,Belgian Grand Prix,Alain Prost,1,9,1,40,RAS
+1983,Belgian Grand Prix,Patrick Tambay,2,6,2,40,RAS
+1983,Belgian Grand Prix,Eddie Cheever,3,4,8,40,RAS
+1983,Belgian Grand Prix,Nelson Piquet,4,3,4,40,RAS
+1983,Belgian Grand Prix,Keke Rosberg,5,2,9,40,RAS
+1983,Belgian Grand Prix,Jacques Laffite,6,1,11,40,RAS
+1983,Belgian Grand Prix,Derek Warwick,7,0,22,40,RAS
+1983,Belgian Grand Prix,Bruno Giacomelli,8,0,16,40,RAS
+1983,Belgian Grand Prix,Elio de Angelis,9,0,13,39,RAS
+1983,Belgian Grand Prix,Johnny Cecotto,10,0,25,39,RAS
+1983,Belgian Grand Prix,Marc Surer,11,0,10,39,RAS
+1983,Belgian Grand Prix,Danny Sullivan,12,0,23,39,RAS
+1983,Belgian Grand Prix,Raul Boesel,13,0,26,39,RAS
+1983,Belgian Grand Prix,Michele Alboreto,14,0,17,38,RAS
+1983,Belgian Grand Prix,Niki Lauda,15,0,15,33,Gearbox
+1983,Belgian Grand Prix,Nigel Mansell,16,0,19,30,Gearbox
+1983,Belgian Grand Prix,Andrea de Cesaris,17,0,3,25,Injection
+1983,Belgian Grand Prix,Roberto Guerrero,18,0,14,23,Engine
+1983,Belgian Grand Prix,René Arnoux,19,0,5,22,Engine
+1983,Belgian Grand Prix,Corrado Fabi,20,0,24,19,Wheel
+1983,Belgian Grand Prix,Manfred Winkelhock,21,0,7,18,Wheel
+1983,Belgian Grand Prix,John Watson,22,0,20,8,Collision
+1983,Belgian Grand Prix,Jean-Pierre Jarier,23,0,21,8,Collision
+1983,Belgian Grand Prix,Thierry Boutsen,24,0,18,4,Suspension
+1983,Belgian Grand Prix,Mauro Baldi,25,0,12,3,Throttle
+1983,Belgian Grand Prix,Riccardo Patrese,26,0,6,0,Engine
+1983,Detroit Grand Prix,Michele Alboreto,1,9,6,60,RAS
+1983,Detroit Grand Prix,Keke Rosberg,2,6,12,60,RAS
+1983,Detroit Grand Prix,John Watson,3,4,21,60,RAS
+1983,Detroit Grand Prix,Nelson Piquet,4,3,2,60,RAS
+1983,Detroit Grand Prix,Jacques Laffite,5,2,20,60,RAS
+1983,Detroit Grand Prix,Nigel Mansell,6,1,14,59,RAS
+1983,Detroit Grand Prix,Thierry Boutsen,7,0,10,59,RAS
+1983,Detroit Grand Prix,Alain Prost,8,0,13,59,RAS
+1983,Detroit Grand Prix,Bruno Giacomelli,9,0,17,59,RAS
+1983,Detroit Grand Prix,Raul Boesel,10,0,23,58,RAS
+1983,Detroit Grand Prix,Marc Surer,11,0,5,58,RAS
+1983,Detroit Grand Prix,Mauro Baldi,12,0,25,56,RAS
+1983,Detroit Grand Prix,Niki Lauda,13,0,18,49,Suspension
+1983,Detroit Grand Prix,Roberto Guerrero,14,0,11,38,Not classified
+1983,Detroit Grand Prix,Johnny Cecotto,15,0,26,34,Gearbox
+1983,Detroit Grand Prix,Andrea de Cesaris,16,0,8,33,Turbo
+1983,Detroit Grand Prix,René Arnoux,17,0,1,31,Electrical
+1983,Detroit Grand Prix,Danny Sullivan,18,0,16,30,Electrical
+1983,Detroit Grand Prix,Jean-Pierre Jarier,19,0,19,29,Wheel
+1983,Detroit Grand Prix,Manfred Winkelhock,20,0,22,26,Collision
+1983,Detroit Grand Prix,Derek Warwick,21,0,9,25,Engine
+1983,Detroit Grand Prix,Riccardo Patrese,22,0,15,24,Brakes
+1983,Detroit Grand Prix,Elio de Angelis,23,0,4,5,Gearbox
+1983,Detroit Grand Prix,Eddie Cheever,24,0,7,4,Distributor
+1983,Detroit Grand Prix,Piercarlo Ghinzani,25,0,24,4,Overheating
+1983,Detroit Grand Prix,Patrick Tambay,26,0,3,0,Engine
+1983,Detroit Grand Prix,Corrado Fabi,27,0,0,0,Withdrew
+1983,Canadian Grand Prix,René Arnoux,1,9,1,70,RAS
+1983,Canadian Grand Prix,Eddie Cheever,2,6,6,70,RAS
+1983,Canadian Grand Prix,Patrick Tambay,3,4,4,70,RAS
+1983,Canadian Grand Prix,Keke Rosberg,4,3,9,70,RAS
+1983,Canadian Grand Prix,Alain Prost,5,2,2,69,RAS
+1983,Canadian Grand Prix,John Watson,6,1,20,69,RAS
+1983,Canadian Grand Prix,Thierry Boutsen,7,0,15,69,RAS
+1983,Canadian Grand Prix,Michele Alboreto,8,0,17,68,RAS
+1983,Canadian Grand Prix,Manfred Winkelhock,9,0,7,67,RAS
+1983,Canadian Grand Prix,Mauro Baldi,10,0,26,67,RAS
+1983,Canadian Grand Prix,Danny Sullivan,11,0,22,68,DQ
+1983,Canadian Grand Prix,Riccardo Patrese,12,0,5,56,Gearbox
+1983,Canadian Grand Prix,Derek Warwick,13,0,12,47,Turbo
+1983,Canadian Grand Prix,Bruno Giacomelli,14,0,10,43,Engine
+1983,Canadian Grand Prix,Nigel Mansell,15,0,18,43,Handling
+1983,Canadian Grand Prix,Andrea de Cesaris,16,0,8,42,Engine
+1983,Canadian Grand Prix,Jacques Laffite,17,0,13,37,Gearbox
+1983,Canadian Grand Prix,Raul Boesel,18,0,24,32,Halfshaft
+1983,Canadian Grand Prix,Roberto Guerrero,19,0,21,27,Engine
+1983,Canadian Grand Prix,Corrado Fabi,20,0,25,26,Engine
+1983,Canadian Grand Prix,Johnny Cecotto,21,0,23,17,Differential
+1983,Canadian Grand Prix,Nelson Piquet,22,0,3,15,Throttle
+1983,Canadian Grand Prix,Niki Lauda,23,0,19,11,Spun off
+1983,Canadian Grand Prix,Elio de Angelis,24,0,11,1,Throttle
+1983,Canadian Grand Prix,Marc Surer,25,0,14,14,Transmission
+1983,Canadian Grand Prix,Jean-Pierre Jarier,26,0,16,0,Gearbox
+1983,British Grand Prix,Alain Prost,1,9,3,67,RAS
+1983,British Grand Prix,Nelson Piquet,2,6,6,67,RAS
+1983,British Grand Prix,Patrick Tambay,3,4,2,67,RAS
+1983,British Grand Prix,Nigel Mansell,4,3,18,67,RAS
+1983,British Grand Prix,René Arnoux,5,2,1,67,RAS
+1983,British Grand Prix,Niki Lauda,6,1,15,66,RAS
+1983,British Grand Prix,Mauro Baldi,7,0,11,66,RAS
+1983,British Grand Prix,Andrea de Cesaris,8,0,9,66,RAS
+1983,British Grand Prix,John Watson,9,0,24,66,RAS
+1983,British Grand Prix,Jean-Pierre Jarier,10,0,25,65,RAS
+1983,British Grand Prix,Keke Rosberg,11,0,13,65,RAS
+1983,British Grand Prix,Jacques Laffite,12,0,20,65,RAS
+1983,British Grand Prix,Michele Alboreto,13,0,16,65,RAS
+1983,British Grand Prix,Danny Sullivan,14,0,23,65,RAS
+1983,British Grand Prix,Thierry Boutsen,15,0,17,65,RAS
+1983,British Grand Prix,Roberto Guerrero,16,0,21,64,RAS
+1983,British Grand Prix,Marc Surer,17,0,19,64,RAS
+1983,British Grand Prix,Manfred Winkelhock,18,0,8,49,Engine
+1983,British Grand Prix,Raul Boesel,19,0,22,48,Suspension
+1983,British Grand Prix,Piercarlo Ghinzani,20,0,26,46,Fuel system
+1983,British Grand Prix,Derek Warwick,21,0,10,27,Gearbox
+1983,British Grand Prix,Riccardo Patrese,22,0,5,9,Turbo
+1983,British Grand Prix,Stefan Johansson,23,0,15,5,Fuel system
+1983,British Grand Prix,Eddie Cheever,24,0,7,3,Engine
+1983,British Grand Prix,Bruno Giacomelli,25,0,12,3,Turbo
+1983,British Grand Prix,Elio de Angelis,26,0,4,1,Turbo
+1983,German Grand Prix,René Arnoux,1,9,2,45,RAS
+1983,German Grand Prix,Andrea de Cesaris,2,6,3,45,RAS
+1983,German Grand Prix,Riccardo Patrese,3,4,8,45,RAS
+1983,German Grand Prix,Alain Prost,4,3,5,45,RAS
+1983,German Grand Prix,John Watson,5,2,23,44,RAS
+1983,German Grand Prix,Jacques Laffite,6,1,15,44,RAS
+1983,German Grand Prix,Marc Surer,7,0,20,44,RAS
+1983,German Grand Prix,Jean-Pierre Jarier,8,0,19,44,RAS
+1983,German Grand Prix,Thierry Boutsen,9,0,14,44,RAS
+1983,German Grand Prix,Keke Rosberg,10,0,12,44,RAS
+1983,German Grand Prix,Johnny Cecotto,11,0,22,44,RAS
+1983,German Grand Prix,Danny Sullivan,12,0,21,43,RAS
+1983,German Grand Prix,Nelson Piquet,13,0,4,42,Heat shield fire
+1983,German Grand Prix,Niki Lauda,14,0,18,44,DQ
+1983,German Grand Prix,Eddie Cheever,15,0,6,38,Fuel system
+1983,German Grand Prix,Piercarlo Ghinzani,16,0,26,34,Oil leak
+1983,German Grand Prix,Raul Boesel,17,0,25,27,Engine
+1983,German Grand Prix,Mauro Baldi,18,0,7,24,Turbo
+1983,German Grand Prix,Bruno Giacomelli,19,0,10,19,Turbo
+1983,German Grand Prix,Derek Warwick,20,0,9,17,Engine
+1983,German Grand Prix,Stefan Johansson,21,0,13,11,Engine
+1983,German Grand Prix,Patrick Tambay,22,0,1,11,Engine
+1983,German Grand Prix,Elio de Angelis,23,0,11,10,Engine
+1983,German Grand Prix,Michele Alboreto,24,0,16,4,Fuel pump
+1983,German Grand Prix,Nigel Mansell,25,0,17,1,Engine
+1983,German Grand Prix,Roberto Guerrero,26,0,24,0,Engine
+1983,Austrian Grand Prix,Alain Prost,1,9,5,53,RAS
+1983,Austrian Grand Prix,René Arnoux,2,6,2,53,RAS
+1983,Austrian Grand Prix,Nelson Piquet,3,4,4,53,RAS
+1983,Austrian Grand Prix,Eddie Cheever,4,3,8,53,RAS
+1983,Austrian Grand Prix,Nigel Mansell,5,2,3,52,RAS
+1983,Austrian Grand Prix,Niki Lauda,6,1,14,51,RAS
+1983,Austrian Grand Prix,Jean-Pierre Jarier,7,0,20,51,RAS
+1983,Austrian Grand Prix,Keke Rosberg,8,0,15,51,RAS
+1983,Austrian Grand Prix,John Watson,9,0,17,51,RAS
+1983,Austrian Grand Prix,Corrado Fabi,10,0,26,50,RAS
+1983,Austrian Grand Prix,Piercarlo Ghinzani,11,0,25,49,RAS
+1983,Austrian Grand Prix,Stefan Johansson,12,0,16,48,RAS
+1983,Austrian Grand Prix,Thierry Boutsen,13,0,19,48,RAS
+1983,Austrian Grand Prix,Manfred Winkelhock,14,0,13,33,Water leak
+1983,Austrian Grand Prix,Andrea de Cesaris,15,0,11,31,Out of fuel
+1983,Austrian Grand Prix,Patrick Tambay,16,0,1,30,Ignition
+1983,Austrian Grand Prix,Riccardo Patrese,17,0,6,29,Engine
+1983,Austrian Grand Prix,Roberto Guerrero,18,0,21,25,Gearbox
+1983,Austrian Grand Prix,Jacques Laffite,19,0,24,21,Vibrations
+1983,Austrian Grand Prix,Mauro Baldi,20,0,9,13,Oil leak
+1983,Austrian Grand Prix,Michele Alboreto,21,0,18,8,Collision
+1983,Austrian Grand Prix,Derek Warwick,22,0,10,2,Turbo
+1983,Austrian Grand Prix,Bruno Giacomelli,23,0,7,1,Radiator
+1983,Austrian Grand Prix,Elio de Angelis,24,0,12,0,Collision
+1983,Austrian Grand Prix,Marc Surer,25,0,22,0,Collision
+1983,Austrian Grand Prix,Danny Sullivan,26,0,23,0,Collision
+1983,Dutch Grand Prix,René Arnoux,1,9,10,72,RAS
+1983,Dutch Grand Prix,Patrick Tambay,2,6,2,72,RAS
+1983,Dutch Grand Prix,John Watson,3,4,15,72,RAS
+1983,Dutch Grand Prix,Derek Warwick,4,3,7,72,RAS
+1983,Dutch Grand Prix,Mauro Baldi,5,2,12,72,RAS
+1983,Dutch Grand Prix,Michele Alboreto,6,1,18,71,RAS
+1983,Dutch Grand Prix,Stefan Johansson,7,0,16,70,RAS
+1983,Dutch Grand Prix,Marc Surer,8,0,14,70,RAS
+1983,Dutch Grand Prix,Riccardo Patrese,9,0,6,70,RAS
+1983,Dutch Grand Prix,Raul Boesel,10,0,24,70,RAS
+1983,Dutch Grand Prix,Corrado Fabi,11,0,25,68,Engine
+1983,Dutch Grand Prix,Roberto Guerrero,12,0,20,68,RAS
+1983,Dutch Grand Prix,Bruno Giacomelli,13,0,13,68,Spun off
+1983,Dutch Grand Prix,Thierry Boutsen,14,0,21,65,Engine
+1983,Dutch Grand Prix,Keke Rosberg,15,0,23,53,Ignition
+1983,Dutch Grand Prix,Manfred Winkelhock,16,0,9,50,DQ
+1983,Dutch Grand Prix,Nelson Piquet,17,0,1,41,Collision
+1983,Dutch Grand Prix,Alain Prost,18,0,4,41,Spun off
+1983,Dutch Grand Prix,Eddie Cheever,19,0,11,39,Electrical
+1983,Dutch Grand Prix,Jacques Laffite,20,0,17,37,Handling
+1983,Dutch Grand Prix,Nigel Mansell,21,0,5,26,Spun off
+1983,Dutch Grand Prix,Niki Lauda,22,0,19,25,Brakes
+1983,Dutch Grand Prix,Danny Sullivan,23,0,26,20,Engine
+1983,Dutch Grand Prix,Elio de Angelis,24,0,3,12,Electrical
+1983,Dutch Grand Prix,Andrea de Cesaris,25,0,8,5,Engine
+1983,Dutch Grand Prix,Jean-Pierre Jarier,26,0,22,3,Suspension
+1983,Italian Grand Prix,Nelson Piquet,1,9,4,52,RAS
+1983,Italian Grand Prix,René Arnoux,2,6,3,52,RAS
+1983,Italian Grand Prix,Eddie Cheever,3,4,7,52,RAS
+1983,Italian Grand Prix,Patrick Tambay,4,3,2,52,RAS
+1983,Italian Grand Prix,Elio de Angelis,5,2,8,52,RAS
+1983,Italian Grand Prix,Derek Warwick,6,1,12,52,RAS
+1983,Italian Grand Prix,Bruno Giacomelli,7,0,14,52,RAS
+1983,Italian Grand Prix,Nigel Mansell,8,0,11,52,RAS
+1983,Italian Grand Prix,Jean-Pierre Jarier,9,0,19,51,RAS
+1983,Italian Grand Prix,Marc Surer,10,0,20,51,RAS
+1983,Italian Grand Prix,Keke Rosberg,11,0,16,51,RAS
+1983,Italian Grand Prix,Johnny Cecotto,12,0,26,50,RAS
+1983,Italian Grand Prix,Roberto Guerrero,13,0,21,50,RAS
+1983,Italian Grand Prix,Corrado Fabi,14,0,25,45,Engine
+1983,Italian Grand Prix,Danny Sullivan,15,0,22,44,Fuel system
+1983,Italian Grand Prix,Thierry Boutsen,16,0,18,41,Engine
+1983,Italian Grand Prix,Manfred Winkelhock,17,0,9,35,Exhaust
+1983,Italian Grand Prix,Michele Alboreto,18,0,24,28,Clutch
+1983,Italian Grand Prix,Alain Prost,19,0,5,26,Turbo
+1983,Italian Grand Prix,Niki Lauda,20,0,13,24,Electrical
+1983,Italian Grand Prix,John Watson,21,0,15,13,Electrical
+1983,Italian Grand Prix,Piercarlo Ghinzani,22,0,23,10,Gearbox
+1983,Italian Grand Prix,Mauro Baldi,23,0,10,4,Turbo
+1983,Italian Grand Prix,Stefan Johansson,24,0,17,4,Distributor
+1983,Italian Grand Prix,Riccardo Patrese,25,0,1,2,Engine
+1983,Italian Grand Prix,Andrea de Cesaris,26,0,6,2,Collision
+1983,European Grand Prix,Nelson Piquet,1,9,4,76,RAS
+1983,European Grand Prix,Alain Prost,2,6,8,76,RAS
+1983,European Grand Prix,Nigel Mansell,3,4,3,76,RAS
+1983,European Grand Prix,Andrea de Cesaris,4,3,14,76,RAS
+1983,European Grand Prix,Derek Warwick,5,2,11,76,RAS
+1983,European Grand Prix,Bruno Giacomelli,6,1,12,76,RAS
+1983,European Grand Prix,Riccardo Patrese,7,0,2,76,RAS
+1983,European Grand Prix,Manfred Winkelhock,8,0,9,75,RAS
+1983,European Grand Prix,René Arnoux,9,0,5,75,RAS
+1983,European Grand Prix,Eddie Cheever,10,0,7,75,RAS
+1983,European Grand Prix,Thierry Boutsen,11,0,18,75,RAS
+1983,European Grand Prix,Roberto Guerrero,12,0,21,75,RAS
+1983,European Grand Prix,Jonathan Palmer,13,0,25,74,RAS
+1983,European Grand Prix,Stefan Johansson,14,0,19,74,RAS
+1983,European Grand Prix,Raul Boesel,15,0,23,73,RAS
+1983,European Grand Prix,Patrick Tambay,16,0,6,67,Spun off
+1983,European Grand Prix,Michele Alboreto,17,0,26,64,Engine
+1983,European Grand Prix,Piercarlo Ghinzani,18,0,24,63,Throttle
+1983,European Grand Prix,Marc Surer,19,0,17,50,Engine
+1983,European Grand Prix,Keke Rosberg,20,0,16,43,Engine
+1983,European Grand Prix,Mauro Baldi,21,0,15,39,Clutch
+1983,European Grand Prix,John Watson,22,0,10,36,Spun off
+1983,European Grand Prix,Danny Sullivan,23,0,20,27,Oil leak
+1983,European Grand Prix,Niki Lauda,24,0,13,25,Engine
+1983,European Grand Prix,Elio de Angelis,25,0,1,12,Oil pump
+1983,European Grand Prix,Jean-Pierre Jarier,26,0,22,0,Clutch
+1983,South African Grand Prix,Riccardo Patrese,1,9,3,77,RAS
+1983,South African Grand Prix,Andrea de Cesaris,2,6,9,77,RAS
+1983,South African Grand Prix,Nelson Piquet,3,4,2,77,RAS
+1983,South African Grand Prix,Derek Warwick,4,3,13,76,RAS
+1983,South African Grand Prix,Keke Rosberg,5,2,6,76,RAS
+1983,South African Grand Prix,Eddie Cheever,6,1,14,76,RAS
+1983,South African Grand Prix,Danny Sullivan,7,0,19,75,RAS
+1983,South African Grand Prix,Marc Surer,8,0,22,75,RAS
+1983,South African Grand Prix,Thierry Boutsen,9,0,20,74,RAS
+1983,South African Grand Prix,Jean-Pierre Jarier,10,0,21,73,RAS
+1983,South African Grand Prix,Niki Lauda,11,0,12,71,Electrical
+1983,South African Grand Prix,Kenny Acheson,12,0,24,71,RAS
+1983,South African Grand Prix,Nigel Mansell,13,0,7,68,Not classified
+1983,South African Grand Prix,Raul Boesel,14,0,23,66,Not classified
+1983,South African Grand Prix,Michele Alboreto,15,0,18,60,Engine
+1983,South African Grand Prix,Patrick Tambay,16,0,1,56,Turbo
+1983,South African Grand Prix,Bruno Giacomelli,17,0,16,56,Turbo
+1983,South African Grand Prix,Alain Prost,18,0,5,35,Turbo
+1983,South African Grand Prix,Corrado Fabi,19,0,25,28,Engine
+1983,South African Grand Prix,Elio de Angelis,20,0,11,20,Engine
+1983,South African Grand Prix,John Watson,21,0,15,18,DQ
+1983,South African Grand Prix,René Arnoux,22,0,4,9,Engine
+1983,South African Grand Prix,Mauro Baldi,23,0,17,5,Engine
+1983,South African Grand Prix,Manfred Winkelhock,24,0,8,1,Engine
+1983,South African Grand Prix,Jacques Laffite,25,0,10,1,Spun off
+1983,South African Grand Prix,Piercarlo Ghinzani,26,0,26,1,Engine

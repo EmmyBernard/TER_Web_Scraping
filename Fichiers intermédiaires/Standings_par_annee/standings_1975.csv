@@ -1,0 +1,347 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1975,Argentine Grand Prix,Emerson Fittipaldi,1,9,5,53,RAS
+1975,Argentine Grand Prix,James Hunt,2,6,6,53,RAS
+1975,Argentine Grand Prix,Carlos Reutemann,3,4,3,53,RAS
+1975,Argentine Grand Prix,Clay Regazzoni,4,3,7,53,RAS
+1975,Argentine Grand Prix,Patrick Depailler,5,2,8,53,RAS
+1975,Argentine Grand Prix,Niki Lauda,6,1,4,53,RAS
+1975,Argentine Grand Prix,Mark Donohue,7,0,16,52,RAS
+1975,Argentine Grand Prix,Jacky Ickx,8,0,18,52,RAS
+1975,Argentine Grand Prix,Vittorio Brambilla,9,0,12,52,RAS
+1975,Argentine Grand Prix,Graham Hill,10,0,21,52,RAS
+1975,Argentine Grand Prix,Jody Scheckter,11,0,9,52,RAS
+1975,Argentine Grand Prix,Tom Pryce,12,0,14,51,Transmission
+1975,Argentine Grand Prix,Rolf Stommelen,13,0,19,51,RAS
+1975,Argentine Grand Prix,Jochen Mass,14,0,13,50,RAS
+1975,Argentine Grand Prix,Carlos Pace,15,0,2,46,Engine
+1975,Argentine Grand Prix,Arturo Merzario,16,0,20,44,Not classified
+1975,Argentine Grand Prix,Mario Andretti,17,0,10,27,Transmission
+1975,Argentine Grand Prix,Mike Wilds,18,0,22,24,Engine
+1975,Argentine Grand Prix,Ronnie Peterson,19,0,11,15,Engine
+1975,Argentine Grand Prix,Jacques Laffite,20,0,17,15,Gearbox
+1975,Argentine Grand Prix,Wilson Fittipaldi,21,0,23,12,Accident
+1975,Argentine Grand Prix,John Watson,22,0,15,6,DQ
+1975,Argentine Grand Prix,Jean-Pierre Jarier,23,0,1,0,Transmission
+1975,Brazilian Grand Prix,Carlos Pace,1,9,6,40,RAS
+1975,Brazilian Grand Prix,Emerson Fittipaldi,2,6,2,40,RAS
+1975,Brazilian Grand Prix,Jochen Mass,3,4,10,40,RAS
+1975,Brazilian Grand Prix,Clay Regazzoni,4,3,5,40,RAS
+1975,Brazilian Grand Prix,Niki Lauda,5,2,4,40,RAS
+1975,Brazilian Grand Prix,James Hunt,6,1,7,40,RAS
+1975,Brazilian Grand Prix,Mario Andretti,7,0,18,40,RAS
+1975,Brazilian Grand Prix,Carlos Reutemann,8,0,3,40,RAS
+1975,Brazilian Grand Prix,Jacky Ickx,9,0,12,40,RAS
+1975,Brazilian Grand Prix,John Watson,10,0,13,40,RAS
+1975,Brazilian Grand Prix,Jacques Laffite,11,0,11,39,RAS
+1975,Brazilian Grand Prix,Graham Hill,12,0,20,39,RAS
+1975,Brazilian Grand Prix,Wilson Fittipaldi,13,0,21,39,RAS
+1975,Brazilian Grand Prix,Rolf Stommelen,14,0,23,39,RAS
+1975,Brazilian Grand Prix,Ronnie Peterson,15,0,16,38,RAS
+1975,Brazilian Grand Prix,Jean-Pierre Jarier,16,0,1,32,Fuel system
+1975,Brazilian Grand Prix,Patrick Depailler,17,0,9,31,Suspension
+1975,Brazilian Grand Prix,Tom Pryce,18,0,14,31,Accident
+1975,Brazilian Grand Prix,Arturo Merzario,19,0,11,24,Fuel system
+1975,Brazilian Grand Prix,Mark Donohue,20,0,15,22,Handling
+1975,Brazilian Grand Prix,Mike Wilds,21,0,22,22,Electrical
+1975,Brazilian Grand Prix,Jody Scheckter,22,0,8,18,Oil leak
+1975,Brazilian Grand Prix,Vittorio Brambilla,23,0,17,1,Engine
+1975,South African Grand Prix,Jody Scheckter,1,9,3,78,RAS
+1975,South African Grand Prix,Carlos Reutemann,2,6,2,78,RAS
+1975,South African Grand Prix,Patrick Depailler,3,4,5,78,RAS
+1975,South African Grand Prix,Carlos Pace,4,3,1,78,RAS
+1975,South African Grand Prix,Niki Lauda,5,2,4,78,RAS
+1975,South African Grand Prix,Jochen Mass,6,1,16,78,RAS
+1975,South African Grand Prix,Rolf Stommelen,7,0,14,78,RAS
+1975,South African Grand Prix,Mark Donohue,8,0,18,77,RAS
+1975,South African Grand Prix,Tom Pryce,9,0,19,77,RAS
+1975,South African Grand Prix,Ronnie Peterson,10,0,8,77,RAS
+1975,South African Grand Prix,Guy Tunmer,11,0,25,76,RAS
+1975,South African Grand Prix,Jacky Ickx,12,0,21,76,RAS
+1975,South African Grand Prix,Eddie Keizan,13,0,22,76,RAS
+1975,South African Grand Prix,Dave Charlton,14,0,20,76,RAS
+1975,South African Grand Prix,Bob Evans,15,0,24,76,RAS
+1975,South African Grand Prix,Clay Regazzoni,16,0,9,71,Throttle
+1975,South African Grand Prix,Mario Andretti,17,0,6,70,Transmission
+1975,South African Grand Prix,Jacques Laffite,18,0,23,69,Not classified
+1975,South African Grand Prix,Emerson Fittipaldi,19,0,11,65,Not classified
+1975,South African Grand Prix,Ian Scheckter,20,0,17,55,Accident
+1975,South African Grand Prix,James Hunt,21,0,12,53,Fuel system
+1975,South African Grand Prix,Jean-Pierre Jarier,22,0,13,37,Overheating
+1975,South African Grand Prix,Lella Lombardi,23,0,26,23,Fuel system
+1975,South African Grand Prix,Arturo Merzario,24,0,15,22,Engine
+1975,South African Grand Prix,John Watson,25,0,10,19,Clutch
+1975,South African Grand Prix,Vittorio Brambilla,26,0,7,16,Radiator
+1975,Spanish Grand Prix,Jochen Mass,1,4.5,11,29,RAS
+1975,Spanish Grand Prix,Jacky Ickx,2,3,16,29,RAS
+1975,Spanish Grand Prix,Carlos Reutemann,3,2,15,28,RAS
+1975,Spanish Grand Prix,Jean-Pierre Jarier,4,1.5,10,28,RAS
+1975,Spanish Grand Prix,Vittorio Brambilla,5,1,5,28,RAS
+1975,Spanish Grand Prix,Lella Lombardi,6,0.5,24,27,RAS
+1975,Spanish Grand Prix,Tony Brise,7,0,18,27,RAS
+1975,Spanish Grand Prix,John Watson,8,0,6,26,RAS
+1975,Spanish Grand Prix,Clay Regazzoni,9,0,2,25,Not classified
+1975,Spanish Grand Prix,Rolf Stommelen,10,0,9,25,Accident
+1975,Spanish Grand Prix,Carlos Pace,11,0,14,25,Accident
+1975,Spanish Grand Prix,Tom Pryce,12,0,8,23,Accident
+1975,Spanish Grand Prix,Ronnie Peterson,13,0,12,23,Suspension
+1975,Spanish Grand Prix,Roelof Wunderink,14,0,19,20,Transmission
+1975,Spanish Grand Prix,François Migault,15,0,22,18,Not classified
+1975,Spanish Grand Prix,Mario Andretti,16,0,4,16,Suspension
+1975,Spanish Grand Prix,Bob Evans,17,0,23,7,Fuel system
+1975,Spanish Grand Prix,James Hunt,18,0,3,6,Accident
+1975,Spanish Grand Prix,Jody Scheckter,19,0,13,3,Engine
+1975,Spanish Grand Prix,Mark Donohue,20,0,17,3,Accident
+1975,Spanish Grand Prix,Alan Jones,21,0,20,3,Accident
+1975,Spanish Grand Prix,Patrick Depailler,22,0,7,1,Accident
+1975,Spanish Grand Prix,Wilson Fittipaldi,23,0,21,1,Withdrew
+1975,Spanish Grand Prix,Arturo Merzario,24,0,25,1,Withdrew
+1975,Spanish Grand Prix,Niki Lauda,25,0,1,0,Accident
+1975,Spanish Grand Prix,Emerson Fittipaldi,26,0,26,0,Withdrew
+1975,Monaco Grand Prix,Niki Lauda,1,9,1,75,RAS
+1975,Monaco Grand Prix,Emerson Fittipaldi,2,6,9,75,RAS
+1975,Monaco Grand Prix,Carlos Pace,3,4,8,75,RAS
+1975,Monaco Grand Prix,Ronnie Peterson,4,3,4,75,RAS
+1975,Monaco Grand Prix,Patrick Depailler,5,2,12,75,RAS
+1975,Monaco Grand Prix,Jochen Mass,6,1,15,75,RAS
+1975,Monaco Grand Prix,Jody Scheckter,7,0,7,74,RAS
+1975,Monaco Grand Prix,Jacky Ickx,8,0,14,74,RAS
+1975,Monaco Grand Prix,Carlos Reutemann,9,0,10,73,RAS
+1975,Monaco Grand Prix,Mark Donohue,10,0,16,66,Accident
+1975,Monaco Grand Prix,James Hunt,11,0,11,63,Accident
+1975,Monaco Grand Prix,Alan Jones,12,0,18,61,Wheel
+1975,Monaco Grand Prix,Vittorio Brambilla,13,0,5,48,Accident
+1975,Monaco Grand Prix,Tom Pryce,14,0,2,39,Accident
+1975,Monaco Grand Prix,Clay Regazzoni,15,0,17,36,Accident
+1975,Monaco Grand Prix,John Watson,16,0,6,36,Spun off
+1975,Monaco Grand Prix,Mario Andretti,17,0,13,9,Oil leak
+1975,Monaco Grand Prix,Jean-Pierre Jarier,18,0,3,0,Accident
+1975,Belgian Grand Prix,Niki Lauda,1,9,1,70,RAS
+1975,Belgian Grand Prix,Jody Scheckter,2,6,9,70,RAS
+1975,Belgian Grand Prix,Carlos Reutemann,3,4,6,70,RAS
+1975,Belgian Grand Prix,Patrick Depailler,4,3,12,70,RAS
+1975,Belgian Grand Prix,Clay Regazzoni,5,2,4,70,RAS
+1975,Belgian Grand Prix,Tom Pryce,6,1,5,70,RAS
+1975,Belgian Grand Prix,Emerson Fittipaldi,7,0,8,69,RAS
+1975,Belgian Grand Prix,Carlos Pace,8,0,2,69,RAS
+1975,Belgian Grand Prix,Bob Evans,9,0,20,68,RAS
+1975,Belgian Grand Prix,John Watson,10,0,18,68,RAS
+1975,Belgian Grand Prix,Mark Donohue,11,0,21,67,RAS
+1975,Belgian Grand Prix,Wilson Fittipaldi,12,0,24,67,RAS
+1975,Belgian Grand Prix,François Migault,13,0,22,57,Suspension
+1975,Belgian Grand Prix,Vittorio Brambilla,14,0,3,54,Brakes
+1975,Belgian Grand Prix,Jacky Ickx,15,0,16,52,Brakes
+1975,Belgian Grand Prix,Ronnie Peterson,16,0,14,36,Brakes
+1975,Belgian Grand Prix,Jacques Laffite,17,0,23,18,Gearbox
+1975,Belgian Grand Prix,Lella Lombardi,18,0,17,18,Engine
+1975,Belgian Grand Prix,Tony Brise,19,0,7,17,Engine
+1975,Belgian Grand Prix,James Hunt,20,0,11,15,Transmission
+1975,Belgian Grand Prix,Jean-Pierre Jarier,21,0,10,13,Spun off
+1975,Belgian Grand Prix,Arturo Merzario,22,0,19,2,Clutch
+1975,Belgian Grand Prix,Alan Jones,23,0,13,1,Accident
+1975,Belgian Grand Prix,Jochen Mass,24,0,15,0,Accident
+1975,Swedish Grand Prix,Niki Lauda,1,9,5,80,RAS
+1975,Swedish Grand Prix,Carlos Reutemann,2,6,4,80,RAS
+1975,Swedish Grand Prix,Clay Regazzoni,3,4,12,80,RAS
+1975,Swedish Grand Prix,Mario Andretti,4,3,15,80,RAS
+1975,Swedish Grand Prix,Mark Donohue,5,2,16,80,RAS
+1975,Swedish Grand Prix,Tony Brise,6,1,17,79,RAS
+1975,Swedish Grand Prix,Jody Scheckter,7,0,8,79,RAS
+1975,Swedish Grand Prix,Emerson Fittipaldi,8,0,11,79,RAS
+1975,Swedish Grand Prix,Ronnie Peterson,9,0,9,79,RAS
+1975,Swedish Grand Prix,Torsten Palm,10,0,21,78,Out of fuel
+1975,Swedish Grand Prix,Alan Jones,11,0,19,78,RAS
+1975,Swedish Grand Prix,Patrick Depailler,12,0,2,78,RAS
+1975,Swedish Grand Prix,Bob Evans,13,0,23,78,RAS
+1975,Swedish Grand Prix,Damien Magee,14,0,22,78,RAS
+1975,Swedish Grand Prix,Jacky Ickx,15,0,18,77,RAS
+1975,Swedish Grand Prix,John Watson,16,0,10,77,RAS
+1975,Swedish Grand Prix,Wilson Fittipaldi,17,0,25,74,RAS
+1975,Swedish Grand Prix,Tom Pryce,18,0,7,53,Spun off
+1975,Swedish Grand Prix,Ian Scheckter,19,0,20,49,Tyre
+1975,Swedish Grand Prix,Vern Schuppan,20,0,26,47,Transmission
+1975,Swedish Grand Prix,Carlos Pace,21,0,6,41,Spun off
+1975,Swedish Grand Prix,Jean-Pierre Jarier,22,0,3,38,Engine
+1975,Swedish Grand Prix,Vittorio Brambilla,23,0,1,36,Transmission
+1975,Swedish Grand Prix,Jochen Mass,24,0,14,34,Overheating
+1975,Swedish Grand Prix,James Hunt,25,0,13,21,Brakes
+1975,Swedish Grand Prix,Lella Lombardi,26,0,24,10,Fuel system
+1975,Dutch Grand Prix,James Hunt,1,9,3,75,RAS
+1975,Dutch Grand Prix,Niki Lauda,2,6,1,75,RAS
+1975,Dutch Grand Prix,Clay Regazzoni,3,4,2,75,RAS
+1975,Dutch Grand Prix,Carlos Reutemann,4,3,5,74,RAS
+1975,Dutch Grand Prix,Carlos Pace,5,2,9,74,RAS
+1975,Dutch Grand Prix,Tom Pryce,6,1,12,74,RAS
+1975,Dutch Grand Prix,Tony Brise,7,0,7,74,RAS
+1975,Dutch Grand Prix,Mark Donohue,8,0,18,74,RAS
+1975,Dutch Grand Prix,Patrick Depailler,9,0,13,73,RAS
+1975,Dutch Grand Prix,Gijs van Lennep,10,0,22,71,RAS
+1975,Dutch Grand Prix,Wilson Fittipaldi,11,0,24,71,RAS
+1975,Dutch Grand Prix,Ian Scheckter,12,0,19,70,RAS
+1975,Dutch Grand Prix,Alan Jones,13,0,17,70,RAS
+1975,Dutch Grand Prix,Lella Lombardi,14,0,23,70,RAS
+1975,Dutch Grand Prix,Ronnie Peterson,15,0,16,69,Out of fuel
+1975,Dutch Grand Prix,Jody Scheckter,16,0,4,67,Engine
+1975,Dutch Grand Prix,Jacques Laffite,17,0,15,64,Engine
+1975,Dutch Grand Prix,Jochen Mass,18,0,8,61,Accident
+1975,Dutch Grand Prix,Jean-Pierre Jarier,19,0,10,44,Tyre
+1975,Dutch Grand Prix,John Watson,20,0,14,43,Vibrations
+1975,Dutch Grand Prix,Emerson Fittipaldi,21,0,6,40,Engine
+1975,Dutch Grand Prix,Bob Evans,22,0,20,23,Differential
+1975,Dutch Grand Prix,Jacky Ickx,23,0,21,6,Engine
+1975,Dutch Grand Prix,Vittorio Brambilla,24,0,11,0,Suspension
+1975,Dutch Grand Prix,Hiroshi Fushida,25,0,0,0,Withdrew
+1975,French Grand Prix,Niki Lauda,1,9,1,54,RAS
+1975,French Grand Prix,James Hunt,2,6,3,54,RAS
+1975,French Grand Prix,Jochen Mass,3,4,7,54,RAS
+1975,French Grand Prix,Emerson Fittipaldi,4,3,10,54,RAS
+1975,French Grand Prix,Mario Andretti,5,2,15,54,RAS
+1975,French Grand Prix,Patrick Depailler,6,1,13,54,RAS
+1975,French Grand Prix,Tony Brise,7,0,12,54,RAS
+1975,French Grand Prix,Jean-Pierre Jarier,8,0,4,54,RAS
+1975,French Grand Prix,Jody Scheckter,9,0,2,54,RAS
+1975,French Grand Prix,Ronnie Peterson,10,0,17,54,RAS
+1975,French Grand Prix,Jacques Laffite,11,0,16,54,RAS
+1975,French Grand Prix,Jean-Pierre Jabouille,12,0,21,54,RAS
+1975,French Grand Prix,John Watson,13,0,14,53,RAS
+1975,French Grand Prix,Carlos Reutemann,14,0,11,53,RAS
+1975,French Grand Prix,Gijs van Lennep,15,0,22,53,RAS
+1975,French Grand Prix,Alan Jones,16,0,20,53,RAS
+1975,French Grand Prix,Bob Evans,17,0,25,52,RAS
+1975,French Grand Prix,Lella Lombardi,18,0,26,50,RAS
+1975,French Grand Prix,Carlos Pace,19,0,5,26,Transmission
+1975,French Grand Prix,Jacky Ickx,20,0,19,17,Brakes
+1975,French Grand Prix,Wilson Fittipaldi,21,0,23,14,Engine
+1975,French Grand Prix,Vittorio Brambilla,22,0,8,6,Chassis
+1975,French Grand Prix,Clay Regazzoni,23,0,9,6,Engine
+1975,French Grand Prix,Mark Donohue,24,0,18,6,Transmission
+1975,French Grand Prix,Tom Pryce,25,0,6,2,Transmission
+1975,French Grand Prix,François Migault,26,0,24,0,Withdrew
+1975,British Grand Prix,Emerson Fittipaldi,1,9,7,56,RAS
+1975,British Grand Prix,Carlos Pace,2,6,2,55,Accident
+1975,British Grand Prix,Jody Scheckter,3,4,6,55,Accident
+1975,British Grand Prix,James Hunt,4,3,9,55,Accident
+1975,British Grand Prix,Mark Donohue,5,2,15,55,Accident
+1975,British Grand Prix,Vittorio Brambilla,6,1,5,55,RAS
+1975,British Grand Prix,Jochen Mass,7,0,10,55,Accident
+1975,British Grand Prix,Niki Lauda,8,0,3,54,RAS
+1975,British Grand Prix,Patrick Depailler,9,0,17,54,Accident
+1975,British Grand Prix,Alan Jones,10,0,28,54,RAS
+1975,British Grand Prix,John Watson,11,0,18,54,Accident
+1975,British Grand Prix,Mario Andretti,12,0,12,54,RAS
+1975,British Grand Prix,Clay Regazzoni,13,0,4,54,RAS
+1975,British Grand Prix,Jean-Pierre Jarier,14,0,11,53,Accident
+1975,British Grand Prix,Tony Brise,15,0,13,53,Accident
+1975,British Grand Prix,Brian Henton,16,0,21,53,Accident
+1975,British Grand Prix,John Nicholson,17,0,26,51,Accident
+1975,British Grand Prix,Dave Morgan,18,0,23,50,Accident
+1975,British Grand Prix,Wilson Fittipaldi,19,0,24,50,Accident
+1975,British Grand Prix,Hans-Joachim Stuck,20,0,14,45,Accident
+1975,British Grand Prix,Jim Crawford,21,0,25,28,Accident
+1975,British Grand Prix,Tom Pryce,22,0,1,20,Accident
+1975,British Grand Prix,Lella Lombardi,23,0,22,18,Engine
+1975,British Grand Prix,Ronnie Peterson,24,0,16,7,Engine
+1975,British Grand Prix,Jacques Laffite,25,0,19,5,Gearbox
+1975,British Grand Prix,Carlos Reutemann,26,0,8,4,Engine
+1975,German Grand Prix,Carlos Reutemann,1,9,10,14,RAS
+1975,German Grand Prix,Jacques Laffite,2,6,15,14,RAS
+1975,German Grand Prix,Niki Lauda,3,4,1,14,RAS
+1975,German Grand Prix,Tom Pryce,4,3,16,14,RAS
+1975,German Grand Prix,Alan Jones,5,2,21,14,RAS
+1975,German Grand Prix,Gijs van Lennep,6,1,24,14,RAS
+1975,German Grand Prix,Lella Lombardi,7,0,25,14,RAS
+1975,German Grand Prix,Harald Ertl,8,0,23,14,RAS
+1975,German Grand Prix,Patrick Depailler,9,0,4,13,RAS
+1975,German Grand Prix,Mario Andretti,10,0,13,12,Out of fuel
+1975,German Grand Prix,James Hunt,11,0,9,10,Wheel
+1975,German Grand Prix,Clay Regazzoni,12,0,5,9,Engine
+1975,German Grand Prix,Tony Brise,13,0,17,9,Accident
+1975,German Grand Prix,Jody Scheckter,14,0,3,7,Accident
+1975,German Grand Prix,Jean-Pierre Jarier,15,0,12,7,Tyre
+1975,German Grand Prix,Carlos Pace,16,0,2,5,Suspension
+1975,German Grand Prix,Wilson Fittipaldi,17,0,22,4,Engine
+1975,German Grand Prix,Hans-Joachim Stuck,18,0,7,3,Engine
+1975,German Grand Prix,Emerson Fittipaldi,19,0,8,3,Suspension
+1975,German Grand Prix,Vittorio Brambilla,20,0,11,3,Suspension
+1975,German Grand Prix,John Watson,21,0,14,2,Suspension
+1975,German Grand Prix,Ronnie Peterson,22,0,18,1,Clutch
+1975,German Grand Prix,Mark Donohue,23,0,19,1,Tyre
+1975,German Grand Prix,Jochen Mass,24,0,6,0,Accident
+1975,German Grand Prix,Ian Ashley,25,0,20,0,Accident
+1975,Austrian Grand Prix,Vittorio Brambilla,1,4.5,8,29,RAS
+1975,Austrian Grand Prix,James Hunt,2,3,2,29,RAS
+1975,Austrian Grand Prix,Tom Pryce,3,2,15,29,RAS
+1975,Austrian Grand Prix,Jochen Mass,4,1.5,9,29,RAS
+1975,Austrian Grand Prix,Ronnie Peterson,5,1,13,29,RAS
+1975,Austrian Grand Prix,Niki Lauda,6,0.5,1,29,RAS
+1975,Austrian Grand Prix,Clay Regazzoni,7,0,5,29,RAS
+1975,Austrian Grand Prix,Jody Scheckter,8,0,10,28,RAS
+1975,Austrian Grand Prix,Emerson Fittipaldi,9,0,3,28,RAS
+1975,Austrian Grand Prix,John Watson,10,0,18,28,RAS
+1975,Austrian Grand Prix,Patrick Depailler,11,0,7,28,RAS
+1975,Austrian Grand Prix,Chris Amon,12,0,23,28,RAS
+1975,Austrian Grand Prix,Brett Lunger,13,0,17,28,RAS
+1975,Austrian Grand Prix,Carlos Reutemann,14,0,11,28,RAS
+1975,Austrian Grand Prix,Tony Brise,15,0,16,28,RAS
+1975,Austrian Grand Prix,Rolf Stommelen,16,0,25,27,RAS
+1975,Austrian Grand Prix,Lella Lombardi,17,0,21,26,RAS
+1975,Austrian Grand Prix,Roelof Wunderink,18,0,27,25,Not classified
+1975,Austrian Grand Prix,Harald Ertl,19,0,26,23,Electrical
+1975,Austrian Grand Prix,Jacques Laffite,20,0,12,21,Handling
+1975,Austrian Grand Prix,Carlos Pace,21,0,6,17,Engine
+1975,Austrian Grand Prix,Jo Vonlanthen,22,0,28,14,Engine
+1975,Austrian Grand Prix,Hans-Joachim Stuck,23,0,4,10,Accident
+1975,Austrian Grand Prix,Jean-Pierre Jarier,24,0,14,10,Injection
+1975,Austrian Grand Prix,Bob Evans,25,0,24,2,Engine
+1975,Austrian Grand Prix,Mario Andretti,26,0,19,1,Accident
+1975,Austrian Grand Prix,Mark Donohue,27,0,20,0,Accident
+1975,Austrian Grand Prix,Brian Henton,28,0,22,0,Accident
+1975,Italian Grand Prix,Clay Regazzoni,1,9,2,52,RAS
+1975,Italian Grand Prix,Emerson Fittipaldi,2,6,3,52,RAS
+1975,Italian Grand Prix,Niki Lauda,3,4,1,52,RAS
+1975,Italian Grand Prix,Carlos Reutemann,4,3,7,52,RAS
+1975,Italian Grand Prix,James Hunt,5,2,8,52,RAS
+1975,Italian Grand Prix,Tom Pryce,6,1,14,52,RAS
+1975,Italian Grand Prix,Patrick Depailler,7,0,12,51,RAS
+1975,Italian Grand Prix,Jody Scheckter,8,0,4,51,RAS
+1975,Italian Grand Prix,Harald Ertl,9,0,17,51,RAS
+1975,Italian Grand Prix,Brett Lunger,10,0,21,50,RAS
+1975,Italian Grand Prix,Arturo Merzario,11,0,26,48,RAS
+1975,Italian Grand Prix,Chris Amon,12,0,19,48,RAS
+1975,Italian Grand Prix,Jim Crawford,13,0,25,46,RAS
+1975,Italian Grand Prix,Renzo Zorzi,14,0,22,46,RAS
+1975,Italian Grand Prix,Jean-Pierre Jarier,15,0,13,32,Fuel pump
+1975,Italian Grand Prix,Lella Lombardi,16,0,24,21,Accident
+1975,Italian Grand Prix,Hans-Joachim Stuck,17,0,16,15,Accident
+1975,Italian Grand Prix,Jacques Laffite,18,0,18,7,Gearbox
+1975,Italian Grand Prix,Carlos Pace,19,0,10,6,Throttle
+1975,Italian Grand Prix,Rolf Stommelen,20,0,23,3,Accident
+1975,Italian Grand Prix,Jochen Mass,21,0,5,2,Accident
+1975,Italian Grand Prix,Ronnie Peterson,22,0,11,1,Engine
+1975,Italian Grand Prix,Tony Brise,23,0,6,1,Accident
+1975,Italian Grand Prix,Mario Andretti,24,0,15,1,Accident
+1975,Italian Grand Prix,Vittorio Brambilla,25,0,9,1,Clutch
+1975,Italian Grand Prix,Bob Evans,26,0,20,0,Electrical
+1975,United States Grand Prix,Niki Lauda,1,9,1,59,RAS
+1975,United States Grand Prix,Emerson Fittipaldi,2,6,2,59,RAS
+1975,United States Grand Prix,Jochen Mass,3,4,9,59,RAS
+1975,United States Grand Prix,James Hunt,4,3,15,59,RAS
+1975,United States Grand Prix,Ronnie Peterson,5,2,14,59,RAS
+1975,United States Grand Prix,Jody Scheckter,6,1,10,59,RAS
+1975,United States Grand Prix,Vittorio Brambilla,7,0,6,59,RAS
+1975,United States Grand Prix,Hans-Joachim Stuck,8,0,13,58,RAS
+1975,United States Grand Prix,John Watson,9,0,12,57,RAS
+1975,United States Grand Prix,Wilson Fittipaldi,10,0,23,55,RAS
+1975,United States Grand Prix,Tom Pryce,11,0,7,52,Not classified
+1975,United States Grand Prix,Brian Henton,12,0,19,49,Not classified
+1975,United States Grand Prix,Brett Lunger,13,0,18,46,Accident
+1975,United States Grand Prix,Roelof Wunderink,14,0,22,41,Gearbox
+1975,United States Grand Prix,Clay Regazzoni,15,0,11,0,Withdrew
+1975,United States Grand Prix,Jean-Pierre Jarier,16,0,4,19,Wheel bearing
+1975,United States Grand Prix,Carlos Reutemann,17,0,3,9,Engine
+1975,United States Grand Prix,Mario Andretti,18,0,5,9,Suspension
+1975,United States Grand Prix,Tony Brise,19,0,17,5,Accident
+1975,United States Grand Prix,Michel Leclère,20,0,20,5,Engine
+1975,United States Grand Prix,Patrick Depailler,21,0,8,2,Accident
+1975,United States Grand Prix,Carlos Pace,22,0,16,2,Accident
+1975,United States Grand Prix,Jacques Laffite,23,0,21,0,Physical
+1975,United States Grand Prix,Lella Lombardi,24,0,24,0,Ignition

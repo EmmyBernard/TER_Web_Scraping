@@ -1,0 +1,321 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2003,Australian Grand Prix,David Coulthard,1,10,11,58,RAS
+2003,Australian Grand Prix,Juan Pablo Montoya,2,8,3,58,RAS
+2003,Australian Grand Prix,Kimi Räikkönen,3,6,15,58,RAS
+2003,Australian Grand Prix,Michael Schumacher,4,5,1,58,RAS
+2003,Australian Grand Prix,Jarno Trulli,5,4,12,58,RAS
+2003,Australian Grand Prix,Heinz-Harald Frentzen,6,3,4,58,RAS
+2003,Australian Grand Prix,Fernando Alonso,7,2,10,58,RAS
+2003,Australian Grand Prix,Ralf Schumacher,8,1,9,58,RAS
+2003,Australian Grand Prix,Jacques Villeneuve,9,0,6,58,RAS
+2003,Australian Grand Prix,Jenson Button,10,0,8,58,RAS
+2003,Australian Grand Prix,Jos Verstappen,11,0,20,57,RAS
+2003,Australian Grand Prix,Giancarlo Fisichella,12,0,13,52,Gearbox
+2003,Australian Grand Prix,Antônio Pizzonia,13,0,18,52,Suspension
+2003,Australian Grand Prix,Olivier Panis,14,0,5,31,Fuel pressure
+2003,Australian Grand Prix,Nick Heidfeld,15,0,7,20,Suspension
+2003,Australian Grand Prix,Justin Wilson,16,0,19,16,Radiator
+2003,Australian Grand Prix,Mark Webber,17,0,14,15,Suspension
+2003,Australian Grand Prix,Cristiano da Matta,18,0,16,7,Spun off
+2003,Australian Grand Prix,Ralph Firman,19,0,17,6,Accident
+2003,Australian Grand Prix,Rubens Barrichello,20,0,2,5,Accident
+2003,Malaysian Grand Prix,Kimi Räikkönen,1,10,7,56,RAS
+2003,Malaysian Grand Prix,Rubens Barrichello,2,8,5,56,RAS
+2003,Malaysian Grand Prix,Fernando Alonso,3,6,1,56,RAS
+2003,Malaysian Grand Prix,Ralf Schumacher,4,5,17,56,RAS
+2003,Malaysian Grand Prix,Jarno Trulli,5,4,2,55,RAS
+2003,Malaysian Grand Prix,Michael Schumacher,6,3,3,55,RAS
+2003,Malaysian Grand Prix,Jenson Button,7,2,9,55,RAS
+2003,Malaysian Grand Prix,Nick Heidfeld,8,1,6,55,RAS
+2003,Malaysian Grand Prix,Heinz-Harald Frentzen,9,0,13,55,RAS
+2003,Malaysian Grand Prix,Ralph Firman,10,0,20,55,RAS
+2003,Malaysian Grand Prix,Cristiano da Matta,11,0,11,55,RAS
+2003,Malaysian Grand Prix,Juan Pablo Montoya,12,0,8,53,RAS
+2003,Malaysian Grand Prix,Jos Verstappen,13,0,18,52,RAS
+2003,Malaysian Grand Prix,Antônio Pizzonia,14,0,15,42,Spun off
+2003,Malaysian Grand Prix,Justin Wilson,15,0,19,41,Mechanical
+2003,Malaysian Grand Prix,Mark Webber,16,0,16,35,Engine
+2003,Malaysian Grand Prix,Olivier Panis,17,0,10,12,Fuel pressure
+2003,Malaysian Grand Prix,David Coulthard,18,0,4,2,Electrical
+2003,Malaysian Grand Prix,Giancarlo Fisichella,19,0,14,0,Electrical
+2003,Malaysian Grand Prix,Jacques Villeneuve,20,0,12,0,Electrical
+2003,Brazilian Grand Prix,Giancarlo Fisichella,1,10,8,54,RAS
+2003,Brazilian Grand Prix,Kimi Räikkönen,2,8,4,54,RAS
+2003,Brazilian Grand Prix,Fernando Alonso,3,6,10,54,RAS
+2003,Brazilian Grand Prix,David Coulthard,4,5,2,54,RAS
+2003,Brazilian Grand Prix,Heinz-Harald Frentzen,5,4,14,54,RAS
+2003,Brazilian Grand Prix,Jacques Villeneuve,6,3,13,54,RAS
+2003,Brazilian Grand Prix,Ralf Schumacher,7,2,6,54,RAS
+2003,Brazilian Grand Prix,Jarno Trulli,8,1,5,54,RAS
+2003,Brazilian Grand Prix,Mark Webber,9,0,3,53,Accident
+2003,Brazilian Grand Prix,Cristiano da Matta,10,0,18,53,RAS
+2003,Brazilian Grand Prix,Rubens Barrichello,11,0,1,47,Fuel system
+2003,Brazilian Grand Prix,Jenson Button,12,0,11,33,Accident
+2003,Brazilian Grand Prix,Jos Verstappen,13,0,19,31,Spun off
+2003,Brazilian Grand Prix,Michael Schumacher,14,0,7,27,Accident
+2003,Brazilian Grand Prix,Juan Pablo Montoya,15,0,9,25,Accident
+2003,Brazilian Grand Prix,Antônio Pizzonia,16,0,17,25,Accident
+2003,Brazilian Grand Prix,Olivier Panis,17,0,15,18,Collision
+2003,Brazilian Grand Prix,Ralph Firman,18,0,16,18,Suspension
+2003,Brazilian Grand Prix,Justin Wilson,19,0,20,16,Spun off
+2003,Brazilian Grand Prix,Nick Heidfeld,20,0,12,8,Engine
+2003,San Marino Grand Prix,Michael Schumacher,1,10,1,62,RAS
+2003,San Marino Grand Prix,Kimi Räikkönen,2,8,6,62,RAS
+2003,San Marino Grand Prix,Rubens Barrichello,3,6,3,62,RAS
+2003,San Marino Grand Prix,Ralf Schumacher,4,5,2,62,RAS
+2003,San Marino Grand Prix,David Coulthard,5,4,12,62,RAS
+2003,San Marino Grand Prix,Fernando Alonso,6,3,8,62,RAS
+2003,San Marino Grand Prix,Juan Pablo Montoya,7,2,4,62,RAS
+2003,San Marino Grand Prix,Jenson Button,8,1,9,61,RAS
+2003,San Marino Grand Prix,Olivier Panis,9,0,10,61,RAS
+2003,San Marino Grand Prix,Nick Heidfeld,10,0,11,61,RAS
+2003,San Marino Grand Prix,Heinz-Harald Frentzen,11,0,14,61,RAS
+2003,San Marino Grand Prix,Cristiano da Matta,12,0,13,61,RAS
+2003,San Marino Grand Prix,Jarno Trulli,13,0,16,61,RAS
+2003,San Marino Grand Prix,Antônio Pizzonia,14,0,15,60,RAS
+2003,San Marino Grand Prix,Giancarlo Fisichella,15,0,17,57,RAS
+2003,San Marino Grand Prix,Mark Webber,16,0,5,54,Driveshaft
+2003,San Marino Grand Prix,Ralph Firman,17,0,19,51,Oil line
+2003,San Marino Grand Prix,Jos Verstappen,18,0,20,38,Electrical
+2003,San Marino Grand Prix,Justin Wilson,19,0,18,23,Fuel rig
+2003,San Marino Grand Prix,Jacques Villeneuve,20,0,7,19,Engine
+2003,Spanish Grand Prix,Michael Schumacher,1,10,1,65,RAS
+2003,Spanish Grand Prix,Fernando Alonso,2,8,3,65,RAS
+2003,Spanish Grand Prix,Rubens Barrichello,3,6,2,65,RAS
+2003,Spanish Grand Prix,Juan Pablo Montoya,4,5,9,65,RAS
+2003,Spanish Grand Prix,Ralf Schumacher,5,4,7,64,RAS
+2003,Spanish Grand Prix,Cristiano da Matta,6,3,13,64,RAS
+2003,Spanish Grand Prix,Mark Webber,7,2,12,64,RAS
+2003,Spanish Grand Prix,Ralph Firman,8,1,15,63,RAS
+2003,Spanish Grand Prix,Jenson Button,9,0,5,63,RAS
+2003,Spanish Grand Prix,Nick Heidfeld,10,0,14,63,RAS
+2003,Spanish Grand Prix,Justin Wilson,11,0,18,63,RAS
+2003,Spanish Grand Prix,Jos Verstappen,12,0,19,62,RAS
+2003,Spanish Grand Prix,Giancarlo Fisichella,13,0,17,43,Engine
+2003,Spanish Grand Prix,Olivier Panis,14,0,6,41,Gearbox
+2003,Spanish Grand Prix,Heinz-Harald Frentzen,15,0,10,38,Suspension
+2003,Spanish Grand Prix,David Coulthard,16,0,8,17,Collision
+2003,Spanish Grand Prix,Jacques Villeneuve,17,0,11,12,Electrical
+2003,Spanish Grand Prix,Jarno Trulli,18,0,4,0,Collision
+2003,Spanish Grand Prix,Antônio Pizzonia,19,0,16,0,Launch control
+2003,Spanish Grand Prix,Kimi Räikkönen,20,0,20,0,Collision
+2003,Austrian Grand Prix,Michael Schumacher,1,10,1,69,RAS
+2003,Austrian Grand Prix,Kimi Räikkönen,2,8,2,69,RAS
+2003,Austrian Grand Prix,Rubens Barrichello,3,6,5,69,RAS
+2003,Austrian Grand Prix,Jenson Button,4,5,7,69,RAS
+2003,Austrian Grand Prix,David Coulthard,5,4,14,69,RAS
+2003,Austrian Grand Prix,Ralf Schumacher,6,3,10,68,RAS
+2003,Austrian Grand Prix,Mark Webber,7,2,17,68,RAS
+2003,Austrian Grand Prix,Jarno Trulli,8,1,6,68,RAS
+2003,Austrian Grand Prix,Antônio Pizzonia,9,0,8,68,RAS
+2003,Austrian Grand Prix,Cristiano da Matta,10,0,13,68,RAS
+2003,Austrian Grand Prix,Ralph Firman,11,0,16,68,RAS
+2003,Austrian Grand Prix,Jacques Villeneuve,12,0,12,68,RAS
+2003,Austrian Grand Prix,Justin Wilson,13,0,18,67,RAS
+2003,Austrian Grand Prix,Giancarlo Fisichella,14,0,9,60,Fuel system
+2003,Austrian Grand Prix,Nick Heidfeld,15,0,4,46,Engine
+2003,Austrian Grand Prix,Fernando Alonso,16,0,19,44,Engine
+2003,Austrian Grand Prix,Juan Pablo Montoya,17,0,3,32,Engine
+2003,Austrian Grand Prix,Olivier Panis,18,0,11,6,Suspension
+2003,Austrian Grand Prix,Jos Verstappen,19,0,20,0,Clutch
+2003,Austrian Grand Prix,Heinz-Harald Frentzen,20,0,15,0,Clutch
+2003,Monaco Grand Prix,Juan Pablo Montoya,1,10,3,78,RAS
+2003,Monaco Grand Prix,Kimi Räikkönen,2,8,2,78,RAS
+2003,Monaco Grand Prix,Michael Schumacher,3,6,5,78,RAS
+2003,Monaco Grand Prix,Ralf Schumacher,4,5,1,78,RAS
+2003,Monaco Grand Prix,Fernando Alonso,5,4,8,78,RAS
+2003,Monaco Grand Prix,Jarno Trulli,6,3,4,78,RAS
+2003,Monaco Grand Prix,David Coulthard,7,2,6,78,RAS
+2003,Monaco Grand Prix,Rubens Barrichello,8,1,7,78,RAS
+2003,Monaco Grand Prix,Cristiano da Matta,9,0,10,77,RAS
+2003,Monaco Grand Prix,Giancarlo Fisichella,10,0,12,77,RAS
+2003,Monaco Grand Prix,Nick Heidfeld,11,0,14,76,RAS
+2003,Monaco Grand Prix,Ralph Firman,12,0,16,76,RAS
+2003,Monaco Grand Prix,Olivier Panis,13,0,17,74,RAS
+2003,Monaco Grand Prix,Jacques Villeneuve,14,0,11,63,Engine
+2003,Monaco Grand Prix,Justin Wilson,15,0,19,29,Fuel system
+2003,Monaco Grand Prix,Jos Verstappen,16,0,18,28,Fuel system
+2003,Monaco Grand Prix,Mark Webber,17,0,9,16,Hydraulics
+2003,Monaco Grand Prix,Antônio Pizzonia,18,0,13,10,Electrical
+2003,Monaco Grand Prix,Heinz-Harald Frentzen,19,0,15,0,Accident
+2003,Monaco Grand Prix,Jenson Button,20,0,20,0,Injured
+2003,Canadian Grand Prix,Michael Schumacher,1,10,3,70,RAS
+2003,Canadian Grand Prix,Ralf Schumacher,2,8,1,70,RAS
+2003,Canadian Grand Prix,Juan Pablo Montoya,3,6,2,70,RAS
+2003,Canadian Grand Prix,Fernando Alonso,4,5,4,70,RAS
+2003,Canadian Grand Prix,Rubens Barrichello,5,4,5,70,RAS
+2003,Canadian Grand Prix,Kimi Räikkönen,6,3,20,70,RAS
+2003,Canadian Grand Prix,Mark Webber,7,2,6,69,RAS
+2003,Canadian Grand Prix,Olivier Panis,8,1,7,69,RAS
+2003,Canadian Grand Prix,Jos Verstappen,9,0,15,68,RAS
+2003,Canadian Grand Prix,Antônio Pizzonia,10,0,13,64,RAS
+2003,Canadian Grand Prix,Cristiano da Matta,11,0,9,64,RAS
+2003,Canadian Grand Prix,Justin Wilson,12,0,18,60,Gearbox
+2003,Canadian Grand Prix,Jenson Button,13,0,17,51,Gearbox
+2003,Canadian Grand Prix,David Coulthard,14,0,11,47,Gearbox
+2003,Canadian Grand Prix,Nick Heidfeld,15,0,12,47,Engine
+2003,Canadian Grand Prix,Jarno Trulli,16,0,8,22,Accident
+2003,Canadian Grand Prix,Giancarlo Fisichella,17,0,16,20,Gearbox
+2003,Canadian Grand Prix,Ralph Firman,18,0,19,20,Engine
+2003,Canadian Grand Prix,Jacques Villeneuve,19,0,14,14,Brakes
+2003,Canadian Grand Prix,Heinz-Harald Frentzen,20,0,10,6,Electronics
+2003,European Grand Prix,Ralf Schumacher,1,10,3,60,RAS
+2003,European Grand Prix,Juan Pablo Montoya,2,8,4,60,RAS
+2003,European Grand Prix,Rubens Barrichello,3,6,5,60,RAS
+2003,European Grand Prix,Fernando Alonso,4,5,8,60,RAS
+2003,European Grand Prix,Michael Schumacher,5,4,2,60,RAS
+2003,European Grand Prix,Mark Webber,6,3,11,59,RAS
+2003,European Grand Prix,Jenson Button,7,2,12,59,RAS
+2003,European Grand Prix,Nick Heidfeld,8,1,20,59,RAS
+2003,European Grand Prix,Heinz-Harald Frentzen,9,0,15,59,RAS
+2003,European Grand Prix,Antônio Pizzonia,10,0,16,59,RAS
+2003,European Grand Prix,Ralph Firman,11,0,14,58,RAS
+2003,European Grand Prix,Giancarlo Fisichella,12,0,13,58,RAS
+2003,European Grand Prix,Justin Wilson,13,0,19,58,RAS
+2003,European Grand Prix,Jos Verstappen,14,0,18,57,RAS
+2003,European Grand Prix,David Coulthard,15,0,9,56,RAS
+2003,European Grand Prix,Cristiano da Matta,16,0,10,53,Engine
+2003,European Grand Prix,Jacques Villeneuve,17,0,17,51,Gearbox
+2003,European Grand Prix,Jarno Trulli,18,0,6,37,Fuel pressure
+2003,European Grand Prix,Olivier Panis,19,0,7,37,Spun off
+2003,European Grand Prix,Kimi Räikkönen,20,0,1,25,Engine
+2003,French Grand Prix,Ralf Schumacher,1,10,1,70,RAS
+2003,French Grand Prix,Juan Pablo Montoya,2,8,2,70,RAS
+2003,French Grand Prix,Michael Schumacher,3,6,3,70,RAS
+2003,French Grand Prix,Kimi Räikkönen,4,5,4,70,RAS
+2003,French Grand Prix,David Coulthard,5,4,5,70,RAS
+2003,French Grand Prix,Mark Webber,6,3,9,70,RAS
+2003,French Grand Prix,Rubens Barrichello,7,2,8,69,RAS
+2003,French Grand Prix,Olivier Panis,8,1,10,69,RAS
+2003,French Grand Prix,Jacques Villeneuve,9,0,12,69,RAS
+2003,French Grand Prix,Antônio Pizzonia,10,0,11,69,RAS
+2003,French Grand Prix,Cristiano da Matta,11,0,13,69,RAS
+2003,French Grand Prix,Heinz-Harald Frentzen,12,0,16,68,RAS
+2003,French Grand Prix,Nick Heidfeld,13,0,15,68,RAS
+2003,French Grand Prix,Justin Wilson,14,0,20,67,RAS
+2003,French Grand Prix,Ralph Firman,15,0,18,67,RAS
+2003,French Grand Prix,Jos Verstappen,16,0,19,66,RAS
+2003,French Grand Prix,Jarno Trulli,17,0,6,45,Engine
+2003,French Grand Prix,Fernando Alonso,18,0,7,43,Engine
+2003,French Grand Prix,Giancarlo Fisichella,19,0,17,42,Engine
+2003,French Grand Prix,Jenson Button,20,0,14,23,Fuel
+2003,British Grand Prix,Rubens Barrichello,1,10,1,60,RAS
+2003,British Grand Prix,Juan Pablo Montoya,2,8,7,60,RAS
+2003,British Grand Prix,Kimi Räikkönen,3,6,3,60,RAS
+2003,British Grand Prix,Michael Schumacher,4,5,5,60,RAS
+2003,British Grand Prix,David Coulthard,5,4,12,60,RAS
+2003,British Grand Prix,Jarno Trulli,6,3,2,60,RAS
+2003,British Grand Prix,Cristiano da Matta,7,2,6,60,RAS
+2003,British Grand Prix,Jenson Button,8,1,20,60,RAS
+2003,British Grand Prix,Ralf Schumacher,9,0,4,60,RAS
+2003,British Grand Prix,Jacques Villeneuve,10,0,9,60,RAS
+2003,British Grand Prix,Olivier Panis,11,0,13,60,RAS
+2003,British Grand Prix,Heinz-Harald Frentzen,12,0,14,60,RAS
+2003,British Grand Prix,Ralph Firman,13,0,17,59,RAS
+2003,British Grand Prix,Mark Webber,14,0,11,59,RAS
+2003,British Grand Prix,Jos Verstappen,15,0,19,58,RAS
+2003,British Grand Prix,Justin Wilson,16,0,18,58,RAS
+2003,British Grand Prix,Nick Heidfeld,17,0,16,58,RAS
+2003,British Grand Prix,Fernando Alonso,18,0,8,52,Gearbox
+2003,British Grand Prix,Giancarlo Fisichella,19,0,15,44,Suspension
+2003,British Grand Prix,Antônio Pizzonia,20,0,10,32,Engine
+2003,German Grand Prix,Juan Pablo Montoya,1,10,1,67,RAS
+2003,German Grand Prix,David Coulthard,2,8,10,67,RAS
+2003,German Grand Prix,Jarno Trulli,3,6,4,67,RAS
+2003,German Grand Prix,Fernando Alonso,4,5,8,67,RAS
+2003,German Grand Prix,Olivier Panis,5,4,7,66,RAS
+2003,German Grand Prix,Cristiano da Matta,6,3,9,66,RAS
+2003,German Grand Prix,Michael Schumacher,7,2,6,66,RAS
+2003,German Grand Prix,Jenson Button,8,1,17,66,RAS
+2003,German Grand Prix,Jacques Villeneuve,9,0,13,65,RAS
+2003,German Grand Prix,Nick Heidfeld,10,0,15,65,RAS
+2003,German Grand Prix,Mark Webber,11,0,11,64,Accident
+2003,German Grand Prix,Nicolas Kiesa,12,0,20,62,RAS
+2003,German Grand Prix,Giancarlo Fisichella,13,0,13,60,Engine
+2003,German Grand Prix,Jos Verstappen,14,0,19,23,Hydraulics
+2003,German Grand Prix,Justin Wilson,15,0,16,6,Gearbox
+2003,German Grand Prix,Ralf Schumacher,16,0,2,1,Accident
+2003,German Grand Prix,Heinz-Harald Frentzen,17,0,14,1,Accident
+2003,German Grand Prix,Rubens Barrichello,18,0,3,0,Accident
+2003,German Grand Prix,Kimi Räikkönen,19,0,5,0,Accident
+2003,German Grand Prix,Ralph Firman,20,0,18,0,Accident
+2003,Hungarian Grand Prix,Fernando Alonso,1,10,1,70,RAS
+2003,Hungarian Grand Prix,Kimi Räikkönen,2,8,7,70,RAS
+2003,Hungarian Grand Prix,Juan Pablo Montoya,3,6,4,70,RAS
+2003,Hungarian Grand Prix,Ralf Schumacher,4,5,2,70,RAS
+2003,Hungarian Grand Prix,David Coulthard,5,4,9,70,RAS
+2003,Hungarian Grand Prix,Mark Webber,6,3,3,70,RAS
+2003,Hungarian Grand Prix,Jarno Trulli,7,2,6,69,RAS
+2003,Hungarian Grand Prix,Michael Schumacher,8,1,8,69,RAS
+2003,Hungarian Grand Prix,Nick Heidfeld,9,0,11,69,RAS
+2003,Hungarian Grand Prix,Jenson Button,10,0,14,69,RAS
+2003,Hungarian Grand Prix,Cristiano da Matta,11,0,15,68,RAS
+2003,Hungarian Grand Prix,Jos Verstappen,12,0,18,67,RAS
+2003,Hungarian Grand Prix,Nicolas Kiesa,13,0,20,66,RAS
+2003,Hungarian Grand Prix,Heinz-Harald Frentzen,14,0,17,47,Out of fuel
+2003,Hungarian Grand Prix,Justin Wilson,15,0,12,42,Engine
+2003,Hungarian Grand Prix,Zsolt Baumgartner,16,0,19,34,Engine
+2003,Hungarian Grand Prix,Olivier Panis,17,0,10,33,Gearbox
+2003,Hungarian Grand Prix,Giancarlo Fisichella,18,0,13,28,Engine
+2003,Hungarian Grand Prix,Rubens Barrichello,19,0,5,19,Suspension
+2003,Hungarian Grand Prix,Jacques Villeneuve,20,0,16,14,Hydraulics
+2003,Italian Grand Prix,Michael Schumacher,1,10,1,53,RAS
+2003,Italian Grand Prix,Juan Pablo Montoya,2,8,2,53,RAS
+2003,Italian Grand Prix,Rubens Barrichello,3,6,3,53,RAS
+2003,Italian Grand Prix,Kimi Räikkönen,4,5,4,53,RAS
+2003,Italian Grand Prix,Marc Gené,5,4,5,53,RAS
+2003,Italian Grand Prix,Jacques Villeneuve,6,3,10,52,RAS
+2003,Italian Grand Prix,Mark Webber,7,2,11,52,RAS
+2003,Italian Grand Prix,Fernando Alonso,8,1,20,52,RAS
+2003,Italian Grand Prix,Nick Heidfeld,9,0,16,52,RAS
+2003,Italian Grand Prix,Giancarlo Fisichella,10,0,13,52,RAS
+2003,Italian Grand Prix,Zsolt Baumgartner,11,0,18,51,RAS
+2003,Italian Grand Prix,Nicolas Kiesa,12,0,19,51,RAS
+2003,Italian Grand Prix,Heinz-Harald Frentzen,13,0,14,50,RAS
+2003,Italian Grand Prix,David Coulthard,14,0,8,45,Fuel pressure
+2003,Italian Grand Prix,Olivier Panis,15,0,9,35,Brakes
+2003,Italian Grand Prix,Jos Verstappen,16,0,17,27,Oil leak
+2003,Italian Grand Prix,Jenson Button,17,0,7,24,Gearbox
+2003,Italian Grand Prix,Cristiano da Matta,18,0,12,3,Tyre
+2003,Italian Grand Prix,Justin Wilson,19,0,15,2,Gearbox
+2003,Italian Grand Prix,Jarno Trulli,20,0,6,0,Hydraulics
+2003,United States Grand Prix,Michael Schumacher,1,10,7,73,RAS
+2003,United States Grand Prix,Kimi Räikkönen,2,8,1,73,RAS
+2003,United States Grand Prix,Heinz-Harald Frentzen,3,6,15,73,RAS
+2003,United States Grand Prix,Jarno Trulli,4,5,10,73,RAS
+2003,United States Grand Prix,Nick Heidfeld,5,4,13,73,RAS
+2003,United States Grand Prix,Juan Pablo Montoya,6,3,4,72,RAS
+2003,United States Grand Prix,Giancarlo Fisichella,7,2,17,72,RAS
+2003,United States Grand Prix,Justin Wilson,8,1,16,71,RAS
+2003,United States Grand Prix,Cristiano da Matta,9,0,9,71,RAS
+2003,United States Grand Prix,Jos Verstappen,10,0,19,69,RAS
+2003,United States Grand Prix,Nicolas Kiesa,11,0,20,69,RAS
+2003,United States Grand Prix,Jacques Villeneuve,12,0,12,63,Engine
+2003,United States Grand Prix,Ralph Firman,13,0,18,48,Spun off
+2003,United States Grand Prix,David Coulthard,14,0,8,45,Gearbox
+2003,United States Grand Prix,Fernando Alonso,15,0,6,44,Engine
+2003,United States Grand Prix,Jenson Button,16,0,11,41,Engine
+2003,United States Grand Prix,Olivier Panis,17,0,3,27,Accident
+2003,United States Grand Prix,Mark Webber,18,0,14,21,Accident
+2003,United States Grand Prix,Ralf Schumacher,19,0,5,21,Accident
+2003,United States Grand Prix,Rubens Barrichello,20,0,2,2,Collision
+2003,Japanese Grand Prix,Rubens Barrichello,1,10,1,53,RAS
+2003,Japanese Grand Prix,Kimi Räikkönen,2,8,8,53,RAS
+2003,Japanese Grand Prix,David Coulthard,3,6,7,53,RAS
+2003,Japanese Grand Prix,Jenson Button,4,5,9,53,RAS
+2003,Japanese Grand Prix,Jarno Trulli,5,4,20,53,RAS
+2003,Japanese Grand Prix,Takuma Sato,6,3,13,53,RAS
+2003,Japanese Grand Prix,Cristiano da Matta,7,2,3,53,RAS
+2003,Japanese Grand Prix,Michael Schumacher,8,1,14,53,RAS
+2003,Japanese Grand Prix,Nick Heidfeld,9,0,11,53,RAS
+2003,Japanese Grand Prix,Olivier Panis,10,0,4,53,RAS
+2003,Japanese Grand Prix,Mark Webber,11,0,6,53,RAS
+2003,Japanese Grand Prix,Ralf Schumacher,12,0,19,52,RAS
+2003,Japanese Grand Prix,Justin Wilson,13,0,10,52,RAS
+2003,Japanese Grand Prix,Ralph Firman,14,0,15,51,RAS
+2003,Japanese Grand Prix,Jos Verstappen,15,0,17,51,RAS
+2003,Japanese Grand Prix,Nicolas Kiesa,16,0,18,50,RAS
+2003,Japanese Grand Prix,Giancarlo Fisichella,17,0,16,33,Out of fuel
+2003,Japanese Grand Prix,Fernando Alonso,18,0,5,17,Engine
+2003,Japanese Grand Prix,Heinz-Harald Frentzen,19,0,12,9,Engine
+2003,Japanese Grand Prix,Juan Pablo Montoya,20,0,2,9,Hydraulics

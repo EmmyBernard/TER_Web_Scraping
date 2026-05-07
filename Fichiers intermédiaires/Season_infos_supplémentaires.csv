@@ -1,0 +1,78 @@
+id,url_en,url_fr,Champion,Nb_GP,Champion_constructeur,Nb_pilotes,Nb_team,seNbFixed,seTires
+1950,https://en.wikipedia.org/wiki/1950_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1950,Giuseppe Farina,7,,,,False,
+1951,https://en.wikipedia.org/wiki/1951_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1951,Juan Manuel Fangio,8,,,,False,
+1952,https://en.wikipedia.org/wiki/1952_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1952,Alberto Ascari,8,,,,False,
+1953,https://en.wikipedia.org/wiki/1953_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1953,Alberto Ascari,9,,,,False,
+1954,https://en.wikipedia.org/wiki/1954_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1954,Juan Manuel Fangio,9,,,,False,
+1955,https://en.wikipedia.org/wiki/1955_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1955,Juan Manuel Fangio,7,,,,False,
+1956,https://en.wikipedia.org/wiki/1956_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1956,Juan Manuel Fangio,8,,,,False,
+1957,https://en.wikipedia.org/wiki/1957_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1957,Juan Manuel Fangio,8,,,,False,
+1958,https://en.wikipedia.org/wiki/1958_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1958,Mike Hawthorn,11,Vanwall,,,False,
+1959,https://en.wikipedia.org/wiki/1959_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1959,Jack Brabham,9,Cooper,,,False,
+1960,https://en.wikipedia.org/wiki/1960_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1960,Jack Brabham,10,Cooper,,,False,
+1961,https://en.wikipedia.org/wiki/1961_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1961,Phil Hill,8,Ferrari,,,False,Dunlop
+1962,https://en.wikipedia.org/wiki/1962_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1962,Graham Hill,9,BRM,,,False,Dunlop
+1963,https://en.wikipedia.org/wiki/1963_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1963,Jim Clark,10,Lotus,,,False,Dunlop
+1964,https://en.wikipedia.org/wiki/1964_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1964,John Surtees,10,Ferrari,,,False,
+1965,https://en.wikipedia.org/wiki/1965_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1965,Jim Clark,10,Lotus,,,False,
+1966,https://en.wikipedia.org/wiki/1966_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1966,Jack Brabham,9,Brabham-Repco,,,False,
+1967,https://en.wikipedia.org/wiki/1967_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1967,Denny Hulme,11,Brabham-Repco,,,False,
+1968,https://en.wikipedia.org/wiki/1968_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1968,Graham Hill,12,Lotus-Ford,,,False,
+1969,https://en.wikipedia.org/wiki/1969_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1969,Jackie Stewart,11,Matra-Ford,,,False,
+1970,https://en.wikipedia.org/wiki/1970_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1970,Jochen Rindt,13,Lotus-Ford,,,False,
+1971,https://en.wikipedia.org/wiki/1971_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1971,Jackie Stewart,11,Tyrrell-Ford,,,False,
+1972,https://en.wikipedia.org/wiki/1972_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1972,Emerson Fittipaldi,12,Lotus-Ford,,,False,
+1973,https://en.wikipedia.org/wiki/1973_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1973,Jackie Stewart,15,Lotus-Ford,,,False,
+1974,https://en.wikipedia.org/wiki/1974_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1974,Emerson Fittipaldi,15,McLaren-Ford,,,False,
+1975,https://en.wikipedia.org/wiki/1975_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1975,Niki Lauda,14,Ferrari,,,False,
+1976,https://en.wikipedia.org/wiki/1976_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1976,James Hunt,16,Ferrari,,,False,
+1977,https://en.wikipedia.org/wiki/1977_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1977,Niki Lauda,17,Ferrari,,,False,
+1978,https://en.wikipedia.org/wiki/1978_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1978,Mario Andretti,16,Lotus-Ford,,,False,
+1979,https://en.wikipedia.org/wiki/1979_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1979,Jody Scheckter,15,Ferrari,,,False,
+1980,https://en.wikipedia.org/wiki/1980_Formula_One_season,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1980,Alan Jones,14,Williams-Ford,,,False,
+1981,https://en.wikipedia.org/wiki/1981_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1981,Nelson Piquet,15,Williams-Ford,,,False,
+1982,https://en.wikipedia.org/wiki/1982_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1982,Keke Rosberg,16,Ferrari,,,False,
+1983,https://en.wikipedia.org/wiki/1983_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1983,Nelson Piquet,15,Ferrari,,,False,
+1984,https://en.wikipedia.org/wiki/1984_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1984,Niki Lauda,16,McLaren-TAG,,,False,
+1985,https://en.wikipedia.org/wiki/1985_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1985,Alain Prost,16,McLaren-TAG,,,False,
+1986,https://en.wikipedia.org/wiki/1986_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1986,Alain Prost,16,Williams-Honda,,,False,
+1987,https://en.wikipedia.org/wiki/1987_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1987,Nelson Piquet,16,Williams-Honda,,,False,Goodyear
+1988,https://en.wikipedia.org/wiki/1988_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1988,Ayrton Senna,16,McLaren-Honda,,,False,Goodyear
+1989,https://en.wikipedia.org/wiki/1989_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1989,Alain Prost,16,McLaren-Honda,,,False,
+1990,https://en.wikipedia.org/wiki/1990_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1990,Ayrton Senna,16,McLaren-Honda,,,False,
+1991,https://en.wikipedia.org/wiki/1991_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1991,Ayrton Senna,16,McLaren-Honda,,,False,
+1992,https://en.wikipedia.org/wiki/1992_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1992,Nigel Mansell,16,Williams-Renault,,,False,Goodyear
+1993,https://en.wikipedia.org/wiki/1993_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1993,Alain Prost,16,Williams-Renault,,,False,Goodyear
+1994,https://en.wikipedia.org/wiki/1994_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1994,Michael Schumacher,16,Williams-Renault,,,False,Goodyear
+1995,https://en.wikipedia.org/wiki/1995_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1995,Michael Schumacher,17,Benetton-Renault,,,False,Goodyear
+1996,https://en.wikipedia.org/wiki/1996_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1996,Damon Hill,16,Williams-Renault,,,False,Goodyear
+1997,https://en.wikipedia.org/wiki/1997_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1997,Jacques Villeneuve,17,Williams-Renault,,,False,
+1998,https://en.wikipedia.org/wiki/1998_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1998,Mika Häkkinen,16,McLaren-Mercedes,,,False,
+1999,https://en.wikipedia.org/wiki/1999_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_1999,Mika Häkkinen,16,Ferrari,,,False,Bridgestone
+2000,https://en.wikipedia.org/wiki/2000_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2000,Michael Schumacher,17,Scuderia Ferrari,,,False,Bridgestone
+2001,https://en.wikipedia.org/wiki/2001_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2001,Michael Schumacher,17,Scuderia Ferrari,,,False,
+2002,https://en.wikipedia.org/wiki/2002_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2002,Michael Schumacher,17,Scuderia Ferrari,,,False,
+2003,https://en.wikipedia.org/wiki/2003_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2003,Michael Schumacher,16,Scuderia Ferrari,,,False,
+2004,https://en.wikipedia.org/wiki/2004_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2004,Michael Schumacher,18,Scuderia Ferrari,,,False,
+2005,https://en.wikipedia.org/wiki/2005_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2005,Fernando Alonso,19,Renault F1 Team,,,False,
+2006,https://en.wikipedia.org/wiki/2006_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2006,Fernando Alonso,18,Renault F1 Team,27,,False,
+2007,https://en.wikipedia.org/wiki/2007_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2007,Kimi Räikkönen,17,Ferrari,26,,False,Bridgestone
+2008,https://en.wikipedia.org/wiki/2008_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2008,Lewis Hamilton,18,Ferrari,22,,False,Bridgestone
+2009,https://en.wikipedia.org/wiki/2009_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2009,Jenson Button,17,Brawn-Mercedes,25,,False,Bridgestone
+2010,https://en.wikipedia.org/wiki/2010_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2010,Sebastian Vettel,19,Red Bull-Renault,27,,False,Bridgestone
+2011,https://en.wikipedia.org/wiki/2011_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2011,Sebastian Vettel,19,Red Bull-Renault,28,,False,Pirelli
+2012,https://en.wikipedia.org/wiki/2012_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2012,Sebastian Vettel,20,Red Bull-Renault,25,,False,Pirelli
+2013,https://en.wikipedia.org/wiki/2013_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2013,Sebastian Vettel,19,Red Bull-Renault,23,,False,Pirelli
+2014,https://en.wikipedia.org/wiki/2014_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2014,Lewis Hamilton,19,Mercedes,24,,True,Pirelli
+2015,https://en.wikipedia.org/wiki/2015_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2015,Lewis Hamilton,19,Mercedes,22,,True,Pirelli
+2016,https://en.wikipedia.org/wiki/2016_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2016,Nico Rosberg,21,Mercedes,24,,True,Pirelli
+2017,https://en.wikipedia.org/wiki/2017_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2017,Lewis Hamilton,20,Mercedes,25,,True,Pirelli
+2018,https://en.wikipedia.org/wiki/2018_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2018,Lewis Hamilton,21,Mercedes,20,,True,Pirelli
+2019,https://en.wikipedia.org/wiki/2019_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2019,Lewis Hamilton,21,Mercedes,20,,True,Pirelli
+2020,https://en.wikipedia.org/wiki/2020_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2020,Lewis Hamilton,17,Mercedes,23,,True,Pirelli
+2021,https://en.wikipedia.org/wiki/2021_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2021,Max Verstappen,22,Mercedes,21,,True,Pirelli
+2022,https://en.wikipedia.org/wiki/2022_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2022,Max Verstappen,22,Red Bull Racing,22,10,True,Pirelli
+2023,https://en.wikipedia.org/wiki/2023_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2023,Max Verstappen,22,Red Bull-Honda RBPT,22,10,True,Pirelli
+2024,https://en.wikipedia.org/wiki/2024_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2024,Max Verstappen,24,McLaren-Mercedes,24,10,True,Pirelli
+2025,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2025,Lando Norris,24,McLaren-Mercedes,21,10,True,Pirelli
+2026,https://en.wikipedia.org/wiki/2026_Formula_One_World_Championship,https://fr.wikipedia.org/wiki/Championnat_du_monde_de_Formule_1_2026,,24,,22,11,True,Pirelli

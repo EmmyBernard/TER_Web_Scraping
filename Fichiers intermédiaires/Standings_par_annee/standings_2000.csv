@@ -1,0 +1,374 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2000,Australian Grand Prix,Michael Schumacher,1,10,3,58,RAS
+2000,Australian Grand Prix,Rubens Barrichello,2,6,4,58,RAS
+2000,Australian Grand Prix,Ralf Schumacher,3,4,11,58,RAS
+2000,Australian Grand Prix,Jacques Villeneuve,4,3,8,58,RAS
+2000,Australian Grand Prix,Giancarlo Fisichella,5,2,9,58,RAS
+2000,Australian Grand Prix,Ricardo Zonta,6,1,16,58,RAS
+2000,Australian Grand Prix,Alexander Wurz,7,0,14,58,RAS
+2000,Australian Grand Prix,Marc Gené,8,0,18,57,RAS
+2000,Australian Grand Prix,Nick Heidfeld,9,0,15,56,RAS
+2000,Australian Grand Prix,Mika Salo,10,0,10,58,DQ
+2000,Australian Grand Prix,Jenson Button,11,0,21,46,Engine
+2000,Australian Grand Prix,Pedro Diniz,12,0,19,41,Transmission
+2000,Australian Grand Prix,Gastón Mazzacane,13,0,22,40,Gearbox
+2000,Australian Grand Prix,Heinz-Harald Frentzen,14,0,5,39,Hydraulics
+2000,Australian Grand Prix,Jarno Trulli,15,0,6,35,Engine
+2000,Australian Grand Prix,Jean Alesi,16,0,17,27,Hydraulics
+2000,Australian Grand Prix,Mika Häkkinen,17,0,1,18,Engine
+2000,Australian Grand Prix,Jos Verstappen,18,0,13,16,Suspension
+2000,Australian Grand Prix,David Coulthard,19,0,2,11,Engine
+2000,Australian Grand Prix,Pedro de la Rosa,20,0,12,6,Suspension
+2000,Australian Grand Prix,Eddie Irvine,21,0,7,6,Spun off
+2000,Australian Grand Prix,Johnny Herbert,22,0,20,1,Clutch
+2000,Brazilian Grand Prix,Michael Schumacher,1,10,3,71,RAS
+2000,Brazilian Grand Prix,Giancarlo Fisichella,2,6,5,71,RAS
+2000,Brazilian Grand Prix,Heinz-Harald Frentzen,3,4,7,71,RAS
+2000,Brazilian Grand Prix,Jarno Trulli,4,3,12,71,RAS
+2000,Brazilian Grand Prix,Ralf Schumacher,5,2,11,70,RAS
+2000,Brazilian Grand Prix,Jenson Button,6,1,9,70,RAS
+2000,Brazilian Grand Prix,Jos Verstappen,7,0,14,70,RAS
+2000,Brazilian Grand Prix,Pedro de la Rosa,8,0,16,70,RAS
+2000,Brazilian Grand Prix,Ricardo Zonta,9,0,8,69,RAS
+2000,Brazilian Grand Prix,Gastón Mazzacane,10,0,20,69,RAS
+2000,Brazilian Grand Prix,David Coulthard,11,0,2,71,DQ
+2000,Brazilian Grand Prix,Johnny Herbert,12,0,17,51,Gearbox
+2000,Brazilian Grand Prix,Marc Gené,13,0,18,31,Engine
+2000,Brazilian Grand Prix,Mika Häkkinen,14,0,1,30,Oil pressure
+2000,Brazilian Grand Prix,Rubens Barrichello,15,0,4,27,Hydraulics
+2000,Brazilian Grand Prix,Eddie Irvine,16,0,6,20,Spun off
+2000,Brazilian Grand Prix,Jacques Villeneuve,17,0,10,16,Gearbox
+2000,Brazilian Grand Prix,Jean Alesi,18,0,15,11,Electrical
+2000,Brazilian Grand Prix,Nick Heidfeld,19,0,19,9,Engine
+2000,Brazilian Grand Prix,Alexander Wurz,20,0,13,6,Engine
+2000,Brazilian Grand Prix,Pedro Diniz,21,0,0,0,Safety concerns
+2000,Brazilian Grand Prix,Mika Salo,22,0,0,0,Safety concerns
+2000,San Marino Grand Prix,Michael Schumacher,1,10,2,62,RAS
+2000,San Marino Grand Prix,Mika Häkkinen,2,6,1,62,RAS
+2000,San Marino Grand Prix,David Coulthard,3,4,3,62,RAS
+2000,San Marino Grand Prix,Rubens Barrichello,4,3,4,62,RAS
+2000,San Marino Grand Prix,Jacques Villeneuve,5,2,9,61,RAS
+2000,San Marino Grand Prix,Mika Salo,6,1,12,61,RAS
+2000,San Marino Grand Prix,Eddie Irvine,7,0,7,61,RAS
+2000,San Marino Grand Prix,Pedro Diniz,8,0,10,61,RAS
+2000,San Marino Grand Prix,Alexander Wurz,9,0,11,61,RAS
+2000,San Marino Grand Prix,Johnny Herbert,10,0,17,61,RAS
+2000,San Marino Grand Prix,Giancarlo Fisichella,11,0,19,61,RAS
+2000,San Marino Grand Prix,Ricardo Zonta,12,0,14,61,RAS
+2000,San Marino Grand Prix,Gastón Mazzacane,13,0,20,60,RAS
+2000,San Marino Grand Prix,Jos Verstappen,14,0,16,59,RAS
+2000,San Marino Grand Prix,Jarno Trulli,15,0,8,58,Gearbox
+2000,San Marino Grand Prix,Pedro de la Rosa,16,0,13,49,Spun off
+2000,San Marino Grand Prix,Ralf Schumacher,17,0,5,45,Fuel system
+2000,San Marino Grand Prix,Jean Alesi,18,0,15,25,Hydraulics
+2000,San Marino Grand Prix,Nick Heidfeld,19,0,22,22,Hydraulics
+2000,San Marino Grand Prix,Jenson Button,20,0,18,5,Engine
+2000,San Marino Grand Prix,Marc Gené,21,0,21,5,Spun off
+2000,San Marino Grand Prix,Heinz-Harald Frentzen,22,0,6,4,Gearbox
+2000,British Grand Prix,David Coulthard,1,10,4,60,RAS
+2000,British Grand Prix,Mika Häkkinen,2,6,3,60,RAS
+2000,British Grand Prix,Michael Schumacher,3,4,5,60,RAS
+2000,British Grand Prix,Ralf Schumacher,4,3,7,60,RAS
+2000,British Grand Prix,Jenson Button,5,2,6,60,RAS
+2000,British Grand Prix,Jarno Trulli,6,1,11,60,RAS
+2000,British Grand Prix,Giancarlo Fisichella,7,0,12,59,RAS
+2000,British Grand Prix,Mika Salo,8,0,18,59,RAS
+2000,British Grand Prix,Alexander Wurz,9,0,20,59,RAS
+2000,British Grand Prix,Jean Alesi,10,0,15,59,RAS
+2000,British Grand Prix,Pedro Diniz,11,0,13,59,RAS
+2000,British Grand Prix,Johnny Herbert,12,0,14,59,RAS
+2000,British Grand Prix,Eddie Irvine,13,0,9,59,RAS
+2000,British Grand Prix,Marc Gené,14,0,21,59,RAS
+2000,British Grand Prix,Gastón Mazzacane,15,0,22,59,RAS
+2000,British Grand Prix,Jacques Villeneuve,16,0,10,56,RAS
+2000,British Grand Prix,Heinz-Harald Frentzen,17,0,2,54,RAS
+2000,British Grand Prix,Nick Heidfeld,18,0,17,51,Engine
+2000,British Grand Prix,Ricardo Zonta,19,0,16,36,Spun off
+2000,British Grand Prix,Rubens Barrichello,20,0,1,35,Hydraulics
+2000,British Grand Prix,Pedro de la Rosa,21,0,19,26,Electrical
+2000,British Grand Prix,Jos Verstappen,22,0,8,20,Electrical
+2000,Spanish Grand Prix,Mika Häkkinen,1,10,2,65,RAS
+2000,Spanish Grand Prix,David Coulthard,2,6,4,65,RAS
+2000,Spanish Grand Prix,Rubens Barrichello,3,4,3,65,RAS
+2000,Spanish Grand Prix,Ralf Schumacher,4,3,5,65,RAS
+2000,Spanish Grand Prix,Michael Schumacher,5,2,1,65,RAS
+2000,Spanish Grand Prix,Heinz-Harald Frentzen,6,1,8,65,RAS
+2000,Spanish Grand Prix,Mika Salo,7,0,12,64,RAS
+2000,Spanish Grand Prix,Ricardo Zonta,8,0,16,64,RAS
+2000,Spanish Grand Prix,Giancarlo Fisichella,9,0,13,64,RAS
+2000,Spanish Grand Prix,Alexander Wurz,10,0,18,64,RAS
+2000,Spanish Grand Prix,Eddie Irvine,11,0,9,64,RAS
+2000,Spanish Grand Prix,Jarno Trulli,12,0,7,64,RAS
+2000,Spanish Grand Prix,Johnny Herbert,13,0,14,64,RAS
+2000,Spanish Grand Prix,Marc Gené,14,0,20,63,RAS
+2000,Spanish Grand Prix,Gastón Mazzacane,15,0,21,63,RAS
+2000,Spanish Grand Prix,Nick Heidfeld,16,0,19,62,RAS
+2000,Spanish Grand Prix,Jenson Button,17,0,10,61,Engine
+2000,Spanish Grand Prix,Jos Verstappen,18,0,11,25,Gearbox
+2000,Spanish Grand Prix,Jacques Villeneuve,19,0,6,21,Hydraulics
+2000,Spanish Grand Prix,Jean Alesi,20,0,17,1,Collision
+2000,Spanish Grand Prix,Pedro de la Rosa,21,0,22,1,Collision
+2000,Spanish Grand Prix,Pedro Diniz,22,0,15,0,Spun off
+2000,European Grand Prix,Michael Schumacher,1,10,2,67,RAS
+2000,European Grand Prix,Mika Häkkinen,2,6,3,67,RAS
+2000,European Grand Prix,David Coulthard,3,4,1,66,RAS
+2000,European Grand Prix,Rubens Barrichello,4,3,4,66,RAS
+2000,European Grand Prix,Giancarlo Fisichella,5,2,7,66,RAS
+2000,European Grand Prix,Pedro de la Rosa,6,1,12,66,RAS
+2000,European Grand Prix,Pedro Diniz,7,0,15,65,RAS
+2000,European Grand Prix,Gastón Mazzacane,8,0,21,65,RAS
+2000,European Grand Prix,Jean Alesi,9,0,17,65,RAS
+2000,European Grand Prix,Jenson Button,10,0,11,62,Electrical
+2000,European Grand Prix,Johnny Herbert,11,0,16,61,Collision
+2000,European Grand Prix,Alexander Wurz,12,0,14,61,Collision
+2000,European Grand Prix,Ricardo Zonta,13,0,18,51,Spun off
+2000,European Grand Prix,Marc Gené,14,0,20,47,Throttle
+2000,European Grand Prix,Jacques Villeneuve,15,0,9,46,Engine
+2000,European Grand Prix,Eddie Irvine,16,0,8,29,Collision
+2000,European Grand Prix,Jos Verstappen,17,0,13,29,Spun off
+2000,European Grand Prix,Ralf Schumacher,18,0,5,29,Collision
+2000,European Grand Prix,Mika Salo,19,0,19,27,Halfshaft
+2000,European Grand Prix,Heinz-Harald Frentzen,20,0,10,2,Engine
+2000,European Grand Prix,Jarno Trulli,21,0,6,0,Collision
+2000,Monaco Grand Prix,David Coulthard,1,10,3,78,RAS
+2000,Monaco Grand Prix,Rubens Barrichello,2,6,6,78,RAS
+2000,Monaco Grand Prix,Giancarlo Fisichella,3,4,8,78,RAS
+2000,Monaco Grand Prix,Eddie Irvine,4,3,10,78,RAS
+2000,Monaco Grand Prix,Mika Salo,5,2,13,78,RAS
+2000,Monaco Grand Prix,Mika Häkkinen,6,1,5,77,RAS
+2000,Monaco Grand Prix,Jacques Villeneuve,7,0,17,77,RAS
+2000,Monaco Grand Prix,Nick Heidfeld,8,0,18,77,RAS
+2000,Monaco Grand Prix,Johnny Herbert,9,0,11,76,RAS
+2000,Monaco Grand Prix,Heinz-Harald Frentzen,10,0,4,70,Spun off
+2000,Monaco Grand Prix,Jos Verstappen,11,0,15,60,Spun off
+2000,Monaco Grand Prix,Michael Schumacher,12,0,1,55,Suspension
+2000,Monaco Grand Prix,Ricardo Zonta,13,0,20,48,Spun off
+2000,Monaco Grand Prix,Ralf Schumacher,14,0,9,37,Spun off
+2000,Monaco Grand Prix,Jarno Trulli,15,0,2,36,Gearbox
+2000,Monaco Grand Prix,Pedro Diniz,16,0,19,30,Spun off
+2000,Monaco Grand Prix,Jean Alesi,17,0,7,29,Transmission
+2000,Monaco Grand Prix,Gastón Mazzacane,18,0,22,22,Spun off
+2000,Monaco Grand Prix,Marc Gené,19,0,21,21,Gearbox
+2000,Monaco Grand Prix,Alexander Wurz,20,0,12,18,Spun off
+2000,Monaco Grand Prix,Jenson Button,21,0,14,16,Engine
+2000,Monaco Grand Prix,Pedro de la Rosa,22,0,16,0,Not restarted
+2000,Canadian Grand Prix,Michael Schumacher,1,10,1,69,RAS
+2000,Canadian Grand Prix,Rubens Barrichello,2,6,3,69,RAS
+2000,Canadian Grand Prix,Giancarlo Fisichella,3,4,10,69,RAS
+2000,Canadian Grand Prix,Mika Häkkinen,4,3,4,69,RAS
+2000,Canadian Grand Prix,Jos Verstappen,5,2,13,69,RAS
+2000,Canadian Grand Prix,Jarno Trulli,6,1,7,69,RAS
+2000,Canadian Grand Prix,David Coulthard,7,0,2,69,RAS
+2000,Canadian Grand Prix,Ricardo Zonta,8,0,8,69,RAS
+2000,Canadian Grand Prix,Alexander Wurz,9,0,14,69,RAS
+2000,Canadian Grand Prix,Pedro Diniz,10,0,19,69,RAS
+2000,Canadian Grand Prix,Jenson Button,11,0,18,68,RAS
+2000,Canadian Grand Prix,Gastón Mazzacane,12,0,22,68,RAS
+2000,Canadian Grand Prix,Eddie Irvine,13,0,16,66,RAS
+2000,Canadian Grand Prix,Ralf Schumacher,14,0,12,64,Collision
+2000,Canadian Grand Prix,Jacques Villeneuve,15,0,6,64,Collision
+2000,Canadian Grand Prix,Marc Gené,16,0,20,64,Spun off
+2000,Canadian Grand Prix,Pedro de la Rosa,17,0,9,48,Collision
+2000,Canadian Grand Prix,Mika Salo,18,0,15,42,Electrical
+2000,Canadian Grand Prix,Jean Alesi,19,0,17,38,Electrical
+2000,Canadian Grand Prix,Nick Heidfeld,20,0,21,34,Engine
+2000,Canadian Grand Prix,Heinz-Harald Frentzen,21,0,5,32,Brakes
+2000,Canadian Grand Prix,Johnny Herbert,22,0,11,14,Gearbox
+2000,French Grand Prix,David Coulthard,1,10,2,72,RAS
+2000,French Grand Prix,Mika Häkkinen,2,6,4,72,RAS
+2000,French Grand Prix,Rubens Barrichello,3,4,3,72,RAS
+2000,French Grand Prix,Jacques Villeneuve,4,3,7,72,RAS
+2000,French Grand Prix,Ralf Schumacher,5,2,5,72,RAS
+2000,French Grand Prix,Jarno Trulli,6,1,9,72,RAS
+2000,French Grand Prix,Heinz-Harald Frentzen,7,0,8,71,RAS
+2000,French Grand Prix,Jenson Button,8,0,10,71,RAS
+2000,French Grand Prix,Giancarlo Fisichella,9,0,14,71,RAS
+2000,French Grand Prix,Mika Salo,10,0,12,71,RAS
+2000,French Grand Prix,Pedro Diniz,11,0,15,71,RAS
+2000,French Grand Prix,Nick Heidfeld,12,0,16,71,RAS
+2000,French Grand Prix,Eddie Irvine,13,0,6,70,RAS
+2000,French Grand Prix,Jean Alesi,14,0,18,70,RAS
+2000,French Grand Prix,Marc Gené,15,0,21,70,RAS
+2000,French Grand Prix,Michael Schumacher,16,0,1,58,Engine
+2000,French Grand Prix,Pedro de la Rosa,17,0,13,45,Transmission
+2000,French Grand Prix,Alexander Wurz,18,0,17,34,Spun off
+2000,French Grand Prix,Gastón Mazzacane,19,0,22,31,Spun off
+2000,French Grand Prix,Jos Verstappen,20,0,20,25,Transmission
+2000,French Grand Prix,Johnny Herbert,21,0,11,20,Gearbox
+2000,French Grand Prix,Ricardo Zonta,22,0,19,16,Spun off
+2000,Austrian Grand Prix,Mika Häkkinen,1,10,1,71,RAS
+2000,Austrian Grand Prix,David Coulthard,2,6,2,71,RAS
+2000,Austrian Grand Prix,Rubens Barrichello,3,4,3,71,RAS
+2000,Austrian Grand Prix,Jacques Villeneuve,4,3,7,70,RAS
+2000,Austrian Grand Prix,Jenson Button,5,2,18,70,RAS
+2000,Austrian Grand Prix,Mika Salo,6,1,9,70,RAS
+2000,Austrian Grand Prix,Johnny Herbert,7,0,16,70,RAS
+2000,Austrian Grand Prix,Marc Gené,8,0,20,70,RAS
+2000,Austrian Grand Prix,Pedro Diniz,9,0,11,70,RAS
+2000,Austrian Grand Prix,Alexander Wurz,10,0,14,70,RAS
+2000,Austrian Grand Prix,Luciano Burti,11,0,21,69,RAS
+2000,Austrian Grand Prix,Gastón Mazzacane,12,0,22,68,RAS
+2000,Austrian Grand Prix,Ricardo Zonta,13,0,6,58,Engine
+2000,Austrian Grand Prix,Ralf Schumacher,14,0,19,52,Brakes
+2000,Austrian Grand Prix,Nick Heidfeld,15,0,13,41,Collision
+2000,Austrian Grand Prix,Jean Alesi,16,0,17,41,Collision
+2000,Austrian Grand Prix,Pedro de la Rosa,17,0,12,32,Gearbox
+2000,Austrian Grand Prix,Jos Verstappen,18,0,10,14,Engine
+2000,Austrian Grand Prix,Heinz-Harald Frentzen,19,0,15,4,Oil leak
+2000,Austrian Grand Prix,Michael Schumacher,20,0,4,0,Collision
+2000,Austrian Grand Prix,Jarno Trulli,21,0,5,0,Collision
+2000,Austrian Grand Prix,Giancarlo Fisichella,22,0,8,0,Collision
+2000,German Grand Prix,Rubens Barrichello,1,10,18,45,RAS
+2000,German Grand Prix,Mika Häkkinen,2,6,4,45,RAS
+2000,German Grand Prix,David Coulthard,3,4,1,45,RAS
+2000,German Grand Prix,Jenson Button,4,3,16,45,RAS
+2000,German Grand Prix,Mika Salo,5,2,15,45,RAS
+2000,German Grand Prix,Pedro de la Rosa,6,1,5,45,RAS
+2000,German Grand Prix,Ralf Schumacher,7,0,14,45,RAS
+2000,German Grand Prix,Jacques Villeneuve,8,0,9,45,RAS
+2000,German Grand Prix,Jarno Trulli,9,0,6,45,RAS
+2000,German Grand Prix,Eddie Irvine,10,0,10,45,RAS
+2000,German Grand Prix,Gastón Mazzacane,11,0,21,45,RAS
+2000,German Grand Prix,Nick Heidfeld,12,0,13,40,Alternator
+2000,German Grand Prix,Heinz-Harald Frentzen,13,0,17,39,Gearbox
+2000,German Grand Prix,Jos Verstappen,14,0,11,39,Spun off
+2000,German Grand Prix,Ricardo Zonta,15,0,12,37,Spun off
+2000,German Grand Prix,Marc Gené,16,0,22,33,Engine
+2000,German Grand Prix,Alexander Wurz,17,0,7,31,Electrical
+2000,German Grand Prix,Pedro Diniz,18,0,19,29,Collision
+2000,German Grand Prix,Jean Alesi,19,0,20,29,Collision
+2000,German Grand Prix,Johnny Herbert,20,0,8,12,Gearbox
+2000,German Grand Prix,Michael Schumacher,21,0,2,0,Collision
+2000,German Grand Prix,Giancarlo Fisichella,22,0,3,0,Collision
+2000,Hungarian Grand Prix,Mika Häkkinen,1,10,3,77,RAS
+2000,Hungarian Grand Prix,Michael Schumacher,2,6,1,77,RAS
+2000,Hungarian Grand Prix,David Coulthard,3,4,2,77,RAS
+2000,Hungarian Grand Prix,Rubens Barrichello,4,3,5,77,RAS
+2000,Hungarian Grand Prix,Ralf Schumacher,5,2,4,77,RAS
+2000,Hungarian Grand Prix,Heinz-Harald Frentzen,6,1,6,77,RAS
+2000,Hungarian Grand Prix,Jarno Trulli,7,0,12,76,RAS
+2000,Hungarian Grand Prix,Eddie Irvine,8,0,10,76,RAS
+2000,Hungarian Grand Prix,Jenson Button,9,0,8,76,RAS
+2000,Hungarian Grand Prix,Mika Salo,10,0,9,76,RAS
+2000,Hungarian Grand Prix,Alexander Wurz,11,0,11,76,RAS
+2000,Hungarian Grand Prix,Jacques Villeneuve,12,0,16,75,RAS
+2000,Hungarian Grand Prix,Jos Verstappen,13,0,20,75,RAS
+2000,Hungarian Grand Prix,Ricardo Zonta,14,0,18,75,RAS
+2000,Hungarian Grand Prix,Marc Gené,15,0,21,74,RAS
+2000,Hungarian Grand Prix,Pedro de la Rosa,16,0,15,73,RAS
+2000,Hungarian Grand Prix,Gastón Mazzacane,17,0,22,68,Engine
+2000,Hungarian Grand Prix,Johnny Herbert,18,0,17,67,Gearbox
+2000,Hungarian Grand Prix,Pedro Diniz,19,0,13,62,Transmission
+2000,Hungarian Grand Prix,Giancarlo Fisichella,20,0,7,31,Brakes
+2000,Hungarian Grand Prix,Nick Heidfeld,21,0,19,22,Electrical
+2000,Hungarian Grand Prix,Jean Alesi,22,0,14,11,Suspension
+2000,Belgian Grand Prix,Mika Häkkinen,1,10,1,44,RAS
+2000,Belgian Grand Prix,Michael Schumacher,2,6,4,44,RAS
+2000,Belgian Grand Prix,Ralf Schumacher,3,4,6,44,RAS
+2000,Belgian Grand Prix,David Coulthard,4,3,5,44,RAS
+2000,Belgian Grand Prix,Jenson Button,5,2,3,44,RAS
+2000,Belgian Grand Prix,Heinz-Harald Frentzen,6,1,8,44,RAS
+2000,Belgian Grand Prix,Jacques Villeneuve,7,0,7,44,RAS
+2000,Belgian Grand Prix,Johnny Herbert,8,0,9,44,RAS
+2000,Belgian Grand Prix,Mika Salo,9,0,18,44,RAS
+2000,Belgian Grand Prix,Eddie Irvine,10,0,12,44,RAS
+2000,Belgian Grand Prix,Pedro Diniz,11,0,15,44,RAS
+2000,Belgian Grand Prix,Ricardo Zonta,12,0,13,43,RAS
+2000,Belgian Grand Prix,Alexander Wurz,13,0,19,43,RAS
+2000,Belgian Grand Prix,Marc Gené,14,0,21,43,RAS
+2000,Belgian Grand Prix,Jos Verstappen,15,0,20,43,RAS
+2000,Belgian Grand Prix,Pedro de la Rosa,16,0,16,42,RAS
+2000,Belgian Grand Prix,Gastón Mazzacane,17,0,22,42,RAS
+2000,Belgian Grand Prix,Rubens Barrichello,18,0,10,32,Fuel pressure
+2000,Belgian Grand Prix,Jean Alesi,19,0,17,32,Fuel pressure
+2000,Belgian Grand Prix,Nick Heidfeld,20,0,14,12,Engine
+2000,Belgian Grand Prix,Giancarlo Fisichella,21,0,11,8,Electrical
+2000,Belgian Grand Prix,Jarno Trulli,22,0,2,4,Collision
+2000,Italian Grand Prix,Michael Schumacher,1,10,1,53,RAS
+2000,Italian Grand Prix,Mika Häkkinen,2,6,3,53,RAS
+2000,Italian Grand Prix,Ralf Schumacher,3,4,7,53,RAS
+2000,Italian Grand Prix,Jos Verstappen,4,3,11,53,RAS
+2000,Italian Grand Prix,Alexander Wurz,5,2,13,53,RAS
+2000,Italian Grand Prix,Ricardo Zonta,6,1,17,53,RAS
+2000,Italian Grand Prix,Mika Salo,7,0,15,52,RAS
+2000,Italian Grand Prix,Pedro Diniz,8,0,16,52,RAS
+2000,Italian Grand Prix,Marc Gené,9,0,21,52,RAS
+2000,Italian Grand Prix,Gastón Mazzacane,10,0,22,52,RAS
+2000,Italian Grand Prix,Giancarlo Fisichella,11,0,9,52,RAS
+2000,Italian Grand Prix,Jean Alesi,12,0,19,51,RAS
+2000,Italian Grand Prix,Nick Heidfeld,13,0,20,15,Spun off
+2000,Italian Grand Prix,Jacques Villeneuve,14,0,4,14,Electrical
+2000,Italian Grand Prix,Jenson Button,15,0,12,10,Spun off
+2000,Italian Grand Prix,Johnny Herbert,16,0,18,1,Collision
+2000,Italian Grand Prix,Rubens Barrichello,17,0,2,0,Collision
+2000,Italian Grand Prix,David Coulthard,18,0,5,0,Collision
+2000,Italian Grand Prix,Jarno Trulli,19,0,6,0,Collision
+2000,Italian Grand Prix,Heinz-Harald Frentzen,20,0,8,0,Collision
+2000,Italian Grand Prix,Pedro de la Rosa,21,0,10,0,Collision
+2000,Italian Grand Prix,Eddie Irvine,22,0,14,0,Spun off
+2000,United States Grand Prix,Michael Schumacher,1,10,1,73,RAS
+2000,United States Grand Prix,Rubens Barrichello,2,6,4,73,RAS
+2000,United States Grand Prix,Heinz-Harald Frentzen,3,4,7,73,RAS
+2000,United States Grand Prix,Jacques Villeneuve,4,3,8,73,RAS
+2000,United States Grand Prix,David Coulthard,5,2,2,73,RAS
+2000,United States Grand Prix,Ricardo Zonta,6,1,12,73,RAS
+2000,United States Grand Prix,Eddie Irvine,7,0,17,73,RAS
+2000,United States Grand Prix,Pedro Diniz,8,0,9,72,RAS
+2000,United States Grand Prix,Nick Heidfeld,9,0,16,72,RAS
+2000,United States Grand Prix,Alexander Wurz,10,0,11,72,RAS
+2000,United States Grand Prix,Johnny Herbert,11,0,19,72,RAS
+2000,United States Grand Prix,Marc Gené,12,0,22,72,RAS
+2000,United States Grand Prix,Jean Alesi,13,0,20,64,Engine
+2000,United States Grand Prix,Gastón Mazzacane,14,0,21,59,Engine
+2000,United States Grand Prix,Ralf Schumacher,15,0,10,58,Engine
+2000,United States Grand Prix,Pedro de la Rosa,16,0,18,45,Gearbox
+2000,United States Grand Prix,Giancarlo Fisichella,17,0,15,44,Engine
+2000,United States Grand Prix,Jos Verstappen,18,0,13,34,Brakes
+2000,United States Grand Prix,Mika Häkkinen,19,0,3,25,Engine
+2000,United States Grand Prix,Mika Salo,20,0,14,18,Spun off
+2000,United States Grand Prix,Jenson Button,21,0,6,14,Engine
+2000,United States Grand Prix,Jarno Trulli,22,0,5,12,Collision
+2000,Japanese Grand Prix,Michael Schumacher,1,10,1,53,RAS
+2000,Japanese Grand Prix,Mika Häkkinen,2,6,2,53,RAS
+2000,Japanese Grand Prix,David Coulthard,3,4,3,53,RAS
+2000,Japanese Grand Prix,Rubens Barrichello,4,3,4,53,RAS
+2000,Japanese Grand Prix,Jenson Button,5,2,5,53,RAS
+2000,Japanese Grand Prix,Jacques Villeneuve,6,1,9,52,RAS
+2000,Japanese Grand Prix,Johnny Herbert,7,0,10,52,RAS
+2000,Japanese Grand Prix,Eddie Irvine,8,0,7,52,RAS
+2000,Japanese Grand Prix,Ricardo Zonta,9,0,18,52,RAS
+2000,Japanese Grand Prix,Mika Salo,10,0,19,52,RAS
+2000,Japanese Grand Prix,Pedro Diniz,11,0,20,52,RAS
+2000,Japanese Grand Prix,Pedro de la Rosa,12,0,13,52,RAS
+2000,Japanese Grand Prix,Jarno Trulli,13,0,15,52,RAS
+2000,Japanese Grand Prix,Giancarlo Fisichella,14,0,12,52,RAS
+2000,Japanese Grand Prix,Gastón Mazzacane,15,0,22,51,RAS
+2000,Japanese Grand Prix,Marc Gené,16,0,21,46,Engine
+2000,Japanese Grand Prix,Ralf Schumacher,17,0,6,41,Spun off
+2000,Japanese Grand Prix,Nick Heidfeld,18,0,16,41,Suspension
+2000,Japanese Grand Prix,Alexander Wurz,19,0,11,37,Spun off
+2000,Japanese Grand Prix,Heinz-Harald Frentzen,20,0,8,29,Hydraulics
+2000,Japanese Grand Prix,Jean Alesi,21,0,17,19,Engine
+2000,Japanese Grand Prix,Jos Verstappen,22,0,14,9,Electrical
+2000,Malaysian Grand Prix,Michael Schumacher,1,10,1,56,RAS
+2000,Malaysian Grand Prix,David Coulthard,2,6,3,56,RAS
+2000,Malaysian Grand Prix,Rubens Barrichello,3,4,4,56,RAS
+2000,Malaysian Grand Prix,Mika Häkkinen,4,3,2,56,RAS
+2000,Malaysian Grand Prix,Jacques Villeneuve,5,2,6,56,RAS
+2000,Malaysian Grand Prix,Eddie Irvine,6,1,7,56,RAS
+2000,Malaysian Grand Prix,Alexander Wurz,7,0,5,56,RAS
+2000,Malaysian Grand Prix,Mika Salo,8,0,17,55,RAS
+2000,Malaysian Grand Prix,Giancarlo Fisichella,9,0,13,55,RAS
+2000,Malaysian Grand Prix,Jos Verstappen,10,0,15,55,RAS
+2000,Malaysian Grand Prix,Jean Alesi,11,0,18,55,RAS
+2000,Malaysian Grand Prix,Jarno Trulli,12,0,9,55,RAS
+2000,Malaysian Grand Prix,Gastón Mazzacane,13,0,22,50,Engine
+2000,Malaysian Grand Prix,Johnny Herbert,14,0,12,48,Suspension
+2000,Malaysian Grand Prix,Ricardo Zonta,15,0,11,46,Engine
+2000,Malaysian Grand Prix,Ralf Schumacher,16,0,8,43,Engine
+2000,Malaysian Grand Prix,Marc Gené,17,0,21,36,Wheel
+2000,Malaysian Grand Prix,Jenson Button,18,0,16,18,Engine
+2000,Malaysian Grand Prix,Heinz-Harald Frentzen,19,0,10,7,Electrical
+2000,Malaysian Grand Prix,Pedro de la Rosa,20,0,14,0,Collision
+2000,Malaysian Grand Prix,Nick Heidfeld,21,0,19,0,Collision
+2000,Malaysian Grand Prix,Pedro Diniz,22,0,20,0,Collision

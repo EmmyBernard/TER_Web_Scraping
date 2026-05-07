@@ -1,0 +1,374 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2001,Australian Grand Prix,Michael Schumacher,1,10,1,58,RAS
+2001,Australian Grand Prix,David Coulthard,2,6,6,58,RAS
+2001,Australian Grand Prix,Rubens Barrichello,3,4,2,58,RAS
+2001,Australian Grand Prix,Nick Heidfeld,4,3,10,58,RAS
+2001,Australian Grand Prix,Heinz-Harald Frentzen,5,2,4,58,RAS
+2001,Australian Grand Prix,Kimi Räikkönen,6,1,13,58,RAS
+2001,Australian Grand Prix,Olivier Panis,7,0,9,58,RAS
+2001,Australian Grand Prix,Luciano Burti,8,0,21,57,RAS
+2001,Australian Grand Prix,Jean Alesi,9,0,14,57,RAS
+2001,Australian Grand Prix,Jos Verstappen,10,0,15,57,RAS
+2001,Australian Grand Prix,Eddie Irvine,11,0,12,57,RAS
+2001,Australian Grand Prix,Fernando Alonso,12,0,19,56,RAS
+2001,Australian Grand Prix,Giancarlo Fisichella,13,0,17,55,RAS
+2001,Australian Grand Prix,Jenson Button,14,0,16,52,Electrical
+2001,Australian Grand Prix,Juan Pablo Montoya,15,0,11,40,Engine
+2001,Australian Grand Prix,Jarno Trulli,16,0,7,38,Engine
+2001,Australian Grand Prix,Mika Häkkinen,17,0,3,25,Suspension
+2001,Australian Grand Prix,Ralf Schumacher,18,0,5,4,Collision
+2001,Australian Grand Prix,Jacques Villeneuve,19,0,8,4,Collision
+2001,Australian Grand Prix,Tarso Marques,20,0,22,3,Battery
+2001,Australian Grand Prix,Enrique Bernoldi,21,0,18,2,Spun off
+2001,Australian Grand Prix,Gastón Mazzacane,22,0,20,0,Brakes
+2001,Malaysian Grand Prix,Michael Schumacher,1,10,1,55,RAS
+2001,Malaysian Grand Prix,Rubens Barrichello,2,6,2,55,RAS
+2001,Malaysian Grand Prix,David Coulthard,3,4,8,55,RAS
+2001,Malaysian Grand Prix,Heinz-Harald Frentzen,4,3,9,55,RAS
+2001,Malaysian Grand Prix,Ralf Schumacher,5,2,3,55,RAS
+2001,Malaysian Grand Prix,Mika Häkkinen,6,1,4,55,RAS
+2001,Malaysian Grand Prix,Jos Verstappen,7,0,18,55,RAS
+2001,Malaysian Grand Prix,Jarno Trulli,8,0,5,54,RAS
+2001,Malaysian Grand Prix,Jean Alesi,9,0,13,54,RAS
+2001,Malaysian Grand Prix,Luciano Burti,10,0,15,54,RAS
+2001,Malaysian Grand Prix,Jenson Button,11,0,17,53,RAS
+2001,Malaysian Grand Prix,Gastón Mazzacane,12,0,19,53,RAS
+2001,Malaysian Grand Prix,Fernando Alonso,13,0,21,52,RAS
+2001,Malaysian Grand Prix,Tarso Marques,14,0,20,51,RAS
+2001,Malaysian Grand Prix,Giancarlo Fisichella,15,0,16,31,Fuel pressure
+2001,Malaysian Grand Prix,Jacques Villeneuve,16,0,7,3,Spun off
+2001,Malaysian Grand Prix,Nick Heidfeld,17,0,11,3,Spun off
+2001,Malaysian Grand Prix,Enrique Bernoldi,18,0,22,3,Spun off
+2001,Malaysian Grand Prix,Juan Pablo Montoya,19,0,6,3,Spun off
+2001,Malaysian Grand Prix,Eddie Irvine,20,0,12,3,Water leak
+2001,Malaysian Grand Prix,Olivier Panis,21,0,10,1,Oil leak
+2001,Malaysian Grand Prix,Kimi Räikkönen,22,0,14,0,Driveshaft
+2001,Brazilian Grand Prix,David Coulthard,1,10,5,71,RAS
+2001,Brazilian Grand Prix,Michael Schumacher,2,6,1,71,RAS
+2001,Brazilian Grand Prix,Nick Heidfeld,3,4,9,70,RAS
+2001,Brazilian Grand Prix,Olivier Panis,4,3,11,70,RAS
+2001,Brazilian Grand Prix,Jarno Trulli,5,2,7,70,RAS
+2001,Brazilian Grand Prix,Giancarlo Fisichella,6,1,18,70,RAS
+2001,Brazilian Grand Prix,Jacques Villeneuve,7,0,12,70,RAS
+2001,Brazilian Grand Prix,Jean Alesi,8,0,15,70,RAS
+2001,Brazilian Grand Prix,Tarso Marques,9,0,22,68,RAS
+2001,Brazilian Grand Prix,Jenson Button,10,0,20,64,RAS
+2001,Brazilian Grand Prix,Heinz-Harald Frentzen,11,0,8,63,Electrical
+2001,Brazilian Grand Prix,Kimi Räikkönen,12,0,10,55,Spun off
+2001,Brazilian Grand Prix,Ralf Schumacher,13,0,2,54,Spun off
+2001,Brazilian Grand Prix,Gastón Mazzacane,14,0,21,54,Clutch
+2001,Brazilian Grand Prix,Eddie Irvine,15,0,13,52,Spun off
+2001,Brazilian Grand Prix,Juan Pablo Montoya,16,0,4,38,Collision
+2001,Brazilian Grand Prix,Jos Verstappen,17,0,17,37,Collision
+2001,Brazilian Grand Prix,Luciano Burti,18,0,14,30,Engine
+2001,Brazilian Grand Prix,Fernando Alonso,19,0,19,25,Electrical
+2001,Brazilian Grand Prix,Enrique Bernoldi,20,0,16,15,Hydraulics
+2001,Brazilian Grand Prix,Rubens Barrichello,21,0,6,2,Collision
+2001,Brazilian Grand Prix,Mika Häkkinen,22,0,3,0,Stalled
+2001,San Marino Grand Prix,Ralf Schumacher,1,10,3,62,RAS
+2001,San Marino Grand Prix,David Coulthard,2,6,1,62,RAS
+2001,San Marino Grand Prix,Rubens Barrichello,3,4,6,62,RAS
+2001,San Marino Grand Prix,Mika Häkkinen,4,3,2,62,RAS
+2001,San Marino Grand Prix,Jarno Trulli,5,2,5,62,RAS
+2001,San Marino Grand Prix,Heinz-Harald Frentzen,6,1,9,61,RAS
+2001,San Marino Grand Prix,Nick Heidfeld,7,0,12,61,RAS
+2001,San Marino Grand Prix,Olivier Panis,8,0,8,61,RAS
+2001,San Marino Grand Prix,Jean Alesi,9,0,14,61,RAS
+2001,San Marino Grand Prix,Enrique Bernoldi,10,0,16,60,RAS
+2001,San Marino Grand Prix,Luciano Burti,11,0,15,60,RAS
+2001,San Marino Grand Prix,Jenson Button,12,0,21,60,RAS
+2001,San Marino Grand Prix,Tarso Marques,13,0,22,50,Engine
+2001,San Marino Grand Prix,Juan Pablo Montoya,14,0,7,48,Clutch
+2001,San Marino Grand Prix,Eddie Irvine,15,0,13,42,Engine
+2001,San Marino Grand Prix,Giancarlo Fisichella,16,0,19,31,Engine
+2001,San Marino Grand Prix,Jacques Villeneuve,17,0,11,30,Engine
+2001,San Marino Grand Prix,Gastón Mazzacane,18,0,20,28,Engine
+2001,San Marino Grand Prix,Michael Schumacher,19,0,4,24,Suspension
+2001,San Marino Grand Prix,Kimi Räikkönen,20,0,10,17,Steering
+2001,San Marino Grand Prix,Jos Verstappen,21,0,17,6,Exhaust
+2001,San Marino Grand Prix,Fernando Alonso,22,0,18,5,Brakes
+2001,Spanish Grand Prix,Michael Schumacher,1,10,1,65,RAS
+2001,Spanish Grand Prix,Juan Pablo Montoya,2,6,12,65,RAS
+2001,Spanish Grand Prix,Jacques Villeneuve,3,4,7,65,RAS
+2001,Spanish Grand Prix,Jarno Trulli,4,3,6,65,RAS
+2001,Spanish Grand Prix,David Coulthard,5,2,3,65,RAS
+2001,Spanish Grand Prix,Nick Heidfeld,6,1,10,65,RAS
+2001,Spanish Grand Prix,Olivier Panis,7,0,11,65,RAS
+2001,Spanish Grand Prix,Kimi Räikkönen,8,0,9,65,RAS
+2001,Spanish Grand Prix,Mika Häkkinen,9,0,2,64,Clutch
+2001,Spanish Grand Prix,Jean Alesi,10,0,15,64,RAS
+2001,Spanish Grand Prix,Luciano Burti,11,0,14,64,RAS
+2001,Spanish Grand Prix,Jos Verstappen,12,0,17,63,RAS
+2001,Spanish Grand Prix,Fernando Alonso,13,0,18,63,RAS
+2001,Spanish Grand Prix,Giancarlo Fisichella,14,0,19,63,RAS
+2001,Spanish Grand Prix,Jenson Button,15,0,21,62,RAS
+2001,Spanish Grand Prix,Tarso Marques,16,0,22,62,RAS
+2001,Spanish Grand Prix,Rubens Barrichello,17,0,4,49,Suspension
+2001,Spanish Grand Prix,Eddie Irvine,18,0,13,48,Engine
+2001,Spanish Grand Prix,Ralf Schumacher,19,0,5,20,Brakes
+2001,Spanish Grand Prix,Enrique Bernoldi,20,0,16,8,Fuel pressure
+2001,Spanish Grand Prix,Pedro de la Rosa,21,0,20,5,Collision
+2001,Spanish Grand Prix,Heinz-Harald Frentzen,22,0,8,5,Collision
+2001,Austrian Grand Prix,David Coulthard,1,10,7,71,RAS
+2001,Austrian Grand Prix,Michael Schumacher,2,6,1,71,RAS
+2001,Austrian Grand Prix,Rubens Barrichello,3,4,4,71,RAS
+2001,Austrian Grand Prix,Kimi Räikkönen,4,3,9,71,RAS
+2001,Austrian Grand Prix,Olivier Panis,5,2,10,71,RAS
+2001,Austrian Grand Prix,Jos Verstappen,6,1,16,70,RAS
+2001,Austrian Grand Prix,Eddie Irvine,7,0,13,70,RAS
+2001,Austrian Grand Prix,Jacques Villeneuve,8,0,12,70,RAS
+2001,Austrian Grand Prix,Nick Heidfeld,9,0,6,69,RAS
+2001,Austrian Grand Prix,Jean Alesi,10,0,20,69,RAS
+2001,Austrian Grand Prix,Luciano Burti,11,0,17,69,RAS
+2001,Austrian Grand Prix,Jenson Button,12,0,21,60,Engine
+2001,Austrian Grand Prix,Pedro de la Rosa,13,0,14,48,Transmission
+2001,Austrian Grand Prix,Juan Pablo Montoya,14,0,2,41,Hydraulics
+2001,Austrian Grand Prix,Fernando Alonso,15,0,18,38,Gearbox
+2001,Austrian Grand Prix,Tarso Marques,16,0,22,25,Gearbox
+2001,Austrian Grand Prix,Enrique Bernoldi,17,0,15,17,Hydraulics
+2001,Austrian Grand Prix,Jarno Trulli,18,0,5,14,DQ
+2001,Austrian Grand Prix,Ralf Schumacher,19,0,3,10,Brakes
+2001,Austrian Grand Prix,Giancarlo Fisichella,20,0,19,3,Engine
+2001,Austrian Grand Prix,Mika Häkkinen,21,0,8,1,Transmission
+2001,Austrian Grand Prix,Heinz-Harald Frentzen,22,0,11,0,Gearbox
+2001,Monaco Grand Prix,Michael Schumacher,1,10,2,78,RAS
+2001,Monaco Grand Prix,Rubens Barrichello,2,6,4,78,RAS
+2001,Monaco Grand Prix,Eddie Irvine,3,4,6,78,RAS
+2001,Monaco Grand Prix,Jacques Villeneuve,4,3,9,78,RAS
+2001,Monaco Grand Prix,David Coulthard,5,2,1,77,RAS
+2001,Monaco Grand Prix,Jean Alesi,6,1,11,77,RAS
+2001,Monaco Grand Prix,Jenson Button,7,0,17,77,RAS
+2001,Monaco Grand Prix,Jos Verstappen,8,0,19,77,RAS
+2001,Monaco Grand Prix,Enrique Bernoldi,9,0,20,76,RAS
+2001,Monaco Grand Prix,Kimi Räikkönen,10,0,15,73,RAS
+2001,Monaco Grand Prix,Ralf Schumacher,11,0,5,57,Electrical
+2001,Monaco Grand Prix,Tarso Marques,12,0,22,56,Transmission
+2001,Monaco Grand Prix,Fernando Alonso,13,0,18,54,Gearbox
+2001,Monaco Grand Prix,Heinz-Harald Frentzen,14,0,13,49,Accident
+2001,Monaco Grand Prix,Giancarlo Fisichella,15,0,10,43,Gearbox
+2001,Monaco Grand Prix,Jarno Trulli,16,0,8,30,Hydraulics
+2001,Monaco Grand Prix,Luciano Burti,17,0,21,24,Gearbox
+2001,Monaco Grand Prix,Pedro de la Rosa,18,0,14,18,Hydraulics
+2001,Monaco Grand Prix,Mika Häkkinen,19,0,3,15,Steering
+2001,Monaco Grand Prix,Olivier Panis,20,0,12,13,Steering
+2001,Monaco Grand Prix,Juan Pablo Montoya,21,0,7,2,Spun off
+2001,Monaco Grand Prix,Nick Heidfeld,22,0,16,0,Collision
+2001,Canadian Grand Prix,Ralf Schumacher,1,10,2,69,RAS
+2001,Canadian Grand Prix,Michael Schumacher,2,6,1,69,RAS
+2001,Canadian Grand Prix,Mika Häkkinen,3,4,8,69,RAS
+2001,Canadian Grand Prix,Kimi Räikkönen,4,3,7,69,RAS
+2001,Canadian Grand Prix,Jean Alesi,5,2,16,69,RAS
+2001,Canadian Grand Prix,Pedro de la Rosa,6,1,14,68,RAS
+2001,Canadian Grand Prix,Ricardo Zonta,7,0,12,68,RAS
+2001,Canadian Grand Prix,Luciano Burti,8,0,19,68,RAS
+2001,Canadian Grand Prix,Tarso Marques,9,0,21,66,RAS
+2001,Canadian Grand Prix,Jos Verstappen,10,0,13,65,Brakes
+2001,Canadian Grand Prix,Jarno Trulli,11,0,4,63,Brakes
+2001,Canadian Grand Prix,David Coulthard,12,0,3,54,Engine
+2001,Canadian Grand Prix,Olivier Panis,13,0,6,38,Brakes
+2001,Canadian Grand Prix,Jacques Villeneuve,14,0,9,34,Halfshaft
+2001,Canadian Grand Prix,Enrique Bernoldi,15,0,17,24,Engine
+2001,Canadian Grand Prix,Juan Pablo Montoya,16,0,10,19,Accident
+2001,Canadian Grand Prix,Rubens Barrichello,17,0,5,19,Spun off
+2001,Canadian Grand Prix,Jenson Button,18,0,20,17,Oil leak
+2001,Canadian Grand Prix,Fernando Alonso,19,0,22,7,Transmission
+2001,Canadian Grand Prix,Nick Heidfeld,20,0,11,1,Collision
+2001,Canadian Grand Prix,Eddie Irvine,21,0,15,1,Collision
+2001,Canadian Grand Prix,Giancarlo Fisichella,22,0,18,0,Collision
+2001,European Grand Prix,Michael Schumacher,1,10,1,67,RAS
+2001,European Grand Prix,Juan Pablo Montoya,2,6,3,67,RAS
+2001,European Grand Prix,David Coulthard,3,4,5,67,RAS
+2001,European Grand Prix,Ralf Schumacher,4,3,2,67,RAS
+2001,European Grand Prix,Rubens Barrichello,5,2,4,67,RAS
+2001,European Grand Prix,Mika Häkkinen,6,1,6,67,RAS
+2001,European Grand Prix,Eddie Irvine,7,0,12,67,RAS
+2001,European Grand Prix,Pedro de la Rosa,8,0,16,66,RAS
+2001,European Grand Prix,Jacques Villeneuve,9,0,11,66,RAS
+2001,European Grand Prix,Kimi Räikkönen,10,0,9,66,RAS
+2001,European Grand Prix,Giancarlo Fisichella,11,0,15,66,RAS
+2001,European Grand Prix,Luciano Burti,12,0,17,65,RAS
+2001,European Grand Prix,Jenson Button,13,0,20,65,RAS
+2001,European Grand Prix,Fernando Alonso,14,0,21,65,RAS
+2001,European Grand Prix,Jean Alesi,15,0,14,64,Spun off
+2001,European Grand Prix,Jos Verstappen,16,0,19,58,Engine
+2001,European Grand Prix,Nick Heidfeld,17,0,10,54,Driveshaft
+2001,European Grand Prix,Heinz-Harald Frentzen,18,0,8,48,Spun off
+2001,European Grand Prix,Jarno Trulli,19,0,7,44,Transmission
+2001,European Grand Prix,Enrique Bernoldi,20,0,18,29,Gearbox
+2001,European Grand Prix,Olivier Panis,21,0,13,23,Electrical
+2001,European Grand Prix,Tarso Marques,22,0,22,7,Electrical
+2001,French Grand Prix,Michael Schumacher,1,10,2,72,RAS
+2001,French Grand Prix,Ralf Schumacher,2,6,1,72,RAS
+2001,French Grand Prix,Rubens Barrichello,3,4,8,72,RAS
+2001,French Grand Prix,David Coulthard,4,3,3,72,RAS
+2001,French Grand Prix,Jarno Trulli,5,2,5,72,RAS
+2001,French Grand Prix,Nick Heidfeld,6,1,9,71,RAS
+2001,French Grand Prix,Kimi Räikkönen,7,0,13,71,RAS
+2001,French Grand Prix,Heinz-Harald Frentzen,8,0,7,71,RAS
+2001,French Grand Prix,Olivier Panis,9,0,11,71,RAS
+2001,French Grand Prix,Luciano Burti,10,0,15,71,RAS
+2001,French Grand Prix,Giancarlo Fisichella,11,0,16,71,RAS
+2001,French Grand Prix,Jean Alesi,12,0,19,70,RAS
+2001,French Grand Prix,Jos Verstappen,13,0,18,70,RAS
+2001,French Grand Prix,Pedro de la Rosa,14,0,14,70,RAS
+2001,French Grand Prix,Tarso Marques,15,0,22,69,RAS
+2001,French Grand Prix,Jenson Button,16,0,17,68,Fuel pressure
+2001,French Grand Prix,Fernando Alonso,17,0,21,65,Engine
+2001,French Grand Prix,Eddie Irvine,18,0,12,54,Engine
+2001,French Grand Prix,Juan Pablo Montoya,19,0,6,52,Engine
+2001,French Grand Prix,Enrique Bernoldi,20,0,20,17,Engine
+2001,French Grand Prix,Jacques Villeneuve,21,0,10,5,Engine
+2001,French Grand Prix,Mika Häkkinen,22,0,4,0,Gearbox
+2001,British Grand Prix,Mika Häkkinen,1,10,2,60,RAS
+2001,British Grand Prix,Michael Schumacher,2,6,1,60,RAS
+2001,British Grand Prix,Rubens Barrichello,3,4,6,60,RAS
+2001,British Grand Prix,Juan Pablo Montoya,4,3,8,60,RAS
+2001,British Grand Prix,Kimi Räikkönen,5,2,7,59,RAS
+2001,British Grand Prix,Nick Heidfeld,6,1,9,59,RAS
+2001,British Grand Prix,Heinz-Harald Frentzen,7,0,5,59,RAS
+2001,British Grand Prix,Jacques Villeneuve,8,0,12,59,RAS
+2001,British Grand Prix,Eddie Irvine,9,0,15,59,RAS
+2001,British Grand Prix,Jos Verstappen,10,0,17,58,RAS
+2001,British Grand Prix,Jean Alesi,11,0,14,58,RAS
+2001,British Grand Prix,Pedro de la Rosa,12,0,13,58,RAS
+2001,British Grand Prix,Giancarlo Fisichella,13,0,19,58,RAS
+2001,British Grand Prix,Enrique Bernoldi,14,0,20,58,RAS
+2001,British Grand Prix,Jenson Button,15,0,18,58,RAS
+2001,British Grand Prix,Fernando Alonso,16,0,21,57,RAS
+2001,British Grand Prix,Ralf Schumacher,17,0,10,36,Engine
+2001,British Grand Prix,Luciano Burti,18,0,16,6,Engine
+2001,British Grand Prix,David Coulthard,19,0,3,2,Suspension
+2001,British Grand Prix,Jarno Trulli,20,0,4,0,Collision
+2001,British Grand Prix,Olivier Panis,21,0,11,0,Collision
+2001,German Grand Prix,Ralf Schumacher,1,10,2,45,RAS
+2001,German Grand Prix,Rubens Barrichello,2,6,6,45,RAS
+2001,German Grand Prix,Jacques Villeneuve,3,4,12,45,RAS
+2001,German Grand Prix,Giancarlo Fisichella,4,3,17,45,RAS
+2001,German Grand Prix,Jenson Button,5,2,18,45,RAS
+2001,German Grand Prix,Jean Alesi,6,1,14,45,RAS
+2001,German Grand Prix,Olivier Panis,7,0,13,45,RAS
+2001,German Grand Prix,Enrique Bernoldi,8,0,19,44,RAS
+2001,German Grand Prix,Jos Verstappen,9,0,20,44,RAS
+2001,German Grand Prix,Fernando Alonso,10,0,21,44,RAS
+2001,German Grand Prix,Jarno Trulli,11,0,10,34,Hydraulics
+2001,German Grand Prix,David Coulthard,12,0,5,27,Engine
+2001,German Grand Prix,Tarso Marques,13,0,22,26,Gearbox
+2001,German Grand Prix,Juan Pablo Montoya,14,0,1,24,Engine
+2001,German Grand Prix,Michael Schumacher,15,0,4,23,Fuel pressure
+2001,German Grand Prix,Luciano Burti,16,0,16,23,Spun off
+2001,German Grand Prix,Kimi Räikkönen,17,0,8,16,Halfshaft
+2001,German Grand Prix,Eddie Irvine,18,0,11,16,Fuel pressure
+2001,German Grand Prix,Mika Häkkinen,19,0,3,13,Engine
+2001,German Grand Prix,Ricardo Zonta,20,0,15,7,Collision
+2001,German Grand Prix,Nick Heidfeld,21,0,7,0,Collision
+2001,German Grand Prix,Pedro de la Rosa,22,0,9,0,Collision
+2001,Hungarian Grand Prix,Michael Schumacher,1,10,1,77,RAS
+2001,Hungarian Grand Prix,Rubens Barrichello,2,6,3,77,RAS
+2001,Hungarian Grand Prix,David Coulthard,3,4,2,77,RAS
+2001,Hungarian Grand Prix,Ralf Schumacher,4,3,4,77,RAS
+2001,Hungarian Grand Prix,Mika Häkkinen,5,2,6,77,RAS
+2001,Hungarian Grand Prix,Nick Heidfeld,6,1,7,76,RAS
+2001,Hungarian Grand Prix,Kimi Räikkönen,7,0,9,76,RAS
+2001,Hungarian Grand Prix,Juan Pablo Montoya,8,0,8,76,RAS
+2001,Hungarian Grand Prix,Jacques Villeneuve,9,0,10,75,RAS
+2001,Hungarian Grand Prix,Jean Alesi,10,0,12,75,RAS
+2001,Hungarian Grand Prix,Pedro de la Rosa,11,0,13,75,RAS
+2001,Hungarian Grand Prix,Jos Verstappen,12,0,21,74,RAS
+2001,Hungarian Grand Prix,Giancarlo Fisichella,13,0,15,67,Engine
+2001,Hungarian Grand Prix,Heinz-Harald Frentzen,14,0,16,63,Spun off
+2001,Hungarian Grand Prix,Tarso Marques,15,0,22,63,Oil pressure
+2001,Hungarian Grand Prix,Olivier Panis,16,0,11,58,Electrical
+2001,Hungarian Grand Prix,Jarno Trulli,17,0,5,53,Hydraulics
+2001,Hungarian Grand Prix,Fernando Alonso,18,0,18,37,Brakes
+2001,Hungarian Grand Prix,Jenson Button,19,0,17,34,Spun off
+2001,Hungarian Grand Prix,Enrique Bernoldi,20,0,20,11,Spun off
+2001,Hungarian Grand Prix,Luciano Burti,21,0,19,8,Spun off
+2001,Hungarian Grand Prix,Eddie Irvine,22,0,14,0,Spun off
+2001,Belgian Grand Prix,Michael Schumacher,1,10,3,36,RAS
+2001,Belgian Grand Prix,David Coulthard,2,6,9,36,RAS
+2001,Belgian Grand Prix,Giancarlo Fisichella,3,4,8,36,RAS
+2001,Belgian Grand Prix,Mika Häkkinen,4,3,7,36,RAS
+2001,Belgian Grand Prix,Rubens Barrichello,5,2,5,36,RAS
+2001,Belgian Grand Prix,Jean Alesi,6,1,13,36,RAS
+2001,Belgian Grand Prix,Ralf Schumacher,7,0,2,36,RAS
+2001,Belgian Grand Prix,Jacques Villeneuve,8,0,6,36,RAS
+2001,Belgian Grand Prix,Heinz-Harald Frentzen,9,0,4,35,RAS
+2001,Belgian Grand Prix,Jos Verstappen,10,0,19,35,RAS
+2001,Belgian Grand Prix,Olivier Panis,11,0,11,35,RAS
+2001,Belgian Grand Prix,Enrique Bernoldi,12,0,21,35,RAS
+2001,Belgian Grand Prix,Tarso Marques,13,0,22,31,RAS
+2001,Belgian Grand Prix,Jarno Trulli,14,0,16,31,Engine
+2001,Belgian Grand Prix,Jenson Button,15,0,15,17,Spun off
+2001,Belgian Grand Prix,Juan Pablo Montoya,16,0,1,1,Engine
+2001,Belgian Grand Prix,Pedro de la Rosa,17,0,10,1,Collision
+2001,Belgian Grand Prix,Nick Heidfeld,18,0,14,0,Collision
+2001,Belgian Grand Prix,Kimi Räikkönen,19,0,12,0,Transmission
+2001,Belgian Grand Prix,Eddie Irvine,20,0,17,0,Collision
+2001,Belgian Grand Prix,Luciano Burti,21,0,18,0,Collision
+2001,Belgian Grand Prix,Fernando Alonso,22,0,20,0,Gearbox
+2001,Italian Grand Prix,Juan Pablo Montoya,1,10,1,53,RAS
+2001,Italian Grand Prix,Rubens Barrichello,2,6,2,53,RAS
+2001,Italian Grand Prix,Ralf Schumacher,3,4,4,53,RAS
+2001,Italian Grand Prix,Michael Schumacher,4,3,3,53,RAS
+2001,Italian Grand Prix,Pedro de la Rosa,5,2,10,53,RAS
+2001,Italian Grand Prix,Jacques Villeneuve,6,1,15,53,RAS
+2001,Italian Grand Prix,Kimi Räikkönen,7,0,9,53,RAS
+2001,Italian Grand Prix,Jean Alesi,8,0,16,52,RAS
+2001,Italian Grand Prix,Olivier Panis,9,0,17,52,RAS
+2001,Italian Grand Prix,Giancarlo Fisichella,10,0,14,52,RAS
+2001,Italian Grand Prix,Nick Heidfeld,11,0,8,52,RAS
+2001,Italian Grand Prix,Tomáš Enge,12,0,20,52,RAS
+2001,Italian Grand Prix,Fernando Alonso,13,0,21,51,RAS
+2001,Italian Grand Prix,Enrique Bernoldi,14,0,18,46,Crankshaft
+2001,Italian Grand Prix,Alex Yoong,15,0,22,44,Spun off
+2001,Italian Grand Prix,Heinz-Harald Frentzen,16,0,12,28,Gearbox
+2001,Italian Grand Prix,Jos Verstappen,17,0,19,25,Fuel pressure
+2001,Italian Grand Prix,Mika Häkkinen,18,0,7,19,Gearbox
+2001,Italian Grand Prix,Eddie Irvine,19,0,13,14,Engine
+2001,Italian Grand Prix,David Coulthard,20,0,6,6,Engine
+2001,Italian Grand Prix,Jenson Button,21,0,11,4,Engine
+2001,Italian Grand Prix,Jarno Trulli,22,0,5,0,Collision
+2001,United States Grand Prix,Mika Häkkinen,1,10,4,73,RAS
+2001,United States Grand Prix,Michael Schumacher,2,6,1,73,RAS
+2001,United States Grand Prix,David Coulthard,3,4,7,73,RAS
+2001,United States Grand Prix,Jarno Trulli,4,3,8,73,RAS
+2001,United States Grand Prix,Eddie Irvine,5,2,14,73,RAS
+2001,United States Grand Prix,Nick Heidfeld,6,1,6,73,RAS
+2001,United States Grand Prix,Jean Alesi,7,0,9,72,RAS
+2001,United States Grand Prix,Giancarlo Fisichella,8,0,12,72,RAS
+2001,United States Grand Prix,Jenson Button,9,0,10,72,RAS
+2001,United States Grand Prix,Heinz-Harald Frentzen,10,0,15,72,RAS
+2001,United States Grand Prix,Olivier Panis,11,0,13,72,RAS
+2001,United States Grand Prix,Pedro de la Rosa,12,0,16,72,RAS
+2001,United States Grand Prix,Enrique Bernoldi,13,0,19,72,RAS
+2001,United States Grand Prix,Tomáš Enge,14,0,21,72,RAS
+2001,United States Grand Prix,Rubens Barrichello,15,0,5,71,Engine
+2001,United States Grand Prix,Jacques Villeneuve,16,0,18,45,Suspension
+2001,United States Grand Prix,Jos Verstappen,17,0,20,44,Engine
+2001,United States Grand Prix,Juan Pablo Montoya,18,0,3,38,Hydraulics
+2001,United States Grand Prix,Alex Yoong,19,0,22,38,Gearbox
+2001,United States Grand Prix,Ralf Schumacher,20,0,2,36,Spun off
+2001,United States Grand Prix,Fernando Alonso,21,0,17,36,Driveshaft
+2001,United States Grand Prix,Kimi Räikkönen,22,0,11,2,Driveshaft
+2001,Japanese Grand Prix,Michael Schumacher,1,10,1,53,RAS
+2001,Japanese Grand Prix,Juan Pablo Montoya,2,6,2,53,RAS
+2001,Japanese Grand Prix,David Coulthard,3,4,7,53,RAS
+2001,Japanese Grand Prix,Mika Häkkinen,4,3,5,53,RAS
+2001,Japanese Grand Prix,Rubens Barrichello,5,2,4,53,RAS
+2001,Japanese Grand Prix,Ralf Schumacher,6,1,3,53,RAS
+2001,Japanese Grand Prix,Jenson Button,7,0,9,53,RAS
+2001,Japanese Grand Prix,Jarno Trulli,8,0,8,52,RAS
+2001,Japanese Grand Prix,Nick Heidfeld,9,0,10,52,RAS
+2001,Japanese Grand Prix,Jacques Villeneuve,10,0,14,52,RAS
+2001,Japanese Grand Prix,Fernando Alonso,11,0,18,52,RAS
+2001,Japanese Grand Prix,Heinz-Harald Frentzen,12,0,15,52,RAS
+2001,Japanese Grand Prix,Olivier Panis,13,0,17,51,RAS
+2001,Japanese Grand Prix,Enrique Bernoldi,14,0,20,51,RAS
+2001,Japanese Grand Prix,Jos Verstappen,15,0,21,51,RAS
+2001,Japanese Grand Prix,Alex Yoong,16,0,22,50,RAS
+2001,Japanese Grand Prix,Giancarlo Fisichella,17,0,6,47,Gearbox
+2001,Japanese Grand Prix,Pedro de la Rosa,18,0,16,45,Oil leak
+2001,Japanese Grand Prix,Tomáš Enge,19,0,19,42,Brakes
+2001,Japanese Grand Prix,Eddie Irvine,20,0,13,24,Fuel rig
+2001,Japanese Grand Prix,Kimi Räikkönen,21,0,12,5,Collision
+2001,Japanese Grand Prix,Jean Alesi,22,0,11,5,Collision

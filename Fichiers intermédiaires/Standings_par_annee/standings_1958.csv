@@ -1,0 +1,227 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1958,Argentine Grand Prix,Stirling Moss,1,8,7,80,RAS
+1958,Argentine Grand Prix,Luigi Musso,2,6,5,80,RAS
+1958,Argentine Grand Prix,Mike Hawthorn,3,4,2,80,RAS
+1958,Argentine Grand Prix,Juan Fangio,4,4,1,80,RAS
+1958,Argentine Grand Prix,Jean Behra,5,2,4,78,RAS
+1958,Argentine Grand Prix,Harry Schell,6,0,8,77,RAS
+1958,Argentine Grand Prix,Carlos Menditeguy,7,0,6,76,RAS
+1958,Argentine Grand Prix,Paco Godia,8,0,9,75,RAS
+1958,Argentine Grand Prix,Horace Gould,9,0,10,71,RAS
+1958,Argentine Grand Prix,Peter Collins,10,0,3,0,Halfshaft
+1958,Monaco Grand Prix,Maurice Trintignant,1,8,5,100,RAS
+1958,Monaco Grand Prix,Luigi Musso,2,6,10,100,RAS
+1958,Monaco Grand Prix,Peter Collins,3,4,9,100,RAS
+1958,Monaco Grand Prix,Jack Brabham,4,3,3,97,RAS
+1958,Monaco Grand Prix,Harry Schell,5,2,12,91,RAS
+1958,Monaco Grand Prix,Cliff Allison,6,0,13,87,RAS
+1958,Monaco Grand Prix,Wolfgang von Trips,7,0,11,91,Engine
+1958,Monaco Grand Prix,Jo Bonnier,8,0,16,71,Accident
+1958,Monaco Grand Prix,Graham Hill,9,0,15,69,Halfshaft
+1958,Monaco Grand Prix,Roy Salvadori,10,0,4,56,Gearbox
+1958,Monaco Grand Prix,Mike Hawthorn,11,1,6,47,Fuel pump
+1958,Monaco Grand Prix,Stirling Moss,12,0,8,38,Engine
+1958,Monaco Grand Prix,Jean Behra,13,0,2,29,Brakes
+1958,Monaco Grand Prix,Giorgio Scarlatti,14,0,14,28,Engine
+1958,Monaco Grand Prix,Tony Brooks,15,0,1,22,Engine
+1958,Monaco Grand Prix,Stuart Lewis-Evans,16,0,7,11,Overheating
+1958,Dutch Grand Prix,Stirling Moss,1,9,2,75,RAS
+1958,Dutch Grand Prix,Harry Schell,2,6,7,75,RAS
+1958,Dutch Grand Prix,Jean Behra,3,4,4,75,RAS
+1958,Dutch Grand Prix,Roy Salvadori,4,3,9,74,RAS
+1958,Dutch Grand Prix,Mike Hawthorn,5,2,6,74,RAS
+1958,Dutch Grand Prix,Cliff Allison,6,0,11,73,RAS
+1958,Dutch Grand Prix,Luigi Musso,7,0,12,73,RAS
+1958,Dutch Grand Prix,Jack Brabham,8,0,5,73,RAS
+1958,Dutch Grand Prix,Maurice Trintignant,9,0,8,72,RAS
+1958,Dutch Grand Prix,Jo Bonnier,10,0,15,71,RAS
+1958,Dutch Grand Prix,Carel Godin de Beaufort,11,0,17,69,RAS
+1958,Dutch Grand Prix,Giorgio Scarlatti,12,0,16,52,Halfshaft
+1958,Dutch Grand Prix,Stuart Lewis-Evans,13,0,1,46,Engine
+1958,Dutch Grand Prix,Graham Hill,14,0,13,40,Overheating
+1958,Dutch Grand Prix,Peter Collins,15,0,10,32,Gearbox
+1958,Dutch Grand Prix,Masten Gregory,16,0,14,16,Fuel pump
+1958,Dutch Grand Prix,Tony Brooks,17,0,3,13,Halfshaft
+1958,Dutch Grand Prix,Horace Gould,18,0,0,0,Withdrew
+1958,Indianapolis 500,Jimmy Bryan,1,8,7,200,RAS
+1958,Indianapolis 500,George Amick,2,6,25,200,RAS
+1958,Indianapolis 500,Johnny Boyd,3,4,8,200,RAS
+1958,Indianapolis 500,Tony Bettenhausen,4,4,9,200,RAS
+1958,Indianapolis 500,Jim Rathmann,5,2,20,200,RAS
+1958,Indianapolis 500,Jimmy Reece,6,0,3,200,RAS
+1958,Indianapolis 500,Don Freeland,7,0,13,200,RAS
+1958,Indianapolis 500,Jud Larson,8,0,19,200,RAS
+1958,Indianapolis 500,Eddie Johnson,9,0,26,200,RAS
+1958,Indianapolis 500,Bill Cheesbourg,10,0,33,200,RAS
+1958,Indianapolis 500,Al Keller,11,0,21,200,RAS
+1958,Indianapolis 500,Johnnie Parsons,12,0,6,200,RAS
+1958,Indianapolis 500,Johnnie Tolan,13,0,30,200,RAS
+1958,Indianapolis 500,Bob Christie,14,0,17,189,Spun off
+1958,Indianapolis 500,Dempsey Wilson,15,0,32,151,Heat shield fire
+1958,Indianapolis 500,Anthony Foyt,16,0,12,148,Spun off
+1958,Indianapolis 500,Mike Magill,17,0,31,136,DQ
+1958,Indianapolis 500,Paul Russo,18,0,14,122,Throttle
+1958,Indianapolis 500,Shorty Templeman,19,0,23,116,Brakes
+1958,Indianapolis 500,Rodger Ward,20,0,11,93,Magneto
+1958,Indianapolis 500,Billy Garrett,21,0,15,80,Magneto
+1958,Indianapolis 500,Eddie Sachs,22,0,18,68,Transmission
+1958,Indianapolis 500,Johnny Thomson,23,0,22,52,Steering
+1958,Indianapolis 500,Chuck Weyant,24,0,29,38,Accident
+1958,Indianapolis 500,Jack Turner,25,0,10,21,Fuel pump
+1958,Indianapolis 500,Bob Veith,26,0,4,1,Accident
+1958,Indianapolis 500,Dick Rathmann,27,0,1,0,Accident
+1958,Indianapolis 500,Ed Elisian,28,0,2,0,Accident
+1958,Indianapolis 500,Pat O'Connor,29,0,5,0,Accident
+1958,Indianapolis 500,Paul Goldsmith,30,0,16,0,Accident
+1958,Indianapolis 500,Jerry Unser,31,0,24,0,Accident
+1958,Indianapolis 500,Len Sutton,32,0,27,0,Accident
+1958,Indianapolis 500,Art Bisch,33,0,28,0,Accident
+1958,Belgian Grand Prix,Tony Brooks,1,8,5,24,RAS
+1958,Belgian Grand Prix,Mike Hawthorn,2,7,1,24,RAS
+1958,Belgian Grand Prix,Stuart Lewis-Evans,3,4,11,24,RAS
+1958,Belgian Grand Prix,Cliff Allison,4,3,12,24,RAS
+1958,Belgian Grand Prix,Harry Schell,5,2,7,23,RAS
+1958,Belgian Grand Prix,Olivier Gendebien,6,0,6,23,RAS
+1958,Belgian Grand Prix,Maurice Trintignant,7,0,16,23,RAS
+1958,Belgian Grand Prix,Roy Salvadori,8,0,13,23,RAS
+1958,Belgian Grand Prix,Jo Bonnier,9,0,14,22,RAS
+1958,Belgian Grand Prix,Maria de Filippis,10,0,19,22,RAS
+1958,Belgian Grand Prix,Paco Godia,11,0,18,22,Engine
+1958,Belgian Grand Prix,Jack Brabham,12,0,8,16,Overheating
+1958,Belgian Grand Prix,Graham Hill,13,0,15,12,Engine
+1958,Belgian Grand Prix,Luigi Musso,14,0,2,5,Accident
+1958,Belgian Grand Prix,Peter Collins,15,0,4,5,Overheating
+1958,Belgian Grand Prix,Jean Behra,16,0,10,5,Oil pressure
+1958,Belgian Grand Prix,Wolfgang Seidel,17,0,17,4,Halfshaft
+1958,Belgian Grand Prix,Stirling Moss,18,0,9,0,Engine
+1958,Belgian Grand Prix,Masten Gregory,19,0,3,0,Engine
+1958,French Grand Prix,Mike Hawthorn,1,9,1,50,RAS
+1958,French Grand Prix,Stirling Moss,2,6,6,50,RAS
+1958,French Grand Prix,Wolfgang von Trips,3,4,21,50,RAS
+1958,French Grand Prix,Juan Fangio,4,3,8,50,RAS
+1958,French Grand Prix,Peter Collins,5,2,4,50,RAS
+1958,French Grand Prix,Jack Brabham,6,0,12,49,RAS
+1958,French Grand Prix,Phil Hill,7,0,13,49,RAS
+1958,French Grand Prix,Jo Bonnier,8,0,16,48,RAS
+1958,French Grand Prix,Gerino Gerini,9,0,15,47,RAS
+1958,French Grand Prix,Troy Ruttman,10,0,18,45,RAS
+1958,French Grand Prix,Roy Salvadori,11,0,14,37,RAS
+1958,French Grand Prix,Harry Schell,12,0,3,41,Overheating
+1958,French Grand Prix,Jean Behra,13,0,9,41,Fuel pump
+1958,French Grand Prix,Tony Brooks,14,0,10,35,Engine
+1958,French Grand Prix,Stuart Lewis-Evans,14,0,10,35,Engine
+1958,French Grand Prix,Graham Hill,15,0,19,33,Overheating
+1958,French Grand Prix,Paco Godia,16,0,11,28,Accident
+1958,French Grand Prix,Maurice Trintignant,17,0,7,23,Fuel pump
+1958,French Grand Prix,Tony Brooks,18,0,5,16,Engine
+1958,French Grand Prix,Luigi Musso,19,0,2,9,Accident
+1958,French Grand Prix,Carroll Shelby,20,0,17,9,Engine
+1958,French Grand Prix,Cliff Allison,21,0,20,6,Engine
+1958,British Grand Prix,Peter Collins,1,8,6,75,RAS
+1958,British Grand Prix,Mike Hawthorn,2,7,4,75,RAS
+1958,British Grand Prix,Roy Salvadori,3,4,3,75,RAS
+1958,British Grand Prix,Stuart Lewis-Evans,4,3,7,75,RAS
+1958,British Grand Prix,Harry Schell,5,2,2,75,RAS
+1958,British Grand Prix,Jack Brabham,6,0,10,75,RAS
+1958,British Grand Prix,Tony Brooks,7,0,9,74,RAS
+1958,British Grand Prix,Maurice Trintignant,8,0,12,73,RAS
+1958,British Grand Prix,Carroll Shelby,9,0,15,72,RAS
+1958,British Grand Prix,Wolfgang von Trips,10,0,11,59,Engine
+1958,British Grand Prix,Jo Bonnier,11,0,13,49,Gearbox
+1958,British Grand Prix,Gerino Gerini,12,0,18,44,Gearbox
+1958,British Grand Prix,Ian Burgess,13,0,16,40,Clutch
+1958,British Grand Prix,Stirling Moss,14,0,1,25,Engine
+1958,British Grand Prix,Cliff Allison,15,0,5,21,Engine
+1958,British Grand Prix,Jean Behra,16,0,8,19,Suspension
+1958,British Grand Prix,Ivor Bueb,17,0,17,19,Gearbox
+1958,British Grand Prix,Alan Stacey,18,0,20,19,Overheating
+1958,British Grand Prix,Graham Hill,19,0,14,17,Overheating
+1958,British Grand Prix,Jack Fairman,20,0,19,7,Ignition
+1958,German Grand Prix,Tony Brooks,1,8,2,15,RAS
+1958,German Grand Prix,Roy Salvadori,2,6,6,15,RAS
+1958,German Grand Prix,Maurice Trintignant,3,4,7,15,RAS
+1958,German Grand Prix,Wolfgang von Trips,4,3,5,15,RAS
+1958,German Grand Prix,Bruce McLaren,5,0,12,15,RAS
+1958,German Grand Prix,Edgar Barth,6,0,13,15,RAS
+1958,German Grand Prix,Ian Burgess,7,0,11,15,RAS
+1958,German Grand Prix,Tony Marsh,8,0,14,15,RAS
+1958,German Grand Prix,Phil Hill,9,0,10,15,RAS
+1958,German Grand Prix,Cliff Allison,10,0,24,13,RAS
+1958,German Grand Prix,Ivor Bueb,11,0,16,13,RAS
+1958,German Grand Prix,Mike Hawthorn,12,0,1,11,Clutch
+1958,German Grand Prix,Peter Collins,13,0,4,10,Accident
+1958,German Grand Prix,Wolfgang Seidel,14,0,17,9,Suspension
+1958,German Grand Prix,Harry Schell,15,0,8,9,Brakes
+1958,German Grand Prix,Christian Goethals,16,0,23,4,Fuel pump
+1958,German Grand Prix,Graham Hill,17,0,22,4,Oil pipe
+1958,German Grand Prix,Jean Behra,18,0,9,4,Suspension
+1958,German Grand Prix,Carel Godin de Beaufort,19,0,15,3,Engine
+1958,German Grand Prix,Hans Herrmann,20,0,20,3,Engine
+1958,German Grand Prix,Stirling Moss,21,1,3,3,Magneto
+1958,German Grand Prix,Dick Gibson,22,0,18,2,Engine
+1958,German Grand Prix,Brian Naylor,23,0,25,1,Fuel pump
+1958,German Grand Prix,Jack Brabham,24,0,19,1,Collision
+1958,German Grand Prix,Jo Bonnier,25,0,21,1,Accident
+1958,German Grand Prix,Troy Ruttman,26,0,0,0,Engine
+1958,Portuguese Grand Prix,Stirling Moss,1,8,1,50,RAS
+1958,Portuguese Grand Prix,Mike Hawthorn,2,7,2,50,RAS
+1958,Portuguese Grand Prix,Stuart Lewis-Evans,3,4,3,49,RAS
+1958,Portuguese Grand Prix,Jean Behra,4,3,4,49,RAS
+1958,Portuguese Grand Prix,Wolfgang von Trips,5,2,6,49,RAS
+1958,Portuguese Grand Prix,Harry Schell,6,0,7,49,RAS
+1958,Portuguese Grand Prix,Jack Brabham,7,0,8,48,RAS
+1958,Portuguese Grand Prix,Maurice Trintignant,8,0,9,48,RAS
+1958,Portuguese Grand Prix,Roy Salvadori,9,0,11,46,RAS
+1958,Portuguese Grand Prix,Carroll Shelby,10,0,10,47,Brakes
+1958,Portuguese Grand Prix,Tony Brooks,11,0,5,37,Spun off
+1958,Portuguese Grand Prix,Graham Hill,12,0,12,25,Spun off
+1958,Portuguese Grand Prix,Cliff Allison,13,0,13,15,Engine
+1958,Portuguese Grand Prix,Jo Bonnier,14,0,14,9,Physical
+1958,Portuguese Grand Prix,Maria de Filippis,15,0,15,6,Engine
+1958,Italian Grand Prix,Tony Brooks,1,8,2,70,RAS
+1958,Italian Grand Prix,Mike Hawthorn,2,6,3,70,RAS
+1958,Italian Grand Prix,Phil Hill,3,5,7,70,RAS
+1958,Italian Grand Prix,Carroll Shelby,4,0,11,69,RAS
+1958,Italian Grand Prix,Masten Gregory,4,0,11,69,RAS
+1958,Italian Grand Prix,Roy Salvadori,5,2,14,62,RAS
+1958,Italian Grand Prix,Graham Hill,6,0,12,62,RAS
+1958,Italian Grand Prix,Cliff Allison,7,0,16,61,RAS
+1958,Italian Grand Prix,Maria de Filippis,8,0,21,57,Engine
+1958,Italian Grand Prix,Giulio Cabianca,9,0,20,51,Engine
+1958,Italian Grand Prix,Jean Behra,10,0,8,42,Clutch
+1958,Italian Grand Prix,Hans Herrmann,11,0,18,32,Engine
+1958,Italian Grand Prix,Stuart Lewis-Evans,12,0,4,30,Overheating
+1958,Italian Grand Prix,Maurice Trintignant,13,0,13,24,Gearbox
+1958,Italian Grand Prix,Stirling Moss,14,0,1,17,Gearbox
+1958,Italian Grand Prix,Jo Bonnier,15,0,10,14,Transmission
+1958,Italian Grand Prix,Olivier Gendebien,16,0,5,4,Suspension
+1958,Italian Grand Prix,Gerino Gerini,17,0,19,2,Accident
+1958,Italian Grand Prix,Carroll Shelby,18,0,17,1,Handling
+1958,Italian Grand Prix,Wolfgang von Trips,19,0,6,0,Accident
+1958,Italian Grand Prix,Harry Schell,20,0,9,0,Accident
+1958,Italian Grand Prix,Jack Brabham,21,0,15,0,Suspension
+1958,Moroccan Grand Prix,Stirling Moss,1,9,2,53,RAS
+1958,Moroccan Grand Prix,Mike Hawthorn,2,6,1,53,RAS
+1958,Moroccan Grand Prix,Phil Hill,3,4,5,53,RAS
+1958,Moroccan Grand Prix,Jo Bonnier,4,3,8,53,RAS
+1958,Moroccan Grand Prix,Harry Schell,5,2,10,53,RAS
+1958,Moroccan Grand Prix,Masten Gregory,6,0,13,52,RAS
+1958,Moroccan Grand Prix,Roy Salvadori,7,0,14,51,RAS
+1958,Moroccan Grand Prix,Jack Fairman,8,0,11,50,RAS
+1958,Moroccan Grand Prix,Hans Herrmann,9,0,18,50,RAS
+1958,Moroccan Grand Prix,Cliff Allison,10,0,16,49,RAS
+1958,Moroccan Grand Prix,Jack Brabham,11,0,19,49,RAS
+1958,Moroccan Grand Prix,Gerino Gerini,12,0,17,48,RAS
+1958,Moroccan Grand Prix,Bruce McLaren,13,0,21,48,RAS
+1958,Moroccan Grand Prix,Robert La Caze,14,0,23,48,RAS
+1958,Moroccan Grand Prix,André Guelfi,15,0,25,48,RAS
+1958,Moroccan Grand Prix,Graham Hill,16,0,12,45,RAS
+1958,Moroccan Grand Prix,Stuart Lewis-Evans,17,0,3,41,Accident
+1958,Moroccan Grand Prix,François Picard,18,0,24,31,Accident
+1958,Moroccan Grand Prix,Tom Bridger,19,0,22,30,Accident
+1958,Moroccan Grand Prix,Tony Brooks,20,0,7,29,Engine
+1958,Moroccan Grand Prix,Olivier Gendebien,21,0,6,29,Accident
+1958,Moroccan Grand Prix,Jean Behra,22,0,4,26,Engine
+1958,Moroccan Grand Prix,Wolfgang Seidel,23,0,20,15,Accident
+1958,Moroccan Grand Prix,Ron Flockhart,24,0,15,15,Engine
+1958,Moroccan Grand Prix,Maurice Trintignant,25,0,9,9,Engine

@@ -1,0 +1,392 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1978,Argentine Grand Prix,Mario Andretti,1,9,1,52,RAS
+1978,Argentine Grand Prix,Niki Lauda,2,6,5,52,RAS
+1978,Argentine Grand Prix,Patrick Depailler,3,4,10,52,RAS
+1978,Argentine Grand Prix,James Hunt,4,3,6,52,RAS
+1978,Argentine Grand Prix,Ronnie Peterson,5,2,3,52,RAS
+1978,Argentine Grand Prix,Patrick Tambay,6,1,9,52,RAS
+1978,Argentine Grand Prix,Carlos Reutemann,7,0,2,52,RAS
+1978,Argentine Grand Prix,Gilles Villeneuve,8,0,7,52,RAS
+1978,Argentine Grand Prix,Emerson Fittipaldi,9,0,17,52,RAS
+1978,Argentine Grand Prix,Jody Scheckter,10,0,15,52,RAS
+1978,Argentine Grand Prix,Jochen Mass,11,0,13,52,RAS
+1978,Argentine Grand Prix,Jean-Pierre Jarier,12,0,11,51,RAS
+1978,Argentine Grand Prix,Brett Lunger,13,0,24,51,RAS
+1978,Argentine Grand Prix,Didier Pironi,14,0,23,51,RAS
+1978,Argentine Grand Prix,Clay Regazzoni,15,0,16,51,RAS
+1978,Argentine Grand Prix,Jacques Laffite,16,0,8,50,Engine
+1978,Argentine Grand Prix,Hans-Joachim Stuck,17,0,18,50,RAS
+1978,Argentine Grand Prix,Vittorio Brambilla,18,0,12,50,RAS
+1978,Argentine Grand Prix,John Watson,19,0,4,41,Engine
+1978,Argentine Grand Prix,Alan Jones,20,0,14,36,Fuel system
+1978,Argentine Grand Prix,Danny Ongais,21,0,21,35,Distributor
+1978,Argentine Grand Prix,Lamberto Leoni,22,0,22,28,Engine
+1978,Argentine Grand Prix,Arturo Merzario,23,0,20,9,Differential
+1978,Argentine Grand Prix,Rupert Keegan,24,0,19,4,Overheating
+1978,Brazilian Grand Prix,Carlos Reutemann,1,9,4,63,RAS
+1978,Brazilian Grand Prix,Emerson Fittipaldi,2,6,7,63,RAS
+1978,Brazilian Grand Prix,Niki Lauda,3,4,10,63,RAS
+1978,Brazilian Grand Prix,Mario Andretti,4,3,3,63,RAS
+1978,Brazilian Grand Prix,Clay Regazzoni,5,2,15,62,RAS
+1978,Brazilian Grand Prix,Didier Pironi,6,1,19,62,RAS
+1978,Brazilian Grand Prix,Jochen Mass,7,0,20,62,RAS
+1978,Brazilian Grand Prix,John Watson,8,0,21,61,RAS
+1978,Brazilian Grand Prix,Jacques Laffite,9,0,14,61,RAS
+1978,Brazilian Grand Prix,Riccardo Patrese,10,0,18,59,RAS
+1978,Brazilian Grand Prix,Alan Jones,11,0,8,58,RAS
+1978,Brazilian Grand Prix,Hector Rebaque,12,0,22,40,Physical
+1978,Brazilian Grand Prix,Gilles Villeneuve,13,0,6,35,Spun off
+1978,Brazilian Grand Prix,Patrick Tambay,14,0,5,34,Spun off
+1978,Brazilian Grand Prix,James Hunt,15,0,2,25,Spun off
+1978,Brazilian Grand Prix,Hans-Joachim Stuck,16,0,9,25,Fuel system
+1978,Brazilian Grand Prix,Jody Scheckter,17,0,12,16,Accident
+1978,Brazilian Grand Prix,Ronnie Peterson,18,0,1,15,Collision
+1978,Brazilian Grand Prix,Danny Ongais,19,0,23,13,Brakes
+1978,Brazilian Grand Prix,Brett Lunger,20,0,13,11,Overheating
+1978,Brazilian Grand Prix,Patrick Depailler,21,0,11,8,Accident
+1978,Brazilian Grand Prix,Rupert Keegan,22,0,24,5,Accident
+1978,Brazilian Grand Prix,Lamberto Leoni,23,0,17,0,Transmission
+1978,Brazilian Grand Prix,Jean-Pierre Jarier,24,0,16,0,Withdrew
+1978,South African Grand Prix,Ronnie Peterson,1,9,12,78,RAS
+1978,South African Grand Prix,Patrick Depailler,2,6,11,78,RAS
+1978,South African Grand Prix,John Watson,3,4,10,78,RAS
+1978,South African Grand Prix,Alan Jones,4,3,18,78,RAS
+1978,South African Grand Prix,Jacques Laffite,5,2,13,78,RAS
+1978,South African Grand Prix,Didier Pironi,6,1,14,77,RAS
+1978,South African Grand Prix,Mario Andretti,7,0,2,77,RAS
+1978,South African Grand Prix,Jean-Pierre Jarier,8,0,17,77,RAS
+1978,South African Grand Prix,Rolf Stommelen,9,0,22,77,RAS
+1978,South African Grand Prix,Hector Rebaque,10,0,21,77,RAS
+1978,South African Grand Prix,Brett Lunger,11,0,20,76,RAS
+1978,South African Grand Prix,Vittorio Brambilla,12,0,19,76,RAS
+1978,South African Grand Prix,Riccardo Patrese,13,0,7,63,Engine
+1978,South African Grand Prix,Jody Scheckter,14,0,5,59,Spun off
+1978,South African Grand Prix,Patrick Tambay,15,0,4,56,Accident
+1978,South African Grand Prix,Gilles Villeneuve,16,0,8,55,Oil leak
+1978,South African Grand Prix,Carlos Reutemann,17,0,9,55,Spun off
+1978,South African Grand Prix,Niki Lauda,18,0,1,52,Engine
+1978,South African Grand Prix,Rupert Keegan,19,0,23,52,Engine
+1978,South African Grand Prix,Jochen Mass,20,0,15,43,Engine
+1978,South African Grand Prix,Arturo Merzario,21,0,26,39,Suspension
+1978,South African Grand Prix,Jean-Pierre Jabouille,22,0,6,38,Engine
+1978,South African Grand Prix,Keke Rosberg,23,0,24,15,Clutch
+1978,South African Grand Prix,Emerson Fittipaldi,24,0,16,9,Transmission
+1978,South African Grand Prix,Eddie Cheever,25,0,25,8,Oil leak
+1978,South African Grand Prix,James Hunt,26,0,3,5,Engine
+1978,United States Grand Prix West,Carlos Reutemann,1,9,1,80,RAS
+1978,United States Grand Prix West,Mario Andretti,2,6,4,80,RAS
+1978,United States Grand Prix West,Patrick Depailler,3,4,12,80,RAS
+1978,United States Grand Prix West,Ronnie Peterson,4,3,6,80,RAS
+1978,United States Grand Prix West,Jacques Laffite,5,2,14,80,RAS
+1978,United States Grand Prix West,Riccardo Patrese,6,1,9,79,RAS
+1978,United States Grand Prix West,Alan Jones,7,0,8,79,RAS
+1978,United States Grand Prix West,Emerson Fittipaldi,8,0,15,79,RAS
+1978,United States Grand Prix West,Rolf Stommelen,9,0,18,79,RAS
+1978,United States Grand Prix West,Clay Regazzoni,10,0,20,79,RAS
+1978,United States Grand Prix West,Jean-Pierre Jarier,11,0,19,75,RAS
+1978,United States Grand Prix West,Patrick Tambay,12,0,11,74,Accident
+1978,United States Grand Prix West,Jody Scheckter,13,0,10,59,Accident
+1978,United States Grand Prix West,Vittorio Brambilla,14,0,17,50,Transmission
+1978,United States Grand Prix West,Jean-Pierre Jabouille,15,0,13,43,Turbo
+1978,United States Grand Prix West,Gilles Villeneuve,16,0,2,38,Accident
+1978,United States Grand Prix West,Niki Lauda,17,0,3,27,Ignition
+1978,United States Grand Prix West,Didier Pironi,18,0,22,25,Gearbox
+1978,United States Grand Prix West,Arturo Merzario,19,0,21,17,Gearbox
+1978,United States Grand Prix West,Jochen Mass,20,0,16,11,Brakes
+1978,United States Grand Prix West,John Watson,21,0,5,9,Gearbox
+1978,United States Grand Prix West,James Hunt,22,0,7,5,Accident
+1978,United States Grand Prix West,Rupert Keegan,23,0,0,0,Accident
+1978,United States Grand Prix West,Hans-Joachim Stuck,24,0,0,0,Accident
+1978,Monaco Grand Prix,Patrick Depailler,1,9,5,75,RAS
+1978,Monaco Grand Prix,Niki Lauda,2,6,3,75,RAS
+1978,Monaco Grand Prix,Jody Scheckter,3,4,9,75,RAS
+1978,Monaco Grand Prix,John Watson,4,3,2,75,RAS
+1978,Monaco Grand Prix,Didier Pironi,5,2,13,75,RAS
+1978,Monaco Grand Prix,Riccardo Patrese,6,1,14,75,RAS
+1978,Monaco Grand Prix,Patrick Tambay,7,0,11,74,RAS
+1978,Monaco Grand Prix,Carlos Reutemann,8,0,1,74,RAS
+1978,Monaco Grand Prix,Emerson Fittipaldi,9,0,20,74,RAS
+1978,Monaco Grand Prix,Jean-Pierre Jabouille,10,0,12,71,RAS
+1978,Monaco Grand Prix,Mario Andretti,11,0,4,69,RAS
+1978,Monaco Grand Prix,Gilles Villeneuve,12,0,8,62,Accident
+1978,Monaco Grand Prix,Ronnie Peterson,13,0,7,56,Gearbox
+1978,Monaco Grand Prix,James Hunt,14,0,6,43,Handling
+1978,Monaco Grand Prix,Rolf Stommelen,15,0,19,38,Driver unwell
+1978,Monaco Grand Prix,Alan Jones,16,0,10,29,Oil leak
+1978,Monaco Grand Prix,Jacky Ickx,17,0,16,27,Brakes
+1978,Monaco Grand Prix,Hans-Joachim Stuck,18,0,17,24,Accident
+1978,Monaco Grand Prix,Jacques Laffite,19,0,15,13,Gearbox
+1978,Monaco Grand Prix,Rupert Keegan,20,0,18,8,Transmission
+1978,Belgian Grand Prix,Mario Andretti,1,9,1,70,RAS
+1978,Belgian Grand Prix,Ronnie Peterson,2,6,7,70,RAS
+1978,Belgian Grand Prix,Carlos Reutemann,3,4,2,70,RAS
+1978,Belgian Grand Prix,Gilles Villeneuve,4,3,4,70,RAS
+1978,Belgian Grand Prix,Jacques Laffite,5,2,14,69,Accident
+1978,Belgian Grand Prix,Didier Pironi,6,1,23,69,RAS
+1978,Belgian Grand Prix,Brett Lunger,7,0,24,69,RAS
+1978,Belgian Grand Prix,Bruno Giacomelli,8,0,21,69,RAS
+1978,Belgian Grand Prix,René Arnoux,9,0,19,68,RAS
+1978,Belgian Grand Prix,Alan Jones,10,0,11,68,RAS
+1978,Belgian Grand Prix,Jochen Mass,11,0,16,68,RAS
+1978,Belgian Grand Prix,Jacky Ickx,12,0,22,64,RAS
+1978,Belgian Grand Prix,Vittorio Brambilla,13,0,12,63,Engine
+1978,Belgian Grand Prix,Hans-Joachim Stuck,14,0,10,56,Spun off
+1978,Belgian Grand Prix,Jean-Pierre Jabouille,15,0,20,56,Not classified
+1978,Belgian Grand Prix,Jody Scheckter,16,0,5,53,Spun off
+1978,Belgian Grand Prix,Patrick Depailler,17,0,13,51,Gearbox
+1978,Belgian Grand Prix,Clay Regazzoni,18,0,18,40,Transmission
+1978,Belgian Grand Prix,Riccardo Patrese,19,0,8,31,Suspension
+1978,Belgian Grand Prix,Rolf Stommelen,20,0,17,26,Spun off
+1978,Belgian Grand Prix,John Watson,21,0,9,18,Accident
+1978,Belgian Grand Prix,Niki Lauda,22,0,3,0,Accident
+1978,Belgian Grand Prix,James Hunt,23,0,6,0,Accident
+1978,Belgian Grand Prix,Emerson Fittipaldi,24,0,15,0,Accident
+1978,Spanish Grand Prix,Mario Andretti,1,9,1,75,RAS
+1978,Spanish Grand Prix,Ronnie Peterson,2,6,2,75,RAS
+1978,Spanish Grand Prix,Jacques Laffite,3,4,10,75,RAS
+1978,Spanish Grand Prix,Jody Scheckter,4,3,9,75,RAS
+1978,Spanish Grand Prix,John Watson,5,2,7,75,RAS
+1978,Spanish Grand Prix,James Hunt,6,1,4,74,RAS
+1978,Spanish Grand Prix,Vittorio Brambilla,7,0,16,74,RAS
+1978,Spanish Grand Prix,Alan Jones,8,0,18,74,RAS
+1978,Spanish Grand Prix,Jochen Mass,9,0,17,74,RAS
+1978,Spanish Grand Prix,Gilles Villeneuve,10,0,5,74,RAS
+1978,Spanish Grand Prix,Rupert Keegan,11,0,23,73,RAS
+1978,Spanish Grand Prix,Didier Pironi,12,0,13,71,RAS
+1978,Spanish Grand Prix,Jean-Pierre Jabouille,13,0,11,71,RAS
+1978,Spanish Grand Prix,Rolf Stommelen,14,0,19,71,RAS
+1978,Spanish Grand Prix,Clay Regazzoni,15,0,22,67,Fuel pipe
+1978,Spanish Grand Prix,Jacky Ickx,16,0,21,64,Engine
+1978,Spanish Grand Prix,Emerson Fittipaldi,17,0,15,62,Throttle
+1978,Spanish Grand Prix,Carlos Reutemann,18,0,3,57,Accident
+1978,Spanish Grand Prix,Niki Lauda,19,0,6,56,Engine
+1978,Spanish Grand Prix,Patrick Depailler,20,0,12,51,Engine
+1978,Spanish Grand Prix,Hans-Joachim Stuck,21,0,24,45,Suspension
+1978,Spanish Grand Prix,Riccardo Patrese,22,0,8,21,Engine
+1978,Spanish Grand Prix,Hector Rebaque,23,0,20,21,Exhaust
+1978,Spanish Grand Prix,Patrick Tambay,24,0,14,16,Spun off
+1978,Swedish Grand Prix,Niki Lauda,1,9,3,70,RAS
+1978,Swedish Grand Prix,Riccardo Patrese,2,6,5,70,RAS
+1978,Swedish Grand Prix,Ronnie Peterson,3,4,4,70,RAS
+1978,Swedish Grand Prix,Patrick Tambay,4,3,15,69,RAS
+1978,Swedish Grand Prix,Clay Regazzoni,5,2,16,69,RAS
+1978,Swedish Grand Prix,Emerson Fittipaldi,6,1,13,69,RAS
+1978,Swedish Grand Prix,Jacques Laffite,7,0,11,69,RAS
+1978,Swedish Grand Prix,James Hunt,8,0,14,69,RAS
+1978,Swedish Grand Prix,Gilles Villeneuve,9,0,7,69,RAS
+1978,Swedish Grand Prix,Carlos Reutemann,10,0,8,69,RAS
+1978,Swedish Grand Prix,Hans-Joachim Stuck,11,0,20,68,RAS
+1978,Swedish Grand Prix,Hector Rebaque,12,0,21,68,RAS
+1978,Swedish Grand Prix,Jochen Mass,13,0,19,68,RAS
+1978,Swedish Grand Prix,Rolf Stommelen,14,0,24,67,RAS
+1978,Swedish Grand Prix,Keke Rosberg,15,0,23,63,RAS
+1978,Swedish Grand Prix,Arturo Merzario,16,0,22,62,RAS
+1978,Swedish Grand Prix,Mario Andretti,17,0,1,46,Engine
+1978,Swedish Grand Prix,Alan Jones,18,0,9,46,Wheel
+1978,Swedish Grand Prix,Patrick Depailler,19,0,12,42,Suspension
+1978,Swedish Grand Prix,Jean-Pierre Jabouille,20,0,10,28,Engine
+1978,Swedish Grand Prix,John Watson,21,0,2,19,Spun off
+1978,Swedish Grand Prix,Jody Scheckter,22,0,6,16,Overheating
+1978,Swedish Grand Prix,Didier Pironi,23,0,17,8,Accident
+1978,Swedish Grand Prix,Vittorio Brambilla,24,0,18,7,Accident
+1978,French Grand Prix,Mario Andretti,1,9,2,54,RAS
+1978,French Grand Prix,Ronnie Peterson,2,6,5,54,RAS
+1978,French Grand Prix,James Hunt,3,4,4,54,RAS
+1978,French Grand Prix,John Watson,4,3,1,54,RAS
+1978,French Grand Prix,Alan Jones,5,2,14,54,RAS
+1978,French Grand Prix,Jody Scheckter,6,1,7,54,RAS
+1978,French Grand Prix,Jacques Laffite,7,0,10,54,RAS
+1978,French Grand Prix,Riccardo Patrese,8,0,12,54,RAS
+1978,French Grand Prix,Patrick Tambay,9,0,6,54,RAS
+1978,French Grand Prix,Didier Pironi,10,0,16,54,RAS
+1978,French Grand Prix,Hans-Joachim Stuck,11,0,20,53,RAS
+1978,French Grand Prix,Gilles Villeneuve,12,0,9,53,RAS
+1978,French Grand Prix,Jochen Mass,13,0,25,53,RAS
+1978,French Grand Prix,René Arnoux,14,0,18,53,RAS
+1978,French Grand Prix,Rolf Stommelen,15,0,21,53,RAS
+1978,French Grand Prix,Keke Rosberg,16,0,26,52,RAS
+1978,French Grand Prix,Vittorio Brambilla,17,0,19,52,RAS
+1978,French Grand Prix,Carlos Reutemann,18,0,8,49,RAS
+1978,French Grand Prix,Brett Lunger,19,0,24,45,Engine
+1978,French Grand Prix,Emerson Fittipaldi,20,0,15,43,Suspension
+1978,French Grand Prix,Rupert Keegan,21,0,23,40,Engine
+1978,French Grand Prix,Bruno Giacomelli,22,0,22,28,Engine
+1978,French Grand Prix,Niki Lauda,23,0,3,10,Engine
+1978,French Grand Prix,Patrick Depailler,24,0,13,10,Engine
+1978,French Grand Prix,Clay Regazzoni,25,0,17,4,Electrical
+1978,French Grand Prix,Jean-Pierre Jabouille,26,0,11,1,Engine
+1978,British Grand Prix,Carlos Reutemann,1,9,8,76,RAS
+1978,British Grand Prix,Niki Lauda,2,6,4,76,RAS
+1978,British Grand Prix,John Watson,3,4,9,76,RAS
+1978,British Grand Prix,Patrick Depailler,4,3,10,76,RAS
+1978,British Grand Prix,Hans-Joachim Stuck,5,2,18,75,RAS
+1978,British Grand Prix,Patrick Tambay,6,1,20,75,RAS
+1978,British Grand Prix,Bruno Giacomelli,7,0,16,75,RAS
+1978,British Grand Prix,Brett Lunger,8,0,24,75,RAS
+1978,British Grand Prix,Vittorio Brambilla,9,0,25,75,RAS
+1978,British Grand Prix,Jacques Laffite,10,0,7,73,RAS
+1978,British Grand Prix,Jochen Mass,11,0,26,65,RAS
+1978,British Grand Prix,Keke Rosberg,12,0,22,59,Suspension
+1978,British Grand Prix,Clay Regazzoni,13,0,17,49,Gearbox
+1978,British Grand Prix,Jean-Pierre Jabouille,14,0,12,46,Turbo
+1978,British Grand Prix,Riccardo Patrese,15,0,5,40,Suspension
+1978,British Grand Prix,Didier Pironi,16,0,19,40,Gearbox
+1978,British Grand Prix,Jody Scheckter,17,0,3,36,Gearbox
+1978,British Grand Prix,Emerson Fittipaldi,18,0,11,32,Engine
+1978,British Grand Prix,Arturo Merzario,19,0,23,32,Fuel system
+1978,British Grand Prix,Derek Daly,20,0,15,30,Wheel
+1978,British Grand Prix,Mario Andretti,21,0,2,28,Engine
+1978,British Grand Prix,Alan Jones,22,0,6,26,Transmission
+1978,British Grand Prix,Gilles Villeneuve,23,0,13,19,Transmission
+1978,British Grand Prix,Hector Rebaque,24,0,21,15,Gearbox
+1978,British Grand Prix,James Hunt,25,0,14,7,Accident
+1978,British Grand Prix,Ronnie Peterson,26,0,1,6,Fuel system
+1978,German Grand Prix,Mario Andretti,1,9,1,45,RAS
+1978,German Grand Prix,Jody Scheckter,2,6,4,45,RAS
+1978,German Grand Prix,Jacques Laffite,3,4,7,45,RAS
+1978,German Grand Prix,Emerson Fittipaldi,4,3,10,45,RAS
+1978,German Grand Prix,Didier Pironi,5,2,16,45,RAS
+1978,German Grand Prix,Hector Rebaque,6,1,18,45,RAS
+1978,German Grand Prix,John Watson,7,0,5,45,RAS
+1978,German Grand Prix,Gilles Villeneuve,8,0,15,45,RAS
+1978,German Grand Prix,Riccardo Patrese,9,0,14,44,RAS
+1978,German Grand Prix,Keke Rosberg,10,0,19,42,RAS
+1978,German Grand Prix,Harald Ertl,11,0,17,41,Engine
+1978,German Grand Prix,Rolf Stommelen,12,0,23,42,DQ
+1978,German Grand Prix,Ronnie Peterson,13,0,2,36,Gearbox
+1978,German Grand Prix,James Hunt,14,0,8,34,DQ
+1978,German Grand Prix,Alan Jones,15,0,6,31,Fuel system
+1978,German Grand Prix,Nelson Piquet,16,0,21,31,Engine
+1978,German Grand Prix,Vittorio Brambilla,17,0,20,24,Fuel system
+1978,German Grand Prix,Patrick Tambay,18,0,11,16,Accident
+1978,German Grand Prix,Carlos Reutemann,19,0,12,14,Fuel system
+1978,German Grand Prix,Niki Lauda,20,0,3,11,Engine
+1978,German Grand Prix,Jean-Pierre Jabouille,21,0,9,5,Engine
+1978,German Grand Prix,Jochen Mass,22,0,22,1,Accident
+1978,German Grand Prix,Hans-Joachim Stuck,23,0,24,1,Accident
+1978,German Grand Prix,Patrick Depailler,24,0,13,0,Accident
+1978,Austrian Grand Prix,Ronnie Peterson,1,9,1,54,RAS
+1978,Austrian Grand Prix,Patrick Depailler,2,6,14,54,RAS
+1978,Austrian Grand Prix,Gilles Villeneuve,3,4,11,54,RAS
+1978,Austrian Grand Prix,Emerson Fittipaldi,4,3,6,53,RAS
+1978,Austrian Grand Prix,Jacques Laffite,5,2,5,53,RAS
+1978,Austrian Grand Prix,Vittorio Brambilla,6,1,21,53,RAS
+1978,Austrian Grand Prix,John Watson,7,0,10,53,RAS
+1978,Austrian Grand Prix,Brett Lunger,8,0,17,52,RAS
+1978,Austrian Grand Prix,René Arnoux,9,0,26,52,RAS
+1978,Austrian Grand Prix,Clay Regazzoni,10,0,22,50,RAS
+1978,Austrian Grand Prix,Keke Rosberg,11,0,25,49,RAS
+1978,Austrian Grand Prix,Derek Daly,12,0,19,41,DQ
+1978,Austrian Grand Prix,Patrick Tambay,13,0,14,40,Accident
+1978,Austrian Grand Prix,Hans-Joachim Stuck,14,0,23,33,Accident
+1978,Austrian Grand Prix,Jean-Pierre Jabouille,15,0,3,31,Gearbox
+1978,Austrian Grand Prix,Carlos Reutemann,16,0,12,28,DQ
+1978,Austrian Grand Prix,Niki Lauda,17,0,4,27,Accident
+1978,Austrian Grand Prix,Didier Pironi,18,0,9,20,Accident
+1978,Austrian Grand Prix,James Hunt,19,0,8,7,Accident
+1978,Austrian Grand Prix,Alan Jones,20,0,15,7,Accident
+1978,Austrian Grand Prix,Riccardo Patrese,21,0,16,7,Accident
+1978,Austrian Grand Prix,Harald Ertl,22,0,24,7,Accident
+1978,Austrian Grand Prix,Hector Rebaque,23,0,18,4,Accident
+1978,Austrian Grand Prix,Nelson Piquet,24,0,20,4,Accident
+1978,Austrian Grand Prix,Jody Scheckter,25,0,7,3,Accident
+1978,Austrian Grand Prix,Mario Andretti,26,0,2,0,Accident
+1978,Dutch Grand Prix,Mario Andretti,1,9,1,75,RAS
+1978,Dutch Grand Prix,Ronnie Peterson,2,6,2,75,RAS
+1978,Dutch Grand Prix,Niki Lauda,3,4,3,75,RAS
+1978,Dutch Grand Prix,John Watson,4,3,8,75,RAS
+1978,Dutch Grand Prix,Emerson Fittipaldi,5,2,10,75,RAS
+1978,Dutch Grand Prix,Gilles Villeneuve,6,1,5,75,RAS
+1978,Dutch Grand Prix,Carlos Reutemann,7,0,4,75,RAS
+1978,Dutch Grand Prix,Jacques Laffite,8,0,6,74,RAS
+1978,Dutch Grand Prix,Patrick Tambay,9,0,14,74,RAS
+1978,Dutch Grand Prix,James Hunt,10,0,7,74,RAS
+1978,Dutch Grand Prix,Hector Rebaque,11,0,20,74,RAS
+1978,Dutch Grand Prix,Jody Scheckter,12,0,15,73,RAS
+1978,Dutch Grand Prix,Bruno Giacomelli,13,0,19,60,Spun off
+1978,Dutch Grand Prix,Hans-Joachim Stuck,14,0,18,56,Transmission
+1978,Dutch Grand Prix,René Arnoux,15,0,23,40,Chassis
+1978,Dutch Grand Prix,Arturo Merzario,16,0,26,40,Engine
+1978,Dutch Grand Prix,Vittorio Brambilla,17,0,22,37,DQ
+1978,Dutch Grand Prix,Jean-Pierre Jabouille,18,0,9,35,Engine
+1978,Dutch Grand Prix,Brett Lunger,19,0,21,35,Engine
+1978,Dutch Grand Prix,Keke Rosberg,20,0,24,21,Accident
+1978,Dutch Grand Prix,Alan Jones,21,0,11,17,Throttle
+1978,Dutch Grand Prix,Nelson Piquet,22,0,25,16,Transmission
+1978,Dutch Grand Prix,Patrick Depailler,23,0,12,13,Engine
+1978,Dutch Grand Prix,Derek Daly,24,0,16,10,Transmission
+1978,Dutch Grand Prix,Riccardo Patrese,25,0,13,0,Accident
+1978,Dutch Grand Prix,Didier Pironi,26,0,17,0,Accident
+1978,Dutch Grand Prix,Rupert Keegan,27,0,0,0,Withdrew
+1978,Italian Grand Prix,Niki Lauda,1,9,4,40,RAS
+1978,Italian Grand Prix,John Watson,2,6,7,40,RAS
+1978,Italian Grand Prix,Carlos Reutemann,3,4,11,40,RAS
+1978,Italian Grand Prix,Jacques Laffite,4,3,8,40,RAS
+1978,Italian Grand Prix,Patrick Tambay,5,2,19,40,RAS
+1978,Italian Grand Prix,Mario Andretti,6,1,1,40,RAS
+1978,Italian Grand Prix,Gilles Villeneuve,7,0,2,40,RAS
+1978,Italian Grand Prix,Emerson Fittipaldi,8,0,13,40,RAS
+1978,Italian Grand Prix,Nelson Piquet,9,0,24,40,RAS
+1978,Italian Grand Prix,Derek Daly,10,0,18,40,RAS
+1978,Italian Grand Prix,Patrick Depailler,11,0,16,40,RAS
+1978,Italian Grand Prix,Jody Scheckter,12,0,9,39,RAS
+1978,Italian Grand Prix,Alan Jones,13,0,6,39,RAS
+1978,Italian Grand Prix,Bruno Giacomelli,14,0,20,39,RAS
+1978,Italian Grand Prix,Clay Regazzoni,15,0,15,33,RAS
+1978,Italian Grand Prix,Riccardo Patrese,16,0,12,28,Engine
+1978,Italian Grand Prix,James Hunt,17,0,10,19,Distributor
+1978,Italian Grand Prix,Arturo Merzario,18,0,22,14,Engine
+1978,Italian Grand Prix,Jean-Pierre Jabouille,19,0,3,6,Engine
+1978,Italian Grand Prix,Ronnie Peterson,20,0,5,0,Accident
+1978,Italian Grand Prix,Didier Pironi,21,0,14,0,Accident
+1978,Italian Grand Prix,Hans-Joachim Stuck,22,0,17,0,Accident
+1978,Italian Grand Prix,Brett Lunger,23,0,21,0,Accident
+1978,Italian Grand Prix,Vittorio Brambilla,24,0,23,0,Accident
+1978,United States Grand Prix,Carlos Reutemann,1,9,2,59,RAS
+1978,United States Grand Prix,Alan Jones,2,6,3,59,RAS
+1978,United States Grand Prix,Jody Scheckter,3,4,11,59,RAS
+1978,United States Grand Prix,Jean-Pierre Jabouille,4,3,9,59,RAS
+1978,United States Grand Prix,Emerson Fittipaldi,5,2,13,59,RAS
+1978,United States Grand Prix,Patrick Tambay,6,1,18,59,RAS
+1978,United States Grand Prix,James Hunt,7,0,6,58,RAS
+1978,United States Grand Prix,Derek Daly,8,0,19,58,RAS
+1978,United States Grand Prix,René Arnoux,9,0,21,58,RAS
+1978,United States Grand Prix,Didier Pironi,10,0,16,58,RAS
+1978,United States Grand Prix,Jacques Laffite,11,0,10,58,RAS
+1978,United States Grand Prix,Bobby Rahal,12,0,20,58,RAS
+1978,United States Grand Prix,Brett Lunger,13,0,24,58,RAS
+1978,United States Grand Prix,Clay Regazzoni,14,0,17,56,RAS
+1978,United States Grand Prix,Jean-Pierre Jarier,15,0,8,55,Out of fuel
+1978,United States Grand Prix,Rolf Stommelen,16,0,22,54,RAS
+1978,United States Grand Prix,Arturo Merzario,17,0,26,46,Gearbox
+1978,United States Grand Prix,Michael Bleekemolen,18,0,25,43,Oil leak
+1978,United States Grand Prix,Niki Lauda,19,0,5,28,Engine
+1978,United States Grand Prix,Mario Andretti,20,0,1,27,Engine
+1978,United States Grand Prix,John Watson,21,0,7,25,Engine
+1978,United States Grand Prix,Patrick Depailler,22,0,12,23,Wheel
+1978,United States Grand Prix,Gilles Villeneuve,23,0,4,22,Engine
+1978,United States Grand Prix,Keke Rosberg,24,0,15,21,Transmission
+1978,United States Grand Prix,Hans-Joachim Stuck,25,0,14,1,Fuel system
+1978,United States Grand Prix,Hector Rebaque,26,0,23,0,Clutch
+1978,Canadian Grand Prix,Gilles Villeneuve,1,9,3,70,RAS
+1978,Canadian Grand Prix,Jody Scheckter,2,6,2,70,RAS
+1978,Canadian Grand Prix,Carlos Reutemann,3,4,11,70,RAS
+1978,Canadian Grand Prix,Riccardo Patrese,4,3,12,70,RAS
+1978,Canadian Grand Prix,Patrick Depailler,5,2,13,70,RAS
+1978,Canadian Grand Prix,Derek Daly,6,1,15,70,RAS
+1978,Canadian Grand Prix,Didier Pironi,7,0,18,70,RAS
+1978,Canadian Grand Prix,Patrick Tambay,8,0,17,70,RAS
+1978,Canadian Grand Prix,Alan Jones,9,0,5,70,RAS
+1978,Canadian Grand Prix,Mario Andretti,10,0,9,69,RAS
+1978,Canadian Grand Prix,Nelson Piquet,11,0,14,69,RAS
+1978,Canadian Grand Prix,Jean-Pierre Jabouille,12,0,22,65,RAS
+1978,Canadian Grand Prix,Keke Rosberg,13,0,21,58,RAS
+1978,Canadian Grand Prix,Jacques Laffite,14,0,10,52,Transmission
+1978,Canadian Grand Prix,James Hunt,15,0,19,51,Spun off
+1978,Canadian Grand Prix,Jean-Pierre Jarier,16,0,1,49,Oil leak
+1978,Canadian Grand Prix,René Arnoux,17,0,16,37,Engine
+1978,Canadian Grand Prix,Bobby Rahal,18,0,20,16,Fuel system
+1978,Canadian Grand Prix,John Watson,19,0,4,8,Accident
+1978,Canadian Grand Prix,Niki Lauda,20,0,7,5,Brakes
+1978,Canadian Grand Prix,Hans-Joachim Stuck,21,0,8,1,Accident
+1978,Canadian Grand Prix,Emerson Fittipaldi,22,0,6,0,Accident

@@ -1,0 +1,362 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1981,United States Grand Prix West,Alan Jones,1,9,2,80,RAS
+1981,United States Grand Prix West,Carlos Reutemann,2,6,3,80,RAS
+1981,United States Grand Prix West,Nelson Piquet,3,4,4,80,RAS
+1981,United States Grand Prix West,Mario Andretti,4,3,6,80,RAS
+1981,United States Grand Prix West,Eddie Cheever,5,2,8,80,RAS
+1981,United States Grand Prix West,Patrick Tambay,6,1,17,79,RAS
+1981,United States Grand Prix West,Chico Serra,7,0,18,78,RAS
+1981,United States Grand Prix West,René Arnoux,8,0,20,77,RAS
+1981,United States Grand Prix West,Marc Surer,9,0,19,70,Fuel system
+1981,United States Grand Prix West,Didier Pironi,10,0,11,67,Fuel system
+1981,United States Grand Prix West,Jean-Pierre Jarier,11,0,10,64,Fuel pump
+1981,United States Grand Prix West,Hector Rebaque,12,0,15,49,Accident
+1981,United States Grand Prix West,Bruno Giacomelli,13,0,9,41,Collision
+1981,United States Grand Prix West,Jacques Laffite,14,0,12,41,Collision
+1981,United States Grand Prix West,Keke Rosberg,15,0,16,41,Engine
+1981,United States Grand Prix West,Jan Lammers,16,0,21,41,Collision
+1981,United States Grand Prix West,Riccardo Patrese,17,0,1,33,Fuel system
+1981,United States Grand Prix West,Beppe Gabbiani,18,0,24,26,Accident
+1981,United States Grand Prix West,Nigel Mansell,19,0,7,25,Accident
+1981,United States Grand Prix West,Gilles Villeneuve,20,0,5,17,Halfshaft
+1981,United States Grand Prix West,John Watson,21,0,23,16,Brakes
+1981,United States Grand Prix West,Elio de Angelis,22,0,13,13,Accident
+1981,United States Grand Prix West,Alain Prost,23,0,14,0,Collision
+1981,United States Grand Prix West,Andrea de Cesaris,24,0,22,0,Collision
+1981,Brazilian Grand Prix,Carlos Reutemann,1,9,2,62,RAS
+1981,Brazilian Grand Prix,Alan Jones,2,6,3,62,RAS
+1981,Brazilian Grand Prix,Riccardo Patrese,3,4,4,62,RAS
+1981,Brazilian Grand Prix,Marc Surer,4,3,18,62,RAS
+1981,Brazilian Grand Prix,Elio de Angelis,5,2,10,62,RAS
+1981,Brazilian Grand Prix,Jacques Laffite,6,1,16,62,RAS
+1981,Brazilian Grand Prix,Jean-Pierre Jarier,7,0,23,62,RAS
+1981,Brazilian Grand Prix,John Watson,8,0,15,61,RAS
+1981,Brazilian Grand Prix,Keke Rosberg,9,0,12,61,RAS
+1981,Brazilian Grand Prix,Patrick Tambay,10,0,19,61,RAS
+1981,Brazilian Grand Prix,Nigel Mansell,11,0,13,61,RAS
+1981,Brazilian Grand Prix,Nelson Piquet,12,0,1,60,RAS
+1981,Brazilian Grand Prix,Ricardo Zunino,13,0,24,57,RAS
+1981,Brazilian Grand Prix,Eddie Cheever,14,0,14,49,Not classified
+1981,Brazilian Grand Prix,Bruno Giacomelli,15,0,6,40,Not classified
+1981,Brazilian Grand Prix,Gilles Villeneuve,16,0,7,25,Turbo
+1981,Brazilian Grand Prix,Hector Rebaque,17,0,11,22,Spun off
+1981,Brazilian Grand Prix,Alain Prost,18,0,5,20,Collision
+1981,Brazilian Grand Prix,Siegfried Stohr,19,0,21,20,Accident
+1981,Brazilian Grand Prix,Didier Pironi,20,0,17,19,Collision
+1981,Brazilian Grand Prix,Andrea de Cesaris,21,0,20,9,Engine
+1981,Brazilian Grand Prix,René Arnoux,22,0,8,0,Collision
+1981,Brazilian Grand Prix,Mario Andretti,23,0,9,0,Collision
+1981,Brazilian Grand Prix,Chico Serra,24,0,22,0,Collision
+1981,Brazilian Grand Prix,Ricardo Londoño,30,0,0,0,Withdrew
+1981,Argentine Grand Prix,Nelson Piquet,1,9,1,53,RAS
+1981,Argentine Grand Prix,Carlos Reutemann,2,6,4,53,RAS
+1981,Argentine Grand Prix,Alain Prost,3,4,2,53,RAS
+1981,Argentine Grand Prix,Alan Jones,4,3,3,53,RAS
+1981,Argentine Grand Prix,René Arnoux,5,2,5,53,RAS
+1981,Argentine Grand Prix,Elio de Angelis,6,1,10,52,RAS
+1981,Argentine Grand Prix,Riccardo Patrese,7,0,9,52,RAS
+1981,Argentine Grand Prix,Mario Andretti,8,0,17,52,RAS
+1981,Argentine Grand Prix,Siegfried Stohr,9,0,19,52,RAS
+1981,Argentine Grand Prix,Bruno Giacomelli,10,0,22,51,Out of fuel
+1981,Argentine Grand Prix,Andrea de Cesaris,11,0,18,51,RAS
+1981,Argentine Grand Prix,Jan Lammers,12,0,23,51,RAS
+1981,Argentine Grand Prix,Ricardo Zunino,13,0,24,51,RAS
+1981,Argentine Grand Prix,Gilles Villeneuve,14,0,7,40,Transmission
+1981,Argentine Grand Prix,Patrick Tambay,15,0,14,36,Oil leak
+1981,Argentine Grand Prix,John Watson,16,0,11,36,Transmission
+1981,Argentine Grand Prix,Hector Rebaque,17,0,6,32,Electrical
+1981,Argentine Grand Prix,Chico Serra,18,0,20,28,Gearbox
+1981,Argentine Grand Prix,Jacques Laffite,19,0,21,19,Handling
+1981,Argentine Grand Prix,Marc Surer,20,0,16,14,Engine
+1981,Argentine Grand Prix,Keke Rosberg,21,0,8,4,Fuel system
+1981,Argentine Grand Prix,Nigel Mansell,22,0,15,3,Engine
+1981,Argentine Grand Prix,Didier Pironi,23,0,12,3,Engine
+1981,Argentine Grand Prix,Eddie Cheever,24,0,13,1,Clutch
+1981,San Marino Grand Prix,Nelson Piquet,1,9,5,60,RAS
+1981,San Marino Grand Prix,Riccardo Patrese,2,6,9,60,RAS
+1981,San Marino Grand Prix,Carlos Reutemann,3,4,2,60,RAS
+1981,San Marino Grand Prix,Hector Rebaque,4,3,13,60,RAS
+1981,San Marino Grand Prix,Didier Pironi,5,2,6,60,RAS
+1981,San Marino Grand Prix,Andrea de Cesaris,6,1,14,60,RAS
+1981,San Marino Grand Prix,Gilles Villeneuve,7,0,1,60,RAS
+1981,San Marino Grand Prix,René Arnoux,8,0,3,59,RAS
+1981,San Marino Grand Prix,Marc Surer,9,0,21,59,RAS
+1981,San Marino Grand Prix,John Watson,10,0,7,58,RAS
+1981,San Marino Grand Prix,Patrick Tambay,11,0,16,58,RAS
+1981,San Marino Grand Prix,Alan Jones,12,0,8,58,RAS
+1981,San Marino Grand Prix,Slim Borgudd,13,0,24,57,RAS
+1981,San Marino Grand Prix,Jean-Pierre Jabouille,14,0,18,45,Not classified
+1981,San Marino Grand Prix,Eliseo Salazar,15,0,23,38,Spun off
+1981,San Marino Grand Prix,Michele Alboreto,16,0,17,31,Collision
+1981,San Marino Grand Prix,Beppe Gabbiani,17,0,20,31,Collision
+1981,San Marino Grand Prix,Bruno Giacomelli,18,0,11,28,Collision
+1981,San Marino Grand Prix,Eddie Cheever,19,0,19,28,Collision
+1981,San Marino Grand Prix,Mario Andretti,20,0,12,26,Gearbox
+1981,San Marino Grand Prix,Keke Rosberg,21,0,15,14,Engine
+1981,San Marino Grand Prix,Jacques Laffite,22,0,10,7,Suspension
+1981,San Marino Grand Prix,Alain Prost,23,0,4,3,Gearbox
+1981,San Marino Grand Prix,Miguel Ángel Guerra,24,0,22,0,Accident
+1981,San Marino Grand Prix,Jan Lammers,27,0,0,0,DNF
+1981,San Marino Grand Prix,Elio de Angelis,31,0,0,0,Withdrew
+1981,San Marino Grand Prix,Nigel Mansell,32,0,0,0,Withdrew
+1981,Belgian Grand Prix,Carlos Reutemann,1,9,1,54,RAS
+1981,Belgian Grand Prix,Jacques Laffite,2,6,9,54,RAS
+1981,Belgian Grand Prix,Nigel Mansell,3,4,10,54,RAS
+1981,Belgian Grand Prix,Gilles Villeneuve,4,3,7,54,RAS
+1981,Belgian Grand Prix,Elio de Angelis,5,2,14,54,RAS
+1981,Belgian Grand Prix,Eddie Cheever,6,1,8,54,RAS
+1981,Belgian Grand Prix,John Watson,7,0,5,54,RAS
+1981,Belgian Grand Prix,Didier Pironi,8,0,3,54,RAS
+1981,Belgian Grand Prix,Bruno Giacomelli,9,0,17,54,RAS
+1981,Belgian Grand Prix,Mario Andretti,10,0,18,53,RAS
+1981,Belgian Grand Prix,Marc Surer,11,0,15,52,RAS
+1981,Belgian Grand Prix,Michele Alboreto,12,0,19,52,RAS
+1981,Belgian Grand Prix,Piercarlo Ghinzani,13,0,24,50,RAS
+1981,Belgian Grand Prix,Hector Rebaque,14,0,21,39,Accident
+1981,Belgian Grand Prix,Jean-Pierre Jabouille,15,0,16,35,Transmission
+1981,Belgian Grand Prix,Chico Serra,16,0,20,29,Engine
+1981,Belgian Grand Prix,Beppe Gabbiani,17,0,22,22,Engine
+1981,Belgian Grand Prix,Alan Jones,18,0,6,19,Accident
+1981,Belgian Grand Prix,Andrea de Cesaris,19,0,23,11,Gearbox
+1981,Belgian Grand Prix,Nelson Piquet,20,0,2,10,Accident
+1981,Belgian Grand Prix,Keke Rosberg,21,0,11,10,Gearbox
+1981,Belgian Grand Prix,Alain Prost,22,0,12,2,Clutch
+1981,Belgian Grand Prix,Riccardo Patrese,23,0,4,0,Collision
+1981,Belgian Grand Prix,Siegfried Stohr,24,0,13,0,Collision
+1981,Monaco Grand Prix,Gilles Villeneuve,1,9,2,76,RAS
+1981,Monaco Grand Prix,Alan Jones,2,6,7,76,RAS
+1981,Monaco Grand Prix,Jacques Laffite,3,4,8,76,RAS
+1981,Monaco Grand Prix,Didier Pironi,4,3,17,75,RAS
+1981,Monaco Grand Prix,Eddie Cheever,5,2,15,74,RAS
+1981,Monaco Grand Prix,Marc Surer,6,1,19,74,RAS
+1981,Monaco Grand Prix,Patrick Tambay,7,0,16,72,RAS
+1981,Monaco Grand Prix,Nelson Piquet,8,0,1,53,Spun off
+1981,Monaco Grand Prix,John Watson,9,0,10,52,Engine
+1981,Monaco Grand Prix,Michele Alboreto,10,0,20,50,Collision
+1981,Monaco Grand Prix,Bruno Giacomelli,11,0,18,50,Collision
+1981,Monaco Grand Prix,Alain Prost,12,0,9,45,Engine
+1981,Monaco Grand Prix,Carlos Reutemann,13,0,4,33,Gearbox
+1981,Monaco Grand Prix,Elio de Angelis,14,0,6,32,Engine
+1981,Monaco Grand Prix,René Arnoux,15,0,13,32,Spun off
+1981,Monaco Grand Prix,Riccardo Patrese,16,0,5,29,Gearbox
+1981,Monaco Grand Prix,Nigel Mansell,17,0,3,15,Suspension
+1981,Monaco Grand Prix,Siegfried Stohr,18,0,14,14,Fuel system
+1981,Monaco Grand Prix,Andrea de Cesaris,19,0,11,0,Collision
+1981,Monaco Grand Prix,Mario Andretti,20,0,12,0,Collision
+1981,Spanish Grand Prix,Gilles Villeneuve,1,9,7,80,RAS
+1981,Spanish Grand Prix,Jacques Laffite,2,6,1,80,RAS
+1981,Spanish Grand Prix,John Watson,3,4,4,80,RAS
+1981,Spanish Grand Prix,Carlos Reutemann,4,3,3,80,RAS
+1981,Spanish Grand Prix,Elio de Angelis,5,2,10,80,RAS
+1981,Spanish Grand Prix,Nigel Mansell,6,1,11,80,RAS
+1981,Spanish Grand Prix,Alan Jones,7,0,2,80,RAS
+1981,Spanish Grand Prix,Mario Andretti,8,0,8,80,RAS
+1981,Spanish Grand Prix,René Arnoux,9,0,17,80,RAS
+1981,Spanish Grand Prix,Bruno Giacomelli,10,0,6,80,RAS
+1981,Spanish Grand Prix,Chico Serra,11,0,21,79,RAS
+1981,Spanish Grand Prix,Keke Rosberg,12,0,15,78,RAS
+1981,Spanish Grand Prix,Patrick Tambay,13,0,16,78,RAS
+1981,Spanish Grand Prix,Eliseo Salazar,14,0,24,77,RAS
+1981,Spanish Grand Prix,Didier Pironi,15,0,13,76,RAS
+1981,Spanish Grand Prix,Derek Daly,16,0,22,75,RAS
+1981,Spanish Grand Prix,Eddie Cheever,17,0,20,62,Not classified
+1981,Spanish Grand Prix,Jean-Pierre Jabouille,18,0,19,51,Brakes
+1981,Spanish Grand Prix,Hector Rebaque,19,0,18,46,Gearbox
+1981,Spanish Grand Prix,Siegfried Stohr,20,0,23,43,Ignition
+1981,Spanish Grand Prix,Nelson Piquet,21,0,9,43,Accident
+1981,Spanish Grand Prix,Alain Prost,22,0,5,28,Spun off
+1981,Spanish Grand Prix,Riccardo Patrese,23,0,12,21,Brakes
+1981,Spanish Grand Prix,Andrea de Cesaris,24,0,14,9,Accident
+1981,French Grand Prix,Alain Prost,1,9,3,80,RAS
+1981,French Grand Prix,John Watson,2,6,2,80,RAS
+1981,French Grand Prix,Nelson Piquet,3,4,4,80,RAS
+1981,French Grand Prix,René Arnoux,4,3,1,80,RAS
+1981,French Grand Prix,Didier Pironi,5,2,14,79,RAS
+1981,French Grand Prix,Elio de Angelis,6,1,8,79,RAS
+1981,French Grand Prix,Nigel Mansell,7,0,13,79,RAS
+1981,French Grand Prix,Mario Andretti,8,0,10,79,RAS
+1981,French Grand Prix,Hector Rebaque,9,0,15,78,RAS
+1981,French Grand Prix,Carlos Reutemann,10,0,7,78,RAS
+1981,French Grand Prix,Andrea de Cesaris,11,0,5,78,RAS
+1981,French Grand Prix,Marc Surer,12,0,21,78,RAS
+1981,French Grand Prix,Eddie Cheever,13,0,19,77,RAS
+1981,French Grand Prix,Riccardo Patrese,14,0,18,77,RAS
+1981,French Grand Prix,Bruno Giacomelli,15,0,12,77,RAS
+1981,French Grand Prix,Michele Alboreto,16,0,23,77,RAS
+1981,French Grand Prix,Alan Jones,17,0,9,76,Collision
+1981,French Grand Prix,Jacques Laffite,18,0,6,57,Suspension
+1981,French Grand Prix,Derek Daly,19,0,20,55,Engine
+1981,French Grand Prix,Gilles Villeneuve,20,0,11,41,Electrical
+1981,French Grand Prix,Patrick Tambay,21,0,16,30,Wheel bearing
+1981,French Grand Prix,Keke Rosberg,22,0,17,11,Suspension
+1981,French Grand Prix,Eliseo Salazar,23,0,22,6,Suspension
+1981,French Grand Prix,Chico Serra,24,0,24,0,Withdrew
+1981,British Grand Prix,John Watson,1,9,5,68,RAS
+1981,British Grand Prix,Carlos Reutemann,2,6,9,68,RAS
+1981,British Grand Prix,Jacques Laffite,3,4,14,67,RAS
+1981,British Grand Prix,Eddie Cheever,4,3,23,67,RAS
+1981,British Grand Prix,Hector Rebaque,5,2,13,67,RAS
+1981,British Grand Prix,Slim Borgudd,6,1,21,67,RAS
+1981,British Grand Prix,Derek Daly,7,0,17,66,RAS
+1981,British Grand Prix,Jean-Pierre Jarier,8,0,20,65,RAS
+1981,British Grand Prix,René Arnoux,9,0,1,64,Distributor
+1981,British Grand Prix,Riccardo Patrese,10,0,10,64,Engine
+1981,British Grand Prix,Marc Surer,11,0,24,61,Out of fuel
+1981,British Grand Prix,Mario Andretti,12,0,11,59,Throttle
+1981,British Grand Prix,Keke Rosberg,13,0,14,56,Suspension
+1981,British Grand Prix,Elio de Angelis,14,0,22,25,DQ
+1981,British Grand Prix,Alain Prost,15,0,2,17,Distributor
+1981,British Grand Prix,Patrick Tambay,16,0,15,15,Clutch
+1981,British Grand Prix,Didier Pironi,17,0,4,13,Turbo
+1981,British Grand Prix,Nelson Piquet,18,0,3,11,Tyre
+1981,British Grand Prix,Bruno Giacomelli,19,0,12,5,Transmission
+1981,British Grand Prix,Gilles Villeneuve,20,0,8,4,Spun off
+1981,British Grand Prix,Alan Jones,21,0,7,3,Collision
+1981,British Grand Prix,Andrea de Cesaris,22,0,6,3,Spun off
+1981,British Grand Prix,Michele Alboreto,23,0,19,1,Clutch
+1981,British Grand Prix,Siegfried Stohr,24,0,18,8,Spun off
+1981,German Grand Prix,Nelson Piquet,1,9,6,45,RAS
+1981,German Grand Prix,Alain Prost,2,6,1,45,RAS
+1981,German Grand Prix,Jacques Laffite,3,4,7,45,RAS
+1981,German Grand Prix,Hector Rebaque,4,3,16,45,RAS
+1981,German Grand Prix,Eddie Cheever,5,2,18,45,RAS
+1981,German Grand Prix,John Watson,6,1,9,44,RAS
+1981,German Grand Prix,Elio de Angelis,7,0,14,44,RAS
+1981,German Grand Prix,Jean-Pierre Jarier,8,0,17,44,RAS
+1981,German Grand Prix,Mario Andretti,9,0,12,44,RAS
+1981,German Grand Prix,Gilles Villeneuve,10,0,8,44,RAS
+1981,German Grand Prix,Alan Jones,11,0,4,44,RAS
+1981,German Grand Prix,Siegfried Stohr,12,0,26,44,RAS
+1981,German Grand Prix,René Arnoux,13,0,2,44,RAS
+1981,German Grand Prix,Marc Surer,14,0,22,43,Suspension
+1981,German Grand Prix,Bruno Giacomelli,15,0,17,43,RAS
+1981,German Grand Prix,Eliseo Salazar,16,0,23,39,Not classified
+1981,German Grand Prix,Slim Borgudd,17,0,28,35,Engine
+1981,German Grand Prix,Carlos Reutemann,18,0,3,27,Engine
+1981,German Grand Prix,Riccardo Patrese,19,0,13,27,Engine
+1981,German Grand Prix,Patrick Tambay,20,0,11,27,Transmission
+1981,German Grand Prix,Derek Daly,21,0,21,15,Suspension
+1981,German Grand Prix,Nigel Mansell,22,0,15,12,Fuel leak
+1981,German Grand Prix,Andrea de Cesaris,23,0,10,4,Collision
+1981,German Grand Prix,Didier Pironi,24,0,5,1,Electrical
+1981,Austrian Grand Prix,Jacques Laffite,1,9,4,53,RAS
+1981,Austrian Grand Prix,René Arnoux,2,6,1,53,RAS
+1981,Austrian Grand Prix,Nelson Piquet,3,4,7,53,RAS
+1981,Austrian Grand Prix,Alan Jones,4,3,6,53,RAS
+1981,Austrian Grand Prix,Carlos Reutemann,5,2,5,53,RAS
+1981,Austrian Grand Prix,John Watson,6,1,12,53,RAS
+1981,Austrian Grand Prix,Elio de Angelis,7,0,9,52,RAS
+1981,Austrian Grand Prix,Andrea de Cesaris,8,0,18,52,RAS
+1981,Austrian Grand Prix,Didier Pironi,9,0,8,52,RAS
+1981,Austrian Grand Prix,Jean-Pierre Jarier,10,0,14,51,RAS
+1981,Austrian Grand Prix,Derek Daly,11,0,19,47,RAS
+1981,Austrian Grand Prix,Mario Andretti,12,0,13,46,Engine
+1981,Austrian Grand Prix,Slim Borgudd,13,0,21,44,Brakes
+1981,Austrian Grand Prix,Riccardo Patrese,14,0,10,43,Engine
+1981,Austrian Grand Prix,Eliseo Salazar,15,0,20,43,Oil pressure
+1981,Austrian Grand Prix,Michele Alboreto,16,0,22,40,Gearbox
+1981,Austrian Grand Prix,Bruno Giacomelli,17,0,16,35,Heat shield fire
+1981,Austrian Grand Prix,Hector Rebaque,18,0,15,32,Clutch
+1981,Austrian Grand Prix,Siegfried Stohr,19,0,24,27,Overheating
+1981,Austrian Grand Prix,Alain Prost,20,0,2,26,Suspension
+1981,Austrian Grand Prix,Patrick Tambay,21,0,17,26,Engine
+1981,Austrian Grand Prix,Nigel Mansell,22,0,11,23,Engine
+1981,Austrian Grand Prix,Gilles Villeneuve,23,0,3,11,Accident
+1981,Austrian Grand Prix,Marc Surer,24,0,23,0,Distributor
+1981,Dutch Grand Prix,Alain Prost,1,9,1,72,RAS
+1981,Dutch Grand Prix,Nelson Piquet,2,6,3,72,RAS
+1981,Dutch Grand Prix,Alan Jones,3,4,4,72,RAS
+1981,Dutch Grand Prix,Hector Rebaque,4,3,15,71,RAS
+1981,Dutch Grand Prix,Elio de Angelis,5,2,9,71,RAS
+1981,Dutch Grand Prix,Eliseo Salazar,6,1,24,70,RAS
+1981,Dutch Grand Prix,Siegfried Stohr,7,0,21,69,RAS
+1981,Dutch Grand Prix,Marc Surer,8,0,20,69,RAS
+1981,Dutch Grand Prix,Michele Alboreto,9,0,25,68,Engine
+1981,Dutch Grand Prix,Slim Borgudd,10,0,23,68,RAS
+1981,Dutch Grand Prix,Mario Andretti,11,0,7,62,Accident
+1981,Dutch Grand Prix,John Watson,12,0,8,50,Ignition
+1981,Dutch Grand Prix,Eddie Cheever,13,0,22,46,Suspension
+1981,Dutch Grand Prix,Jean-Pierre Jarier,14,0,18,29,Transmission
+1981,Dutch Grand Prix,René Arnoux,15,0,2,21,Engine
+1981,Dutch Grand Prix,Bruno Giacomelli,16,0,14,19,Tyre
+1981,Dutch Grand Prix,Jacques Laffite,17,0,6,18,Collision
+1981,Dutch Grand Prix,Carlos Reutemann,18,0,5,18,Collision
+1981,Dutch Grand Prix,Riccardo Patrese,19,0,10,16,Suspension
+1981,Dutch Grand Prix,Derek Daly,20,0,19,5,Suspension
+1981,Dutch Grand Prix,Didier Pironi,21,0,12,4,Collision
+1981,Dutch Grand Prix,Nigel Mansell,22,0,17,1,Engine
+1981,Dutch Grand Prix,Patrick Tambay,23,0,11,1,Collision
+1981,Dutch Grand Prix,Gilles Villeneuve,24,0,16,0,Collision
+1981,Dutch Grand Prix,Andrea de Cesaris,25,0,0,0,Withdrew
+1981,Italian Grand Prix,Alain Prost,1,9,3,52,RAS
+1981,Italian Grand Prix,Alan Jones,2,6,5,52,RAS
+1981,Italian Grand Prix,Carlos Reutemann,3,4,2,52,RAS
+1981,Italian Grand Prix,Elio de Angelis,4,3,11,52,RAS
+1981,Italian Grand Prix,Didier Pironi,5,2,8,52,RAS
+1981,Italian Grand Prix,Nelson Piquet,6,1,6,51,Engine
+1981,Italian Grand Prix,Andrea de Cesaris,7,0,16,51,Puncture
+1981,Italian Grand Prix,Bruno Giacomelli,8,0,10,50,RAS
+1981,Italian Grand Prix,Jean-Pierre Jarier,9,0,18,50,RAS
+1981,Italian Grand Prix,Brian Henton,10,0,23,49,RAS
+1981,Italian Grand Prix,Mario Andretti,11,0,13,40,Engine
+1981,Italian Grand Prix,Derek Daly,12,0,19,36,Gearbox
+1981,Italian Grand Prix,Patrick Tambay,13,0,15,22,Puncture
+1981,Italian Grand Prix,Nigel Mansell,14,0,12,21,Suspension
+1981,Italian Grand Prix,John Watson,15,0,7,19,Accident
+1981,Italian Grand Prix,Riccardo Patrese,16,0,20,18,Gearbox
+1981,Italian Grand Prix,Michele Alboreto,17,0,22,17,Accident
+1981,Italian Grand Prix,Eliseo Salazar,18,0,24,13,Spun off
+1981,Italian Grand Prix,René Arnoux,19,0,1,12,Spun off
+1981,Italian Grand Prix,Jacques Laffite,20,0,4,11,Puncture
+1981,Italian Grand Prix,Eddie Cheever,21,0,17,11,Spun off
+1981,Italian Grand Prix,Slim Borgudd,22,0,21,10,Spun off
+1981,Italian Grand Prix,Gilles Villeneuve,23,0,9,5,Engine
+1981,Italian Grand Prix,Hector Rebaque,24,0,14,1,Electrical
+1981,Canadian Grand Prix,Jacques Laffite,1,9,10,63,RAS
+1981,Canadian Grand Prix,John Watson,2,6,9,63,RAS
+1981,Canadian Grand Prix,Gilles Villeneuve,3,4,11,63,RAS
+1981,Canadian Grand Prix,Bruno Giacomelli,4,3,15,62,RAS
+1981,Canadian Grand Prix,Nelson Piquet,5,2,1,62,RAS
+1981,Canadian Grand Prix,Elio de Angelis,6,1,7,62,RAS
+1981,Canadian Grand Prix,Mario Andretti,7,0,16,62,RAS
+1981,Canadian Grand Prix,Derek Daly,8,0,20,61,RAS
+1981,Canadian Grand Prix,Marc Surer,9,0,19,61,RAS
+1981,Canadian Grand Prix,Carlos Reutemann,10,0,2,60,RAS
+1981,Canadian Grand Prix,Michele Alboreto,11,0,22,59,RAS
+1981,Canadian Grand Prix,Eddie Cheever,12,0,14,56,Engine
+1981,Canadian Grand Prix,Andrea de Cesaris,13,0,13,51,Spun off
+1981,Canadian Grand Prix,Alain Prost,14,0,4,48,Collision
+1981,Canadian Grand Prix,Nigel Mansell,15,0,5,45,Collision
+1981,Canadian Grand Prix,Slim Borgudd,16,0,21,40,Spun off
+1981,Canadian Grand Prix,Hector Rebaque,17,0,6,35,Spun off
+1981,Canadian Grand Prix,Jean-Pierre Jarier,18,0,23,26,Collision
+1981,Canadian Grand Prix,Alan Jones,19,0,3,24,Handling
+1981,Canadian Grand Prix,Didier Pironi,20,0,12,24,Ignition
+1981,Canadian Grand Prix,Eliseo Salazar,21,0,24,8,Spun off
+1981,Canadian Grand Prix,Patrick Tambay,22,0,17,6,Spun off
+1981,Canadian Grand Prix,Riccardo Patrese,23,0,18,6,Spun off
+1981,Canadian Grand Prix,René Arnoux,24,0,8,0,Collision
+1981,Caesars Palace Grand Prix,Alan Jones,1,9,2,75,RAS
+1981,Caesars Palace Grand Prix,Alain Prost,2,6,5,75,RAS
+1981,Caesars Palace Grand Prix,Bruno Giacomelli,3,4,8,75,RAS
+1981,Caesars Palace Grand Prix,Nigel Mansell,4,3,9,75,RAS
+1981,Caesars Palace Grand Prix,Nelson Piquet,5,2,4,75,RAS
+1981,Caesars Palace Grand Prix,Jacques Laffite,6,1,12,75,RAS
+1981,Caesars Palace Grand Prix,John Watson,7,0,6,75,RAS
+1981,Caesars Palace Grand Prix,Carlos Reutemann,8,0,1,74,RAS
+1981,Caesars Palace Grand Prix,Didier Pironi,9,0,18,73,RAS
+1981,Caesars Palace Grand Prix,Keke Rosberg,10,0,20,73,RAS
+1981,Caesars Palace Grand Prix,Riccardo Patrese,11,0,11,71,RAS
+1981,Caesars Palace Grand Prix,Andrea de Cesaris,12,0,14,69,RAS
+1981,Caesars Palace Grand Prix,Michele Alboreto,13,0,17,67,Engine
+1981,Caesars Palace Grand Prix,Eliseo Salazar,14,0,24,61,Not classified
+1981,Caesars Palace Grand Prix,Derek Warwick,15,0,22,43,Gearbox
+1981,Caesars Palace Grand Prix,Mario Andretti,16,0,10,29,Suspension
+1981,Caesars Palace Grand Prix,Gilles Villeneuve,17,0,3,22,DQ
+1981,Caesars Palace Grand Prix,Hector Rebaque,18,0,16,20,Throttle
+1981,Caesars Palace Grand Prix,Marc Surer,19,0,23,19,Suspension
+1981,Caesars Palace Grand Prix,Eddie Cheever,20,0,19,10,Engine
+1981,Caesars Palace Grand Prix,René Arnoux,21,0,13,10,Electrical
+1981,Caesars Palace Grand Prix,Patrick Tambay,22,0,7,2,Accident
+1981,Caesars Palace Grand Prix,Elio de Angelis,23,0,15,2,Water leak
+1981,Caesars Palace Grand Prix,Jean-Pierre Jarier,24,0,21,0,Transmission

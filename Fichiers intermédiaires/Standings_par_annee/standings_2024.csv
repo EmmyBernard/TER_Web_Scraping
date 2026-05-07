@@ -1,0 +1,480 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2024,Bahrain Grand Prix,Max Verstappen,1,26,1,57,RAS
+2024,Bahrain Grand Prix,Sergio Pérez,2,18,5,57,RAS
+2024,Bahrain Grand Prix,Carlos Sainz,3,15,4,57,RAS
+2024,Bahrain Grand Prix,Charles Leclerc,4,12,2,57,RAS
+2024,Bahrain Grand Prix,George Russell,5,10,3,57,RAS
+2024,Bahrain Grand Prix,Lando Norris,6,8,7,57,RAS
+2024,Bahrain Grand Prix,Lewis Hamilton,7,6,9,57,RAS
+2024,Bahrain Grand Prix,Oscar Piastri,8,4,8,57,RAS
+2024,Bahrain Grand Prix,Fernando Alonso,9,2,6,57,RAS
+2024,Bahrain Grand Prix,Lance Stroll,10,1,12,57,RAS
+2024,Bahrain Grand Prix,Guanyu Zhou,11,0,17,56,Lapped
+2024,Bahrain Grand Prix,Kevin Magnussen,12,0,15,56,Lapped
+2024,Bahrain Grand Prix,Daniel Ricciardo,13,0,14,56,Lapped
+2024,Bahrain Grand Prix,Yuki Tsunoda,14,0,11,56,Lapped
+2024,Bahrain Grand Prix,Alexander Albon,15,0,13,56,Lapped
+2024,Bahrain Grand Prix,Nico Hülkenberg,16,0,10,56,Lapped
+2024,Bahrain Grand Prix,Esteban Ocon,17,0,19,56,Lapped
+2024,Bahrain Grand Prix,Pierre Gasly,18,0,20,56,Lapped
+2024,Bahrain Grand Prix,Valtteri Bottas,19,0,16,56,Lapped
+2024,Bahrain Grand Prix,Logan Sargeant,20,0,18,55,Lapped
+2024,Saudi Arabian Grand Prix,Max Verstappen,1,25,1,50,RAS
+2024,Saudi Arabian Grand Prix,Sergio Pérez,2,18,3,50,RAS
+2024,Saudi Arabian Grand Prix,Charles Leclerc,3,16,2,50,RAS
+2024,Saudi Arabian Grand Prix,Oscar Piastri,4,12,5,50,RAS
+2024,Saudi Arabian Grand Prix,Fernando Alonso,5,10,4,50,RAS
+2024,Saudi Arabian Grand Prix,George Russell,6,8,7,50,RAS
+2024,Saudi Arabian Grand Prix,Oliver Bearman,7,6,11,50,RAS
+2024,Saudi Arabian Grand Prix,Lando Norris,8,4,6,50,RAS
+2024,Saudi Arabian Grand Prix,Lewis Hamilton,9,2,8,50,RAS
+2024,Saudi Arabian Grand Prix,Nico Hülkenberg,10,1,15,50,RAS
+2024,Saudi Arabian Grand Prix,Alexander Albon,11,0,12,50,RAS
+2024,Saudi Arabian Grand Prix,Kevin Magnussen,12,0,13,50,RAS
+2024,Saudi Arabian Grand Prix,Esteban Ocon,13,0,17,49,Lapped
+2024,Saudi Arabian Grand Prix,Logan Sargeant,14,0,19,49,Lapped
+2024,Saudi Arabian Grand Prix,Yuki Tsunoda,15,0,9,49,Lapped
+2024,Saudi Arabian Grand Prix,Daniel Ricciardo,16,0,14,49,Lapped
+2024,Saudi Arabian Grand Prix,Valtteri Bottas,17,0,16,49,Lapped
+2024,Saudi Arabian Grand Prix,Guanyu Zhou,18,0,20,49,Lapped
+2024,Saudi Arabian Grand Prix,Lance Stroll,19,0,10,5,DNF
+2024,Saudi Arabian Grand Prix,Pierre Gasly,20,0,18,1,DNF
+2024,Australian Grand Prix,Carlos Sainz,1,25,2,58,RAS
+2024,Australian Grand Prix,Charles Leclerc,2,19,4,58,RAS
+2024,Australian Grand Prix,Lando Norris,3,15,3,58,RAS
+2024,Australian Grand Prix,Oscar Piastri,4,12,5,58,RAS
+2024,Australian Grand Prix,Sergio Pérez,5,10,6,58,RAS
+2024,Australian Grand Prix,Lance Stroll,6,8,9,58,RAS
+2024,Australian Grand Prix,Yuki Tsunoda,7,6,8,58,RAS
+2024,Australian Grand Prix,Fernando Alonso,8,4,10,58,RAS
+2024,Australian Grand Prix,Nico Hülkenberg,9,2,16,58,RAS
+2024,Australian Grand Prix,Kevin Magnussen,10,1,14,57,Lapped
+2024,Australian Grand Prix,Alexander Albon,11,0,12,57,Lapped
+2024,Australian Grand Prix,Daniel Ricciardo,12,0,18,57,Lapped
+2024,Australian Grand Prix,Pierre Gasly,13,0,17,57,Lapped
+2024,Australian Grand Prix,Valtteri Bottas,14,0,13,57,Lapped
+2024,Australian Grand Prix,Guanyu Zhou,15,0,19,57,Lapped
+2024,Australian Grand Prix,Esteban Ocon,16,0,15,57,Lapped
+2024,Australian Grand Prix,George Russell,17,0,7,56,DNF
+2024,Australian Grand Prix,Lewis Hamilton,18,0,11,15,DNF
+2024,Australian Grand Prix,Max Verstappen,19,0,1,3,DNF
+2024,Japanese Grand Prix,Max Verstappen,1,26,1,53,RAS
+2024,Japanese Grand Prix,Sergio Pérez,2,18,2,53,RAS
+2024,Japanese Grand Prix,Carlos Sainz,3,15,4,53,RAS
+2024,Japanese Grand Prix,Charles Leclerc,4,12,8,53,RAS
+2024,Japanese Grand Prix,Lando Norris,5,10,3,53,RAS
+2024,Japanese Grand Prix,Fernando Alonso,6,8,5,53,RAS
+2024,Japanese Grand Prix,George Russell,7,6,9,53,RAS
+2024,Japanese Grand Prix,Oscar Piastri,8,4,6,53,RAS
+2024,Japanese Grand Prix,Lewis Hamilton,9,2,7,53,RAS
+2024,Japanese Grand Prix,Yuki Tsunoda,10,1,10,52,Lapped
+2024,Japanese Grand Prix,Nico Hülkenberg,11,0,12,52,Lapped
+2024,Japanese Grand Prix,Lance Stroll,12,0,16,52,Lapped
+2024,Japanese Grand Prix,Kevin Magnussen,13,0,18,52,Lapped
+2024,Japanese Grand Prix,Valtteri Bottas,14,0,13,52,Lapped
+2024,Japanese Grand Prix,Esteban Ocon,15,0,15,52,Lapped
+2024,Japanese Grand Prix,Pierre Gasly,16,0,17,52,Lapped
+2024,Japanese Grand Prix,Logan Sargeant,17,0,19,52,Lapped
+2024,Japanese Grand Prix,Guanyu Zhou,18,0,20,12,DNF
+2024,Japanese Grand Prix,Daniel Ricciardo,19,0,11,0,DNF
+2024,Japanese Grand Prix,Alexander Albon,20,0,14,0,DNF
+2024,Chinese Grand Prix,Max Verstappen,1,25,1,56,RAS
+2024,Chinese Grand Prix,Lando Norris,2,18,4,56,RAS
+2024,Chinese Grand Prix,Sergio Pérez,3,15,2,56,RAS
+2024,Chinese Grand Prix,Charles Leclerc,4,12,6,56,RAS
+2024,Chinese Grand Prix,Carlos Sainz,5,10,7,56,RAS
+2024,Chinese Grand Prix,George Russell,6,8,8,56,RAS
+2024,Chinese Grand Prix,Fernando Alonso,7,7,3,56,RAS
+2024,Chinese Grand Prix,Oscar Piastri,8,4,5,56,RAS
+2024,Chinese Grand Prix,Lewis Hamilton,9,2,18,56,RAS
+2024,Chinese Grand Prix,Nico Hülkenberg,10,1,9,56,RAS
+2024,Chinese Grand Prix,Esteban Ocon,11,0,13,56,RAS
+2024,Chinese Grand Prix,Alexander Albon,12,0,14,56,RAS
+2024,Chinese Grand Prix,Pierre Gasly,13,0,15,56,RAS
+2024,Chinese Grand Prix,Guanyu Zhou,14,0,16,56,RAS
+2024,Chinese Grand Prix,Lance Stroll,15,0,11,56,RAS
+2024,Chinese Grand Prix,Kevin Magnussen,16,0,17,56,RAS
+2024,Chinese Grand Prix,Logan Sargeant,17,0,20,56,RAS
+2024,Chinese Grand Prix,Daniel Ricciardo,18,0,12,33,DNF
+2024,Chinese Grand Prix,Yuki Tsunoda,19,0,19,26,DNF
+2024,Chinese Grand Prix,Valtteri Bottas,20,0,10,19,DNF
+2024,Miami Grand Prix,Lando Norris,1,25,5,57,RAS
+2024,Miami Grand Prix,Max Verstappen,2,18,1,57,RAS
+2024,Miami Grand Prix,Charles Leclerc,3,15,2,57,RAS
+2024,Miami Grand Prix,Sergio Pérez,4,12,4,57,RAS
+2024,Miami Grand Prix,Carlos Sainz,5,10,3,57,RAS
+2024,Miami Grand Prix,Lewis Hamilton,6,8,8,57,RAS
+2024,Miami Grand Prix,Yuki Tsunoda,7,6,10,57,RAS
+2024,Miami Grand Prix,George Russell,8,4,7,57,RAS
+2024,Miami Grand Prix,Fernando Alonso,9,2,15,57,RAS
+2024,Miami Grand Prix,Esteban Ocon,10,1,13,57,RAS
+2024,Miami Grand Prix,Nico Hülkenberg,11,0,9,57,RAS
+2024,Miami Grand Prix,Pierre Gasly,12,0,12,57,RAS
+2024,Miami Grand Prix,Oscar Piastri,13,0,6,57,RAS
+2024,Miami Grand Prix,Guanyu Zhou,14,0,19,57,RAS
+2024,Miami Grand Prix,Daniel Ricciardo,15,0,20,57,RAS
+2024,Miami Grand Prix,Valtteri Bottas,16,0,16,57,RAS
+2024,Miami Grand Prix,Lance Stroll,17,0,11,57,RAS
+2024,Miami Grand Prix,Alexander Albon,18,0,14,57,RAS
+2024,Miami Grand Prix,Kevin Magnussen,19,0,18,57,RAS
+2024,Miami Grand Prix,Logan Sargeant,20,0,17,27,DNF
+2024,Emilia Romagna Grand Prix,Max Verstappen,1,25,1,63,RAS
+2024,Emilia Romagna Grand Prix,Lando Norris,2,18,2,63,RAS
+2024,Emilia Romagna Grand Prix,Charles Leclerc,3,15,3,63,RAS
+2024,Emilia Romagna Grand Prix,Oscar Piastri,4,12,5,63,RAS
+2024,Emilia Romagna Grand Prix,Carlos Sainz,5,10,4,63,RAS
+2024,Emilia Romagna Grand Prix,Lewis Hamilton,6,8,8,63,RAS
+2024,Emilia Romagna Grand Prix,George Russell,7,7,6,63,RAS
+2024,Emilia Romagna Grand Prix,Sergio Pérez,8,4,11,63,RAS
+2024,Emilia Romagna Grand Prix,Lance Stroll,9,2,13,63,RAS
+2024,Emilia Romagna Grand Prix,Yuki Tsunoda,10,1,7,62,Lapped
+2024,Emilia Romagna Grand Prix,Nico Hülkenberg,11,0,10,62,Lapped
+2024,Emilia Romagna Grand Prix,Kevin Magnussen,12,0,18,62,Lapped
+2024,Emilia Romagna Grand Prix,Daniel Ricciardo,13,0,9,62,Lapped
+2024,Emilia Romagna Grand Prix,Esteban Ocon,14,0,12,62,Lapped
+2024,Emilia Romagna Grand Prix,Guanyu Zhou,15,0,17,62,Lapped
+2024,Emilia Romagna Grand Prix,Pierre Gasly,16,0,15,62,Lapped
+2024,Emilia Romagna Grand Prix,Logan Sargeant,17,0,19,62,Lapped
+2024,Emilia Romagna Grand Prix,Valtteri Bottas,18,0,16,62,Lapped
+2024,Emilia Romagna Grand Prix,Fernando Alonso,19,0,20,62,Lapped
+2024,Emilia Romagna Grand Prix,Alexander Albon,20,0,14,51,DNF
+2024,Monaco Grand Prix,Charles Leclerc,1,25,1,78,RAS
+2024,Monaco Grand Prix,Oscar Piastri,2,18,2,78,RAS
+2024,Monaco Grand Prix,Carlos Sainz,3,15,3,78,RAS
+2024,Monaco Grand Prix,Lando Norris,4,12,4,78,RAS
+2024,Monaco Grand Prix,George Russell,5,10,5,78,RAS
+2024,Monaco Grand Prix,Max Verstappen,6,8,6,78,RAS
+2024,Monaco Grand Prix,Lewis Hamilton,7,7,7,78,RAS
+2024,Monaco Grand Prix,Yuki Tsunoda,8,4,8,77,Lapped
+2024,Monaco Grand Prix,Alexander Albon,9,2,9,77,Lapped
+2024,Monaco Grand Prix,Pierre Gasly,10,1,10,77,Lapped
+2024,Monaco Grand Prix,Fernando Alonso,11,0,14,76,Lapped
+2024,Monaco Grand Prix,Daniel Ricciardo,12,0,12,76,Lapped
+2024,Monaco Grand Prix,Valtteri Bottas,13,0,17,76,Lapped
+2024,Monaco Grand Prix,Lance Stroll,14,0,13,76,Lapped
+2024,Monaco Grand Prix,Logan Sargeant,15,0,15,76,Lapped
+2024,Monaco Grand Prix,Guanyu Zhou,16,0,18,76,Lapped
+2024,Monaco Grand Prix,Esteban Ocon,17,0,11,0,DNF
+2024,Monaco Grand Prix,Sergio Pérez,18,0,16,0,DNF
+2024,Monaco Grand Prix,Nico Hülkenberg,19,0,19,0,DNF
+2024,Monaco Grand Prix,Kevin Magnussen,20,0,20,0,DNF
+2024,Canadian Grand Prix,Max Verstappen,1,25,2,70,RAS
+2024,Canadian Grand Prix,Lando Norris,2,18,3,70,RAS
+2024,Canadian Grand Prix,George Russell,3,15,1,70,RAS
+2024,Canadian Grand Prix,Lewis Hamilton,4,13,7,70,RAS
+2024,Canadian Grand Prix,Oscar Piastri,5,10,4,70,RAS
+2024,Canadian Grand Prix,Fernando Alonso,6,8,6,70,RAS
+2024,Canadian Grand Prix,Lance Stroll,7,6,9,70,RAS
+2024,Canadian Grand Prix,Daniel Ricciardo,8,4,5,70,RAS
+2024,Canadian Grand Prix,Pierre Gasly,9,2,15,70,RAS
+2024,Canadian Grand Prix,Esteban Ocon,10,1,18,70,RAS
+2024,Canadian Grand Prix,Nico Hülkenberg,11,0,17,70,RAS
+2024,Canadian Grand Prix,Kevin Magnussen,12,0,14,70,RAS
+2024,Canadian Grand Prix,Valtteri Bottas,13,0,19,70,RAS
+2024,Canadian Grand Prix,Yuki Tsunoda,14,0,8,70,RAS
+2024,Canadian Grand Prix,Guanyu Zhou,15,0,20,69,Lapped
+2024,Canadian Grand Prix,Carlos Sainz,16,0,12,52,DNF
+2024,Canadian Grand Prix,Alexander Albon,17,0,10,52,DNF
+2024,Canadian Grand Prix,Sergio Pérez,18,0,16,51,DNF
+2024,Canadian Grand Prix,Charles Leclerc,19,0,11,40,DNF
+2024,Canadian Grand Prix,Logan Sargeant,20,0,13,23,DNF
+2024,Spanish Grand Prix,Max Verstappen,1,25,2,66,RAS
+2024,Spanish Grand Prix,Lando Norris,2,19,1,66,RAS
+2024,Spanish Grand Prix,Lewis Hamilton,3,15,3,66,RAS
+2024,Spanish Grand Prix,George Russell,4,12,4,66,RAS
+2024,Spanish Grand Prix,Charles Leclerc,5,10,5,66,RAS
+2024,Spanish Grand Prix,Carlos Sainz,6,8,6,66,RAS
+2024,Spanish Grand Prix,Oscar Piastri,7,6,9,66,RAS
+2024,Spanish Grand Prix,Sergio Pérez,8,4,11,66,RAS
+2024,Spanish Grand Prix,Pierre Gasly,9,2,7,66,RAS
+2024,Spanish Grand Prix,Esteban Ocon,10,1,8,66,RAS
+2024,Spanish Grand Prix,Nico Hülkenberg,11,0,13,66,RAS
+2024,Spanish Grand Prix,Fernando Alonso,12,0,10,65,Lapped
+2024,Spanish Grand Prix,Guanyu Zhou,13,0,15,65,Lapped
+2024,Spanish Grand Prix,Lance Stroll,14,0,14,65,Lapped
+2024,Spanish Grand Prix,Daniel Ricciardo,15,0,18,65,Lapped
+2024,Spanish Grand Prix,Valtteri Bottas,16,0,12,65,Lapped
+2024,Spanish Grand Prix,Kevin Magnussen,17,0,16,65,Lapped
+2024,Spanish Grand Prix,Alexander Albon,18,0,20,65,Lapped
+2024,Spanish Grand Prix,Yuki Tsunoda,19,0,17,65,Lapped
+2024,Spanish Grand Prix,Logan Sargeant,20,0,19,64,Lapped
+2024,Austrian Grand Prix,George Russell,1,25,3,71,RAS
+2024,Austrian Grand Prix,Oscar Piastri,2,18,7,71,RAS
+2024,Austrian Grand Prix,Carlos Sainz,3,15,4,71,RAS
+2024,Austrian Grand Prix,Lewis Hamilton,4,12,5,71,RAS
+2024,Austrian Grand Prix,Max Verstappen,5,10,1,71,RAS
+2024,Austrian Grand Prix,Nico Hülkenberg,6,8,9,71,RAS
+2024,Austrian Grand Prix,Sergio Pérez,7,6,8,71,RAS
+2024,Austrian Grand Prix,Kevin Magnussen,8,4,12,71,RAS
+2024,Austrian Grand Prix,Daniel Ricciardo,9,2,11,71,RAS
+2024,Austrian Grand Prix,Pierre Gasly,10,1,13,71,RAS
+2024,Austrian Grand Prix,Charles Leclerc,11,0,6,71,RAS
+2024,Austrian Grand Prix,Esteban Ocon,12,0,10,71,RAS
+2024,Austrian Grand Prix,Lance Stroll,13,0,17,70,Lapped
+2024,Austrian Grand Prix,Yuki Tsunoda,14,0,14,70,Lapped
+2024,Austrian Grand Prix,Alexander Albon,15,0,16,70,Lapped
+2024,Austrian Grand Prix,Valtteri Bottas,16,0,18,70,Lapped
+2024,Austrian Grand Prix,Guanyu Zhou,17,0,20,70,Lapped
+2024,Austrian Grand Prix,Fernando Alonso,18,0,15,70,Lapped
+2024,Austrian Grand Prix,Logan Sargeant,19,0,19,69,Lapped
+2024,Austrian Grand Prix,Lando Norris,20,0,2,64,Lapped
+2024,British Grand Prix,Lewis Hamilton,1,25,2,52,RAS
+2024,British Grand Prix,Max Verstappen,2,18,4,52,RAS
+2024,British Grand Prix,Lando Norris,3,15,3,52,RAS
+2024,British Grand Prix,Oscar Piastri,4,12,5,52,RAS
+2024,British Grand Prix,Carlos Sainz,5,11,7,52,RAS
+2024,British Grand Prix,Nico Hülkenberg,6,8,6,52,RAS
+2024,British Grand Prix,Lance Stroll,7,6,8,52,RAS
+2024,British Grand Prix,Fernando Alonso,8,4,10,52,RAS
+2024,British Grand Prix,Alexander Albon,9,2,9,52,RAS
+2024,British Grand Prix,Yuki Tsunoda,10,1,13,52,RAS
+2024,British Grand Prix,Logan Sargeant,11,0,12,52,RAS
+2024,British Grand Prix,Kevin Magnussen,12,0,17,52,RAS
+2024,British Grand Prix,Daniel Ricciardo,13,0,15,51,Lapped
+2024,British Grand Prix,Charles Leclerc,14,0,11,51,Lapped
+2024,British Grand Prix,Valtteri Bottas,15,0,16,51,Lapped
+2024,British Grand Prix,Esteban Ocon,16,0,18,50,Lapped
+2024,British Grand Prix,Sergio Pérez,17,0,20,50,Lapped
+2024,British Grand Prix,Guanyu Zhou,18,0,14,50,Lapped
+2024,British Grand Prix,George Russell,19,0,1,33,DNF
+2024,British Grand Prix,Pierre Gasly,20,0,19,0,Did not start
+2024,Hungarian Grand Prix,Oscar Piastri,1,25,2,70,RAS
+2024,Hungarian Grand Prix,Lando Norris,2,18,1,70,RAS
+2024,Hungarian Grand Prix,Lewis Hamilton,3,15,5,70,RAS
+2024,Hungarian Grand Prix,Charles Leclerc,4,12,6,70,RAS
+2024,Hungarian Grand Prix,Max Verstappen,5,10,3,70,RAS
+2024,Hungarian Grand Prix,Carlos Sainz,6,8,4,70,RAS
+2024,Hungarian Grand Prix,Sergio Pérez,7,6,16,70,RAS
+2024,Hungarian Grand Prix,George Russell,8,5,17,70,RAS
+2024,Hungarian Grand Prix,Yuki Tsunoda,9,2,10,70,RAS
+2024,Hungarian Grand Prix,Lance Stroll,10,1,8,70,RAS
+2024,Hungarian Grand Prix,Fernando Alonso,11,0,7,70,RAS
+2024,Hungarian Grand Prix,Daniel Ricciardo,12,0,9,69,Lapped
+2024,Hungarian Grand Prix,Nico Hülkenberg,13,0,11,69,Lapped
+2024,Hungarian Grand Prix,Alexander Albon,14,0,13,69,Lapped
+2024,Hungarian Grand Prix,Kevin Magnussen,15,0,15,69,Lapped
+2024,Hungarian Grand Prix,Valtteri Bottas,16,0,12,69,Lapped
+2024,Hungarian Grand Prix,Logan Sargeant,17,0,14,69,Lapped
+2024,Hungarian Grand Prix,Esteban Ocon,18,0,19,69,Lapped
+2024,Hungarian Grand Prix,Guanyu Zhou,19,0,18,69,Lapped
+2024,Hungarian Grand Prix,Pierre Gasly,20,0,20,33,DNF
+2024,Belgian Grand Prix,Lewis Hamilton,1,25,3,44,RAS
+2024,Belgian Grand Prix,Oscar Piastri,2,18,5,44,RAS
+2024,Belgian Grand Prix,Charles Leclerc,3,15,1,44,RAS
+2024,Belgian Grand Prix,Max Verstappen,4,12,11,44,RAS
+2024,Belgian Grand Prix,Lando Norris,5,10,4,44,RAS
+2024,Belgian Grand Prix,Carlos Sainz,6,8,7,44,RAS
+2024,Belgian Grand Prix,Sergio Pérez,7,7,2,44,RAS
+2024,Belgian Grand Prix,Fernando Alonso,8,4,8,44,RAS
+2024,Belgian Grand Prix,Esteban Ocon,9,2,9,44,RAS
+2024,Belgian Grand Prix,Daniel Ricciardo,10,1,13,44,RAS
+2024,Belgian Grand Prix,Lance Stroll,11,0,15,44,RAS
+2024,Belgian Grand Prix,Alexander Albon,12,0,10,44,RAS
+2024,Belgian Grand Prix,Pierre Gasly,13,0,12,44,RAS
+2024,Belgian Grand Prix,Kevin Magnussen,14,0,17,44,RAS
+2024,Belgian Grand Prix,Valtteri Bottas,15,0,14,44,RAS
+2024,Belgian Grand Prix,Yuki Tsunoda,16,0,20,44,RAS
+2024,Belgian Grand Prix,Logan Sargeant,17,0,18,44,RAS
+2024,Belgian Grand Prix,Nico Hülkenberg,18,0,16,44,RAS
+2024,Belgian Grand Prix,Guanyu Zhou,19,0,19,5,DNF
+2024,Belgian Grand Prix,George Russell,20,0,6,44,DQ
+2024,Dutch Grand Prix,Lando Norris,1,26,1,72,RAS
+2024,Dutch Grand Prix,Max Verstappen,2,18,2,72,RAS
+2024,Dutch Grand Prix,Charles Leclerc,3,15,6,72,RAS
+2024,Dutch Grand Prix,Oscar Piastri,4,12,3,72,RAS
+2024,Dutch Grand Prix,Carlos Sainz,5,10,10,72,RAS
+2024,Dutch Grand Prix,Sergio Pérez,6,8,5,72,RAS
+2024,Dutch Grand Prix,George Russell,7,6,4,72,RAS
+2024,Dutch Grand Prix,Lewis Hamilton,8,4,14,72,RAS
+2024,Dutch Grand Prix,Pierre Gasly,9,2,9,71,Lapped
+2024,Dutch Grand Prix,Fernando Alonso,10,1,7,71,Lapped
+2024,Dutch Grand Prix,Nico Hülkenberg,11,0,12,71,Lapped
+2024,Dutch Grand Prix,Daniel Ricciardo,12,0,13,71,Lapped
+2024,Dutch Grand Prix,Lance Stroll,13,0,8,71,Lapped
+2024,Dutch Grand Prix,Alexander Albon,14,0,19,71,Lapped
+2024,Dutch Grand Prix,Esteban Ocon,15,0,15,71,Lapped
+2024,Dutch Grand Prix,Logan Sargeant,16,0,18,71,Lapped
+2024,Dutch Grand Prix,Yuki Tsunoda,17,0,11,71,Lapped
+2024,Dutch Grand Prix,Kevin Magnussen,18,0,20,71,Lapped
+2024,Dutch Grand Prix,Valtteri Bottas,19,0,16,70,Lapped
+2024,Dutch Grand Prix,Guanyu Zhou,20,0,17,70,Lapped
+2024,Italian Grand Prix,Charles Leclerc,1,25,4,53,RAS
+2024,Italian Grand Prix,Oscar Piastri,2,18,2,53,RAS
+2024,Italian Grand Prix,Lando Norris,3,16,1,53,RAS
+2024,Italian Grand Prix,Carlos Sainz,4,12,5,53,RAS
+2024,Italian Grand Prix,Lewis Hamilton,5,10,6,53,RAS
+2024,Italian Grand Prix,Max Verstappen,6,8,7,53,RAS
+2024,Italian Grand Prix,George Russell,7,6,3,53,RAS
+2024,Italian Grand Prix,Sergio Pérez,8,4,8,53,RAS
+2024,Italian Grand Prix,Alexander Albon,9,2,9,53,RAS
+2024,Italian Grand Prix,Kevin Magnussen,10,1,13,53,RAS
+2024,Italian Grand Prix,Fernando Alonso,11,0,11,53,RAS
+2024,Italian Grand Prix,Franco Colapinto,12,0,18,53,RAS
+2024,Italian Grand Prix,Daniel Ricciardo,13,0,12,53,RAS
+2024,Italian Grand Prix,Esteban Ocon,14,0,15,52,Lapped
+2024,Italian Grand Prix,Pierre Gasly,15,0,14,52,Lapped
+2024,Italian Grand Prix,Valtteri Bottas,16,0,19,52,Lapped
+2024,Italian Grand Prix,Nico Hülkenberg,17,0,10,52,Lapped
+2024,Italian Grand Prix,Guanyu Zhou,18,0,20,52,Lapped
+2024,Italian Grand Prix,Lance Stroll,19,0,17,52,Lapped
+2024,Italian Grand Prix,Yuki Tsunoda,20,0,16,7,DNF
+2024,Azerbaijan Grand Prix,Oscar Piastri,1,25,2,51,RAS
+2024,Azerbaijan Grand Prix,Charles Leclerc,2,18,1,51,RAS
+2024,Azerbaijan Grand Prix,George Russell,3,15,5,51,RAS
+2024,Azerbaijan Grand Prix,Lando Norris,4,13,15,51,RAS
+2024,Azerbaijan Grand Prix,Max Verstappen,5,10,6,51,RAS
+2024,Azerbaijan Grand Prix,Fernando Alonso,6,8,7,51,RAS
+2024,Azerbaijan Grand Prix,Alexander Albon,7,6,9,51,RAS
+2024,Azerbaijan Grand Prix,Franco Colapinto,8,4,8,51,RAS
+2024,Azerbaijan Grand Prix,Lewis Hamilton,9,2,19,51,RAS
+2024,Azerbaijan Grand Prix,Oliver Bearman,10,1,10,51,RAS
+2024,Azerbaijan Grand Prix,Nico Hülkenberg,11,0,12,51,RAS
+2024,Azerbaijan Grand Prix,Pierre Gasly,12,0,18,51,RAS
+2024,Azerbaijan Grand Prix,Daniel Ricciardo,13,0,14,51,RAS
+2024,Azerbaijan Grand Prix,Guanyu Zhou,14,0,17,51,RAS
+2024,Azerbaijan Grand Prix,Esteban Ocon,15,0,20,50,Lapped
+2024,Azerbaijan Grand Prix,Valtteri Bottas,16,0,16,50,Lapped
+2024,Azerbaijan Grand Prix,Sergio Pérez,17,0,4,49,DNF
+2024,Azerbaijan Grand Prix,Carlos Sainz,18,0,3,49,DNF
+2024,Azerbaijan Grand Prix,Lance Stroll,19,0,13,45,DNF
+2024,Azerbaijan Grand Prix,Yuki Tsunoda,20,0,11,14,DNF
+2024,Singapore Grand Prix,Lando Norris,1,25,1,62,RAS
+2024,Singapore Grand Prix,Max Verstappen,2,18,2,62,RAS
+2024,Singapore Grand Prix,Oscar Piastri,3,15,5,62,RAS
+2024,Singapore Grand Prix,George Russell,4,12,4,62,RAS
+2024,Singapore Grand Prix,Charles Leclerc,5,10,9,62,RAS
+2024,Singapore Grand Prix,Lewis Hamilton,6,8,3,62,RAS
+2024,Singapore Grand Prix,Carlos Sainz,7,6,10,62,RAS
+2024,Singapore Grand Prix,Fernando Alonso,8,4,7,61,Lapped
+2024,Singapore Grand Prix,Nico Hülkenberg,9,2,6,61,Lapped
+2024,Singapore Grand Prix,Sergio Pérez,10,1,13,61,Lapped
+2024,Singapore Grand Prix,Franco Colapinto,11,0,12,61,Lapped
+2024,Singapore Grand Prix,Yuki Tsunoda,12,0,8,61,Lapped
+2024,Singapore Grand Prix,Esteban Ocon,13,0,15,61,Lapped
+2024,Singapore Grand Prix,Lance Stroll,14,0,17,61,Lapped
+2024,Singapore Grand Prix,Guanyu Zhou,15,0,20,61,Lapped
+2024,Singapore Grand Prix,Valtteri Bottas,16,0,19,61,Lapped
+2024,Singapore Grand Prix,Pierre Gasly,17,0,18,61,Lapped
+2024,Singapore Grand Prix,Daniel Ricciardo,18,0,16,61,Lapped
+2024,Singapore Grand Prix,Kevin Magnussen,19,0,14,57,DNF
+2024,Singapore Grand Prix,Alexander Albon,20,0,11,15,DNF
+2024,United States Grand Prix,Charles Leclerc,1,25,4,56,RAS
+2024,United States Grand Prix,Carlos Sainz,2,18,3,56,RAS
+2024,United States Grand Prix,Max Verstappen,3,15,2,56,RAS
+2024,United States Grand Prix,Lando Norris,4,12,1,56,RAS
+2024,United States Grand Prix,Oscar Piastri,5,10,5,56,RAS
+2024,United States Grand Prix,George Russell,6,8,20,56,RAS
+2024,United States Grand Prix,Sergio Pérez,7,6,9,56,RAS
+2024,United States Grand Prix,Nico Hülkenberg,8,4,11,56,RAS
+2024,United States Grand Prix,Liam Lawson,9,2,19,56,RAS
+2024,United States Grand Prix,Franco Colapinto,10,1,15,56,RAS
+2024,United States Grand Prix,Kevin Magnussen,11,0,8,56,RAS
+2024,United States Grand Prix,Pierre Gasly,12,0,6,56,RAS
+2024,United States Grand Prix,Fernando Alonso,13,0,7,55,Lapped
+2024,United States Grand Prix,Yuki Tsunoda,14,0,10,55,Lapped
+2024,United States Grand Prix,Lance Stroll,15,0,13,55,Lapped
+2024,United States Grand Prix,Alexander Albon,16,0,14,55,Lapped
+2024,United States Grand Prix,Valtteri Bottas,17,0,16,55,Lapped
+2024,United States Grand Prix,Esteban Ocon,18,0,12,55,Lapped
+2024,United States Grand Prix,Guanyu Zhou,19,0,18,55,Lapped
+2024,United States Grand Prix,Lewis Hamilton,20,0,17,1,DNF
+2024,Mexico City Grand Prix,Carlos Sainz,1,25,1,71,RAS
+2024,Mexico City Grand Prix,Lando Norris,2,18,3,71,RAS
+2024,Mexico City Grand Prix,Charles Leclerc,3,16,4,71,RAS
+2024,Mexico City Grand Prix,Lewis Hamilton,4,12,6,71,RAS
+2024,Mexico City Grand Prix,George Russell,5,10,5,71,RAS
+2024,Mexico City Grand Prix,Max Verstappen,6,8,2,71,RAS
+2024,Mexico City Grand Prix,Kevin Magnussen,7,6,7,71,RAS
+2024,Mexico City Grand Prix,Oscar Piastri,8,4,17,71,RAS
+2024,Mexico City Grand Prix,Nico Hülkenberg,9,2,10,70,Lapped
+2024,Mexico City Grand Prix,Pierre Gasly,10,1,8,70,Lapped
+2024,Mexico City Grand Prix,Lance Stroll,11,0,14,70,Lapped
+2024,Mexico City Grand Prix,Franco Colapinto,12,0,16,70,Lapped
+2024,Mexico City Grand Prix,Esteban Ocon,13,0,0,70,Lapped
+2024,Mexico City Grand Prix,Valtteri Bottas,14,0,15,70,Lapped
+2024,Mexico City Grand Prix,Guanyu Zhou,15,0,19,70,Lapped
+2024,Mexico City Grand Prix,Liam Lawson,16,0,12,70,Lapped
+2024,Mexico City Grand Prix,Sergio Pérez,17,0,18,70,Lapped
+2024,Mexico City Grand Prix,Fernando Alonso,18,0,13,15,DNF
+2024,Mexico City Grand Prix,Alexander Albon,19,0,9,0,DNF
+2024,Mexico City Grand Prix,Yuki Tsunoda,20,0,11,0,DNF
+2024,São Paulo Grand Prix,Max Verstappen,1,26,17,69,RAS
+2024,São Paulo Grand Prix,Esteban Ocon,2,18,4,69,RAS
+2024,São Paulo Grand Prix,Pierre Gasly,3,15,13,69,RAS
+2024,São Paulo Grand Prix,George Russell,4,12,2,69,RAS
+2024,São Paulo Grand Prix,Charles Leclerc,5,10,6,69,RAS
+2024,São Paulo Grand Prix,Lando Norris,6,8,1,69,RAS
+2024,São Paulo Grand Prix,Yuki Tsunoda,7,6,3,69,RAS
+2024,São Paulo Grand Prix,Oscar Piastri,8,4,8,69,RAS
+2024,São Paulo Grand Prix,Liam Lawson,9,2,5,69,RAS
+2024,São Paulo Grand Prix,Lewis Hamilton,10,1,14,69,RAS
+2024,São Paulo Grand Prix,Sergio Pérez,11,0,12,69,RAS
+2024,São Paulo Grand Prix,Oliver Bearman,12,0,15,69,RAS
+2024,São Paulo Grand Prix,Valtteri Bottas,13,0,11,69,RAS
+2024,São Paulo Grand Prix,Fernando Alonso,14,0,9,69,RAS
+2024,São Paulo Grand Prix,Guanyu Zhou,15,0,19,69,RAS
+2024,São Paulo Grand Prix,Carlos Sainz,16,0,20,38,DNF
+2024,São Paulo Grand Prix,Franco Colapinto,17,0,16,30,DNF
+2024,São Paulo Grand Prix,Alexander Albon,18,0,7,0,Did not start
+2024,São Paulo Grand Prix,Lance Stroll,19,0,10,0,Did not start
+2024,São Paulo Grand Prix,Nico Hülkenberg,20,0,18,0,DQ
+2024,Las Vegas Grand Prix,George Russell,1,25,1,50,RAS
+2024,Las Vegas Grand Prix,Lewis Hamilton,2,18,10,50,RAS
+2024,Las Vegas Grand Prix,Carlos Sainz,3,15,2,50,RAS
+2024,Las Vegas Grand Prix,Charles Leclerc,4,12,4,50,RAS
+2024,Las Vegas Grand Prix,Max Verstappen,5,10,5,50,RAS
+2024,Las Vegas Grand Prix,Lando Norris,6,9,6,50,RAS
+2024,Las Vegas Grand Prix,Oscar Piastri,7,6,8,50,RAS
+2024,Las Vegas Grand Prix,Nico Hülkenberg,8,4,9,50,RAS
+2024,Las Vegas Grand Prix,Yuki Tsunoda,9,2,7,50,RAS
+2024,Las Vegas Grand Prix,Sergio Pérez,10,1,15,50,RAS
+2024,Las Vegas Grand Prix,Fernando Alonso,11,0,16,50,RAS
+2024,Las Vegas Grand Prix,Kevin Magnussen,12,0,12,50,RAS
+2024,Las Vegas Grand Prix,Guanyu Zhou,13,0,13,50,RAS
+2024,Las Vegas Grand Prix,Franco Colapinto,14,0,20,50,RAS
+2024,Las Vegas Grand Prix,Lance Stroll,15,0,18,50,RAS
+2024,Las Vegas Grand Prix,Liam Lawson,16,0,14,50,RAS
+2024,Las Vegas Grand Prix,Esteban Ocon,17,0,11,49,Lapped
+2024,Las Vegas Grand Prix,Valtteri Bottas,18,0,19,49,Lapped
+2024,Las Vegas Grand Prix,Alexander Albon,19,0,17,25,DNF
+2024,Las Vegas Grand Prix,Pierre Gasly,20,0,3,15,DNF
+2024,Qatar Grand Prix,Max Verstappen,1,25,2,57,RAS
+2024,Qatar Grand Prix,Charles Leclerc,2,18,5,57,RAS
+2024,Qatar Grand Prix,Oscar Piastri,3,15,4,57,RAS
+2024,Qatar Grand Prix,George Russell,4,12,1,57,RAS
+2024,Qatar Grand Prix,Pierre Gasly,5,10,11,57,RAS
+2024,Qatar Grand Prix,Carlos Sainz,6,8,7,57,RAS
+2024,Qatar Grand Prix,Fernando Alonso,7,6,8,57,RAS
+2024,Qatar Grand Prix,Guanyu Zhou,8,4,12,57,RAS
+2024,Qatar Grand Prix,Kevin Magnussen,9,2,10,57,RAS
+2024,Qatar Grand Prix,Lando Norris,10,2,3,57,RAS
+2024,Qatar Grand Prix,Valtteri Bottas,11,0,13,57,RAS
+2024,Qatar Grand Prix,Lewis Hamilton,12,0,6,57,RAS
+2024,Qatar Grand Prix,Yuki Tsunoda,13,0,14,57,RAS
+2024,Qatar Grand Prix,Liam Lawson,14,0,17,57,RAS
+2024,Qatar Grand Prix,Alexander Albon,15,0,16,56,Lapped
+2024,Qatar Grand Prix,Nico Hülkenberg,16,0,18,39,DNF
+2024,Qatar Grand Prix,Sergio Pérez,17,0,9,38,DNF
+2024,Qatar Grand Prix,Lance Stroll,18,0,15,8,DNF
+2024,Qatar Grand Prix,Franco Colapinto,19,0,19,0,DNF
+2024,Qatar Grand Prix,Esteban Ocon,20,0,20,0,DNF
+2024,Abu Dhabi Grand Prix,Lando Norris,1,25,1,58,RAS
+2024,Abu Dhabi Grand Prix,Carlos Sainz,2,18,3,58,RAS
+2024,Abu Dhabi Grand Prix,Charles Leclerc,3,15,19,58,RAS
+2024,Abu Dhabi Grand Prix,Lewis Hamilton,4,12,16,58,RAS
+2024,Abu Dhabi Grand Prix,George Russell,5,10,6,58,RAS
+2024,Abu Dhabi Grand Prix,Max Verstappen,6,8,4,58,RAS
+2024,Abu Dhabi Grand Prix,Pierre Gasly,7,6,5,58,RAS
+2024,Abu Dhabi Grand Prix,Nico Hülkenberg,8,4,7,58,RAS
+2024,Abu Dhabi Grand Prix,Fernando Alonso,9,2,8,58,RAS
+2024,Abu Dhabi Grand Prix,Oscar Piastri,10,1,2,58,RAS
+2024,Abu Dhabi Grand Prix,Alexander Albon,11,0,18,57,Lapped
+2024,Abu Dhabi Grand Prix,Yuki Tsunoda,12,0,11,57,Lapped
+2024,Abu Dhabi Grand Prix,Guanyu Zhou,13,0,15,57,Lapped
+2024,Abu Dhabi Grand Prix,Lance Stroll,14,0,13,57,Lapped
+2024,Abu Dhabi Grand Prix,Jack Doohan,15,0,17,57,Lapped
+2024,Abu Dhabi Grand Prix,Kevin Magnussen,16,0,14,57,Lapped
+2024,Abu Dhabi Grand Prix,Liam Lawson,17,0,12,55,DNF
+2024,Abu Dhabi Grand Prix,Valtteri Bottas,18,0,9,30,DNF
+2024,Abu Dhabi Grand Prix,Franco Colapinto,19,0,20,26,DNF
+2024,Abu Dhabi Grand Prix,Sergio Pérez,20,0,10,0,DNF

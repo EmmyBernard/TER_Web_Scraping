@@ -1,0 +1,479 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2012,Australian Grand Prix,Jenson Button,1,25,2,58,RAS
+2012,Australian Grand Prix,Sebastian Vettel,2,18,6,58,RAS
+2012,Australian Grand Prix,Lewis Hamilton,3,15,1,58,RAS
+2012,Australian Grand Prix,Mark Webber,4,12,5,58,RAS
+2012,Australian Grand Prix,Fernando Alonso,5,10,12,58,RAS
+2012,Australian Grand Prix,Kamui Kobayashi,6,8,13,58,RAS
+2012,Australian Grand Prix,Kimi Räikkönen,7,6,17,58,RAS
+2012,Australian Grand Prix,Sergio Pérez,8,4,22,58,RAS
+2012,Australian Grand Prix,Daniel Ricciardo,9,2,10,58,RAS
+2012,Australian Grand Prix,Paul di Resta,10,1,15,58,RAS
+2012,Australian Grand Prix,Jean-Éric Vergne,11,0,11,58,RAS
+2012,Australian Grand Prix,Nico Rosberg,12,0,7,58,RAS
+2012,Australian Grand Prix,Pastor Maldonado,13,0,8,57,Accident
+2012,Australian Grand Prix,Timo Glock,14,0,20,57,RAS
+2012,Australian Grand Prix,Charles Pic,15,0,21,53,RAS
+2012,Australian Grand Prix,Bruno Senna,16,0,14,52,Collision
+2012,Australian Grand Prix,Felipe Massa,17,0,16,46,Collision
+2012,Australian Grand Prix,Heikki Kovalainen,18,0,18,38,Suspension
+2012,Australian Grand Prix,Vitaly Petrov,19,0,19,34,Steering
+2012,Australian Grand Prix,Michael Schumacher,20,0,4,10,Gearbox
+2012,Australian Grand Prix,Romain Grosjean,21,0,3,1,Collision
+2012,Australian Grand Prix,Nico Hülkenberg,22,0,9,0,Collision
+2012,Malaysian Grand Prix,Fernando Alonso,1,25,8,56,RAS
+2012,Malaysian Grand Prix,Sergio Pérez,2,18,9,56,RAS
+2012,Malaysian Grand Prix,Lewis Hamilton,3,15,1,56,RAS
+2012,Malaysian Grand Prix,Mark Webber,4,12,4,56,RAS
+2012,Malaysian Grand Prix,Kimi Räikkönen,5,10,10,56,RAS
+2012,Malaysian Grand Prix,Bruno Senna,6,8,13,56,RAS
+2012,Malaysian Grand Prix,Paul di Resta,7,6,14,56,RAS
+2012,Malaysian Grand Prix,Jean-Éric Vergne,8,4,18,56,RAS
+2012,Malaysian Grand Prix,Nico Hülkenberg,9,2,16,56,RAS
+2012,Malaysian Grand Prix,Michael Schumacher,10,1,3,56,RAS
+2012,Malaysian Grand Prix,Sebastian Vettel,11,0,5,56,RAS
+2012,Malaysian Grand Prix,Daniel Ricciardo,12,0,15,56,RAS
+2012,Malaysian Grand Prix,Nico Rosberg,13,0,7,56,RAS
+2012,Malaysian Grand Prix,Jenson Button,14,0,2,56,RAS
+2012,Malaysian Grand Prix,Felipe Massa,15,0,12,56,RAS
+2012,Malaysian Grand Prix,Vitaly Petrov,16,0,19,55,RAS
+2012,Malaysian Grand Prix,Timo Glock,17,0,20,55,RAS
+2012,Malaysian Grand Prix,Heikki Kovalainen,18,0,24,55,RAS
+2012,Malaysian Grand Prix,Pastor Maldonado,19,0,11,54,Engine
+2012,Malaysian Grand Prix,Charles Pic,20,0,21,54,RAS
+2012,Malaysian Grand Prix,Narain Karthikeyan,21,0,23,54,RAS
+2012,Malaysian Grand Prix,Pedro de la Rosa,22,0,22,54,RAS
+2012,Malaysian Grand Prix,Kamui Kobayashi,23,0,17,46,DNF
+2012,Malaysian Grand Prix,Romain Grosjean,24,0,6,3,Collision
+2012,Chinese Grand Prix,Nico Rosberg,1,25,1,56,RAS
+2012,Chinese Grand Prix,Jenson Button,2,18,5,56,RAS
+2012,Chinese Grand Prix,Lewis Hamilton,3,15,7,56,RAS
+2012,Chinese Grand Prix,Mark Webber,4,12,6,56,RAS
+2012,Chinese Grand Prix,Sebastian Vettel,5,10,11,56,RAS
+2012,Chinese Grand Prix,Romain Grosjean,6,8,10,56,RAS
+2012,Chinese Grand Prix,Bruno Senna,7,6,14,56,RAS
+2012,Chinese Grand Prix,Pastor Maldonado,8,4,13,56,RAS
+2012,Chinese Grand Prix,Fernando Alonso,9,2,9,56,RAS
+2012,Chinese Grand Prix,Kamui Kobayashi,10,1,3,56,RAS
+2012,Chinese Grand Prix,Sergio Pérez,11,0,8,56,RAS
+2012,Chinese Grand Prix,Paul di Resta,12,0,15,56,RAS
+2012,Chinese Grand Prix,Felipe Massa,13,0,12,56,RAS
+2012,Chinese Grand Prix,Kimi Räikkönen,14,0,4,56,RAS
+2012,Chinese Grand Prix,Nico Hülkenberg,15,0,16,56,RAS
+2012,Chinese Grand Prix,Jean-Éric Vergne,16,0,24,56,RAS
+2012,Chinese Grand Prix,Daniel Ricciardo,17,0,17,56,RAS
+2012,Chinese Grand Prix,Vitaly Petrov,18,0,19,55,RAS
+2012,Chinese Grand Prix,Timo Glock,19,0,20,55,RAS
+2012,Chinese Grand Prix,Charles Pic,20,0,21,55,RAS
+2012,Chinese Grand Prix,Pedro de la Rosa,21,0,22,55,RAS
+2012,Chinese Grand Prix,Narain Karthikeyan,22,0,23,54,RAS
+2012,Chinese Grand Prix,Heikki Kovalainen,23,0,18,53,RAS
+2012,Chinese Grand Prix,Michael Schumacher,24,0,2,12,Wheel nut
+2012,Bahrain Grand Prix,Sebastian Vettel,1,25,1,57,RAS
+2012,Bahrain Grand Prix,Kimi Räikkönen,2,18,11,57,RAS
+2012,Bahrain Grand Prix,Romain Grosjean,3,15,7,57,RAS
+2012,Bahrain Grand Prix,Mark Webber,4,12,3,57,RAS
+2012,Bahrain Grand Prix,Nico Rosberg,5,10,5,57,RAS
+2012,Bahrain Grand Prix,Paul di Resta,6,8,10,57,RAS
+2012,Bahrain Grand Prix,Fernando Alonso,7,6,9,57,RAS
+2012,Bahrain Grand Prix,Lewis Hamilton,8,4,2,57,RAS
+2012,Bahrain Grand Prix,Felipe Massa,9,2,14,57,RAS
+2012,Bahrain Grand Prix,Michael Schumacher,10,1,22,57,RAS
+2012,Bahrain Grand Prix,Sergio Pérez,11,0,8,57,RAS
+2012,Bahrain Grand Prix,Nico Hülkenberg,12,0,13,57,RAS
+2012,Bahrain Grand Prix,Kamui Kobayashi,13,0,12,57,RAS
+2012,Bahrain Grand Prix,Jean-Éric Vergne,14,0,17,57,RAS
+2012,Bahrain Grand Prix,Daniel Ricciardo,15,0,6,56,RAS
+2012,Bahrain Grand Prix,Vitaly Petrov,16,0,18,56,RAS
+2012,Bahrain Grand Prix,Heikki Kovalainen,17,0,16,56,RAS
+2012,Bahrain Grand Prix,Jenson Button,18,0,4,55,Exhaust
+2012,Bahrain Grand Prix,Timo Glock,19,0,23,55,RAS
+2012,Bahrain Grand Prix,Pedro de la Rosa,20,0,20,55,RAS
+2012,Bahrain Grand Prix,Narain Karthikeyan,21,0,24,55,RAS
+2012,Bahrain Grand Prix,Bruno Senna,22,0,15,54,Vibrations
+2012,Bahrain Grand Prix,Pastor Maldonado,23,0,21,25,Puncture
+2012,Bahrain Grand Prix,Charles Pic,24,0,19,24,Engine
+2012,Spanish Grand Prix,Pastor Maldonado,1,25,1,66,RAS
+2012,Spanish Grand Prix,Fernando Alonso,2,18,2,66,RAS
+2012,Spanish Grand Prix,Kimi Räikkönen,3,15,4,66,RAS
+2012,Spanish Grand Prix,Romain Grosjean,4,12,3,66,RAS
+2012,Spanish Grand Prix,Kamui Kobayashi,5,10,9,66,RAS
+2012,Spanish Grand Prix,Sebastian Vettel,6,8,7,66,RAS
+2012,Spanish Grand Prix,Nico Rosberg,7,6,6,66,RAS
+2012,Spanish Grand Prix,Lewis Hamilton,8,4,24,66,RAS
+2012,Spanish Grand Prix,Jenson Button,9,2,10,66,RAS
+2012,Spanish Grand Prix,Nico Hülkenberg,10,1,13,65,RAS
+2012,Spanish Grand Prix,Mark Webber,11,0,11,65,RAS
+2012,Spanish Grand Prix,Jean-Éric Vergne,12,0,14,65,RAS
+2012,Spanish Grand Prix,Daniel Ricciardo,13,0,15,65,RAS
+2012,Spanish Grand Prix,Paul di Resta,14,0,12,65,RAS
+2012,Spanish Grand Prix,Felipe Massa,15,0,16,65,RAS
+2012,Spanish Grand Prix,Heikki Kovalainen,16,0,19,65,RAS
+2012,Spanish Grand Prix,Vitaly Petrov,17,0,18,65,RAS
+2012,Spanish Grand Prix,Timo Glock,18,0,21,64,RAS
+2012,Spanish Grand Prix,Pedro de la Rosa,19,0,22,63,RAS
+2012,Spanish Grand Prix,Sergio Pérez,20,0,5,37,Wheel nut
+2012,Spanish Grand Prix,Charles Pic,21,0,20,35,Mechanical
+2012,Spanish Grand Prix,Narain Karthikeyan,22,0,23,22,Mechanical
+2012,Spanish Grand Prix,Bruno Senna,23,0,17,12,Collision
+2012,Spanish Grand Prix,Michael Schumacher,24,0,8,12,Collision
+2012,Monaco Grand Prix,Mark Webber,1,25,1,78,RAS
+2012,Monaco Grand Prix,Nico Rosberg,2,18,2,78,RAS
+2012,Monaco Grand Prix,Fernando Alonso,3,15,5,78,RAS
+2012,Monaco Grand Prix,Sebastian Vettel,4,12,9,78,RAS
+2012,Monaco Grand Prix,Lewis Hamilton,5,10,3,78,RAS
+2012,Monaco Grand Prix,Felipe Massa,6,8,7,78,RAS
+2012,Monaco Grand Prix,Paul di Resta,7,6,14,78,RAS
+2012,Monaco Grand Prix,Nico Hülkenberg,8,4,10,78,RAS
+2012,Monaco Grand Prix,Kimi Räikkönen,9,2,8,78,RAS
+2012,Monaco Grand Prix,Bruno Senna,10,1,13,78,RAS
+2012,Monaco Grand Prix,Sergio Pérez,11,0,23,77,RAS
+2012,Monaco Grand Prix,Jean-Éric Vergne,12,0,16,77,RAS
+2012,Monaco Grand Prix,Heikki Kovalainen,13,0,17,77,RAS
+2012,Monaco Grand Prix,Timo Glock,14,0,19,77,RAS
+2012,Monaco Grand Prix,Narain Karthikeyan,15,0,22,76,RAS
+2012,Monaco Grand Prix,Jenson Button,16,0,12,70,Collision
+2012,Monaco Grand Prix,Daniel Ricciardo,17,0,15,65,DNF
+2012,Monaco Grand Prix,Charles Pic,18,0,21,64,DNF
+2012,Monaco Grand Prix,Michael Schumacher,19,0,6,63,Fuel pressure
+2012,Monaco Grand Prix,Vitaly Petrov,20,0,18,15,Electrical
+2012,Monaco Grand Prix,Kamui Kobayashi,21,0,11,5,Accident
+2012,Monaco Grand Prix,Pedro de la Rosa,22,0,20,0,Accident
+2012,Monaco Grand Prix,Pastor Maldonado,23,0,24,0,Accident
+2012,Monaco Grand Prix,Romain Grosjean,24,0,4,0,Accident
+2012,Canadian Grand Prix,Lewis Hamilton,1,25,2,70,RAS
+2012,Canadian Grand Prix,Romain Grosjean,2,18,7,70,RAS
+2012,Canadian Grand Prix,Sergio Pérez,3,15,15,70,RAS
+2012,Canadian Grand Prix,Sebastian Vettel,4,12,1,70,RAS
+2012,Canadian Grand Prix,Fernando Alonso,5,10,3,70,RAS
+2012,Canadian Grand Prix,Nico Rosberg,6,8,5,70,RAS
+2012,Canadian Grand Prix,Mark Webber,7,6,4,70,RAS
+2012,Canadian Grand Prix,Kimi Räikkönen,8,4,12,70,RAS
+2012,Canadian Grand Prix,Kamui Kobayashi,9,2,11,70,RAS
+2012,Canadian Grand Prix,Felipe Massa,10,1,6,70,RAS
+2012,Canadian Grand Prix,Paul di Resta,11,0,8,70,RAS
+2012,Canadian Grand Prix,Nico Hülkenberg,12,0,13,70,RAS
+2012,Canadian Grand Prix,Pastor Maldonado,13,0,22,70,RAS
+2012,Canadian Grand Prix,Daniel Ricciardo,14,0,14,70,RAS
+2012,Canadian Grand Prix,Jean-Éric Vergne,15,0,19,69,RAS
+2012,Canadian Grand Prix,Jenson Button,16,0,10,69,RAS
+2012,Canadian Grand Prix,Bruno Senna,17,0,16,69,RAS
+2012,Canadian Grand Prix,Heikki Kovalainen,18,0,17,69,RAS
+2012,Canadian Grand Prix,Vitaly Petrov,19,0,18,69,RAS
+2012,Canadian Grand Prix,Charles Pic,20,0,23,69,RAS
+2012,Canadian Grand Prix,Timo Glock,21,0,21,56,Suspension
+2012,Canadian Grand Prix,Michael Schumacher,22,0,9,43,Rear wing
+2012,Canadian Grand Prix,Pedro de la Rosa,23,0,20,24,Brakes
+2012,Canadian Grand Prix,Narain Karthikeyan,24,0,24,22,Suspension
+2012,European Grand Prix,Fernando Alonso,1,25,11,57,RAS
+2012,European Grand Prix,Kimi Räikkönen,2,18,5,57,RAS
+2012,European Grand Prix,Michael Schumacher,3,15,12,57,RAS
+2012,European Grand Prix,Mark Webber,4,12,19,57,RAS
+2012,European Grand Prix,Nico Hülkenberg,5,10,8,57,RAS
+2012,European Grand Prix,Nico Rosberg,6,8,6,57,RAS
+2012,European Grand Prix,Paul di Resta,7,6,10,57,RAS
+2012,European Grand Prix,Jenson Button,8,4,9,57,RAS
+2012,European Grand Prix,Sergio Pérez,9,2,15,57,RAS
+2012,European Grand Prix,Bruno Senna,10,1,14,57,RAS
+2012,European Grand Prix,Daniel Ricciardo,11,0,17,57,RAS
+2012,European Grand Prix,Pastor Maldonado,12,0,3,57,RAS
+2012,European Grand Prix,Vitaly Petrov,13,0,20,57,RAS
+2012,European Grand Prix,Heikki Kovalainen,14,0,16,57,RAS
+2012,European Grand Prix,Charles Pic,15,0,23,57,RAS
+2012,European Grand Prix,Felipe Massa,16,0,13,56,RAS
+2012,European Grand Prix,Pedro de la Rosa,17,0,21,56,RAS
+2012,European Grand Prix,Narain Karthikeyan,18,0,22,56,RAS
+2012,European Grand Prix,Lewis Hamilton,19,0,2,55,Collision
+2012,European Grand Prix,Romain Grosjean,20,0,4,40,Electronics
+2012,European Grand Prix,Sebastian Vettel,21,0,1,33,Gearbox
+2012,European Grand Prix,Kamui Kobayashi,22,0,7,33,Collision
+2012,European Grand Prix,Jean-Éric Vergne,23,0,18,26,Collision
+2012,European Grand Prix,Timo Glock,24,0,0,0,Withdrew
+2012,British Grand Prix,Mark Webber,1,25,2,52,RAS
+2012,British Grand Prix,Fernando Alonso,2,18,1,52,RAS
+2012,British Grand Prix,Sebastian Vettel,3,15,4,52,RAS
+2012,British Grand Prix,Felipe Massa,4,12,5,52,RAS
+2012,British Grand Prix,Kimi Räikkönen,5,10,6,52,RAS
+2012,British Grand Prix,Romain Grosjean,6,8,9,52,RAS
+2012,British Grand Prix,Michael Schumacher,7,6,3,52,RAS
+2012,British Grand Prix,Lewis Hamilton,8,4,8,52,RAS
+2012,British Grand Prix,Bruno Senna,9,2,13,52,RAS
+2012,British Grand Prix,Jenson Button,10,1,16,52,RAS
+2012,British Grand Prix,Kamui Kobayashi,11,0,17,52,RAS
+2012,British Grand Prix,Nico Hülkenberg,12,0,14,52,RAS
+2012,British Grand Prix,Daniel Ricciardo,13,0,12,52,RAS
+2012,British Grand Prix,Jean-Éric Vergne,14,0,23,52,RAS
+2012,British Grand Prix,Nico Rosberg,15,0,11,52,RAS
+2012,British Grand Prix,Pastor Maldonado,16,0,7,51,RAS
+2012,British Grand Prix,Heikki Kovalainen,17,0,19,51,RAS
+2012,British Grand Prix,Timo Glock,18,0,20,51,RAS
+2012,British Grand Prix,Charles Pic,19,0,24,51,RAS
+2012,British Grand Prix,Pedro de la Rosa,20,0,21,50,RAS
+2012,British Grand Prix,Narain Karthikeyan,21,0,22,50,RAS
+2012,British Grand Prix,Sergio Pérez,22,0,15,11,Collision
+2012,British Grand Prix,Paul di Resta,23,0,10,2,Collision
+2012,British Grand Prix,Vitaly Petrov,24,0,18,0,Engine
+2012,German Grand Prix,Fernando Alonso,1,25,1,67,RAS
+2012,German Grand Prix,Jenson Button,2,18,6,67,RAS
+2012,German Grand Prix,Kimi Räikkönen,3,15,10,67,RAS
+2012,German Grand Prix,Kamui Kobayashi,4,12,12,67,RAS
+2012,German Grand Prix,Sebastian Vettel,5,10,2,67,RAS
+2012,German Grand Prix,Sergio Pérez,6,8,17,67,RAS
+2012,German Grand Prix,Michael Schumacher,7,6,3,67,RAS
+2012,German Grand Prix,Mark Webber,8,4,8,67,RAS
+2012,German Grand Prix,Nico Hülkenberg,9,2,4,67,RAS
+2012,German Grand Prix,Nico Rosberg,10,1,21,67,RAS
+2012,German Grand Prix,Paul di Resta,11,0,9,67,RAS
+2012,German Grand Prix,Felipe Massa,12,0,13,67,RAS
+2012,German Grand Prix,Daniel Ricciardo,13,0,11,67,RAS
+2012,German Grand Prix,Jean-Éric Vergne,14,0,15,67,RAS
+2012,German Grand Prix,Pastor Maldonado,15,0,5,66,RAS
+2012,German Grand Prix,Vitaly Petrov,16,0,18,66,RAS
+2012,German Grand Prix,Bruno Senna,17,0,14,66,RAS
+2012,German Grand Prix,Romain Grosjean,18,0,19,66,RAS
+2012,German Grand Prix,Heikki Kovalainen,19,0,16,65,RAS
+2012,German Grand Prix,Charles Pic,20,0,20,65,RAS
+2012,German Grand Prix,Pedro de la Rosa,21,0,23,64,RAS
+2012,German Grand Prix,Timo Glock,22,0,22,64,RAS
+2012,German Grand Prix,Narain Karthikeyan,23,0,24,64,RAS
+2012,German Grand Prix,Lewis Hamilton,24,0,7,56,Puncture
+2012,Hungarian Grand Prix,Lewis Hamilton,1,25,1,69,RAS
+2012,Hungarian Grand Prix,Kimi Räikkönen,2,18,5,69,RAS
+2012,Hungarian Grand Prix,Romain Grosjean,3,15,2,69,RAS
+2012,Hungarian Grand Prix,Sebastian Vettel,4,12,3,69,RAS
+2012,Hungarian Grand Prix,Fernando Alonso,5,10,6,69,RAS
+2012,Hungarian Grand Prix,Jenson Button,6,8,4,69,RAS
+2012,Hungarian Grand Prix,Bruno Senna,7,6,9,69,RAS
+2012,Hungarian Grand Prix,Mark Webber,8,4,11,69,RAS
+2012,Hungarian Grand Prix,Felipe Massa,9,2,7,69,RAS
+2012,Hungarian Grand Prix,Nico Rosberg,10,1,13,69,RAS
+2012,Hungarian Grand Prix,Nico Hülkenberg,11,0,10,69,RAS
+2012,Hungarian Grand Prix,Paul di Resta,12,0,12,69,RAS
+2012,Hungarian Grand Prix,Pastor Maldonado,13,0,8,69,RAS
+2012,Hungarian Grand Prix,Sergio Pérez,14,0,14,69,RAS
+2012,Hungarian Grand Prix,Daniel Ricciardo,15,0,18,68,RAS
+2012,Hungarian Grand Prix,Jean-Éric Vergne,16,0,16,68,RAS
+2012,Hungarian Grand Prix,Heikki Kovalainen,17,0,19,68,RAS
+2012,Hungarian Grand Prix,Kamui Kobayashi,18,0,15,67,RAS
+2012,Hungarian Grand Prix,Vitaly Petrov,19,0,20,67,RAS
+2012,Hungarian Grand Prix,Charles Pic,20,0,21,67,RAS
+2012,Hungarian Grand Prix,Timo Glock,21,0,22,66,RAS
+2012,Hungarian Grand Prix,Pedro de la Rosa,22,0,23,66,RAS
+2012,Hungarian Grand Prix,Narain Karthikeyan,23,0,24,60,Suspension
+2012,Hungarian Grand Prix,Michael Schumacher,24,0,17,58,RAS
+2012,Belgian Grand Prix,Jenson Button,1,25,1,44,RAS
+2012,Belgian Grand Prix,Sebastian Vettel,2,18,10,44,RAS
+2012,Belgian Grand Prix,Kimi Räikkönen,3,15,3,44,RAS
+2012,Belgian Grand Prix,Nico Hülkenberg,4,12,11,44,RAS
+2012,Belgian Grand Prix,Felipe Massa,5,10,14,44,RAS
+2012,Belgian Grand Prix,Mark Webber,6,8,12,44,RAS
+2012,Belgian Grand Prix,Michael Schumacher,7,6,13,44,RAS
+2012,Belgian Grand Prix,Jean-Éric Vergne,8,4,15,44,RAS
+2012,Belgian Grand Prix,Daniel Ricciardo,9,2,16,44,RAS
+2012,Belgian Grand Prix,Paul di Resta,10,1,9,44,RAS
+2012,Belgian Grand Prix,Nico Rosberg,11,0,23,44,RAS
+2012,Belgian Grand Prix,Bruno Senna,12,0,17,44,RAS
+2012,Belgian Grand Prix,Kamui Kobayashi,13,0,2,44,RAS
+2012,Belgian Grand Prix,Vitaly Petrov,14,0,19,43,RAS
+2012,Belgian Grand Prix,Timo Glock,15,0,20,43,RAS
+2012,Belgian Grand Prix,Charles Pic,16,0,22,43,RAS
+2012,Belgian Grand Prix,Heikki Kovalainen,17,0,18,43,RAS
+2012,Belgian Grand Prix,Pedro de la Rosa,18,0,21,43,RAS
+2012,Belgian Grand Prix,Narain Karthikeyan,19,0,24,29,Spun off
+2012,Belgian Grand Prix,Pastor Maldonado,20,0,6,4,Collision
+2012,Belgian Grand Prix,Sergio Pérez,21,0,4,0,Collision
+2012,Belgian Grand Prix,Fernando Alonso,22,0,5,0,Collision
+2012,Belgian Grand Prix,Lewis Hamilton,23,0,7,0,Collision
+2012,Belgian Grand Prix,Romain Grosjean,24,0,8,0,Collision
+2012,Italian Grand Prix,Lewis Hamilton,1,25,1,53,RAS
+2012,Italian Grand Prix,Sergio Pérez,2,18,12,53,RAS
+2012,Italian Grand Prix,Fernando Alonso,3,15,10,53,RAS
+2012,Italian Grand Prix,Felipe Massa,4,12,3,53,RAS
+2012,Italian Grand Prix,Kimi Räikkönen,5,10,7,53,RAS
+2012,Italian Grand Prix,Michael Schumacher,6,8,4,53,RAS
+2012,Italian Grand Prix,Nico Rosberg,7,6,6,53,RAS
+2012,Italian Grand Prix,Paul di Resta,8,4,9,53,RAS
+2012,Italian Grand Prix,Kamui Kobayashi,9,2,8,53,RAS
+2012,Italian Grand Prix,Bruno Senna,10,1,13,53,RAS
+2012,Italian Grand Prix,Pastor Maldonado,11,0,22,53,RAS
+2012,Italian Grand Prix,Daniel Ricciardo,12,0,14,53,RAS
+2012,Italian Grand Prix,Jérôme d'Ambrosio,13,0,15,53,RAS
+2012,Italian Grand Prix,Heikki Kovalainen,14,0,17,52,RAS
+2012,Italian Grand Prix,Vitaly Petrov,15,0,18,52,RAS
+2012,Italian Grand Prix,Charles Pic,16,0,20,52,RAS
+2012,Italian Grand Prix,Timo Glock,17,0,19,52,RAS
+2012,Italian Grand Prix,Pedro de la Rosa,18,0,23,52,RAS
+2012,Italian Grand Prix,Narain Karthikeyan,19,0,21,52,RAS
+2012,Italian Grand Prix,Mark Webber,20,0,11,51,Vibrations
+2012,Italian Grand Prix,Nico Hülkenberg,21,0,24,50,Brakes
+2012,Italian Grand Prix,Sebastian Vettel,22,0,5,47,Alternator
+2012,Italian Grand Prix,Jenson Button,23,0,2,32,Fuel pressure
+2012,Italian Grand Prix,Jean-Éric Vergne,24,0,16,8,Suspension
+2012,Singapore Grand Prix,Sebastian Vettel,1,25,3,59,RAS
+2012,Singapore Grand Prix,Jenson Button,2,18,4,59,RAS
+2012,Singapore Grand Prix,Fernando Alonso,3,15,5,59,RAS
+2012,Singapore Grand Prix,Paul di Resta,4,12,6,59,RAS
+2012,Singapore Grand Prix,Nico Rosberg,5,10,10,59,RAS
+2012,Singapore Grand Prix,Kimi Räikkönen,6,8,12,59,RAS
+2012,Singapore Grand Prix,Romain Grosjean,7,6,8,59,RAS
+2012,Singapore Grand Prix,Felipe Massa,8,4,13,59,RAS
+2012,Singapore Grand Prix,Daniel Ricciardo,9,2,15,59,RAS
+2012,Singapore Grand Prix,Sergio Pérez,10,1,14,59,RAS
+2012,Singapore Grand Prix,Mark Webber,11,0,7,59,RAS
+2012,Singapore Grand Prix,Timo Glock,12,0,20,59,RAS
+2012,Singapore Grand Prix,Kamui Kobayashi,13,0,17,59,RAS
+2012,Singapore Grand Prix,Nico Hülkenberg,14,0,11,59,RAS
+2012,Singapore Grand Prix,Heikki Kovalainen,15,0,19,59,RAS
+2012,Singapore Grand Prix,Charles Pic,16,0,21,59,RAS
+2012,Singapore Grand Prix,Pedro de la Rosa,17,0,24,58,RAS
+2012,Singapore Grand Prix,Bruno Senna,18,0,22,57,DNF
+2012,Singapore Grand Prix,Vitaly Petrov,19,0,18,57,RAS
+2012,Singapore Grand Prix,Jean-Éric Vergne,20,0,16,38,Collision
+2012,Singapore Grand Prix,Michael Schumacher,21,0,9,38,Collision
+2012,Singapore Grand Prix,Pastor Maldonado,22,0,2,36,Hydraulics
+2012,Singapore Grand Prix,Narain Karthikeyan,23,0,23,30,Accident
+2012,Singapore Grand Prix,Lewis Hamilton,24,0,1,22,Gearbox
+2012,Japanese Grand Prix,Sebastian Vettel,1,25,1,53,RAS
+2012,Japanese Grand Prix,Felipe Massa,2,18,10,53,RAS
+2012,Japanese Grand Prix,Kamui Kobayashi,3,15,3,53,RAS
+2012,Japanese Grand Prix,Jenson Button,4,12,8,53,RAS
+2012,Japanese Grand Prix,Lewis Hamilton,5,10,9,53,RAS
+2012,Japanese Grand Prix,Kimi Räikkönen,6,8,7,53,RAS
+2012,Japanese Grand Prix,Nico Hülkenberg,7,6,15,53,RAS
+2012,Japanese Grand Prix,Pastor Maldonado,8,4,12,53,RAS
+2012,Japanese Grand Prix,Mark Webber,9,2,2,53,RAS
+2012,Japanese Grand Prix,Daniel Ricciardo,10,1,14,53,RAS
+2012,Japanese Grand Prix,Michael Schumacher,11,0,23,53,RAS
+2012,Japanese Grand Prix,Paul di Resta,12,0,11,53,RAS
+2012,Japanese Grand Prix,Jean-Éric Vergne,13,0,19,53,RAS
+2012,Japanese Grand Prix,Bruno Senna,14,0,16,53,RAS
+2012,Japanese Grand Prix,Heikki Kovalainen,15,0,17,52,RAS
+2012,Japanese Grand Prix,Timo Glock,16,0,18,52,RAS
+2012,Japanese Grand Prix,Vitaly Petrov,17,0,22,52,RAS
+2012,Japanese Grand Prix,Pedro de la Rosa,18,0,20,52,RAS
+2012,Japanese Grand Prix,Romain Grosjean,19,0,4,51,RAS
+2012,Japanese Grand Prix,Charles Pic,20,0,21,37,Engine
+2012,Japanese Grand Prix,Narain Karthikeyan,21,0,24,32,Vibrations
+2012,Japanese Grand Prix,Sergio Pérez,22,0,5,18,Spun off
+2012,Japanese Grand Prix,Fernando Alonso,23,0,6,0,Collision
+2012,Japanese Grand Prix,Nico Rosberg,24,0,13,0,Collision
+2012,Korean Grand Prix,Sebastian Vettel,1,25,2,55,RAS
+2012,Korean Grand Prix,Mark Webber,2,18,1,55,RAS
+2012,Korean Grand Prix,Fernando Alonso,3,15,4,55,RAS
+2012,Korean Grand Prix,Felipe Massa,4,12,6,55,RAS
+2012,Korean Grand Prix,Kimi Räikkönen,5,10,5,55,RAS
+2012,Korean Grand Prix,Nico Hülkenberg,6,8,8,55,RAS
+2012,Korean Grand Prix,Romain Grosjean,7,6,7,55,RAS
+2012,Korean Grand Prix,Jean-Éric Vergne,8,4,16,55,RAS
+2012,Korean Grand Prix,Daniel Ricciardo,9,2,21,55,RAS
+2012,Korean Grand Prix,Lewis Hamilton,10,1,3,55,RAS
+2012,Korean Grand Prix,Sergio Pérez,11,0,12,55,RAS
+2012,Korean Grand Prix,Paul di Resta,12,0,14,55,RAS
+2012,Korean Grand Prix,Michael Schumacher,13,0,10,55,RAS
+2012,Korean Grand Prix,Pastor Maldonado,14,0,15,55,RAS
+2012,Korean Grand Prix,Bruno Senna,15,0,17,55,RAS
+2012,Korean Grand Prix,Vitaly Petrov,16,0,18,54,RAS
+2012,Korean Grand Prix,Heikki Kovalainen,17,0,19,54,RAS
+2012,Korean Grand Prix,Timo Glock,18,0,20,54,RAS
+2012,Korean Grand Prix,Charles Pic,19,0,24,53,RAS
+2012,Korean Grand Prix,Narain Karthikeyan,20,0,23,53,RAS
+2012,Korean Grand Prix,Pedro de la Rosa,21,0,22,16,Throttle
+2012,Korean Grand Prix,Kamui Kobayashi,22,0,13,16,Collision damage
+2012,Korean Grand Prix,Nico Rosberg,23,0,9,1,Collision
+2012,Korean Grand Prix,Jenson Button,24,0,11,0,Collision
+2012,Indian Grand Prix,Sebastian Vettel,1,25,1,60,RAS
+2012,Indian Grand Prix,Fernando Alonso,2,18,5,60,RAS
+2012,Indian Grand Prix,Mark Webber,3,15,2,60,RAS
+2012,Indian Grand Prix,Lewis Hamilton,4,12,3,60,RAS
+2012,Indian Grand Prix,Jenson Button,5,10,4,60,RAS
+2012,Indian Grand Prix,Felipe Massa,6,8,6,60,RAS
+2012,Indian Grand Prix,Kimi Räikkönen,7,6,7,60,RAS
+2012,Indian Grand Prix,Nico Hülkenberg,8,4,12,60,RAS
+2012,Indian Grand Prix,Romain Grosjean,9,2,11,60,RAS
+2012,Indian Grand Prix,Bruno Senna,10,1,13,60,RAS
+2012,Indian Grand Prix,Nico Rosberg,11,0,10,60,RAS
+2012,Indian Grand Prix,Paul di Resta,12,0,16,60,RAS
+2012,Indian Grand Prix,Daniel Ricciardo,13,0,15,60,RAS
+2012,Indian Grand Prix,Kamui Kobayashi,14,0,17,60,RAS
+2012,Indian Grand Prix,Jean-Éric Vergne,15,0,18,59,RAS
+2012,Indian Grand Prix,Pastor Maldonado,16,0,9,59,RAS
+2012,Indian Grand Prix,Vitaly Petrov,17,0,19,59,RAS
+2012,Indian Grand Prix,Heikki Kovalainen,18,0,20,59,RAS
+2012,Indian Grand Prix,Charles Pic,19,0,24,59,RAS
+2012,Indian Grand Prix,Timo Glock,20,0,21,58,RAS
+2012,Indian Grand Prix,Narain Karthikeyan,21,0,23,58,RAS
+2012,Indian Grand Prix,Michael Schumacher,22,0,14,55,DNF
+2012,Indian Grand Prix,Pedro de la Rosa,23,0,22,43,Accident
+2012,Indian Grand Prix,Sergio Pérez,24,0,8,21,Accident
+2012,Abu Dhabi Grand Prix,Kimi Räikkönen,1,25,4,55,RAS
+2012,Abu Dhabi Grand Prix,Fernando Alonso,2,18,6,55,RAS
+2012,Abu Dhabi Grand Prix,Sebastian Vettel,3,15,24,55,RAS
+2012,Abu Dhabi Grand Prix,Jenson Button,4,12,5,55,RAS
+2012,Abu Dhabi Grand Prix,Pastor Maldonado,5,10,3,55,RAS
+2012,Abu Dhabi Grand Prix,Kamui Kobayashi,6,8,15,55,RAS
+2012,Abu Dhabi Grand Prix,Felipe Massa,7,6,8,55,RAS
+2012,Abu Dhabi Grand Prix,Bruno Senna,8,4,14,55,RAS
+2012,Abu Dhabi Grand Prix,Paul di Resta,9,2,12,55,RAS
+2012,Abu Dhabi Grand Prix,Daniel Ricciardo,10,1,16,55,RAS
+2012,Abu Dhabi Grand Prix,Michael Schumacher,11,0,13,55,RAS
+2012,Abu Dhabi Grand Prix,Jean-Éric Vergne,12,0,17,55,RAS
+2012,Abu Dhabi Grand Prix,Heikki Kovalainen,13,0,18,55,RAS
+2012,Abu Dhabi Grand Prix,Timo Glock,14,0,21,55,RAS
+2012,Abu Dhabi Grand Prix,Sergio Pérez,15,0,11,55,RAS
+2012,Abu Dhabi Grand Prix,Vitaly Petrov,16,0,20,55,RAS
+2012,Abu Dhabi Grand Prix,Pedro de la Rosa,17,0,22,55,RAS
+2012,Abu Dhabi Grand Prix,Charles Pic,18,0,19,41,DNF
+2012,Abu Dhabi Grand Prix,Romain Grosjean,19,0,9,37,Collision
+2012,Abu Dhabi Grand Prix,Mark Webber,20,0,2,37,Collision
+2012,Abu Dhabi Grand Prix,Lewis Hamilton,21,0,1,19,Electrical
+2012,Abu Dhabi Grand Prix,Narain Karthikeyan,22,0,23,7,Collision
+2012,Abu Dhabi Grand Prix,Nico Rosberg,23,0,7,7,Collision
+2012,Abu Dhabi Grand Prix,Nico Hülkenberg,24,0,10,0,Collision
+2012,United States Grand Prix,Lewis Hamilton,1,25,2,56,RAS
+2012,United States Grand Prix,Sebastian Vettel,2,18,1,56,RAS
+2012,United States Grand Prix,Fernando Alonso,3,15,7,56,RAS
+2012,United States Grand Prix,Felipe Massa,4,12,11,56,RAS
+2012,United States Grand Prix,Jenson Button,5,10,12,56,RAS
+2012,United States Grand Prix,Kimi Räikkönen,6,8,4,56,RAS
+2012,United States Grand Prix,Romain Grosjean,7,6,8,56,RAS
+2012,United States Grand Prix,Nico Hülkenberg,8,4,6,56,RAS
+2012,United States Grand Prix,Pastor Maldonado,9,2,9,56,RAS
+2012,United States Grand Prix,Bruno Senna,10,1,10,56,RAS
+2012,United States Grand Prix,Sergio Pérez,11,0,15,56,RAS
+2012,United States Grand Prix,Daniel Ricciardo,12,0,18,56,RAS
+2012,United States Grand Prix,Nico Rosberg,13,0,17,56,RAS
+2012,United States Grand Prix,Kamui Kobayashi,14,0,16,55,RAS
+2012,United States Grand Prix,Paul di Resta,15,0,13,55,RAS
+2012,United States Grand Prix,Michael Schumacher,16,0,5,55,RAS
+2012,United States Grand Prix,Vitaly Petrov,17,0,21,55,RAS
+2012,United States Grand Prix,Heikki Kovalainen,18,0,22,55,RAS
+2012,United States Grand Prix,Timo Glock,19,0,19,55,RAS
+2012,United States Grand Prix,Charles Pic,20,0,20,54,RAS
+2012,United States Grand Prix,Pedro de la Rosa,21,0,23,54,RAS
+2012,United States Grand Prix,Narain Karthikeyan,22,0,24,54,RAS
+2012,United States Grand Prix,Mark Webber,23,0,3,16,Alternator
+2012,United States Grand Prix,Jean-Éric Vergne,24,0,14,14,Suspension
+2012,Brazilian Grand Prix,Jenson Button,1,25,2,71,RAS
+2012,Brazilian Grand Prix,Fernando Alonso,2,18,7,71,RAS
+2012,Brazilian Grand Prix,Felipe Massa,3,15,5,71,RAS
+2012,Brazilian Grand Prix,Mark Webber,4,12,3,71,RAS
+2012,Brazilian Grand Prix,Nico Hülkenberg,5,10,6,71,RAS
+2012,Brazilian Grand Prix,Sebastian Vettel,6,8,4,71,RAS
+2012,Brazilian Grand Prix,Michael Schumacher,7,6,13,71,RAS
+2012,Brazilian Grand Prix,Jean-Éric Vergne,8,4,17,71,RAS
+2012,Brazilian Grand Prix,Kamui Kobayashi,9,2,14,71,RAS
+2012,Brazilian Grand Prix,Kimi Räikkönen,10,1,8,70,RAS
+2012,Brazilian Grand Prix,Vitaly Petrov,11,0,19,70,RAS
+2012,Brazilian Grand Prix,Charles Pic,12,0,22,70,RAS
+2012,Brazilian Grand Prix,Daniel Ricciardo,13,0,15,70,RAS
+2012,Brazilian Grand Prix,Heikki Kovalainen,14,0,20,70,RAS
+2012,Brazilian Grand Prix,Nico Rosberg,15,0,9,70,RAS
+2012,Brazilian Grand Prix,Timo Glock,16,0,21,70,RAS
+2012,Brazilian Grand Prix,Pedro de la Rosa,17,0,24,69,RAS
+2012,Brazilian Grand Prix,Narain Karthikeyan,18,0,23,69,RAS
+2012,Brazilian Grand Prix,Paul di Resta,19,0,10,68,Accident
+2012,Brazilian Grand Prix,Lewis Hamilton,20,0,1,54,Collision
+2012,Brazilian Grand Prix,Romain Grosjean,21,0,18,5,Accident
+2012,Brazilian Grand Prix,Pastor Maldonado,22,0,16,1,Collision
+2012,Brazilian Grand Prix,Bruno Senna,23,0,11,0,Collision
+2012,Brazilian Grand Prix,Sergio Pérez,24,0,12,0,Collision

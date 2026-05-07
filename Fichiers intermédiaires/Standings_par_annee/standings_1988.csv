@@ -1,0 +1,422 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1988,Brazilian Grand Prix,Alain Prost,1,9,3,60,RAS
+1988,Brazilian Grand Prix,Gerhard Berger,2,6,4,60,RAS
+1988,Brazilian Grand Prix,Nelson Piquet,3,4,5,60,RAS
+1988,Brazilian Grand Prix,Derek Warwick,4,3,11,60,RAS
+1988,Brazilian Grand Prix,Michele Alboreto,5,2,6,60,RAS
+1988,Brazilian Grand Prix,Satoru Nakajima,6,1,10,59,RAS
+1988,Brazilian Grand Prix,Thierry Boutsen,7,0,7,59,RAS
+1988,Brazilian Grand Prix,Eddie Cheever,8,0,15,59,RAS
+1988,Brazilian Grand Prix,Stefan Johansson,9,0,21,57,RAS
+1988,Brazilian Grand Prix,Andrea de Cesaris,10,0,14,53,Engine
+1988,Brazilian Grand Prix,Jonathan Palmer,11,0,22,47,Transmission
+1988,Brazilian Grand Prix,Luis Pérez-Sala,12,0,20,46,Chassis
+1988,Brazilian Grand Prix,Philippe Alliot,13,0,16,40,Suspension
+1988,Brazilian Grand Prix,Gabriele Tarquini,14,0,25,35,Suspension
+1988,Brazilian Grand Prix,Philippe Streiff,15,0,19,35,Brakes
+1988,Brazilian Grand Prix,Yannick Dalmas,16,0,17,32,Engine
+1988,Brazilian Grand Prix,Ayrton Senna,17,0,1,31,DQ
+1988,Brazilian Grand Prix,René Arnoux,18,0,18,23,Clutch
+1988,Brazilian Grand Prix,Stefano Modena,19,0,24,20,Engine
+1988,Brazilian Grand Prix,Nigel Mansell,20,0,2,18,Engine
+1988,Brazilian Grand Prix,Alessandro Nannini,21,0,12,7,Engine
+1988,Brazilian Grand Prix,Riccardo Patrese,22,0,8,6,Engine
+1988,Brazilian Grand Prix,Ivan Capelli,23,0,9,6,Engine
+1988,Brazilian Grand Prix,Adrián Campos,24,0,23,5,Chassis
+1988,Brazilian Grand Prix,Maurício Gugelmin,25,0,13,0,Gearbox
+1988,Brazilian Grand Prix,Oscar Larrauri,26,0,26,0,Electrical
+1988,San Marino Grand Prix,Ayrton Senna,1,9,1,60,RAS
+1988,San Marino Grand Prix,Alain Prost,2,6,2,60,RAS
+1988,San Marino Grand Prix,Nelson Piquet,3,4,3,59,RAS
+1988,San Marino Grand Prix,Thierry Boutsen,4,3,8,59,RAS
+1988,San Marino Grand Prix,Gerhard Berger,5,2,5,59,RAS
+1988,San Marino Grand Prix,Alessandro Nannini,6,1,4,59,RAS
+1988,San Marino Grand Prix,Eddie Cheever,7,0,7,59,RAS
+1988,San Marino Grand Prix,Satoru Nakajima,8,0,12,59,RAS
+1988,San Marino Grand Prix,Derek Warwick,9,0,14,58,RAS
+1988,San Marino Grand Prix,Philippe Streiff,10,0,13,58,RAS
+1988,San Marino Grand Prix,Luis Pérez-Sala,11,0,18,58,RAS
+1988,San Marino Grand Prix,Yannick Dalmas,12,0,19,58,RAS
+1988,San Marino Grand Prix,Riccardo Patrese,13,0,6,58,RAS
+1988,San Marino Grand Prix,Jonathan Palmer,14,0,23,58,RAS
+1988,San Marino Grand Prix,Maurício Gugelmin,15,0,20,58,RAS
+1988,San Marino Grand Prix,Adrián Campos,16,0,22,57,RAS
+1988,San Marino Grand Prix,Philippe Alliot,17,0,15,57,RAS
+1988,San Marino Grand Prix,Michele Alboreto,18,0,10,54,Engine
+1988,San Marino Grand Prix,Stefano Modena,19,0,26,52,Not classified
+1988,San Marino Grand Prix,Julian Bailey,20,0,21,48,Gearbox
+1988,San Marino Grand Prix,Nigel Mansell,21,0,11,42,Engine
+1988,San Marino Grand Prix,Gabriele Tarquini,22,0,17,40,Fuel system
+1988,San Marino Grand Prix,Alex Caffi,23,0,24,38,Gearbox
+1988,San Marino Grand Prix,Piercarlo Ghinzani,24,0,25,36,Gearbox
+1988,San Marino Grand Prix,Ivan Capelli,25,0,9,2,Gearbox
+1988,San Marino Grand Prix,Andrea de Cesaris,26,0,16,1,Suspension
+1988,San Marino Grand Prix,Nicola Larini,27,0,0,0,Excluded
+1988,Monaco Grand Prix,Alain Prost,1,9,2,78,RAS
+1988,Monaco Grand Prix,Gerhard Berger,2,6,3,78,RAS
+1988,Monaco Grand Prix,Michele Alboreto,3,4,4,78,RAS
+1988,Monaco Grand Prix,Derek Warwick,4,3,7,77,RAS
+1988,Monaco Grand Prix,Jonathan Palmer,5,2,10,77,RAS
+1988,Monaco Grand Prix,Riccardo Patrese,6,1,8,77,RAS
+1988,Monaco Grand Prix,Yannick Dalmas,7,0,21,77,RAS
+1988,Monaco Grand Prix,Thierry Boutsen,8,0,16,76,RAS
+1988,Monaco Grand Prix,Nicola Larini,9,0,25,75,RAS
+1988,Monaco Grand Prix,Ivan Capelli,10,0,22,72,RAS
+1988,Monaco Grand Prix,Ayrton Senna,11,0,1,66,Spun off
+1988,Monaco Grand Prix,Philippe Alliot,12,0,13,50,Collision
+1988,Monaco Grand Prix,Maurício Gugelmin,13,0,14,45,Fuel system
+1988,Monaco Grand Prix,Piercarlo Ghinzani,14,0,23,43,Gearbox
+1988,Monaco Grand Prix,Alessandro Nannini,15,0,6,38,Gearbox
+1988,Monaco Grand Prix,Luis Pérez-Sala,16,0,15,36,Halfshaft
+1988,Monaco Grand Prix,Nigel Mansell,17,0,5,32,Collision
+1988,Monaco Grand Prix,Andrea de Cesaris,18,0,19,28,Engine
+1988,Monaco Grand Prix,René Arnoux,19,0,20,17,Engine
+1988,Monaco Grand Prix,Oscar Larrauri,20,0,18,14,Brakes
+1988,Monaco Grand Prix,Eddie Cheever,21,0,9,8,Engine
+1988,Monaco Grand Prix,Stefan Johansson,22,0,26,6,Engine
+1988,Monaco Grand Prix,Gabriele Tarquini,23,0,24,5,Suspension
+1988,Monaco Grand Prix,Nelson Piquet,24,0,11,1,Collision
+1988,Monaco Grand Prix,Alex Caffi,25,0,17,0,Spun off
+1988,Monaco Grand Prix,Philippe Streiff,26,0,12,0,Throttle
+1988,Monaco Grand Prix,Stefano Modena,31,0,0,0,Excluded
+1988,Mexican Grand Prix,Alain Prost,1,9,2,67,RAS
+1988,Mexican Grand Prix,Ayrton Senna,2,6,1,67,RAS
+1988,Mexican Grand Prix,Gerhard Berger,3,4,3,67,RAS
+1988,Mexican Grand Prix,Michele Alboreto,4,3,5,66,RAS
+1988,Mexican Grand Prix,Derek Warwick,5,2,9,66,RAS
+1988,Mexican Grand Prix,Eddie Cheever,6,1,7,66,RAS
+1988,Mexican Grand Prix,Alessandro Nannini,7,0,8,65,RAS
+1988,Mexican Grand Prix,Thierry Boutsen,8,0,11,64,RAS
+1988,Mexican Grand Prix,Yannick Dalmas,9,0,22,64,RAS
+1988,Mexican Grand Prix,Stefan Johansson,10,0,24,63,RAS
+1988,Mexican Grand Prix,Luis Pérez-Sala,11,0,25,63,RAS
+1988,Mexican Grand Prix,Philippe Streiff,12,0,19,63,RAS
+1988,Mexican Grand Prix,Oscar Larrauri,13,0,26,63,RAS
+1988,Mexican Grand Prix,Gabriele Tarquini,14,0,21,62,RAS
+1988,Mexican Grand Prix,Piercarlo Ghinzani,15,0,18,61,RAS
+1988,Mexican Grand Prix,Ivan Capelli,16,0,10,61,RAS
+1988,Mexican Grand Prix,Nelson Piquet,17,0,4,58,Engine
+1988,Mexican Grand Prix,Andrea de Cesaris,18,0,12,52,Gearbox
+1988,Mexican Grand Prix,Satoru Nakajima,19,0,6,27,Engine
+1988,Mexican Grand Prix,Nigel Mansell,20,0,14,20,Engine
+1988,Mexican Grand Prix,Bernd Schneider,21,0,15,16,Engine
+1988,Mexican Grand Prix,Riccardo Patrese,22,0,17,16,Engine
+1988,Mexican Grand Prix,René Arnoux,23,0,20,13,Accident
+1988,Mexican Grand Prix,Alex Caffi,24,0,23,13,Brakes
+1988,Mexican Grand Prix,Maurício Gugelmin,25,0,16,10,Electrical
+1988,Mexican Grand Prix,Philippe Alliot,26,0,13,0,Suspension
+1988,Mexican Grand Prix,Stefano Modena,31,0,0,0,Excluded
+1988,Canadian Grand Prix,Ayrton Senna,1,9,1,69,RAS
+1988,Canadian Grand Prix,Alain Prost,2,6,2,69,RAS
+1988,Canadian Grand Prix,Thierry Boutsen,3,4,7,69,RAS
+1988,Canadian Grand Prix,Nelson Piquet,4,3,6,68,RAS
+1988,Canadian Grand Prix,Ivan Capelli,5,2,14,68,RAS
+1988,Canadian Grand Prix,Jonathan Palmer,6,1,19,67,RAS
+1988,Canadian Grand Prix,Derek Warwick,7,0,16,67,RAS
+1988,Canadian Grand Prix,Gabriele Tarquini,8,0,26,67,RAS
+1988,Canadian Grand Prix,Andrea de Cesaris,9,0,12,66,Out of fuel
+1988,Canadian Grand Prix,Philippe Alliot,10,0,17,66,Electrical
+1988,Canadian Grand Prix,Satoru Nakajima,11,0,13,66,RAS
+1988,Canadian Grand Prix,Stefano Modena,12,0,15,66,RAS
+1988,Canadian Grand Prix,Luis Pérez-Sala,13,0,21,64,RAS
+1988,Canadian Grand Prix,Piercarlo Ghinzani,14,0,22,63,Engine
+1988,Canadian Grand Prix,Maurício Gugelmin,15,0,18,54,Gearbox
+1988,Canadian Grand Prix,Philippe Streiff,16,0,10,41,Suspension
+1988,Canadian Grand Prix,René Arnoux,17,0,20,36,Transmission
+1988,Canadian Grand Prix,Michele Alboreto,18,0,4,33,Engine
+1988,Canadian Grand Prix,Riccardo Patrese,19,0,11,32,Engine
+1988,Canadian Grand Prix,Eddie Cheever,20,0,8,31,Throttle
+1988,Canadian Grand Prix,Nigel Mansell,21,0,9,28,Engine
+1988,Canadian Grand Prix,Stefan Johansson,22,0,25,24,Engine
+1988,Canadian Grand Prix,Gerhard Berger,23,0,3,22,Electrical
+1988,Canadian Grand Prix,Alessandro Nannini,24,0,5,15,Ignition
+1988,Canadian Grand Prix,Oscar Larrauri,25,0,24,8,Chassis
+1988,Canadian Grand Prix,Julian Bailey,26,0,23,0,Collision
+1988,Detroit Grand Prix,Ayrton Senna,1,9,1,63,RAS
+1988,Detroit Grand Prix,Alain Prost,2,6,4,63,RAS
+1988,Detroit Grand Prix,Thierry Boutsen,3,4,5,62,RAS
+1988,Detroit Grand Prix,Andrea de Cesaris,4,3,12,62,RAS
+1988,Detroit Grand Prix,Jonathan Palmer,5,2,17,62,RAS
+1988,Detroit Grand Prix,Pierluigi Martini,6,1,16,62,RAS
+1988,Detroit Grand Prix,Yannick Dalmas,7,0,24,61,RAS
+1988,Detroit Grand Prix,Alex Caffi,8,0,21,61,RAS
+1988,Detroit Grand Prix,Julian Bailey,9,0,22,59,Spun off
+1988,Detroit Grand Prix,Luis Pérez-Sala,10,0,25,54,Gearbox
+1988,Detroit Grand Prix,Philippe Alliot,11,0,14,46,Halfshaft
+1988,Detroit Grand Prix,Stefano Modena,12,0,19,46,Spun off
+1988,Detroit Grand Prix,Michele Alboreto,13,0,3,45,Collision
+1988,Detroit Grand Prix,René Arnoux,14,0,20,45,Overheating
+1988,Detroit Grand Prix,Maurício Gugelmin,15,0,13,34,Engine
+1988,Detroit Grand Prix,Riccardo Patrese,16,0,10,26,Electrical
+1988,Detroit Grand Prix,Nelson Piquet,17,0,8,26,Spun off
+1988,Detroit Grand Prix,Oscar Larrauri,18,0,23,26,Gearbox
+1988,Detroit Grand Prix,Derek Warwick,19,0,9,24,Spun off
+1988,Detroit Grand Prix,Nigel Mansell,20,0,6,18,Engine
+1988,Detroit Grand Prix,Philippe Streiff,21,0,11,15,Suspension
+1988,Detroit Grand Prix,Alessandro Nannini,22,0,7,14,Suspension
+1988,Detroit Grand Prix,Eddie Cheever,23,0,15,14,Electrical
+1988,Detroit Grand Prix,Nicola Larini,24,0,26,7,Engine
+1988,Detroit Grand Prix,Gerhard Berger,25,0,2,6,Puncture
+1988,Detroit Grand Prix,Stefan Johansson,26,0,18,2,Overheating
+1988,Detroit Grand Prix,Ivan Capelli,27,0,0,0,Injured
+1988,French Grand Prix,Alain Prost,1,9,1,80,RAS
+1988,French Grand Prix,Ayrton Senna,2,6,2,80,RAS
+1988,French Grand Prix,Michele Alboreto,3,4,4,80,RAS
+1988,French Grand Prix,Gerhard Berger,4,3,3,79,RAS
+1988,French Grand Prix,Nelson Piquet,5,2,7,79,RAS
+1988,French Grand Prix,Alessandro Nannini,6,1,6,79,RAS
+1988,French Grand Prix,Satoru Nakajima,7,0,8,79,RAS
+1988,French Grand Prix,Maurício Gugelmin,8,0,16,79,RAS
+1988,French Grand Prix,Ivan Capelli,9,0,10,79,RAS
+1988,French Grand Prix,Andrea de Cesaris,10,0,12,78,RAS
+1988,French Grand Prix,Eddie Cheever,11,0,13,78,RAS
+1988,French Grand Prix,Alex Caffi,12,0,14,78,RAS
+1988,French Grand Prix,Yannick Dalmas,13,0,19,78,RAS
+1988,French Grand Prix,Stefano Modena,14,0,20,77,RAS
+1988,French Grand Prix,Pierluigi Martini,15,0,22,77,RAS
+1988,French Grand Prix,Luis Pérez-Sala,16,0,25,70,Not classified
+1988,French Grand Prix,Oscar Larrauri,17,0,26,64,Clutch
+1988,French Grand Prix,Nicola Larini,18,0,24,56,Halfshaft
+1988,French Grand Prix,Bernd Schneider,19,0,21,55,Gearbox
+1988,French Grand Prix,Nigel Mansell,20,0,9,48,Suspension
+1988,French Grand Prix,Philippe Alliot,21,0,18,46,Electrical
+1988,French Grand Prix,Jonathan Palmer,22,0,23,40,Engine
+1988,French Grand Prix,Riccardo Patrese,23,0,15,35,Brakes
+1988,French Grand Prix,Thierry Boutsen,24,0,5,28,Engine
+1988,French Grand Prix,Philippe Streiff,25,0,17,20,Fuel leak
+1988,French Grand Prix,Derek Warwick,26,0,11,11,Spun off
+1988,French Grand Prix,Piercarlo Ghinzani,31,0,0,0,Excluded
+1988,British Grand Prix,Ayrton Senna,1,9,3,65,RAS
+1988,British Grand Prix,Nigel Mansell,2,6,11,65,RAS
+1988,British Grand Prix,Alessandro Nannini,3,4,8,65,RAS
+1988,British Grand Prix,Maurício Gugelmin,4,3,5,65,RAS
+1988,British Grand Prix,Nelson Piquet,5,2,7,65,RAS
+1988,British Grand Prix,Derek Warwick,6,1,9,64,RAS
+1988,British Grand Prix,Eddie Cheever,7,0,13,64,RAS
+1988,British Grand Prix,Riccardo Patrese,8,0,15,64,RAS
+1988,British Grand Prix,Gerhard Berger,9,0,1,64,RAS
+1988,British Grand Prix,Satoru Nakajima,10,0,10,64,RAS
+1988,British Grand Prix,Alex Caffi,11,0,21,64,RAS
+1988,British Grand Prix,Stefano Modena,12,0,20,64,RAS
+1988,British Grand Prix,Yannick Dalmas,13,0,23,63,RAS
+1988,British Grand Prix,Philippe Alliot,14,0,22,63,RAS
+1988,British Grand Prix,Pierluigi Martini,15,0,19,63,RAS
+1988,British Grand Prix,Julian Bailey,16,0,24,63,RAS
+1988,British Grand Prix,Michele Alboreto,17,0,2,62,Out of fuel
+1988,British Grand Prix,René Arnoux,18,0,25,62,RAS
+1988,British Grand Prix,Nicola Larini,19,0,26,60,Out of fuel
+1988,British Grand Prix,Thierry Boutsen,20,0,12,38,Transmission
+1988,British Grand Prix,Ivan Capelli,21,0,6,34,Alternator
+1988,British Grand Prix,Alain Prost,22,0,4,24,Handling
+1988,British Grand Prix,Jonathan Palmer,23,0,17,14,Engine
+1988,British Grand Prix,Andrea de Cesaris,24,0,14,9,Clutch
+1988,British Grand Prix,Philippe Streiff,25,0,16,8,Broken wing
+1988,British Grand Prix,Luis Pérez-Sala,26,0,18,0,Suspension
+1988,German Grand Prix,Ayrton Senna,1,9,1,44,RAS
+1988,German Grand Prix,Alain Prost,2,6,2,44,RAS
+1988,German Grand Prix,Gerhard Berger,3,4,3,44,RAS
+1988,German Grand Prix,Michele Alboreto,4,3,4,44,RAS
+1988,German Grand Prix,Ivan Capelli,5,2,7,44,RAS
+1988,German Grand Prix,Thierry Boutsen,6,1,9,43,RAS
+1988,German Grand Prix,Derek Warwick,7,0,12,43,RAS
+1988,German Grand Prix,Maurício Gugelmin,8,0,10,43,RAS
+1988,German Grand Prix,Satoru Nakajima,9,0,8,43,RAS
+1988,German Grand Prix,Eddie Cheever,10,0,15,43,RAS
+1988,German Grand Prix,Jonathan Palmer,11,0,24,43,RAS
+1988,German Grand Prix,Bernd Schneider,12,0,22,43,RAS
+1988,German Grand Prix,Andrea de Cesaris,13,0,14,42,RAS
+1988,German Grand Prix,Piercarlo Ghinzani,14,0,23,42,RAS
+1988,German Grand Prix,Alex Caffi,15,0,19,42,RAS
+1988,German Grand Prix,Oscar Larrauri,16,0,26,42,RAS
+1988,German Grand Prix,René Arnoux,17,0,17,41,RAS
+1988,German Grand Prix,Alessandro Nannini,18,0,6,40,RAS
+1988,German Grand Prix,Yannick Dalmas,19,0,21,39,Clutch
+1988,German Grand Prix,Philippe Streiff,20,0,16,38,Throttle
+1988,German Grand Prix,Riccardo Patrese,21,0,13,34,Spun off
+1988,German Grand Prix,Nicola Larini,22,0,18,27,Engine
+1988,German Grand Prix,Nigel Mansell,23,0,11,16,Spun off
+1988,German Grand Prix,Stefano Modena,24,0,25,15,Engine
+1988,German Grand Prix,Philippe Alliot,25,0,20,8,Spun off
+1988,German Grand Prix,Nelson Piquet,26,0,5,1,Spun off
+1988,Hungarian Grand Prix,Ayrton Senna,1,9,1,76,RAS
+1988,Hungarian Grand Prix,Alain Prost,2,6,7,76,RAS
+1988,Hungarian Grand Prix,Thierry Boutsen,3,4,3,76,RAS
+1988,Hungarian Grand Prix,Gerhard Berger,4,3,9,76,RAS
+1988,Hungarian Grand Prix,Maurício Gugelmin,5,2,8,75,RAS
+1988,Hungarian Grand Prix,Riccardo Patrese,6,1,6,75,RAS
+1988,Hungarian Grand Prix,Satoru Nakajima,7,0,19,73,RAS
+1988,Hungarian Grand Prix,Nelson Piquet,8,0,13,73,RAS
+1988,Hungarian Grand Prix,Yannick Dalmas,9,0,17,73,RAS
+1988,Hungarian Grand Prix,Luis Pérez-Sala,10,0,11,72,RAS
+1988,Hungarian Grand Prix,Stefano Modena,11,0,26,72,RAS
+1988,Hungarian Grand Prix,Philippe Alliot,12,0,20,72,RAS
+1988,Hungarian Grand Prix,Gabriele Tarquini,13,0,22,71,RAS
+1988,Hungarian Grand Prix,Derek Warwick,14,0,12,65,Brakes
+1988,Hungarian Grand Prix,Nigel Mansell,15,0,2,60,Driver unwell
+1988,Hungarian Grand Prix,Eddie Cheever,16,0,14,55,Brakes
+1988,Hungarian Grand Prix,Michele Alboreto,17,0,15,40,Electrical
+1988,Hungarian Grand Prix,René Arnoux,18,0,25,32,Engine
+1988,Hungarian Grand Prix,Andrea de Cesaris,19,0,18,28,Halfshaft
+1988,Hungarian Grand Prix,Alessandro Nannini,20,0,5,24,Overheating
+1988,Hungarian Grand Prix,Alex Caffi,21,0,10,22,Engine
+1988,Hungarian Grand Prix,Stefan Johansson,22,0,24,19,Throttle
+1988,Hungarian Grand Prix,Pierluigi Martini,23,0,16,8,Collision
+1988,Hungarian Grand Prix,Philippe Streiff,24,0,23,8,Collision
+1988,Hungarian Grand Prix,Ivan Capelli,25,0,4,5,Engine
+1988,Hungarian Grand Prix,Jonathan Palmer,26,0,21,3,Engine
+1988,Belgian Grand Prix,Ayrton Senna,1,9,1,43,RAS
+1988,Belgian Grand Prix,Alain Prost,2,6,2,43,RAS
+1988,Belgian Grand Prix,Ivan Capelli,3,4,14,43,RAS
+1988,Belgian Grand Prix,Nelson Piquet,4,3,9,43,RAS
+1988,Belgian Grand Prix,Derek Warwick,5,2,10,43,RAS
+1988,Belgian Grand Prix,Eddie Cheever,6,1,11,42,RAS
+1988,Belgian Grand Prix,Martin Brundle,7,0,12,42,RAS
+1988,Belgian Grand Prix,Alex Caffi,8,0,15,42,RAS
+1988,Belgian Grand Prix,Philippe Alliot,9,0,16,42,RAS
+1988,Belgian Grand Prix,Philippe Streiff,10,0,18,42,RAS
+1988,Belgian Grand Prix,Stefan Johansson,11,0,20,39,Engine
+1988,Belgian Grand Prix,Jonathan Palmer,12,0,21,39,Throttle
+1988,Belgian Grand Prix,Bernd Schneider,13,0,25,38,Gearbox
+1988,Belgian Grand Prix,Thierry Boutsen,14,0,6,43,DQ
+1988,Belgian Grand Prix,Alessandro Nannini,15,0,7,43,DQ
+1988,Belgian Grand Prix,Gabriele Tarquini,16,0,22,36,Steering
+1988,Belgian Grand Prix,Michele Alboreto,17,0,4,35,Engine
+1988,Belgian Grand Prix,Riccardo Patrese,18,0,5,30,Engine
+1988,Belgian Grand Prix,Maurício Gugelmin,19,0,13,29,Spun off
+1988,Belgian Grand Prix,Piercarlo Ghinzani,20,0,24,25,Oil leak
+1988,Belgian Grand Prix,Satoru Nakajima,21,0,8,22,Engine
+1988,Belgian Grand Prix,Nicola Larini,22,0,26,14,Fuel system
+1988,Belgian Grand Prix,Gerhard Berger,23,0,3,11,Injection
+1988,Belgian Grand Prix,Yannick Dalmas,24,0,23,9,Engine
+1988,Belgian Grand Prix,Andrea de Cesaris,25,0,19,2,Accident
+1988,Belgian Grand Prix,René Arnoux,26,0,17,2,Accident
+1988,Italian Grand Prix,Gerhard Berger,1,9,3,51,RAS
+1988,Italian Grand Prix,Michele Alboreto,2,6,4,51,RAS
+1988,Italian Grand Prix,Eddie Cheever,3,4,5,51,RAS
+1988,Italian Grand Prix,Derek Warwick,4,3,6,51,RAS
+1988,Italian Grand Prix,Ivan Capelli,5,2,11,51,RAS
+1988,Italian Grand Prix,Thierry Boutsen,6,1,8,51,RAS
+1988,Italian Grand Prix,Riccardo Patrese,7,0,10,51,RAS
+1988,Italian Grand Prix,Maurício Gugelmin,8,0,13,51,RAS
+1988,Italian Grand Prix,Alessandro Nannini,9,0,9,50,RAS
+1988,Italian Grand Prix,Ayrton Senna,10,0,1,49,Collision
+1988,Italian Grand Prix,Jean-Louis Schlesser,11,0,22,49,RAS
+1988,Italian Grand Prix,Julian Bailey,12,0,26,49,RAS
+1988,Italian Grand Prix,René Arnoux,13,0,24,49,RAS
+1988,Italian Grand Prix,Alain Prost,14,0,2,34,Engine
+1988,Italian Grand Prix,Philippe Alliot,15,0,20,33,Engine
+1988,Italian Grand Prix,Philippe Streiff,16,0,23,31,Clutch
+1988,Italian Grand Prix,Bernd Schneider,17,0,15,28,Engine
+1988,Italian Grand Prix,Andrea de Cesaris,18,0,18,27,Chassis
+1988,Italian Grand Prix,Piercarlo Ghinzani,19,0,16,25,Engine
+1988,Italian Grand Prix,Alex Caffi,20,0,21,24,Engine
+1988,Italian Grand Prix,Yannick Dalmas,21,0,25,17,Radiator
+1988,Italian Grand Prix,Pierluigi Martini,22,0,14,15,Engine
+1988,Italian Grand Prix,Satoru Nakajima,23,0,12,14,Engine
+1988,Italian Grand Prix,Luis Pérez-Sala,24,0,19,12,Gearbox
+1988,Italian Grand Prix,Nelson Piquet,25,0,7,11,Clutch
+1988,Italian Grand Prix,Nicola Larini,26,0,17,2,Engine
+1988,Portuguese Grand Prix,Alain Prost,1,9,1,70,RAS
+1988,Portuguese Grand Prix,Ivan Capelli,2,6,3,70,RAS
+1988,Portuguese Grand Prix,Thierry Boutsen,3,4,13,70,RAS
+1988,Portuguese Grand Prix,Derek Warwick,4,3,10,70,RAS
+1988,Portuguese Grand Prix,Michele Alboreto,5,2,7,70,RAS
+1988,Portuguese Grand Prix,Ayrton Senna,6,1,2,70,RAS
+1988,Portuguese Grand Prix,Alex Caffi,7,0,17,69,RAS
+1988,Portuguese Grand Prix,Luis Pérez-Sala,8,0,19,68,RAS
+1988,Portuguese Grand Prix,Philippe Streiff,9,0,21,68,RAS
+1988,Portuguese Grand Prix,René Arnoux,10,0,23,68,RAS
+1988,Portuguese Grand Prix,Gabriele Tarquini,11,0,26,65,RAS
+1988,Portuguese Grand Prix,Nicola Larini,12,0,25,63,RAS
+1988,Portuguese Grand Prix,Maurício Gugelmin,13,0,5,59,Engine
+1988,Portuguese Grand Prix,Nigel Mansell,14,0,6,54,Spun off
+1988,Portuguese Grand Prix,Jonathan Palmer,15,0,22,53,Overheating
+1988,Portuguese Grand Prix,Alessandro Nannini,16,0,9,52,Handling
+1988,Portuguese Grand Prix,Gerhard Berger,17,0,4,35,Spun off
+1988,Portuguese Grand Prix,Nelson Piquet,18,0,8,34,Clutch
+1988,Portuguese Grand Prix,Riccardo Patrese,19,0,11,29,Radiator
+1988,Portuguese Grand Prix,Pierluigi Martini,20,0,14,27,Engine
+1988,Portuguese Grand Prix,Yannick Dalmas,21,0,15,20,Alternator
+1988,Portuguese Grand Prix,Satoru Nakajima,22,0,16,16,Spun off
+1988,Portuguese Grand Prix,Andrea de Cesaris,23,0,12,11,Halfshaft
+1988,Portuguese Grand Prix,Eddie Cheever,24,0,18,10,Turbo
+1988,Portuguese Grand Prix,Philippe Alliot,25,0,20,7,Engine
+1988,Portuguese Grand Prix,Stefan Johansson,26,0,24,4,Engine
+1988,Spanish Grand Prix,Alain Prost,1,9,2,72,RAS
+1988,Spanish Grand Prix,Nigel Mansell,2,6,3,72,RAS
+1988,Spanish Grand Prix,Alessandro Nannini,3,4,5,72,RAS
+1988,Spanish Grand Prix,Ayrton Senna,4,3,1,72,RAS
+1988,Spanish Grand Prix,Riccardo Patrese,5,2,7,72,RAS
+1988,Spanish Grand Prix,Gerhard Berger,6,1,8,72,RAS
+1988,Spanish Grand Prix,Maurício Gugelmin,7,0,11,72,RAS
+1988,Spanish Grand Prix,Nelson Piquet,8,0,9,72,RAS
+1988,Spanish Grand Prix,Thierry Boutsen,9,0,4,72,RAS
+1988,Spanish Grand Prix,Alex Caffi,10,0,18,71,RAS
+1988,Spanish Grand Prix,Yannick Dalmas,11,0,16,71,RAS
+1988,Spanish Grand Prix,Luis Pérez-Sala,12,0,24,70,RAS
+1988,Spanish Grand Prix,Stefano Modena,13,0,26,70,RAS
+1988,Spanish Grand Prix,Philippe Alliot,14,0,12,69,RAS
+1988,Spanish Grand Prix,Stefan Johansson,15,0,21,62,Wheel
+1988,Spanish Grand Prix,Eddie Cheever,16,0,25,60,Chassis
+1988,Spanish Grand Prix,Ivan Capelli,17,0,6,45,Engine
+1988,Spanish Grand Prix,Derek Warwick,18,0,17,41,Chassis
+1988,Spanish Grand Prix,Andrea de Cesaris,19,0,23,37,Engine
+1988,Spanish Grand Prix,Philippe Streiff,20,0,13,16,Engine
+1988,Spanish Grand Prix,Michele Alboreto,21,0,10,15,Engine
+1988,Spanish Grand Prix,Pierluigi Martini,22,0,20,15,Gearbox
+1988,Spanish Grand Prix,Satoru Nakajima,23,0,15,14,Spun off
+1988,Spanish Grand Prix,Nicola Larini,24,0,14,9,Suspension
+1988,Spanish Grand Prix,Jonathan Palmer,25,0,22,4,Chassis
+1988,Spanish Grand Prix,René Arnoux,26,0,19,0,Throttle
+1988,Japanese Grand Prix,Ayrton Senna,1,9,1,51,RAS
+1988,Japanese Grand Prix,Alain Prost,2,6,2,51,RAS
+1988,Japanese Grand Prix,Thierry Boutsen,3,4,10,51,RAS
+1988,Japanese Grand Prix,Gerhard Berger,4,3,3,51,RAS
+1988,Japanese Grand Prix,Alessandro Nannini,5,2,12,51,RAS
+1988,Japanese Grand Prix,Riccardo Patrese,6,1,11,51,RAS
+1988,Japanese Grand Prix,Satoru Nakajima,7,0,6,50,RAS
+1988,Japanese Grand Prix,Philippe Streiff,8,0,18,50,RAS
+1988,Japanese Grand Prix,Philippe Alliot,9,0,19,50,RAS
+1988,Japanese Grand Prix,Maurício Gugelmin,10,0,13,50,RAS
+1988,Japanese Grand Prix,Michele Alboreto,11,0,9,50,RAS
+1988,Japanese Grand Prix,Jonathan Palmer,12,0,16,50,RAS
+1988,Japanese Grand Prix,Pierluigi Martini,13,0,17,49,RAS
+1988,Japanese Grand Prix,Julian Bailey,14,0,26,49,RAS
+1988,Japanese Grand Prix,Luis Pérez-Sala,15,0,22,49,RAS
+1988,Japanese Grand Prix,Aguri Suzuki,16,0,20,48,RAS
+1988,Japanese Grand Prix,René Arnoux,17,0,23,48,RAS
+1988,Japanese Grand Prix,Andrea de Cesaris,18,0,14,36,Overheating
+1988,Japanese Grand Prix,Eddie Cheever,19,0,15,35,Ignition
+1988,Japanese Grand Prix,Nicola Larini,20,0,24,34,Brakes
+1988,Japanese Grand Prix,Nelson Piquet,21,0,5,34,Driver unwell
+1988,Japanese Grand Prix,Nigel Mansell,22,0,8,24,Collision
+1988,Japanese Grand Prix,Alex Caffi,23,0,21,22,Spun off
+1988,Japanese Grand Prix,Ivan Capelli,24,0,4,19,Electrical
+1988,Japanese Grand Prix,Derek Warwick,25,0,7,16,Spun off
+1988,Japanese Grand Prix,Bernd Schneider,26,0,25,14,Driver unwell
+1988,Australian Grand Prix,Alain Prost,1,9,2,82,RAS
+1988,Australian Grand Prix,Ayrton Senna,2,6,1,82,RAS
+1988,Australian Grand Prix,Nelson Piquet,3,4,5,82,RAS
+1988,Australian Grand Prix,Riccardo Patrese,4,3,6,82,RAS
+1988,Australian Grand Prix,Thierry Boutsen,5,2,10,81,RAS
+1988,Australian Grand Prix,Ivan Capelli,6,1,9,81,RAS
+1988,Australian Grand Prix,Pierluigi Martini,7,0,14,80,RAS
+1988,Australian Grand Prix,Andrea de Cesaris,8,0,15,77,Out of fuel
+1988,Australian Grand Prix,Stefan Johansson,9,0,22,76,Out of fuel
+1988,Australian Grand Prix,Philippe Alliot,10,0,24,75,Out of fuel
+1988,Australian Grand Prix,Philippe Streiff,11,0,16,73,Electrical
+1988,Australian Grand Prix,Piercarlo Ghinzani,12,0,26,69,Fuel system
+1988,Australian Grand Prix,Nigel Mansell,13,0,3,65,Spun off
+1988,Australian Grand Prix,Alessandro Nannini,14,0,8,63,Spun off
+1988,Australian Grand Prix,Stefano Modena,15,0,20,63,Halfshaft
+1988,Australian Grand Prix,Derek Warwick,16,0,7,52,Engine
+1988,Australian Grand Prix,Eddie Cheever,17,0,18,51,Engine
+1988,Australian Grand Prix,Maurício Gugelmin,18,0,19,46,Collision
+1988,Australian Grand Prix,Satoru Nakajima,19,0,13,45,Collision
+1988,Australian Grand Prix,Luis Pérez-Sala,20,0,21,41,Engine
+1988,Australian Grand Prix,Alex Caffi,21,0,11,32,Clutch
+1988,Australian Grand Prix,Gerhard Berger,22,0,4,25,Collision
+1988,Australian Grand Prix,René Arnoux,23,0,23,24,Collision
+1988,Australian Grand Prix,Jonathan Palmer,24,0,17,16,Transmission
+1988,Australian Grand Prix,Oscar Larrauri,25,0,25,12,Halfshaft
+1988,Australian Grand Prix,Michele Alboreto,26,0,12,0,Collision

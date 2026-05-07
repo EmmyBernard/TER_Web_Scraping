@@ -1,0 +1,178 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1969,South African Grand Prix,Jackie Stewart,1,9,4,80,RAS
+1969,South African Grand Prix,Graham Hill,2,6,7,80,RAS
+1969,South African Grand Prix,Denny Hulme,3,4,3,80,RAS
+1969,South African Grand Prix,Jo Siffert,4,3,12,80,RAS
+1969,South African Grand Prix,Bruce McLaren,5,2,8,79,RAS
+1969,South African Grand Prix,Jean-Pierre Beltoise,6,1,11,78,RAS
+1969,South African Grand Prix,Jackie Oliver,7,0,14,77,RAS
+1969,South African Grand Prix,Sam Tingle,8,0,17,73,RAS
+1969,South African Grand Prix,Peter de Klerk,9,0,16,67,Not classified
+1969,South African Grand Prix,Jochen Rindt,10,0,2,44,Fuel pump
+1969,South African Grand Prix,John Surtees,11,0,18,40,Engine
+1969,South African Grand Prix,Pedro Rodríguez,12,0,15,38,Water leak
+1969,South African Grand Prix,Chris Amon,13,0,5,34,Engine
+1969,South African Grand Prix,Jack Brabham,14,0,1,32,Handling
+1969,South African Grand Prix,Mario Andretti,15,0,6,31,Gearbox
+1969,South African Grand Prix,John Love,16,0,10,31,Ignition
+1969,South African Grand Prix,Jacky Ickx,17,0,13,20,Ignition
+1969,South African Grand Prix,Basil van Rooyen,18,0,9,12,Brakes
+1969,Spanish Grand Prix,Jackie Stewart,1,9,4,90,RAS
+1969,Spanish Grand Prix,Bruce McLaren,2,6,13,88,RAS
+1969,Spanish Grand Prix,Jean-Pierre Beltoise,3,4,12,87,RAS
+1969,Spanish Grand Prix,Denny Hulme,4,3,8,87,RAS
+1969,Spanish Grand Prix,John Surtees,5,2,9,84,RAS
+1969,Spanish Grand Prix,Jacky Ickx,6,1,7,83,RAS
+1969,Spanish Grand Prix,Pedro Rodríguez,7,0,14,73,Engine
+1969,Spanish Grand Prix,Chris Amon,8,0,2,56,Engine
+1969,Spanish Grand Prix,Jack Brabham,9,0,5,51,Engine
+1969,Spanish Grand Prix,Jo Siffert,10,0,6,30,Oil leak
+1969,Spanish Grand Prix,Jochen Rindt,11,0,1,19,Accident
+1969,Spanish Grand Prix,Piers Courage,12,0,11,18,Engine
+1969,Spanish Grand Prix,Graham Hill,13,0,3,8,Accident
+1969,Spanish Grand Prix,Jackie Oliver,14,0,10,1,Oil pipe
+1969,Monaco Grand Prix,Graham Hill,1,9,4,80,RAS
+1969,Monaco Grand Prix,Piers Courage,2,6,9,80,RAS
+1969,Monaco Grand Prix,Jo Siffert,3,4,5,80,RAS
+1969,Monaco Grand Prix,Richard Attwood,4,3,10,80,RAS
+1969,Monaco Grand Prix,Bruce McLaren,5,2,11,79,RAS
+1969,Monaco Grand Prix,Denny Hulme,6,1,12,78,RAS
+1969,Monaco Grand Prix,Vic Elford,7,0,16,74,RAS
+1969,Monaco Grand Prix,Jacky Ickx,8,0,7,48,Suspension
+1969,Monaco Grand Prix,Jackie Stewart,9,0,1,22,Halfshaft
+1969,Monaco Grand Prix,Jean-Pierre Beltoise,10,0,3,20,Halfshaft
+1969,Monaco Grand Prix,Chris Amon,11,0,2,16,Differential
+1969,Monaco Grand Prix,Pedro Rodríguez,12,0,14,15,Engine
+1969,Monaco Grand Prix,Silvio Moser,13,0,15,15,Halfshaft
+1969,Monaco Grand Prix,John Surtees,14,0,6,9,Gearbox
+1969,Monaco Grand Prix,Jack Brabham,15,0,8,9,Accident
+1969,Monaco Grand Prix,Jackie Oliver,16,0,13,0,Accident
+1969,Dutch Grand Prix,Jackie Stewart,1,9,2,90,RAS
+1969,Dutch Grand Prix,Jo Siffert,2,6,10,90,RAS
+1969,Dutch Grand Prix,Chris Amon,3,4,4,90,RAS
+1969,Dutch Grand Prix,Denny Hulme,4,3,7,90,RAS
+1969,Dutch Grand Prix,Jacky Ickx,5,2,5,90,RAS
+1969,Dutch Grand Prix,Jack Brabham,6,1,8,90,RAS
+1969,Dutch Grand Prix,Graham Hill,7,0,3,88,RAS
+1969,Dutch Grand Prix,Jean-Pierre Beltoise,8,0,11,87,RAS
+1969,Dutch Grand Prix,John Surtees,9,0,12,87,RAS
+1969,Dutch Grand Prix,Vic Elford,10,0,15,84,RAS
+1969,Dutch Grand Prix,Silvio Moser,11,0,14,54,Ignition
+1969,Dutch Grand Prix,Bruce McLaren,12,0,6,24,Suspension
+1969,Dutch Grand Prix,Jochen Rindt,13,0,1,16,Halfshaft
+1969,Dutch Grand Prix,Piers Courage,14,0,9,12,Clutch
+1969,Dutch Grand Prix,Jackie Oliver,15,0,13,9,Gearbox
+1969,French Grand Prix,Jackie Stewart,1,9,1,38,RAS
+1969,French Grand Prix,Jean-Pierre Beltoise,2,6,5,38,RAS
+1969,French Grand Prix,Jacky Ickx,3,4,4,38,RAS
+1969,French Grand Prix,Bruce McLaren,4,3,7,37,RAS
+1969,French Grand Prix,Vic Elford,5,2,10,37,RAS
+1969,French Grand Prix,Graham Hill,6,1,8,37,RAS
+1969,French Grand Prix,Silvio Moser,7,0,13,36,RAS
+1969,French Grand Prix,Denny Hulme,8,0,2,35,RAS
+1969,French Grand Prix,Jo Siffert,9,0,9,34,RAS
+1969,French Grand Prix,Chris Amon,10,0,6,30,Engine
+1969,French Grand Prix,Jochen Rindt,11,0,3,22,Physical
+1969,French Grand Prix,Piers Courage,12,0,11,21,Chassis
+1969,French Grand Prix,John Miles,13,0,12,1,Fuel pump
+1969,British Grand Prix,Jackie Stewart,1,9,2,84,RAS
+1969,British Grand Prix,Jacky Ickx,2,6,4,83,RAS
+1969,British Grand Prix,Bruce McLaren,3,4,7,83,RAS
+1969,British Grand Prix,Jochen Rindt,4,3,1,83,RAS
+1969,British Grand Prix,Piers Courage,5,2,10,83,RAS
+1969,British Grand Prix,Vic Elford,6,1,11,82,RAS
+1969,British Grand Prix,Graham Hill,7,0,12,82,RAS
+1969,British Grand Prix,Jo Siffert,8,0,9,81,RAS
+1969,British Grand Prix,Jean-Pierre Beltoise,9,0,17,78,RAS
+1969,British Grand Prix,John Miles,10,0,14,75,RAS
+1969,British Grand Prix,Pedro Rodríguez,11,0,8,61,Engine
+1969,British Grand Prix,Chris Amon,12,0,5,45,Gearbox
+1969,British Grand Prix,Denny Hulme,13,0,3,27,Ignition
+1969,British Grand Prix,Jackie Oliver,14,0,13,19,Transmission
+1969,British Grand Prix,Jo Bonnier,15,0,16,6,Engine
+1969,British Grand Prix,Derek Bell,16,0,15,5,Suspension
+1969,British Grand Prix,John Surtees,17,0,6,1,Suspension
+1969,German Grand Prix,Jacky Ickx,1,9,1,14,RAS
+1969,German Grand Prix,Jackie Stewart,2,6,2,14,RAS
+1969,German Grand Prix,Bruce McLaren,3,4,8,14,RAS
+1969,German Grand Prix,Graham Hill,4,3,9,14,RAS
+1969,German Grand Prix,Jo Siffert,5,2,4,12,Suspension
+1969,German Grand Prix,Jean-Pierre Beltoise,6,1,10,12,Suspension
+1969,German Grand Prix,Denny Hulme,7,0,5,11,Transmission
+1969,German Grand Prix,Jackie Oliver,8,0,16,11,Oil leak
+1969,German Grand Prix,Jochen Rindt,9,0,3,10,Ignition
+1969,German Grand Prix,Jo Bonnier,10,0,23,4,Fuel leak
+1969,German Grand Prix,Piers Courage,11,0,7,1,Accident
+1969,German Grand Prix,Vic Elford,12,0,6,0,Accident
+1969,German Grand Prix,Mario Andretti,13,0,15,0,Accident
+1969,German Grand Prix,John Surtees,14,0,11,0,Withdrew
+1969,Italian Grand Prix,Jackie Stewart,1,9,3,68,RAS
+1969,Italian Grand Prix,Jochen Rindt,2,6,1,68,RAS
+1969,Italian Grand Prix,Jean-Pierre Beltoise,3,4,6,68,RAS
+1969,Italian Grand Prix,Bruce McLaren,4,3,5,68,RAS
+1969,Italian Grand Prix,Piers Courage,5,2,4,68,RAS
+1969,Italian Grand Prix,Pedro Rodríguez,6,1,12,66,RAS
+1969,Italian Grand Prix,Denny Hulme,7,0,2,66,RAS
+1969,Italian Grand Prix,Jo Siffert,8,0,8,64,Engine
+1969,Italian Grand Prix,Graham Hill,9,0,9,63,Halfshaft
+1969,Italian Grand Prix,Jacky Ickx,10,0,15,61,Out of fuel
+1969,Italian Grand Prix,John Surtees,11,0,10,60,Not classified
+1969,Italian Grand Prix,Jackie Oliver,12,0,11,48,Oil pressure
+1969,Italian Grand Prix,Silvio Moser,13,0,13,9,Fuel leak
+1969,Italian Grand Prix,Jack Brabham,14,0,7,6,Oil leak
+1969,Italian Grand Prix,John Miles,15,0,14,3,Engine
+1969,Canadian Grand Prix,Jacky Ickx,1,9,1,90,RAS
+1969,Canadian Grand Prix,Jack Brabham,2,6,6,90,RAS
+1969,Canadian Grand Prix,Jochen Rindt,3,4,3,90,RAS
+1969,Canadian Grand Prix,Jean-Pierre Beltoise,4,3,2,89,RAS
+1969,Canadian Grand Prix,Bruce McLaren,5,2,9,87,RAS
+1969,Canadian Grand Prix,Johnny Servoz-Gavin,6,1,15,84,RAS
+1969,Canadian Grand Prix,Pete Lovely,7,0,16,81,RAS
+1969,Canadian Grand Prix,Bill Brack,8,0,18,80,Not classified
+1969,Canadian Grand Prix,Graham Hill,9,0,7,42,Engine
+1969,Canadian Grand Prix,Jo Siffert,10,0,8,40,Halfshaft
+1969,Canadian Grand Prix,John Miles,11,0,11,40,Gearbox
+1969,Canadian Grand Prix,Pedro Rodríguez,12,0,13,37,Oil pressure
+1969,Canadian Grand Prix,Jackie Stewart,13,0,4,32,Collision
+1969,Canadian Grand Prix,Al Pease,14,0,17,22,DQ
+1969,Canadian Grand Prix,John Surtees,15,0,14,15,Engine
+1969,Canadian Grand Prix,Piers Courage,16,0,10,13,Fuel leak
+1969,Canadian Grand Prix,John Cordts,17,0,19,10,Oil leak
+1969,Canadian Grand Prix,Denny Hulme,18,0,5,9,Distributor
+1969,Canadian Grand Prix,Jackie Oliver,19,0,12,2,Engine
+1969,Canadian Grand Prix,Silvio Moser,20,0,20,0,Accident
+1969,United States Grand Prix,Jochen Rindt,1,9,1,108,RAS
+1969,United States Grand Prix,Piers Courage,2,6,9,108,RAS
+1969,United States Grand Prix,John Surtees,3,4,11,106,RAS
+1969,United States Grand Prix,Jack Brabham,4,3,18,106,RAS
+1969,United States Grand Prix,Pedro Rodríguez,5,2,12,101,RAS
+1969,United States Grand Prix,Silvio Moser,6,1,17,98,RAS
+1969,United States Grand Prix,Johnny Servoz-Gavin,7,0,15,92,Not classified
+1969,United States Grand Prix,Graham Hill,8,0,4,90,Accident
+1969,United States Grand Prix,Jacky Ickx,9,0,8,77,Engine
+1969,United States Grand Prix,George Eaton,10,0,9,76,Engine
+1969,United States Grand Prix,Jean-Pierre Beltoise,11,0,7,72,Engine
+1969,United States Grand Prix,Denny Hulme,12,0,2,52,Gearbox
+1969,United States Grand Prix,Jackie Stewart,13,0,3,35,Engine
+1969,United States Grand Prix,Pete Lovely,14,0,16,25,Halfshaft
+1969,United States Grand Prix,Jackie Oliver,15,0,14,23,Engine
+1969,United States Grand Prix,Jo Siffert,16,0,13,3,Fuel system
+1969,United States Grand Prix,Mario Andretti,17,0,5,3,Suspension
+1969,United States Grand Prix,Bruce McLaren,18,0,6,0,Engine
+1969,Mexican Grand Prix,Denny Hulme,1,9,4,65,RAS
+1969,Mexican Grand Prix,Jacky Ickx,2,6,2,65,RAS
+1969,Mexican Grand Prix,Jack Brabham,3,4,1,65,RAS
+1969,Mexican Grand Prix,Jackie Stewart,4,3,3,65,RAS
+1969,Mexican Grand Prix,Jean-Pierre Beltoise,5,2,8,65,RAS
+1969,Mexican Grand Prix,Jackie Oliver,6,1,12,63,RAS
+1969,Mexican Grand Prix,Pedro Rodríguez,7,0,15,63,RAS
+1969,Mexican Grand Prix,Johnny Servoz-Gavin,8,0,14,63,RAS
+1969,Mexican Grand Prix,Pete Lovely,9,0,16,62,RAS
+1969,Mexican Grand Prix,Piers Courage,10,0,9,61,RAS
+1969,Mexican Grand Prix,Silvio Moser,11,0,13,60,Fuel leak
+1969,Mexican Grand Prix,John Surtees,12,0,10,53,Gearbox
+1969,Mexican Grand Prix,Jochen Rindt,13,0,6,21,Suspension
+1969,Mexican Grand Prix,George Eaton,14,0,17,6,Gearbox
+1969,Mexican Grand Prix,Jo Siffert,15,0,5,4,Accident
+1969,Mexican Grand Prix,John Miles,16,0,11,3,Fuel pump
+1969,Mexican Grand Prix,Bruce McLaren,17,0,7,0,Withdrew

@@ -1,0 +1,420 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1992,South African Grand Prix,Nigel Mansell,1,10,1,72,RAS
+1992,South African Grand Prix,Riccardo Patrese,2,6,4,72,RAS
+1992,South African Grand Prix,Ayrton Senna,3,4,2,72,RAS
+1992,South African Grand Prix,Michael Schumacher,4,3,6,72,RAS
+1992,South African Grand Prix,Gerhard Berger,5,2,3,72,RAS
+1992,South African Grand Prix,Johnny Herbert,6,1,11,71,RAS
+1992,South African Grand Prix,Érik Comas,7,0,13,71,RAS
+1992,South African Grand Prix,Aguri Suzuki,8,0,16,70,RAS
+1992,South African Grand Prix,Mika Häkkinen,9,0,21,70,RAS
+1992,South African Grand Prix,Michele Alboreto,10,0,17,70,RAS
+1992,South African Grand Prix,Maurício Gugelmin,11,0,23,70,RAS
+1992,South African Grand Prix,Ukyo Katayama,12,0,18,68,RAS
+1992,South African Grand Prix,Eric van de Poele,13,0,26,68,RAS
+1992,South African Grand Prix,Olivier Grouillard,14,0,12,62,Engine
+1992,South African Grand Prix,Thierry Boutsen,15,0,14,60,Fuel system
+1992,South African Grand Prix,Pierluigi Martini,16,0,25,56,Clutch
+1992,South African Grand Prix,Gianni Morbidelli,17,0,19,55,Engine
+1992,South African Grand Prix,Jyrki Järvilehto,18,0,24,44,Gearbox
+1992,South African Grand Prix,Christian Fittipaldi,19,0,20,43,Alternator
+1992,South African Grand Prix,Andrea de Cesaris,20,0,10,41,Engine
+1992,South African Grand Prix,Jean Alesi,21,0,5,40,Engine
+1992,South African Grand Prix,Ivan Capelli,22,0,9,28,Engine
+1992,South African Grand Prix,Gabriele Tarquini,23,0,15,23,Engine
+1992,South African Grand Prix,Karl Wendlinger,24,0,7,13,Overheating
+1992,South African Grand Prix,Bertrand Gachot,25,0,22,8,Steering
+1992,South African Grand Prix,Martin Brundle,26,0,8,1,Clutch
+1992,Mexican Grand Prix,Nigel Mansell,1,10,1,69,RAS
+1992,Mexican Grand Prix,Riccardo Patrese,2,6,2,69,RAS
+1992,Mexican Grand Prix,Michael Schumacher,3,4,3,69,RAS
+1992,Mexican Grand Prix,Gerhard Berger,4,3,5,69,RAS
+1992,Mexican Grand Prix,Andrea de Cesaris,5,2,11,68,RAS
+1992,Mexican Grand Prix,Mika Häkkinen,6,1,18,68,RAS
+1992,Mexican Grand Prix,Johnny Herbert,7,0,12,68,RAS
+1992,Mexican Grand Prix,Jyrki Järvilehto,8,0,7,68,RAS
+1992,Mexican Grand Prix,Érik Comas,9,0,26,67,RAS
+1992,Mexican Grand Prix,Thierry Boutsen,10,0,22,67,RAS
+1992,Mexican Grand Prix,Bertrand Gachot,11,0,13,66,RAS
+1992,Mexican Grand Prix,Ukyo Katayama,12,0,24,66,RAS
+1992,Mexican Grand Prix,Michele Alboreto,13,0,25,65,RAS
+1992,Mexican Grand Prix,Martin Brundle,14,0,4,47,Engine
+1992,Mexican Grand Prix,Gabriele Tarquini,15,0,14,45,Clutch
+1992,Mexican Grand Prix,Andrea Chiesa,16,0,23,37,Spun off
+1992,Mexican Grand Prix,Pierluigi Martini,17,0,9,36,Handling
+1992,Mexican Grand Prix,Jean Alesi,18,0,10,31,Engine
+1992,Mexican Grand Prix,Gianni Morbidelli,19,0,21,29,Spun off
+1992,Mexican Grand Prix,Stefano Modena,20,0,15,17,Gearbox
+1992,Mexican Grand Prix,Olivier Grouillard,21,0,16,12,Engine
+1992,Mexican Grand Prix,Ayrton Senna,22,0,6,11,Transmission
+1992,Mexican Grand Prix,Christian Fittipaldi,23,0,17,2,Spun off
+1992,Mexican Grand Prix,Maurício Gugelmin,24,0,8,0,Engine
+1992,Mexican Grand Prix,Karl Wendlinger,25,0,19,0,Collision
+1992,Mexican Grand Prix,Ivan Capelli,26,0,20,0,Collision
+1992,Brazilian Grand Prix,Nigel Mansell,1,10,1,71,RAS
+1992,Brazilian Grand Prix,Riccardo Patrese,2,6,2,71,RAS
+1992,Brazilian Grand Prix,Michael Schumacher,3,4,5,70,RAS
+1992,Brazilian Grand Prix,Jean Alesi,4,3,6,70,RAS
+1992,Brazilian Grand Prix,Ivan Capelli,5,2,11,70,RAS
+1992,Brazilian Grand Prix,Michele Alboreto,6,1,14,70,RAS
+1992,Brazilian Grand Prix,Gianni Morbidelli,7,0,23,69,RAS
+1992,Brazilian Grand Prix,Jyrki Järvilehto,8,0,16,69,RAS
+1992,Brazilian Grand Prix,Ukyo Katayama,9,0,25,68,RAS
+1992,Brazilian Grand Prix,Mika Häkkinen,10,0,24,67,RAS
+1992,Brazilian Grand Prix,Gabriele Tarquini,11,0,19,62,Engine
+1992,Brazilian Grand Prix,Karl Wendlinger,12,0,9,55,Clutch
+1992,Brazilian Grand Prix,Christian Fittipaldi,13,0,20,54,Gearbox
+1992,Brazilian Grand Prix,Olivier Grouillard,14,0,17,52,Engine
+1992,Brazilian Grand Prix,Érik Comas,15,0,15,42,Gearbox
+1992,Brazilian Grand Prix,Johnny Herbert,16,0,26,36,Spun off
+1992,Brazilian Grand Prix,Thierry Boutsen,17,0,10,36,Collision
+1992,Brazilian Grand Prix,Maurício Gugelmin,18,0,21,36,Gearbox
+1992,Brazilian Grand Prix,Martin Brundle,19,0,7,30,Collision
+1992,Brazilian Grand Prix,Pierluigi Martini,20,0,8,24,Clutch
+1992,Brazilian Grand Prix,Bertrand Gachot,21,0,18,23,Suspension
+1992,Brazilian Grand Prix,Andrea de Cesaris,22,0,13,21,Engine
+1992,Brazilian Grand Prix,Ayrton Senna,23,0,3,17,Engine
+1992,Brazilian Grand Prix,Gerhard Berger,24,0,4,4,Electrical
+1992,Brazilian Grand Prix,Aguri Suzuki,25,0,22,2,Engine
+1992,Brazilian Grand Prix,Stefano Modena,26,0,12,1,Gearbox
+1992,Spanish Grand Prix,Nigel Mansell,1,10,1,65,RAS
+1992,Spanish Grand Prix,Michael Schumacher,2,6,2,65,RAS
+1992,Spanish Grand Prix,Jean Alesi,3,4,8,65,RAS
+1992,Spanish Grand Prix,Gerhard Berger,4,3,7,65,RAS
+1992,Spanish Grand Prix,Michele Alboreto,5,2,16,64,RAS
+1992,Spanish Grand Prix,Pierluigi Martini,6,1,13,63,RAS
+1992,Spanish Grand Prix,Aguri Suzuki,7,0,19,63,RAS
+1992,Spanish Grand Prix,Karl Wendlinger,8,0,9,63,RAS
+1992,Spanish Grand Prix,Ayrton Senna,9,0,3,62,Spun off
+1992,Spanish Grand Prix,Ivan Capelli,10,0,5,62,Spun off
+1992,Spanish Grand Prix,Christian Fittipaldi,11,0,22,61,RAS
+1992,Spanish Grand Prix,Paul Belmondo,12,0,23,61,RAS
+1992,Spanish Grand Prix,Jyrki Järvilehto,13,0,12,56,Spun off
+1992,Spanish Grand Prix,Gabriele Tarquini,14,0,18,56,Spun off
+1992,Spanish Grand Prix,Mika Häkkinen,15,0,21,56,Spun off
+1992,Spanish Grand Prix,Érik Comas,16,0,10,55,Spun off
+1992,Spanish Grand Prix,Bertrand Gachot,17,0,24,35,Engine
+1992,Spanish Grand Prix,Olivier Grouillard,18,0,15,30,Spun off
+1992,Spanish Grand Prix,Gianni Morbidelli,19,0,25,26,Handling
+1992,Spanish Grand Prix,Maurício Gugelmin,20,0,17,24,Spun off
+1992,Spanish Grand Prix,Andrea Chiesa,21,0,20,22,Spun off
+1992,Spanish Grand Prix,Riccardo Patrese,22,0,4,19,Spun off
+1992,Spanish Grand Prix,Johnny Herbert,23,0,26,13,Spun off
+1992,Spanish Grand Prix,Thierry Boutsen,24,0,14,11,Engine
+1992,Spanish Grand Prix,Martin Brundle,25,0,6,4,Spun off
+1992,Spanish Grand Prix,Andrea de Cesaris,26,0,11,2,Engine
+1992,San Marino Grand Prix,Nigel Mansell,1,10,1,60,RAS
+1992,San Marino Grand Prix,Riccardo Patrese,2,6,2,60,RAS
+1992,San Marino Grand Prix,Ayrton Senna,3,4,3,60,RAS
+1992,San Marino Grand Prix,Martin Brundle,4,3,6,60,RAS
+1992,San Marino Grand Prix,Michele Alboreto,5,2,9,59,RAS
+1992,San Marino Grand Prix,Pierluigi Martini,6,1,15,59,RAS
+1992,San Marino Grand Prix,Maurício Gugelmin,7,0,16,58,RAS
+1992,San Marino Grand Prix,Olivier Grouillard,8,0,20,58,RAS
+1992,San Marino Grand Prix,Érik Comas,9,0,13,58,RAS
+1992,San Marino Grand Prix,Aguri Suzuki,10,0,11,58,RAS
+1992,San Marino Grand Prix,Jyrki Järvilehto,11,0,16,57,Engine
+1992,San Marino Grand Prix,Karl Wendlinger,12,0,12,57,RAS
+1992,San Marino Grand Prix,Paul Belmondo,13,0,24,57,RAS
+1992,San Marino Grand Prix,Andrea de Cesaris,14,0,14,55,Fuel system
+1992,San Marino Grand Prix,Ukyo Katayama,15,0,17,40,Spun off
+1992,San Marino Grand Prix,Jean Alesi,16,0,7,39,Collision
+1992,San Marino Grand Prix,Gerhard Berger,17,0,4,39,Collision
+1992,San Marino Grand Prix,Bertrand Gachot,18,0,19,32,Spun off
+1992,San Marino Grand Prix,Thierry Boutsen,19,0,10,29,Engine
+1992,San Marino Grand Prix,Stefano Modena,20,0,23,25,Gearbox
+1992,San Marino Grand Prix,Gianni Morbidelli,21,0,21,24,Engine
+1992,San Marino Grand Prix,Gabriele Tarquini,22,0,22,24,Engine
+1992,San Marino Grand Prix,Michael Schumacher,23,0,5,20,Spun off
+1992,San Marino Grand Prix,Ivan Capelli,24,0,8,11,Spun off
+1992,San Marino Grand Prix,Christian Fittipaldi,25,0,25,8,Gearbox
+1992,San Marino Grand Prix,Johnny Herbert,26,0,26,8,Gearbox
+1992,Monaco Grand Prix,Ayrton Senna,1,10,3,78,RAS
+1992,Monaco Grand Prix,Nigel Mansell,2,6,1,78,RAS
+1992,Monaco Grand Prix,Riccardo Patrese,3,4,2,78,RAS
+1992,Monaco Grand Prix,Michael Schumacher,4,3,6,78,RAS
+1992,Monaco Grand Prix,Martin Brundle,5,2,7,78,RAS
+1992,Monaco Grand Prix,Bertrand Gachot,6,1,15,77,RAS
+1992,Monaco Grand Prix,Michele Alboreto,7,0,11,77,RAS
+1992,Monaco Grand Prix,Christian Fittipaldi,8,0,17,77,RAS
+1992,Monaco Grand Prix,Jyrki Järvilehto,9,0,20,76,RAS
+1992,Monaco Grand Prix,Érik Comas,10,0,23,76,RAS
+1992,Monaco Grand Prix,Aguri Suzuki,11,0,19,76,RAS
+1992,Monaco Grand Prix,Thierry Boutsen,12,0,22,75,RAS
+1992,Monaco Grand Prix,Ivan Capelli,13,0,8,60,Spun off
+1992,Monaco Grand Prix,Gerhard Berger,14,0,5,32,Gearbox
+1992,Monaco Grand Prix,Mika Häkkinen,15,0,14,30,Gearbox
+1992,Monaco Grand Prix,Jean Alesi,16,0,4,28,Gearbox
+1992,Monaco Grand Prix,Maurício Gugelmin,17,0,13,18,Gearbox
+1992,Monaco Grand Prix,Johnny Herbert,18,0,9,17,Spun off
+1992,Monaco Grand Prix,Roberto Moreno,19,0,26,11,Engine
+1992,Monaco Grand Prix,Andrea de Cesaris,20,0,10,9,Gearbox
+1992,Monaco Grand Prix,Gabriele Tarquini,21,0,25,9,Engine
+1992,Monaco Grand Prix,Stefano Modena,22,0,21,6,Spun off
+1992,Monaco Grand Prix,Olivier Grouillard,23,0,24,4,Transmission
+1992,Monaco Grand Prix,Karl Wendlinger,24,0,16,1,Gearbox
+1992,Monaco Grand Prix,Gianni Morbidelli,25,0,12,1,Gearbox
+1992,Monaco Grand Prix,Pierluigi Martini,26,0,18,0,Spun off
+1992,Canadian Grand Prix,Gerhard Berger,1,10,4,69,RAS
+1992,Canadian Grand Prix,Michael Schumacher,2,6,5,69,RAS
+1992,Canadian Grand Prix,Jean Alesi,3,4,8,69,RAS
+1992,Canadian Grand Prix,Karl Wendlinger,4,3,12,68,RAS
+1992,Canadian Grand Prix,Andrea de Cesaris,5,2,14,68,RAS
+1992,Canadian Grand Prix,Érik Comas,6,1,22,68,RAS
+1992,Canadian Grand Prix,Michele Alboreto,7,0,16,68,RAS
+1992,Canadian Grand Prix,Pierluigi Martini,8,0,15,68,RAS
+1992,Canadian Grand Prix,Jyrki Järvilehto,9,0,23,68,RAS
+1992,Canadian Grand Prix,Thierry Boutsen,10,0,21,67,RAS
+1992,Canadian Grand Prix,Gianni Morbidelli,11,0,13,67,RAS
+1992,Canadian Grand Prix,Olivier Grouillard,12,0,26,67,RAS
+1992,Canadian Grand Prix,Christian Fittipaldi,13,0,25,65,RAS
+1992,Canadian Grand Prix,Paul Belmondo,14,0,20,64,RAS
+1992,Canadian Grand Prix,Ukyo Katayama,15,0,11,61,Engine
+1992,Canadian Grand Prix,Martin Brundle,16,0,7,45,Transmission
+1992,Canadian Grand Prix,Riccardo Patrese,17,0,2,43,Gearbox
+1992,Canadian Grand Prix,Ayrton Senna,18,0,1,37,Electrical
+1992,Canadian Grand Prix,Stefano Modena,19,0,17,36,Transmission
+1992,Canadian Grand Prix,Mika Häkkinen,20,0,10,35,Gearbox
+1992,Canadian Grand Prix,Johnny Herbert,21,0,6,34,Clutch
+1992,Canadian Grand Prix,Ivan Capelli,22,0,9,18,Spun off
+1992,Canadian Grand Prix,Nigel Mansell,23,0,3,14,Spun off
+1992,Canadian Grand Prix,Maurício Gugelmin,24,0,24,14,Transmission
+1992,Canadian Grand Prix,Bertrand Gachot,25,0,19,14,DQ
+1992,Canadian Grand Prix,Gabriele Tarquini,26,0,18,0,Transmission
+1992,French Grand Prix,Nigel Mansell,1,10,1,69,RAS
+1992,French Grand Prix,Riccardo Patrese,2,6,2,69,RAS
+1992,French Grand Prix,Martin Brundle,3,4,7,69,RAS
+1992,French Grand Prix,Mika Häkkinen,4,3,11,68,RAS
+1992,French Grand Prix,Érik Comas,5,2,10,68,RAS
+1992,French Grand Prix,Johnny Herbert,6,1,12,68,RAS
+1992,French Grand Prix,Michele Alboreto,7,0,14,68,RAS
+1992,French Grand Prix,Gianni Morbidelli,8,0,16,68,RAS
+1992,French Grand Prix,Jyrki Järvilehto,9,0,17,67,RAS
+1992,French Grand Prix,Pierluigi Martini,10,0,25,67,RAS
+1992,French Grand Prix,Olivier Grouillard,11,0,22,66,RAS
+1992,French Grand Prix,Jean Alesi,12,0,6,61,Engine
+1992,French Grand Prix,Andrea de Cesaris,13,0,19,51,Spun off
+1992,French Grand Prix,Ukyo Katayama,14,0,18,41,Engine
+1992,French Grand Prix,Thierry Boutsen,15,0,9,46,Spun off
+1992,French Grand Prix,Ivan Capelli,16,0,8,38,Engine
+1992,French Grand Prix,Karl Wendlinger,17,0,21,33,Gearbox
+1992,French Grand Prix,Stefano Modena,18,0,20,25,Engine
+1992,French Grand Prix,Aguri Suzuki,19,0,15,20,Spun off
+1992,French Grand Prix,Michael Schumacher,20,0,5,17,Accident
+1992,French Grand Prix,Gerhard Berger,21,0,4,10,Engine
+1992,French Grand Prix,Gabriele Tarquini,22,0,23,6,Throttle
+1992,French Grand Prix,Ayrton Senna,23,0,3,0,Accident
+1992,French Grand Prix,Bertrand Gachot,24,0,13,0,Accident
+1992,French Grand Prix,Maurício Gugelmin,25,0,24,0,Accident
+1992,French Grand Prix,Andrea Chiesa,26,0,26,0,Accident
+1992,British Grand Prix,Nigel Mansell,1,10,1,59,RAS
+1992,British Grand Prix,Riccardo Patrese,2,6,2,59,RAS
+1992,British Grand Prix,Martin Brundle,3,4,6,59,RAS
+1992,British Grand Prix,Michael Schumacher,4,3,4,59,RAS
+1992,British Grand Prix,Gerhard Berger,5,2,5,59,RAS
+1992,British Grand Prix,Mika Häkkinen,6,1,9,59,RAS
+1992,British Grand Prix,Michele Alboreto,7,0,12,58,RAS
+1992,British Grand Prix,Érik Comas,8,0,10,58,RAS
+1992,British Grand Prix,Ivan Capelli,9,0,14,58,RAS
+1992,British Grand Prix,Thierry Boutsen,10,0,13,57,RAS
+1992,British Grand Prix,Olivier Grouillard,11,0,20,57,RAS
+1992,British Grand Prix,Aguri Suzuki,12,0,17,57,RAS
+1992,British Grand Prix,Jyrki Järvilehto,13,0,19,57,RAS
+1992,British Grand Prix,Gabriele Tarquini,14,0,15,57,RAS
+1992,British Grand Prix,Pierluigi Martini,15,0,22,56,RAS
+1992,British Grand Prix,Damon Hill,16,0,26,55,RAS
+1992,British Grand Prix,Gianni Morbidelli,17,0,25,53,Engine
+1992,British Grand Prix,Ayrton Senna,18,0,3,52,Transmission
+1992,British Grand Prix,Andrea de Cesaris,19,0,18,46,Spun off
+1992,British Grand Prix,Jean Alesi,20,0,8,43,Mechanical
+1992,British Grand Prix,Stefano Modena,21,0,23,43,Engine
+1992,British Grand Prix,Maurício Gugelmin,22,0,24,37,Engine
+1992,British Grand Prix,Bertrand Gachot,23,0,11,32,Wheel
+1992,British Grand Prix,Johnny Herbert,24,0,7,31,Transmission
+1992,British Grand Prix,Karl Wendlinger,25,0,21,27,Gearbox
+1992,British Grand Prix,Ukyo Katayama,26,0,16,27,Transmission
+1992,British Grand Prix,Eric van de Poele,30,0,0,0,Withdrew
+1992,German Grand Prix,Nigel Mansell,1,10,1,45,RAS
+1992,German Grand Prix,Ayrton Senna,2,6,3,45,RAS
+1992,German Grand Prix,Michael Schumacher,3,4,6,45,RAS
+1992,German Grand Prix,Martin Brundle,4,3,9,45,RAS
+1992,German Grand Prix,Jean Alesi,5,2,5,45,RAS
+1992,German Grand Prix,Érik Comas,6,1,7,45,RAS
+1992,German Grand Prix,Thierry Boutsen,7,0,8,45,RAS
+1992,German Grand Prix,Riccardo Patrese,8,0,2,44,Spun off
+1992,German Grand Prix,Michele Alboreto,9,0,17,44,RAS
+1992,German Grand Prix,Jyrki Järvilehto,10,0,21,44,RAS
+1992,German Grand Prix,Pierluigi Martini,11,0,18,44,RAS
+1992,German Grand Prix,Gianni Morbidelli,12,0,26,44,RAS
+1992,German Grand Prix,Paul Belmondo,13,0,22,44,RAS
+1992,German Grand Prix,Bertrand Gachot,14,0,25,44,RAS
+1992,German Grand Prix,Maurício Gugelmin,15,0,23,43,RAS
+1992,German Grand Prix,Karl Wendlinger,16,0,10,42,RAS
+1992,German Grand Prix,Gabriele Tarquini,17,0,19,33,Engine
+1992,German Grand Prix,Andrea de Cesaris,18,0,20,25,Engine
+1992,German Grand Prix,Johnny Herbert,19,0,11,23,Engine
+1992,German Grand Prix,Ivan Capelli,20,0,12,21,Engine
+1992,German Grand Prix,Mika Häkkinen,21,0,13,21,Engine
+1992,German Grand Prix,Gerhard Berger,22,0,4,16,Electrical
+1992,German Grand Prix,Olivier Grouillard,23,0,14,8,Engine
+1992,German Grand Prix,Ukyo Katayama,24,0,16,8,Spun off
+1992,German Grand Prix,Aguri Suzuki,25,0,15,1,Spun off
+1992,German Grand Prix,Alessandro Zanardi,26,0,24,1,Gearbox
+1992,German Grand Prix,Perry McCarthy,32,0,0,0,Excluded
+1992,Hungarian Grand Prix,Ayrton Senna,1,10,3,77,RAS
+1992,Hungarian Grand Prix,Nigel Mansell,2,6,2,77,RAS
+1992,Hungarian Grand Prix,Gerhard Berger,3,4,5,77,RAS
+1992,Hungarian Grand Prix,Mika Häkkinen,4,3,16,77,RAS
+1992,Hungarian Grand Prix,Martin Brundle,5,2,6,77,RAS
+1992,Hungarian Grand Prix,Ivan Capelli,6,1,10,76,RAS
+1992,Hungarian Grand Prix,Michele Alboreto,7,0,7,75,RAS
+1992,Hungarian Grand Prix,Andrea de Cesaris,8,0,19,75,RAS
+1992,Hungarian Grand Prix,Paul Belmondo,9,0,17,74,RAS
+1992,Hungarian Grand Prix,Maurício Gugelmin,10,0,21,73,RAS
+1992,Hungarian Grand Prix,Damon Hill,11,0,25,73,RAS
+1992,Hungarian Grand Prix,Michael Schumacher,12,0,4,63,Broken wing
+1992,Hungarian Grand Prix,Riccardo Patrese,13,0,1,55,Engine
+1992,Hungarian Grand Prix,Pierluigi Martini,14,0,26,40,Gearbox
+1992,Hungarian Grand Prix,Ukyo Katayama,15,0,20,35,Engine
+1992,Hungarian Grand Prix,Jean Alesi,16,0,9,14,Spun off
+1992,Hungarian Grand Prix,Bertrand Gachot,17,0,15,13,Collision
+1992,Hungarian Grand Prix,Aguri Suzuki,18,0,14,13,Collision
+1992,Hungarian Grand Prix,Olivier Grouillard,19,0,22,13,Collision
+1992,Hungarian Grand Prix,Karl Wendlinger,20,0,23,13,Collision
+1992,Hungarian Grand Prix,Stefano Modena,21,0,24,13,Collision
+1992,Hungarian Grand Prix,Eric van de Poele,22,0,18,2,Spun off
+1992,Hungarian Grand Prix,Thierry Boutsen,23,0,8,0,Collision
+1992,Hungarian Grand Prix,Érik Comas,24,0,11,0,Collision
+1992,Hungarian Grand Prix,Gabriele Tarquini,25,0,12,0,Collision
+1992,Hungarian Grand Prix,Johnny Herbert,26,0,13,0,Collision
+1992,Belgian Grand Prix,Michael Schumacher,1,10,3,44,RAS
+1992,Belgian Grand Prix,Nigel Mansell,2,6,1,44,RAS
+1992,Belgian Grand Prix,Riccardo Patrese,3,4,4,44,RAS
+1992,Belgian Grand Prix,Martin Brundle,4,3,9,44,RAS
+1992,Belgian Grand Prix,Ayrton Senna,5,2,2,44,RAS
+1992,Belgian Grand Prix,Mika Häkkinen,6,1,8,44,RAS
+1992,Belgian Grand Prix,Jyrki Järvilehto,7,0,16,44,RAS
+1992,Belgian Grand Prix,Andrea de Cesaris,8,0,13,43,RAS
+1992,Belgian Grand Prix,Aguri Suzuki,9,0,25,43,RAS
+1992,Belgian Grand Prix,Eric van de Poele,10,0,15,43,RAS
+1992,Belgian Grand Prix,Karl Wendlinger,11,0,18,43,RAS
+1992,Belgian Grand Prix,Emanuele Naspetti,12,0,21,43,RAS
+1992,Belgian Grand Prix,Johnny Herbert,13,0,10,43,Engine
+1992,Belgian Grand Prix,Maurício Gugelmin,14,0,24,42,RAS
+1992,Belgian Grand Prix,Stefano Modena,15,0,17,42,RAS
+1992,Belgian Grand Prix,Gianni Morbidelli,16,0,23,42,RAS
+1992,Belgian Grand Prix,Ukyo Katayama,17,0,26,42,RAS
+1992,Belgian Grand Prix,Bertrand Gachot,18,0,20,40,Spun off
+1992,Belgian Grand Prix,Thierry Boutsen,19,0,7,27,Spun off
+1992,Belgian Grand Prix,Ivan Capelli,20,0,12,25,Engine
+1992,Belgian Grand Prix,Gabriele Tarquini,21,0,11,25,Engine
+1992,Belgian Grand Prix,Michele Alboreto,22,0,14,20,Gearbox
+1992,Belgian Grand Prix,Jean Alesi,23,0,5,7,Puncture
+1992,Belgian Grand Prix,Olivier Grouillard,24,0,22,1,Accident
+1992,Belgian Grand Prix,Gerhard Berger,25,0,6,0,Transmission
+1992,Belgian Grand Prix,Pierluigi Martini,26,0,19,0,Spun off
+1992,Belgian Grand Prix,Érik Comas,30,0,0,0,Withdrew
+1992,Italian Grand Prix,Ayrton Senna,1,10,2,53,RAS
+1992,Italian Grand Prix,Martin Brundle,2,6,9,53,RAS
+1992,Italian Grand Prix,Michael Schumacher,3,4,6,53,RAS
+1992,Italian Grand Prix,Gerhard Berger,4,3,5,53,RAS
+1992,Italian Grand Prix,Riccardo Patrese,5,2,4,53,RAS
+1992,Italian Grand Prix,Andrea de Cesaris,6,1,21,52,RAS
+1992,Italian Grand Prix,Michele Alboreto,7,0,16,52,RAS
+1992,Italian Grand Prix,Pierluigi Martini,8,0,22,52,RAS
+1992,Italian Grand Prix,Ukyo Katayama,9,0,23,50,Transmission
+1992,Italian Grand Prix,Karl Wendlinger,10,0,17,50,RAS
+1992,Italian Grand Prix,Jyrki Järvilehto,11,0,14,47,Engine
+1992,Italian Grand Prix,Maurício Gugelmin,12,0,26,46,Transmission
+1992,Italian Grand Prix,Nigel Mansell,13,0,1,41,Electrical
+1992,Italian Grand Prix,Thierry Boutsen,14,0,8,41,Throttle
+1992,Italian Grand Prix,Érik Comas,15,0,15,35,Spun off
+1992,Italian Grand Prix,Gabriele Tarquini,16,0,20,30,Gearbox
+1992,Italian Grand Prix,Olivier Grouillard,17,0,18,26,Engine
+1992,Italian Grand Prix,Johnny Herbert,18,0,13,18,Engine
+1992,Italian Grand Prix,Emanuele Naspetti,19,0,24,17,Engine
+1992,Italian Grand Prix,Jean Alesi,20,0,3,12,Fuel system
+1992,Italian Grand Prix,Ivan Capelli,21,0,7,12,Electrical
+1992,Italian Grand Prix,Gianni Morbidelli,22,0,12,12,Engine
+1992,Italian Grand Prix,Bertrand Gachot,23,0,10,11,Engine
+1992,Italian Grand Prix,Mika Häkkinen,24,0,11,5,Engine
+1992,Italian Grand Prix,Aguri Suzuki,25,0,19,2,Suspension
+1992,Italian Grand Prix,Eric van de Poele,26,0,25,0,Clutch
+1992,Portuguese Grand Prix,Nigel Mansell,1,10,1,71,RAS
+1992,Portuguese Grand Prix,Gerhard Berger,2,6,4,71,RAS
+1992,Portuguese Grand Prix,Ayrton Senna,3,4,3,70,RAS
+1992,Portuguese Grand Prix,Martin Brundle,4,3,6,70,RAS
+1992,Portuguese Grand Prix,Mika Häkkinen,5,2,7,70,RAS
+1992,Portuguese Grand Prix,Michele Alboreto,6,1,8,70,RAS
+1992,Portuguese Grand Prix,Michael Schumacher,7,0,5,69,RAS
+1992,Portuguese Grand Prix,Thierry Boutsen,8,0,11,69,RAS
+1992,Portuguese Grand Prix,Andrea de Cesaris,9,0,12,69,RAS
+1992,Portuguese Grand Prix,Aguri Suzuki,10,0,17,68,RAS
+1992,Portuguese Grand Prix,Emanuele Naspetti,11,0,23,68,RAS
+1992,Portuguese Grand Prix,Christian Fittipaldi,12,0,26,68,RAS
+1992,Portuguese Grand Prix,Stefano Modena,13,0,24,68,RAS
+1992,Portuguese Grand Prix,Gianni Morbidelli,14,0,18,68,RAS
+1992,Portuguese Grand Prix,Jyrki Järvilehto,15,0,19,51,Physical
+1992,Portuguese Grand Prix,Karl Wendlinger,16,0,22,48,Gearbox
+1992,Portuguese Grand Prix,Érik Comas,17,0,14,47,Engine
+1992,Portuguese Grand Prix,Ukyo Katayama,18,0,25,46,Spun off
+1992,Portuguese Grand Prix,Riccardo Patrese,19,0,2,43,Collision
+1992,Portuguese Grand Prix,Pierluigi Martini,20,0,21,43,Puncture
+1992,Portuguese Grand Prix,Ivan Capelli,21,0,16,34,Engine
+1992,Portuguese Grand Prix,Olivier Grouillard,22,0,15,27,Gearbox
+1992,Portuguese Grand Prix,Bertrand Gachot,23,0,13,25,Engine
+1992,Portuguese Grand Prix,Maurício Gugelmin,24,0,20,19,Electrical
+1992,Portuguese Grand Prix,Jean Alesi,25,0,10,12,Spun off
+1992,Portuguese Grand Prix,Johnny Herbert,26,0,9,2,Accident
+1992,Japanese Grand Prix,Riccardo Patrese,1,10,2,53,RAS
+1992,Japanese Grand Prix,Gerhard Berger,2,6,4,53,RAS
+1992,Japanese Grand Prix,Martin Brundle,3,4,13,53,RAS
+1992,Japanese Grand Prix,Andrea de Cesaris,4,3,9,52,RAS
+1992,Japanese Grand Prix,Jean Alesi,5,2,15,52,RAS
+1992,Japanese Grand Prix,Christian Fittipaldi,6,1,12,52,RAS
+1992,Japanese Grand Prix,Stefano Modena,7,0,17,52,RAS
+1992,Japanese Grand Prix,Aguri Suzuki,8,0,16,52,RAS
+1992,Japanese Grand Prix,Jyrki Järvilehto,9,0,22,52,RAS
+1992,Japanese Grand Prix,Pierluigi Martini,10,0,19,52,RAS
+1992,Japanese Grand Prix,Ukyo Katayama,11,0,20,52,RAS
+1992,Japanese Grand Prix,Nicola Larini,12,0,11,52,RAS
+1992,Japanese Grand Prix,Emanuele Naspetti,13,0,26,51,RAS
+1992,Japanese Grand Prix,Gianni Morbidelli,14,0,14,51,RAS
+1992,Japanese Grand Prix,Michele Alboreto,15,0,24,51,RAS
+1992,Japanese Grand Prix,Nigel Mansell,16,0,1,44,Engine
+1992,Japanese Grand Prix,Mika Häkkinen,17,0,7,44,Engine
+1992,Japanese Grand Prix,Bertrand Gachot,18,0,18,39,Collision
+1992,Japanese Grand Prix,Érik Comas,19,0,8,36,Engine
+1992,Japanese Grand Prix,Jan Lammers,20,0,23,27,Clutch
+1992,Japanese Grand Prix,Maurício Gugelmin,21,0,25,22,Spun off
+1992,Japanese Grand Prix,Johnny Herbert,22,0,6,15,Gearbox
+1992,Japanese Grand Prix,Michael Schumacher,23,0,5,13,Gearbox
+1992,Japanese Grand Prix,Olivier Grouillard,24,0,21,6,Spun off
+1992,Japanese Grand Prix,Thierry Boutsen,25,0,10,3,Gearbox
+1992,Japanese Grand Prix,Ayrton Senna,26,0,3,2,Engine
+1992,Australian Grand Prix,Gerhard Berger,1,10,4,81,RAS
+1992,Australian Grand Prix,Michael Schumacher,2,6,5,81,RAS
+1992,Australian Grand Prix,Martin Brundle,3,4,8,81,RAS
+1992,Australian Grand Prix,Jean Alesi,4,3,6,80,RAS
+1992,Australian Grand Prix,Thierry Boutsen,5,2,22,80,RAS
+1992,Australian Grand Prix,Stefano Modena,6,1,15,80,RAS
+1992,Australian Grand Prix,Mika Häkkinen,7,0,10,80,RAS
+1992,Australian Grand Prix,Aguri Suzuki,8,0,18,79,RAS
+1992,Australian Grand Prix,Christian Fittipaldi,9,0,17,79,RAS
+1992,Australian Grand Prix,Gianni Morbidelli,10,0,16,79,RAS
+1992,Australian Grand Prix,Nicola Larini,11,0,19,79,RAS
+1992,Australian Grand Prix,Jan Lammers,12,0,25,78,RAS
+1992,Australian Grand Prix,Johnny Herbert,13,0,12,77,RAS
+1992,Australian Grand Prix,Jyrki Järvilehto,14,0,24,70,Gearbox
+1992,Australian Grand Prix,Emanuele Naspetti,15,0,23,55,Gearbox
+1992,Australian Grand Prix,Bertrand Gachot,16,0,21,51,Fuel system
+1992,Australian Grand Prix,Riccardo Patrese,17,0,3,50,Engine
+1992,Australian Grand Prix,Ukyo Katayama,18,0,26,35,Differential
+1992,Australian Grand Prix,Andrea de Cesaris,19,0,7,29,Engine
+1992,Australian Grand Prix,Nigel Mansell,20,0,1,18,Collision
+1992,Australian Grand Prix,Ayrton Senna,21,0,2,18,Collision
+1992,Australian Grand Prix,Maurício Gugelmin,22,0,20,7,Spun off
+1992,Australian Grand Prix,Érik Comas,23,0,9,4,Engine
+1992,Australian Grand Prix,Michele Alboreto,24,0,11,0,Engine
+1992,Australian Grand Prix,Pierluigi Martini,25,0,14,0,Accident
+1992,Australian Grand Prix,Olivier Grouillard,26,0,13,0,Accident

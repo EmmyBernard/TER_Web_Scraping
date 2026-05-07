@@ -1,0 +1,405 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1993,South African Grand Prix,Alain Prost,1,10,1,72,RAS
+1993,South African Grand Prix,Ayrton Senna,2,6,2,72,RAS
+1993,South African Grand Prix,Mark Blundell,3,4,8,71,RAS
+1993,South African Grand Prix,Christian Fittipaldi,4,3,13,71,RAS
+1993,South African Grand Prix,Jyrki Järvilehto,5,2,6,70,RAS
+1993,South African Grand Prix,Gerhard Berger,6,1,15,69,Engine
+1993,South African Grand Prix,Derek Warwick,7,0,22,69,Spun off
+1993,South African Grand Prix,Martin Brundle,8,0,12,57,Spun off
+1993,South African Grand Prix,Michele Alboreto,9,0,21,55,Overheating
+1993,South African Grand Prix,Érik Comas,10,0,19,51,Engine
+1993,South African Grand Prix,Riccardo Patrese,11,0,7,46,Spun off
+1993,South African Grand Prix,Michael Schumacher,12,0,3,39,Spun off
+1993,South African Grand Prix,Johnny Herbert,13,0,17,38,Fuel system
+1993,South African Grand Prix,Karl Wendlinger,14,0,10,33,Engine
+1993,South African Grand Prix,Rubens Barrichello,15,0,14,31,Gearbox
+1993,South African Grand Prix,Jean Alesi,16,0,5,30,Suspension
+1993,South African Grand Prix,Philippe Alliot,17,0,11,27,Spun off
+1993,South African Grand Prix,Fabrizio Barbazza,18,0,24,21,Collision
+1993,South African Grand Prix,Aguri Suzuki,19,0,20,21,Collision
+1993,South African Grand Prix,Luca Badoer,20,0,26,20,Gearbox
+1993,South African Grand Prix,Damon Hill,21,0,4,16,Collision
+1993,South African Grand Prix,Alessandro Zanardi,22,0,16,16,Collision
+1993,South African Grand Prix,Michael Andretti,23,0,9,4,Collision
+1993,South African Grand Prix,Ivan Capelli,24,0,18,2,Spun off
+1993,South African Grand Prix,Ukyo Katayama,25,0,21,1,Transmission
+1993,South African Grand Prix,Andrea de Cesaris,26,0,23,0,Transmission
+1993,Brazilian Grand Prix,Ayrton Senna,1,10,3,71,RAS
+1993,Brazilian Grand Prix,Damon Hill,2,6,2,71,RAS
+1993,Brazilian Grand Prix,Michael Schumacher,3,4,4,71,RAS
+1993,Brazilian Grand Prix,Johnny Herbert,4,3,12,71,RAS
+1993,Brazilian Grand Prix,Mark Blundell,5,2,10,71,RAS
+1993,Brazilian Grand Prix,Alessandro Zanardi,6,1,15,70,RAS
+1993,Brazilian Grand Prix,Philippe Alliot,7,0,11,70,RAS
+1993,Brazilian Grand Prix,Jean Alesi,8,0,9,70,RAS
+1993,Brazilian Grand Prix,Derek Warwick,9,0,18,69,RAS
+1993,Brazilian Grand Prix,Érik Comas,10,0,17,69,RAS
+1993,Brazilian Grand Prix,Michele Alboreto,11,0,25,68,RAS
+1993,Brazilian Grand Prix,Luca Badoer,12,0,21,68,RAS
+1993,Brazilian Grand Prix,Karl Wendlinger,13,0,8,61,Engine
+1993,Brazilian Grand Prix,Jyrki Järvilehto,14,0,7,52,Electrical
+1993,Brazilian Grand Prix,Andrea de Cesaris,15,0,23,48,Fuel system
+1993,Brazilian Grand Prix,Alain Prost,16,0,1,29,Collision
+1993,Brazilian Grand Prix,Christian Fittipaldi,17,0,20,28,Collision
+1993,Brazilian Grand Prix,Aguri Suzuki,18,0,19,27,Spun off
+1993,Brazilian Grand Prix,Ukyo Katayama,19,0,22,26,Spun off
+1993,Brazilian Grand Prix,Rubens Barrichello,20,0,14,13,Gearbox
+1993,Brazilian Grand Prix,Riccardo Patrese,21,0,6,3,Suspension
+1993,Brazilian Grand Prix,Michael Andretti,22,0,5,0,Collision
+1993,Brazilian Grand Prix,Gerhard Berger,23,0,13,0,Collision
+1993,Brazilian Grand Prix,Martin Brundle,24,0,16,0,Collision
+1993,Brazilian Grand Prix,Fabrizio Barbazza,25,0,24,0,Collision
+1993,European Grand Prix,Ayrton Senna,1,10,4,76,RAS
+1993,European Grand Prix,Damon Hill,2,6,2,76,RAS
+1993,European Grand Prix,Alain Prost,3,4,1,75,RAS
+1993,European Grand Prix,Johnny Herbert,4,3,11,75,RAS
+1993,European Grand Prix,Riccardo Patrese,5,2,10,74,RAS
+1993,European Grand Prix,Fabrizio Barbazza,6,1,20,74,RAS
+1993,European Grand Prix,Christian Fittipaldi,7,0,16,73,RAS
+1993,European Grand Prix,Alessandro Zanardi,8,0,13,72,RAS
+1993,European Grand Prix,Érik Comas,9,0,17,72,RAS
+1993,European Grand Prix,Rubens Barrichello,10,0,12,70,Fuel system
+1993,European Grand Prix,Michele Alboreto,11,0,24,70,RAS
+1993,European Grand Prix,Derek Warwick,12,0,14,66,Gearbox
+1993,European Grand Prix,Thierry Boutsen,13,0,19,61,Throttle
+1993,European Grand Prix,Andrea de Cesaris,14,0,25,55,Gearbox
+1993,European Grand Prix,Jean Alesi,15,0,9,36,Gearbox
+1993,European Grand Prix,Aguri Suzuki,16,0,23,29,Gearbox
+1993,European Grand Prix,Philippe Alliot,17,0,15,27,Collision
+1993,European Grand Prix,Michael Schumacher,18,0,3,22,Spun off
+1993,European Grand Prix,Mark Blundell,19,0,21,20,Spun off
+1993,European Grand Prix,Gerhard Berger,20,0,8,19,Suspension
+1993,European Grand Prix,Jyrki Järvilehto,21,0,7,13,Handling
+1993,European Grand Prix,Ukyo Katayama,22,0,18,11,Clutch
+1993,European Grand Prix,Martin Brundle,23,0,22,7,Spun off
+1993,European Grand Prix,Karl Wendlinger,24,0,5,0,Collision
+1993,European Grand Prix,Michael Andretti,25,0,6,0,Collision
+1993,San Marino Grand Prix,Alain Prost,1,10,1,61,RAS
+1993,San Marino Grand Prix,Michael Schumacher,2,6,3,61,RAS
+1993,San Marino Grand Prix,Martin Brundle,3,4,10,60,RAS
+1993,San Marino Grand Prix,Jyrki Järvilehto,4,3,16,59,Engine
+1993,San Marino Grand Prix,Philippe Alliot,5,2,14,59,RAS
+1993,San Marino Grand Prix,Fabrizio Barbazza,6,1,25,59,RAS
+1993,San Marino Grand Prix,Luca Badoer,7,0,24,58,RAS
+1993,San Marino Grand Prix,Johnny Herbert,8,0,12,57,Engine
+1993,San Marino Grand Prix,Aguri Suzuki,9,0,21,54,RAS
+1993,San Marino Grand Prix,Alessandro Zanardi,10,0,20,53,Spun off
+1993,San Marino Grand Prix,Karl Wendlinger,11,0,5,48,Engine
+1993,San Marino Grand Prix,Ayrton Senna,12,0,4,42,Hydraulics
+1993,San Marino Grand Prix,Jean Alesi,13,0,9,40,Clutch
+1993,San Marino Grand Prix,Christian Fittipaldi,14,0,23,36,Steering
+1993,San Marino Grand Prix,Michael Andretti,15,0,6,32,Spun off
+1993,San Marino Grand Prix,Derek Warwick,16,0,15,29,Spun off
+1993,San Marino Grand Prix,Ukyo Katayama,17,0,22,22,Engine
+1993,San Marino Grand Prix,Damon Hill,18,0,2,20,Brakes
+1993,San Marino Grand Prix,Érik Comas,19,0,17,18,Engine
+1993,San Marino Grand Prix,Andrea de Cesaris,20,0,18,18,Gearbox
+1993,San Marino Grand Prix,Rubens Barrichello,21,0,13,17,Spun off
+1993,San Marino Grand Prix,Gerhard Berger,22,0,8,8,Gearbox
+1993,San Marino Grand Prix,Thierry Boutsen,23,0,19,1,Gearbox
+1993,San Marino Grand Prix,Mark Blundell,24,0,7,0,Spun off
+1993,San Marino Grand Prix,Riccardo Patrese,25,0,11,0,Spun off
+1993,Spanish Grand Prix,Alain Prost,1,10,1,65,RAS
+1993,Spanish Grand Prix,Ayrton Senna,2,6,3,65,RAS
+1993,Spanish Grand Prix,Michael Schumacher,3,4,4,65,RAS
+1993,Spanish Grand Prix,Riccardo Patrese,4,3,5,64,RAS
+1993,Spanish Grand Prix,Michael Andretti,5,2,7,64,RAS
+1993,Spanish Grand Prix,Gerhard Berger,6,1,11,63,RAS
+1993,Spanish Grand Prix,Mark Blundell,7,0,12,63,RAS
+1993,Spanish Grand Prix,Christian Fittipaldi,8,0,20,63,RAS
+1993,Spanish Grand Prix,Érik Comas,9,0,14,63,RAS
+1993,Spanish Grand Prix,Aguri Suzuki,10,0,19,63,RAS
+1993,Spanish Grand Prix,Thierry Boutsen,11,0,21,62,RAS
+1993,Spanish Grand Prix,Rubens Barrichello,12,0,17,62,RAS
+1993,Spanish Grand Prix,Derek Warwick,13,0,16,62,RAS
+1993,Spanish Grand Prix,Alessandro Zanardi,14,0,15,60,Engine
+1993,Spanish Grand Prix,Jyrki Järvilehto,15,0,9,53,Engine
+1993,Spanish Grand Prix,Luca Badoer,16,0,22,43,Overheating
+1993,Spanish Grand Prix,Karl Wendlinger,17,0,6,42,Fuel system
+1993,Spanish Grand Prix,Andrea de Cesaris,18,0,24,42,DQ
+1993,Spanish Grand Prix,Damon Hill,19,0,2,41,Engine
+1993,Spanish Grand Prix,Jean Alesi,20,0,8,40,Engine
+1993,Spanish Grand Prix,Fabrizio Barbazza,21,0,25,37,Spun off
+1993,Spanish Grand Prix,Philippe Alliot,22,0,13,26,Transmission
+1993,Spanish Grand Prix,Martin Brundle,23,0,18,11,Tyre
+1993,Spanish Grand Prix,Ukyo Katayama,24,0,23,11,Spun off
+1993,Spanish Grand Prix,Johnny Herbert,25,0,10,2,Suspension
+1993,Monaco Grand Prix,Ayrton Senna,1,10,3,78,RAS
+1993,Monaco Grand Prix,Damon Hill,2,6,4,78,RAS
+1993,Monaco Grand Prix,Jean Alesi,3,4,5,78,RAS
+1993,Monaco Grand Prix,Alain Prost,4,3,1,77,RAS
+1993,Monaco Grand Prix,Christian Fittipaldi,5,2,17,76,RAS
+1993,Monaco Grand Prix,Martin Brundle,6,1,13,76,RAS
+1993,Monaco Grand Prix,Alessandro Zanardi,7,0,20,76,RAS
+1993,Monaco Grand Prix,Michael Andretti,8,0,9,76,RAS
+1993,Monaco Grand Prix,Rubens Barrichello,9,0,16,76,RAS
+1993,Monaco Grand Prix,Andrea de Cesaris,10,0,19,76,RAS
+1993,Monaco Grand Prix,Fabrizio Barbazza,11,0,25,75,RAS
+1993,Monaco Grand Prix,Philippe Alliot,12,0,15,75,RAS
+1993,Monaco Grand Prix,Karl Wendlinger,13,0,8,74,RAS
+1993,Monaco Grand Prix,Gerhard Berger,14,0,7,70,Collision
+1993,Monaco Grand Prix,Johnny Herbert,15,0,14,61,Gearbox
+1993,Monaco Grand Prix,Riccardo Patrese,16,0,6,53,Engine
+1993,Monaco Grand Prix,Érik Comas,17,0,10,51,Engine
+1993,Monaco Grand Prix,Aguri Suzuki,18,0,18,46,Spun off
+1993,Monaco Grand Prix,Derek Warwick,19,0,12,43,Throttle
+1993,Monaco Grand Prix,Michael Schumacher,20,0,2,32,Hydraulics
+1993,Monaco Grand Prix,Ukyo Katayama,21,0,22,31,Engine
+1993,Monaco Grand Prix,Michele Alboreto,22,0,24,28,Gearbox
+1993,Monaco Grand Prix,Jyrki Järvilehto,23,0,11,23,Accident
+1993,Monaco Grand Prix,Thierry Boutsen,24,0,23,12,Suspension
+1993,Monaco Grand Prix,Mark Blundell,25,0,21,3,Spun off
+1993,Canadian Grand Prix,Alain Prost,1,10,1,69,RAS
+1993,Canadian Grand Prix,Michael Schumacher,2,6,3,69,RAS
+1993,Canadian Grand Prix,Damon Hill,3,4,2,69,RAS
+1993,Canadian Grand Prix,Gerhard Berger,4,3,5,68,RAS
+1993,Canadian Grand Prix,Martin Brundle,5,2,7,68,RAS
+1993,Canadian Grand Prix,Karl Wendlinger,6,1,9,68,RAS
+1993,Canadian Grand Prix,Jyrki Järvilehto,7,0,11,68,RAS
+1993,Canadian Grand Prix,Érik Comas,8,0,13,68,RAS
+1993,Canadian Grand Prix,Christian Fittipaldi,9,0,17,67,RAS
+1993,Canadian Grand Prix,Johnny Herbert,10,0,20,67,RAS
+1993,Canadian Grand Prix,Alessandro Zanardi,11,0,21,67,RAS
+1993,Canadian Grand Prix,Thierry Boutsen,12,0,24,67,RAS
+1993,Canadian Grand Prix,Aguri Suzuki,13,0,16,66,RAS
+1993,Canadian Grand Prix,Michael Andretti,14,0,12,66,RAS
+1993,Canadian Grand Prix,Luca Badoer,15,0,25,65,RAS
+1993,Canadian Grand Prix,Derek Warwick,16,0,18,65,RAS
+1993,Canadian Grand Prix,Ukyo Katayama,17,0,22,64,RAS
+1993,Canadian Grand Prix,Ayrton Senna,18,0,8,62,Electrical
+1993,Canadian Grand Prix,Riccardo Patrese,19,0,4,52,Physical
+1993,Canadian Grand Prix,Andrea de Cesaris,20,0,19,45,Spun off
+1993,Canadian Grand Prix,Fabrizio Barbazza,21,0,23,33,Gearbox
+1993,Canadian Grand Prix,Jean Alesi,22,0,6,33,Engine
+1993,Canadian Grand Prix,Mark Blundell,23,0,10,13,Spun off
+1993,Canadian Grand Prix,Rubens Barrichello,24,0,14,10,Electrical
+1993,Canadian Grand Prix,Philippe Alliot,25,0,15,8,Engine
+1993,French Grand Prix,Alain Prost,1,10,2,72,RAS
+1993,French Grand Prix,Damon Hill,2,6,1,72,RAS
+1993,French Grand Prix,Michael Schumacher,3,4,7,72,RAS
+1993,French Grand Prix,Ayrton Senna,4,3,5,72,RAS
+1993,French Grand Prix,Martin Brundle,5,2,3,72,RAS
+1993,French Grand Prix,Michael Andretti,6,1,16,71,RAS
+1993,French Grand Prix,Rubens Barrichello,7,0,8,71,RAS
+1993,French Grand Prix,Christian Fittipaldi,8,0,23,71,RAS
+1993,French Grand Prix,Philippe Alliot,9,0,10,70,RAS
+1993,French Grand Prix,Riccardo Patrese,10,0,12,70,RAS
+1993,French Grand Prix,Thierry Boutsen,11,0,20,70,RAS
+1993,French Grand Prix,Aguri Suzuki,12,0,13,70,RAS
+1993,French Grand Prix,Derek Warwick,13,0,15,70,RAS
+1993,French Grand Prix,Gerhard Berger,14,0,14,70,RAS
+1993,French Grand Prix,Andrea de Cesaris,15,0,25,68,RAS
+1993,French Grand Prix,Érik Comas,16,0,9,66,Gearbox
+1993,French Grand Prix,Jean Alesi,17,0,6,47,Engine
+1993,French Grand Prix,Luca Badoer,18,0,22,28,Suspension
+1993,French Grand Prix,Karl Wendlinger,19,0,11,25,Gearbox
+1993,French Grand Prix,Jyrki Järvilehto,20,0,18,22,Gearbox
+1993,French Grand Prix,Mark Blundell,21,0,4,20,Spun off
+1993,French Grand Prix,Johnny Herbert,22,0,19,16,Spun off
+1993,French Grand Prix,Fabrizio Barbazza,23,0,24,16,Gearbox
+1993,French Grand Prix,Ukyo Katayama,24,0,24,16,Gearbox
+1993,French Grand Prix,Alessandro Zanardi,25,0,17,9,Suspension
+1993,British Grand Prix,Alain Prost,1,10,1,59,RAS
+1993,British Grand Prix,Michael Schumacher,2,6,3,59,RAS
+1993,British Grand Prix,Riccardo Patrese,3,4,5,59,RAS
+1993,British Grand Prix,Johnny Herbert,4,3,7,59,RAS
+1993,British Grand Prix,Ayrton Senna,5,2,4,58,Out of fuel
+1993,British Grand Prix,Derek Warwick,6,1,8,58,RAS
+1993,British Grand Prix,Mark Blundell,7,0,9,58,RAS
+1993,British Grand Prix,Jyrki Järvilehto,8,0,16,58,RAS
+1993,British Grand Prix,Jean Alesi,9,0,12,58,RAS
+1993,British Grand Prix,Rubens Barrichello,10,0,15,58,RAS
+1993,British Grand Prix,Philippe Alliot,11,0,24,57,RAS
+1993,British Grand Prix,Christian Fittipaldi,12,0,19,56,Gearbox
+1993,British Grand Prix,Ukyo Katayama,13,0,22,55,RAS
+1993,British Grand Prix,Martin Brundle,14,0,6,53,Gearbox
+1993,British Grand Prix,Andrea de Cesaris,15,0,21,43,Not classified
+1993,British Grand Prix,Damon Hill,16,0,2,41,Engine
+1993,British Grand Prix,Alessandro Zanardi,17,0,14,41,Suspension
+1993,British Grand Prix,Thierry Boutsen,18,0,23,41,Wheel bearing
+1993,British Grand Prix,Luca Badoer,19,0,25,32,Electrical
+1993,British Grand Prix,Pierluigi Martini,20,0,20,31,Physical
+1993,British Grand Prix,Karl Wendlinger,21,0,18,24,Spun off
+1993,British Grand Prix,Gerhard Berger,22,0,13,10,Suspension
+1993,British Grand Prix,Aguri Suzuki,23,0,10,8,Spun off
+1993,British Grand Prix,Michael Andretti,24,0,11,0,Spun off
+1993,British Grand Prix,Érik Comas,25,0,17,0,Halfshaft
+1993,German Grand Prix,Alain Prost,1,10,1,45,RAS
+1993,German Grand Prix,Michael Schumacher,2,6,3,45,RAS
+1993,German Grand Prix,Mark Blundell,3,4,5,45,RAS
+1993,German Grand Prix,Ayrton Senna,4,3,4,45,RAS
+1993,German Grand Prix,Riccardo Patrese,5,2,7,45,RAS
+1993,German Grand Prix,Gerhard Berger,6,1,9,45,RAS
+1993,German Grand Prix,Jean Alesi,7,0,10,45,RAS
+1993,German Grand Prix,Martin Brundle,8,0,6,44,RAS
+1993,German Grand Prix,Karl Wendlinger,9,0,14,44,RAS
+1993,German Grand Prix,Johnny Herbert,10,0,13,44,RAS
+1993,German Grand Prix,Christian Fittipaldi,11,0,20,44,RAS
+1993,German Grand Prix,Philippe Alliot,12,0,23,44,RAS
+1993,German Grand Prix,Thierry Boutsen,13,0,24,44,RAS
+1993,German Grand Prix,Pierluigi Martini,14,0,22,44,RAS
+1993,German Grand Prix,Damon Hill,15,0,2,43,Tyre
+1993,German Grand Prix,Michele Alboreto,16,0,26,43,RAS
+1993,German Grand Prix,Derek Warwick,17,0,11,42,RAS
+1993,German Grand Prix,Rubens Barrichello,18,0,17,34,Wheel bearing
+1993,German Grand Prix,Ukyo Katayama,19,0,21,28,Halfshaft
+1993,German Grand Prix,Jyrki Järvilehto,20,0,18,22,Spun off
+1993,German Grand Prix,Alessandro Zanardi,21,0,15,19,Spun off
+1993,German Grand Prix,Aguri Suzuki,22,0,8,9,Collision
+1993,German Grand Prix,Michael Andretti,23,0,12,4,Collision
+1993,German Grand Prix,Luca Badoer,24,0,25,4,Suspension
+1993,German Grand Prix,Andrea de Cesaris,25,0,19,1,Gearbox
+1993,German Grand Prix,Érik Comas,26,0,16,0,Gearbox
+1993,Hungarian Grand Prix,Damon Hill,1,10,2,77,RAS
+1993,Hungarian Grand Prix,Riccardo Patrese,2,6,5,77,RAS
+1993,Hungarian Grand Prix,Gerhard Berger,3,4,6,77,RAS
+1993,Hungarian Grand Prix,Derek Warwick,4,3,9,76,RAS
+1993,Hungarian Grand Prix,Martin Brundle,5,2,13,76,RAS
+1993,Hungarian Grand Prix,Karl Wendlinger,6,1,17,76,RAS
+1993,Hungarian Grand Prix,Mark Blundell,7,0,12,76,RAS
+1993,Hungarian Grand Prix,Philippe Alliot,8,0,19,75,RAS
+1993,Hungarian Grand Prix,Thierry Boutsen,9,0,24,75,RAS
+1993,Hungarian Grand Prix,Ukyo Katayama,10,0,23,73,RAS
+1993,Hungarian Grand Prix,Andrea de Cesaris,11,0,22,72,RAS
+1993,Hungarian Grand Prix,Alain Prost,12,0,1,70,RAS
+1993,Hungarian Grand Prix,Pierluigi Martini,13,0,7,59,Accident
+1993,Hungarian Grand Prix,Érik Comas,14,0,18,54,Engine
+1993,Hungarian Grand Prix,Alessandro Zanardi,15,0,21,45,Gearbox
+1993,Hungarian Grand Prix,Aguri Suzuki,16,0,10,41,Spun off
+1993,Hungarian Grand Prix,Michele Alboreto,17,0,25,39,Overheating
+1993,Hungarian Grand Prix,Johnny Herbert,18,0,20,38,Spun off
+1993,Hungarian Grand Prix,Luca Badoer,19,0,26,37,Spun off
+1993,Hungarian Grand Prix,Michael Schumacher,20,0,3,26,Fuel pump
+1993,Hungarian Grand Prix,Christian Fittipaldi,21,0,14,22,Suspension
+1993,Hungarian Grand Prix,Jean Alesi,22,0,8,22,Spun off
+1993,Hungarian Grand Prix,Jyrki Järvilehto,23,0,15,18,Engine
+1993,Hungarian Grand Prix,Ayrton Senna,24,0,4,17,Throttle
+1993,Hungarian Grand Prix,Michael Andretti,25,0,11,15,Throttle
+1993,Hungarian Grand Prix,Rubens Barrichello,26,0,16,0,Accident
+1993,Belgian Grand Prix,Damon Hill,1,10,2,44,RAS
+1993,Belgian Grand Prix,Michael Schumacher,2,6,3,44,RAS
+1993,Belgian Grand Prix,Alain Prost,3,4,1,44,RAS
+1993,Belgian Grand Prix,Ayrton Senna,4,3,5,44,RAS
+1993,Belgian Grand Prix,Johnny Herbert,5,2,10,43,RAS
+1993,Belgian Grand Prix,Riccardo Patrese,6,1,8,43,RAS
+1993,Belgian Grand Prix,Martin Brundle,7,0,11,43,RAS
+1993,Belgian Grand Prix,Michael Andretti,8,0,14,43,RAS
+1993,Belgian Grand Prix,Jyrki Järvilehto,9,0,9,43,RAS
+1993,Belgian Grand Prix,Gerhard Berger,10,0,16,42,Collision
+1993,Belgian Grand Prix,Mark Blundell,11,0,15,42,Collision
+1993,Belgian Grand Prix,Philippe Alliot,12,0,18,42,RAS
+1993,Belgian Grand Prix,Luca Badoer,13,0,24,42,RAS
+1993,Belgian Grand Prix,Michele Alboreto,14,0,25,41,RAS
+1993,Belgian Grand Prix,Ukyo Katayama,15,0,23,40,RAS
+1993,Belgian Grand Prix,Érik Comas,16,0,19,37,Fuel pump
+1993,Belgian Grand Prix,Derek Warwick,17,0,7,28,Engine
+1993,Belgian Grand Prix,Karl Wendlinger,18,0,12,27,Engine
+1993,Belgian Grand Prix,Andrea de Cesaris,19,0,17,24,Engine
+1993,Belgian Grand Prix,Christian Fittipaldi,20,0,22,15,Spun off
+1993,Belgian Grand Prix,Pierluigi Martini,21,0,21,15,Spun off
+1993,Belgian Grand Prix,Aguri Suzuki,22,0,6,14,Gearbox
+1993,Belgian Grand Prix,Rubens Barrichello,23,0,12,11,Wheel bearing
+1993,Belgian Grand Prix,Jean Alesi,24,0,4,4,Suspension
+1993,Belgian Grand Prix,Thierry Boutsen,25,0,20,0,Gearbox
+1993,Belgian Grand Prix,Alessandro Zanardi,26,0,26,0,Injury
+1993,Italian Grand Prix,Damon Hill,1,10,2,53,RAS
+1993,Italian Grand Prix,Jean Alesi,2,6,3,53,RAS
+1993,Italian Grand Prix,Michael Andretti,3,4,9,52,RAS
+1993,Italian Grand Prix,Karl Wendlinger,4,3,15,52,RAS
+1993,Italian Grand Prix,Riccardo Patrese,5,2,10,52,RAS
+1993,Italian Grand Prix,Érik Comas,6,1,20,52,RAS
+1993,Italian Grand Prix,Pierluigi Martini,7,0,22,51,RAS
+1993,Italian Grand Prix,Christian Fittipaldi,8,0,24,51,RAS
+1993,Italian Grand Prix,Philippe Alliot,9,0,16,51,RAS
+1993,Italian Grand Prix,Luca Badoer,10,0,25,51,RAS
+1993,Italian Grand Prix,Pedro Lamy,11,0,26,49,Electrical
+1993,Italian Grand Prix,Alain Prost,12,0,1,48,Engine
+1993,Italian Grand Prix,Andrea de Cesaris,13,0,18,47,Oil pressure
+1993,Italian Grand Prix,Ukyo Katayama,14,0,17,47,RAS
+1993,Italian Grand Prix,Michele Alboreto,15,0,21,23,Suspension
+1993,Italian Grand Prix,Michael Schumacher,16,0,5,21,Engine
+1993,Italian Grand Prix,Mark Blundell,17,0,14,20,Spun off
+1993,Italian Grand Prix,Gerhard Berger,18,0,6,15,Suspension
+1993,Italian Grand Prix,Johnny Herbert,19,0,7,14,Spun off
+1993,Italian Grand Prix,Martin Brundle,20,0,12,8,Collision
+1993,Italian Grand Prix,Ayrton Senna,21,0,4,8,Collision
+1993,Italian Grand Prix,Aguri Suzuki,22,0,8,0,Collision
+1993,Italian Grand Prix,Derek Warwick,23,0,11,0,Collision
+1993,Italian Grand Prix,Jyrki Järvilehto,24,0,13,0,Collision
+1993,Italian Grand Prix,Rubens Barrichello,25,0,19,0,Collision
+1993,Italian Grand Prix,Marco Apicella,26,0,23,0,Collision
+1993,Portuguese Grand Prix,Michael Schumacher,1,10,6,71,RAS
+1993,Portuguese Grand Prix,Alain Prost,2,6,2,71,RAS
+1993,Portuguese Grand Prix,Damon Hill,3,4,1,71,RAS
+1993,Portuguese Grand Prix,Jean Alesi,4,3,5,71,RAS
+1993,Portuguese Grand Prix,Karl Wendlinger,5,2,13,70,RAS
+1993,Portuguese Grand Prix,Martin Brundle,6,1,11,70,RAS
+1993,Portuguese Grand Prix,Jyrki Järvilehto,7,0,12,69,RAS
+1993,Portuguese Grand Prix,Pierluigi Martini,8,0,19,69,RAS
+1993,Portuguese Grand Prix,Christian Fittipaldi,9,0,24,69,RAS
+1993,Portuguese Grand Prix,Philippe Alliot,10,0,20,69,RAS
+1993,Portuguese Grand Prix,Érik Comas,11,0,22,68,RAS
+1993,Portuguese Grand Prix,Andrea de Cesaris,12,0,17,68,RAS
+1993,Portuguese Grand Prix,Rubens Barrichello,13,0,15,68,RAS
+1993,Portuguese Grand Prix,Luca Badoer,14,0,26,68,RAS
+1993,Portuguese Grand Prix,Derek Warwick,15,0,9,63,Accident
+1993,Portuguese Grand Prix,Riccardo Patrese,16,0,7,63,Accident
+1993,Portuguese Grand Prix,Pedro Lamy,17,0,18,61,Spun off
+1993,Portuguese Grand Prix,Johnny Herbert,18,0,14,60,Spun off
+1993,Portuguese Grand Prix,Mark Blundell,19,0,10,51,Accident
+1993,Portuguese Grand Prix,Michele Alboreto,20,0,25,38,Gearbox
+1993,Portuguese Grand Prix,Gerhard Berger,21,0,8,35,Accident
+1993,Portuguese Grand Prix,Mika Häkkinen,22,0,3,32,Spun off
+1993,Portuguese Grand Prix,Aguri Suzuki,23,0,16,27,Gearbox
+1993,Portuguese Grand Prix,Ayrton Senna,24,0,4,19,Engine
+1993,Portuguese Grand Prix,Ukyo Katayama,25,0,21,12,Spun off
+1993,Portuguese Grand Prix,Emanuele Naspetti,26,0,23,8,Engine
+1993,Japanese Grand Prix,Ayrton Senna,1,10,2,53,RAS
+1993,Japanese Grand Prix,Alain Prost,2,6,1,53,RAS
+1993,Japanese Grand Prix,Mika Häkkinen,3,4,3,53,RAS
+1993,Japanese Grand Prix,Damon Hill,4,3,6,53,RAS
+1993,Japanese Grand Prix,Rubens Barrichello,5,2,12,53,RAS
+1993,Japanese Grand Prix,Eddie Irvine,6,1,8,53,RAS
+1993,Japanese Grand Prix,Mark Blundell,7,0,17,52,RAS
+1993,Japanese Grand Prix,Jyrki Järvilehto,8,0,11,52,RAS
+1993,Japanese Grand Prix,Martin Brundle,9,0,15,51,Collision
+1993,Japanese Grand Prix,Pierluigi Martini,10,0,22,51,RAS
+1993,Japanese Grand Prix,Johnny Herbert,11,0,19,51,RAS
+1993,Japanese Grand Prix,Toshio Suzuki,12,0,23,51,RAS
+1993,Japanese Grand Prix,Pedro Lamy,13,0,20,49,Spun off
+1993,Japanese Grand Prix,Derek Warwick,14,0,7,48,Collision
+1993,Japanese Grand Prix,Riccardo Patrese,15,0,10,45,Spun off
+1993,Japanese Grand Prix,Gerhard Berger,16,0,5,40,Engine
+1993,Japanese Grand Prix,Aguri Suzuki,17,0,9,28,Spun off
+1993,Japanese Grand Prix,Jean-Marc Gounon,18,0,13,26,Withdrew
+1993,Japanese Grand Prix,Ukyo Katayama,19,0,24,26,Engine
+1993,Japanese Grand Prix,Karl Wendlinger,20,0,16,25,Engine
+1993,Japanese Grand Prix,Érik Comas,21,0,21,17,Engine
+1993,Japanese Grand Prix,Michael Schumacher,22,0,4,10,Collision
+1993,Japanese Grand Prix,Jean Alesi,23,0,14,7,Engine
+1993,Japanese Grand Prix,Andrea de Cesaris,24,0,18,0,Collision
+1993,Australian Grand Prix,Ayrton Senna,1,10,1,79,RAS
+1993,Australian Grand Prix,Alain Prost,2,6,2,79,RAS
+1993,Australian Grand Prix,Damon Hill,3,4,3,79,RAS
+1993,Australian Grand Prix,Jean Alesi,4,3,7,78,RAS
+1993,Australian Grand Prix,Gerhard Berger,5,2,6,78,RAS
+1993,Australian Grand Prix,Martin Brundle,6,1,8,78,RAS
+1993,Australian Grand Prix,Aguri Suzuki,7,0,10,78,RAS
+1993,Australian Grand Prix,Riccardo Patrese,8,0,9,77,Fuel system
+1993,Australian Grand Prix,Mark Blundell,9,0,14,77,RAS
+1993,Australian Grand Prix,Derek Warwick,10,0,17,77,RAS
+1993,Australian Grand Prix,Rubens Barrichello,11,0,13,76,RAS
+1993,Australian Grand Prix,Érik Comas,12,0,21,76,RAS
+1993,Australian Grand Prix,Andrea de Cesaris,13,0,15,75,RAS
+1993,Australian Grand Prix,Toshio Suzuki,14,0,24,74,RAS
+1993,Australian Grand Prix,Karl Wendlinger,15,0,11,73,Brakes
+1993,Australian Grand Prix,Jyrki Järvilehto,16,0,12,56,Accident
+1993,Australian Grand Prix,Jean-Marc Gounon,17,0,22,34,Spun off
+1993,Australian Grand Prix,Mika Häkkinen,18,0,5,28,Brakes
+1993,Australian Grand Prix,Michael Schumacher,19,0,4,19,Engine
+1993,Australian Grand Prix,Ukyo Katayama,20,0,18,11,Spun off
+1993,Australian Grand Prix,Eddie Irvine,21,0,19,10,Accident
+1993,Australian Grand Prix,Johnny Herbert,22,0,20,9,Suspension
+1993,Australian Grand Prix,Pierluigi Martini,23,0,16,5,Gearbox
+1993,Australian Grand Prix,Pedro Lamy,24,0,23,0,Accident

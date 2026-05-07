@@ -1,0 +1,199 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1964,Monaco Grand Prix,Graham Hill,1,9,3,100,RAS
+1964,Monaco Grand Prix,Richie Ginther,2,6,8,99,RAS
+1964,Monaco Grand Prix,Peter Arundell,3,4,6,97,RAS
+1964,Monaco Grand Prix,Jim Clark,4,3,1,96,Engine
+1964,Monaco Grand Prix,Jo Bonnier,5,2,11,96,RAS
+1964,Monaco Grand Prix,Mike Hailwood,6,1,15,96,RAS
+1964,Monaco Grand Prix,Bob Anderson,7,0,12,86,Gearbox
+1964,Monaco Grand Prix,Jo Siffert,8,0,16,78,RAS
+1964,Monaco Grand Prix,Phil Hill,9,0,9,70,Suspension
+1964,Monaco Grand Prix,Lorenzo Bandini,10,0,7,68,Gearbox
+1964,Monaco Grand Prix,Dan Gurney,11,0,5,62,Gearbox
+1964,Monaco Grand Prix,Maurice Trintignant,12,0,13,53,Overheating
+1964,Monaco Grand Prix,Jack Brabham,13,0,2,29,Injection
+1964,Monaco Grand Prix,Bruce McLaren,14,0,10,17,Wheel bearing
+1964,Monaco Grand Prix,John Surtees,15,0,4,15,Gearbox
+1964,Monaco Grand Prix,Trevor Taylor,16,0,14,8,Fuel leak
+1964,Monaco Grand Prix,Innes Ireland,20,0,0,0,Withdrew
+1964,Monaco Grand Prix,André Pilette,21,0,0,0,Withdrew
+1964,Monaco Grand Prix,Giancarlo Baghetti,22,0,0,0,Withdrew
+1964,Monaco Grand Prix,Tony Maggs,23,0,0,0,Withdrew
+1964,Dutch Grand Prix,Jim Clark,1,9,2,80,RAS
+1964,Dutch Grand Prix,John Surtees,2,6,4,80,RAS
+1964,Dutch Grand Prix,Peter Arundell,3,4,6,79,RAS
+1964,Dutch Grand Prix,Graham Hill,4,3,3,79,RAS
+1964,Dutch Grand Prix,Chris Amon,5,2,13,79,RAS
+1964,Dutch Grand Prix,Bob Anderson,6,1,11,78,RAS
+1964,Dutch Grand Prix,Bruce McLaren,7,0,5,78,RAS
+1964,Dutch Grand Prix,Phil Hill,8,0,9,76,RAS
+1964,Dutch Grand Prix,Jo Bonnier,9,0,12,76,RAS
+1964,Dutch Grand Prix,Giancarlo Baghetti,10,0,16,74,RAS
+1964,Dutch Grand Prix,Richie Ginther,11,0,8,64,RAS
+1964,Dutch Grand Prix,Mike Hailwood,12,0,14,57,Differential
+1964,Dutch Grand Prix,Jo Siffert,13,0,18,55,RAS
+1964,Dutch Grand Prix,Jack Brabham,14,0,7,44,Ignition
+1964,Dutch Grand Prix,Dan Gurney,15,0,1,23,Steering
+1964,Dutch Grand Prix,Lorenzo Bandini,16,0,10,20,Ignition
+1964,Dutch Grand Prix,Carel Godin de Beaufort,17,0,17,8,Engine
+1964,Dutch Grand Prix,Tony Maggs,18,0,0,0,Accident
+1964,Belgian Grand Prix,Jim Clark,1,9,6,32,RAS
+1964,Belgian Grand Prix,Bruce McLaren,2,6,7,32,RAS
+1964,Belgian Grand Prix,Jack Brabham,3,4,3,32,RAS
+1964,Belgian Grand Prix,Richie Ginther,4,3,8,32,RAS
+1964,Belgian Grand Prix,Graham Hill,5,2,2,31,Fuel pump
+1964,Belgian Grand Prix,Dan Gurney,6,1,1,31,Out of fuel
+1964,Belgian Grand Prix,Trevor Taylor,7,0,12,31,RAS
+1964,Belgian Grand Prix,Giancarlo Baghetti,8,0,17,31,RAS
+1964,Belgian Grand Prix,Peter Arundell,9,0,4,28,Overheating
+1964,Belgian Grand Prix,Innes Ireland,10,0,16,28,RAS
+1964,Belgian Grand Prix,Peter Revson,11,0,10,28,DQ
+1964,Belgian Grand Prix,Jo Siffert,12,0,13,14,Engine
+1964,Belgian Grand Prix,Phil Hill,13,0,15,13,Engine
+1964,Belgian Grand Prix,Lorenzo Bandini,14,0,9,12,Engine
+1964,Belgian Grand Prix,André Pilette,15,0,20,11,Engine
+1964,Belgian Grand Prix,Jo Bonnier,16,0,14,8,Driver unwell
+1964,Belgian Grand Prix,John Surtees,17,0,5,4,Engine
+1964,Belgian Grand Prix,Chris Amon,18,0,11,3,Engine
+1964,French Grand Prix,Dan Gurney,1,9,2,57,RAS
+1964,French Grand Prix,Graham Hill,2,6,6,57,RAS
+1964,French Grand Prix,Jack Brabham,3,4,5,57,RAS
+1964,French Grand Prix,Peter Arundell,4,3,4,57,RAS
+1964,French Grand Prix,Richie Ginther,5,2,9,57,RAS
+1964,French Grand Prix,Bruce McLaren,6,1,7,56,RAS
+1964,French Grand Prix,Phil Hill,7,0,10,56,RAS
+1964,French Grand Prix,Mike Hailwood,8,0,13,56,RAS
+1964,French Grand Prix,Lorenzo Bandini,9,0,8,55,RAS
+1964,French Grand Prix,Chris Amon,10,0,14,53,RAS
+1964,French Grand Prix,Maurice Trintignant,11,0,16,52,RAS
+1964,French Grand Prix,Bob Anderson,12,0,15,50,RAS
+1964,French Grand Prix,Innes Ireland,13,0,11,32,Accident
+1964,French Grand Prix,Jim Clark,14,0,1,31,Engine
+1964,French Grand Prix,John Surtees,15,0,3,6,Engine
+1964,French Grand Prix,Trevor Taylor,16,0,12,6,Accident
+1964,French Grand Prix,Jo Siffert,17,0,17,4,Clutch
+1964,British Grand Prix,Jim Clark,1,9,1,80,RAS
+1964,British Grand Prix,Graham Hill,2,6,2,80,RAS
+1964,British Grand Prix,John Surtees,3,4,5,80,RAS
+1964,British Grand Prix,Jack Brabham,4,3,4,79,RAS
+1964,British Grand Prix,Lorenzo Bandini,5,2,8,78,RAS
+1964,British Grand Prix,Phil Hill,6,1,15,78,RAS
+1964,British Grand Prix,Bob Anderson,7,0,7,78,RAS
+1964,British Grand Prix,Richie Ginther,8,0,14,77,RAS
+1964,British Grand Prix,Mike Spence,9,0,13,77,RAS
+1964,British Grand Prix,Innes Ireland,10,0,10,77,RAS
+1964,British Grand Prix,Jo Siffert,11,0,16,76,RAS
+1964,British Grand Prix,Giancarlo Baghetti,12,0,21,76,RAS
+1964,British Grand Prix,Dan Gurney,13,0,3,75,RAS
+1964,British Grand Prix,John Taylor,14,0,20,56,RAS
+1964,British Grand Prix,Jo Bonnier,15,0,9,45,Brakes
+1964,British Grand Prix,Peter Revson,16,0,22,43,Differential
+1964,British Grand Prix,Tony Maggs,17,0,17,38,Gearbox
+1964,British Grand Prix,Ian Raby,18,0,23,37,Accident
+1964,British Grand Prix,Trevor Taylor,19,0,18,23,Driver unwell
+1964,British Grand Prix,Mike Hailwood,20,0,12,17,Oil pipe
+1964,British Grand Prix,Chris Amon,21,0,11,9,Clutch
+1964,British Grand Prix,Bruce McLaren,22,0,6,7,Gearbox
+1964,British Grand Prix,Frank Gardner,23,0,19,0,Accident
+1964,British Grand Prix,Richard Attwood,25,0,24,0,Withdrew
+1964,German Grand Prix,John Surtees,1,9,1,15,RAS
+1964,German Grand Prix,Graham Hill,2,6,5,15,RAS
+1964,German Grand Prix,Lorenzo Bandini,3,4,4,15,RAS
+1964,German Grand Prix,Jo Siffert,4,3,10,15,RAS
+1964,German Grand Prix,Maurice Trintignant,5,2,14,14,Battery
+1964,German Grand Prix,Tony Maggs,6,1,16,14,RAS
+1964,German Grand Prix,Richie Ginther,7,0,11,14,RAS
+1964,German Grand Prix,Mike Spence,8,0,17,14,RAS
+1964,German Grand Prix,Gerhard Mitter,9,0,19,14,RAS
+1964,German Grand Prix,Dan Gurney,10,0,3,14,RAS
+1964,German Grand Prix,Chris Amon,11,0,9,12,Suspension
+1964,German Grand Prix,Jack Brabham,12,0,6,11,Differential
+1964,German Grand Prix,Ronnie Bucknum,13,0,22,11,Accident
+1964,German Grand Prix,Peter Revson,14,0,18,10,Accident
+1964,German Grand Prix,Jim Clark,15,0,2,7,Engine
+1964,German Grand Prix,Bruce McLaren,16,0,7,4,Engine
+1964,German Grand Prix,Bob Anderson,17,0,15,4,Suspension
+1964,German Grand Prix,Edgar Barth,18,0,20,3,Clutch
+1964,German Grand Prix,Giancarlo Baghetti,19,0,21,2,Throttle
+1964,German Grand Prix,Phil Hill,20,0,8,1,Engine
+1964,German Grand Prix,Jo Bonnier,21,0,12,0,Electrical
+1964,German Grand Prix,Mike Hailwood,22,0,13,0,Engine
+1964,Austrian Grand Prix,Lorenzo Bandini,1,9,7,105,RAS
+1964,Austrian Grand Prix,Richie Ginther,2,6,5,105,RAS
+1964,Austrian Grand Prix,Bob Anderson,3,4,14,102,RAS
+1964,Austrian Grand Prix,Tony Maggs,4,3,19,102,RAS
+1964,Austrian Grand Prix,Innes Ireland,5,2,11,102,RAS
+1964,Austrian Grand Prix,Jo Bonnier,6,1,10,101,RAS
+1964,Austrian Grand Prix,Giancarlo Baghetti,7,0,15,96,RAS
+1964,Austrian Grand Prix,Mike Hailwood,8,0,18,95,RAS
+1964,Austrian Grand Prix,Jack Brabham,9,0,6,76,RAS
+1964,Austrian Grand Prix,Jochen Rindt,10,0,13,58,Steering
+1964,Austrian Grand Prix,Phil Hill,11,0,20,58,Accident
+1964,Austrian Grand Prix,Dan Gurney,12,0,4,47,Suspension
+1964,Austrian Grand Prix,Bruce McLaren,13,0,9,43,Engine
+1964,Austrian Grand Prix,Mike Spence,14,0,8,41,Halfshaft
+1964,Austrian Grand Prix,Jim Clark,15,0,3,40,Halfshaft
+1964,Austrian Grand Prix,Trevor Taylor,16,0,16,21,Suspension
+1964,Austrian Grand Prix,Jo Siffert,17,0,12,18,Accident
+1964,Austrian Grand Prix,John Surtees,18,0,2,9,Suspension
+1964,Austrian Grand Prix,Chris Amon,19,0,17,7,Engine
+1964,Austrian Grand Prix,Graham Hill,20,0,1,5,Distributor
+1964,Italian Grand Prix,John Surtees,1,9,1,78,RAS
+1964,Italian Grand Prix,Bruce McLaren,2,6,5,78,RAS
+1964,Italian Grand Prix,Lorenzo Bandini,3,4,7,77,RAS
+1964,Italian Grand Prix,Richie Ginther,4,3,9,77,RAS
+1964,Italian Grand Prix,Innes Ireland,5,2,13,77,RAS
+1964,Italian Grand Prix,Mike Spence,6,1,8,77,RAS
+1964,Italian Grand Prix,Jo Siffert,7,0,6,77,RAS
+1964,Italian Grand Prix,Giancarlo Baghetti,8,0,15,77,RAS
+1964,Italian Grand Prix,Ludovico Scarfiotti,9,0,16,77,RAS
+1964,Italian Grand Prix,Dan Gurney,10,0,2,75,RAS
+1964,Italian Grand Prix,Bob Anderson,11,0,14,75,RAS
+1964,Italian Grand Prix,Jo Bonnier,12,0,12,74,RAS
+1964,Italian Grand Prix,Peter Revson,13,0,18,72,RAS
+1964,Italian Grand Prix,Jack Brabham,14,0,11,59,Engine
+1964,Italian Grand Prix,Jim Clark,15,0,4,28,Engine
+1964,Italian Grand Prix,Mário de Araújo Cabral,16,0,19,25,Ignition
+1964,Italian Grand Prix,Maurice Trintignant,17,0,21,22,Injection
+1964,Italian Grand Prix,Ronnie Bucknum,18,0,10,13,Brakes
+1964,Italian Grand Prix,Mike Hailwood,19,0,17,5,Engine
+1964,Italian Grand Prix,Graham Hill,20,0,3,0,Clutch
+1964,United States Grand Prix,Graham Hill,1,9,4,110,RAS
+1964,United States Grand Prix,John Surtees,2,6,2,110,RAS
+1964,United States Grand Prix,Jo Siffert,3,4,12,109,RAS
+1964,United States Grand Prix,Richie Ginther,4,3,13,107,RAS
+1964,United States Grand Prix,Walt Hansgen,5,2,17,107,RAS
+1964,United States Grand Prix,Trevor Taylor,6,1,15,106,RAS
+1964,United States Grand Prix,Jim Clark,7,0,1,102,Out of fuel
+1964,United States Grand Prix,Mike Hailwood,8,0,15,101,Oil pipe
+1964,United States Grand Prix,Dan Gurney,9,0,3,69,Oil pressure
+1964,United States Grand Prix,Hap Sharp,10,0,18,65,Not classified
+1964,United States Grand Prix,Lorenzo Bandini,11,0,8,58,Engine
+1964,United States Grand Prix,Jim Clark,12,0,1,54,Injection
+1964,United States Grand Prix,Mike Spence,12,0,1,54,Injection
+1964,United States Grand Prix,Ronnie Bucknum,13,0,14,50,Overheating
+1964,United States Grand Prix,Chris Amon,14,0,11,47,Engine
+1964,United States Grand Prix,Jo Bonnier,15,0,9,37,Wheel
+1964,United States Grand Prix,Bruce McLaren,16,0,5,27,Engine
+1964,United States Grand Prix,Jack Brabham,17,0,7,14,Engine
+1964,United States Grand Prix,Phil Hill,18,0,19,4,Ignition
+1964,United States Grand Prix,Innes Ireland,19,0,10,2,Gearbox
+1964,Mexican Grand Prix,Dan Gurney,1,9,2,65,RAS
+1964,Mexican Grand Prix,John Surtees,2,6,4,65,RAS
+1964,Mexican Grand Prix,Lorenzo Bandini,3,4,3,65,RAS
+1964,Mexican Grand Prix,Mike Spence,4,3,5,65,RAS
+1964,Mexican Grand Prix,Jim Clark,5,2,1,64,Engine
+1964,Mexican Grand Prix,Pedro Rodríguez,6,1,9,64,RAS
+1964,Mexican Grand Prix,Bruce McLaren,7,0,10,64,RAS
+1964,Mexican Grand Prix,Richie Ginther,8,0,11,64,RAS
+1964,Mexican Grand Prix,Phil Hill,9,0,15,63,Engine
+1964,Mexican Grand Prix,Moisés Solana,10,0,14,63,RAS
+1964,Mexican Grand Prix,Graham Hill,11,0,6,63,RAS
+1964,Mexican Grand Prix,Innes Ireland,12,0,16,61,RAS
+1964,Mexican Grand Prix,Hap Sharp,13,0,19,60,RAS
+1964,Mexican Grand Prix,Chris Amon,14,0,12,46,Gearbox
+1964,Mexican Grand Prix,Jack Brabham,15,0,7,44,Electrical
+1964,Mexican Grand Prix,Mike Hailwood,16,0,17,12,Overheating
+1964,Mexican Grand Prix,Jo Siffert,17,0,13,11,Fuel pump
+1964,Mexican Grand Prix,Jo Bonnier,18,0,8,9,Suspension
+1964,Mexican Grand Prix,Trevor Taylor,19,0,18,6,Overheating

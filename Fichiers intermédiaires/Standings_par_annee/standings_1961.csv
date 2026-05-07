@@ -1,0 +1,216 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1961,Monaco Grand Prix,Stirling Moss,1,9,1,100,RAS
+1961,Monaco Grand Prix,Richie Ginther,2,6,2,100,RAS
+1961,Monaco Grand Prix,Phil Hill,3,4,5,100,RAS
+1961,Monaco Grand Prix,Wolfgang von Trips,4,3,6,98,Accident
+1961,Monaco Grand Prix,Dan Gurney,5,2,11,98,RAS
+1961,Monaco Grand Prix,Bruce McLaren,6,1,7,95,RAS
+1961,Monaco Grand Prix,Maurice Trintignant,7,0,16,95,RAS
+1961,Monaco Grand Prix,Cliff Allison,8,0,15,93,RAS
+1961,Monaco Grand Prix,Hans Herrmann,9,0,13,91,RAS
+1961,Monaco Grand Prix,Jim Clark,10,0,3,89,RAS
+1961,Monaco Grand Prix,John Surtees,11,0,12,68,Engine
+1961,Monaco Grand Prix,Jo Bonnier,12,0,9,59,Injection
+1961,Monaco Grand Prix,Tony Brooks,13,0,8,54,Engine
+1961,Monaco Grand Prix,Michael May,14,0,14,42,Oil pipe
+1961,Monaco Grand Prix,Jack Brabham,15,0,21,38,Ignition
+1961,Monaco Grand Prix,Graham Hill,16,0,4,11,Fuel pump
+1961,Monaco Grand Prix,Innes Ireland,17,0,0,0,Withdrew
+1961,Dutch Grand Prix,Wolfgang von Trips,1,9,2,75,RAS
+1961,Dutch Grand Prix,Phil Hill,2,6,1,75,RAS
+1961,Dutch Grand Prix,Jim Clark,3,4,11,75,RAS
+1961,Dutch Grand Prix,Stirling Moss,4,3,4,75,RAS
+1961,Dutch Grand Prix,Richie Ginther,5,2,3,75,RAS
+1961,Dutch Grand Prix,Jack Brabham,6,1,7,75,RAS
+1961,Dutch Grand Prix,John Surtees,7,0,9,75,RAS
+1961,Dutch Grand Prix,Graham Hill,8,0,5,75,RAS
+1961,Dutch Grand Prix,Tony Brooks,9,0,8,74,RAS
+1961,Dutch Grand Prix,Dan Gurney,10,0,6,74,RAS
+1961,Dutch Grand Prix,Jo Bonnier,11,0,12,73,RAS
+1961,Dutch Grand Prix,Bruce McLaren,12,0,14,73,RAS
+1961,Dutch Grand Prix,Trevor Taylor,13,0,16,73,RAS
+1961,Dutch Grand Prix,Carel Godin de Beaufort,14,0,17,72,RAS
+1961,Dutch Grand Prix,Hans Herrmann,15,0,13,72,RAS
+1961,Dutch Grand Prix,Masten Gregory,16,0,0,0,Withdrew
+1961,Dutch Grand Prix,Ian Burgess,17,0,0,0,Withdrew
+1961,Belgian Grand Prix,Phil Hill,1,9,1,30,RAS
+1961,Belgian Grand Prix,Wolfgang von Trips,2,6,2,30,RAS
+1961,Belgian Grand Prix,Richie Ginther,3,4,5,30,RAS
+1961,Belgian Grand Prix,Olivier Gendebien,4,3,3,30,RAS
+1961,Belgian Grand Prix,John Surtees,5,2,4,30,RAS
+1961,Belgian Grand Prix,Dan Gurney,6,1,10,30,RAS
+1961,Belgian Grand Prix,Jo Bonnier,7,0,9,30,RAS
+1961,Belgian Grand Prix,Stirling Moss,8,0,8,30,RAS
+1961,Belgian Grand Prix,Jackie Lewis,9,0,13,29,RAS
+1961,Belgian Grand Prix,Masten Gregory,10,0,12,29,RAS
+1961,Belgian Grand Prix,Carel Godin de Beaufort,11,0,14,28,RAS
+1961,Belgian Grand Prix,Jim Clark,12,0,16,24,RAS
+1961,Belgian Grand Prix,Tony Brooks,13,0,7,24,RAS
+1961,Belgian Grand Prix,Graham Hill,14,0,6,24,Ignition
+1961,Belgian Grand Prix,Maurice Trintignant,15,0,20,23,Gearbox
+1961,Belgian Grand Prix,Lorenzo Bandini,16,0,17,20,Wheel bearing
+1961,Belgian Grand Prix,Jack Brabham,17,0,11,12,Engine
+1961,Belgian Grand Prix,Bruce McLaren,18,0,15,9,Ignition
+1961,Belgian Grand Prix,Innes Ireland,19,0,18,9,Engine
+1961,Belgian Grand Prix,Lucien Bianchi,20,0,23,9,Oil leak
+1961,Belgian Grand Prix,Willy Mairesse,21,0,19,7,Ignition
+1961,Belgian Grand Prix,Tony Marsh,22,0,0,0,Withdrew
+1961,Belgian Grand Prix,Wolfgang Seidel,23,0,0,0,Withdrew
+1961,Belgian Grand Prix,Ian Burgess,24,0,0,0,Withdrew
+1961,Belgian Grand Prix,Cliff Allison,25,0,0,0,Withdrew
+1961,Belgian Grand Prix,Henry Taylor,26,0,0,0,Withdrew
+1961,French Grand Prix,Giancarlo Baghetti,1,9,12,52,RAS
+1961,French Grand Prix,Dan Gurney,2,6,5,52,RAS
+1961,French Grand Prix,Jim Clark,3,4,9,52,RAS
+1961,French Grand Prix,Innes Ireland,4,3,10,52,RAS
+1961,French Grand Prix,Bruce McLaren,5,2,8,52,RAS
+1961,French Grand Prix,Graham Hill,6,1,6,52,RAS
+1961,French Grand Prix,Jo Bonnier,7,0,13,52,RAS
+1961,French Grand Prix,Roy Salvadori,8,0,15,51,RAS
+1961,French Grand Prix,Phil Hill,9,0,1,50,RAS
+1961,French Grand Prix,Henry Taylor,10,0,25,49,RAS
+1961,French Grand Prix,Michael May,11,0,22,48,RAS
+1961,French Grand Prix,Masten Gregory,12,0,16,43,RAS
+1961,French Grand Prix,Maurice Trintignant,13,0,23,42,RAS
+1961,French Grand Prix,Ian Burgess,14,0,24,42,RAS
+1961,French Grand Prix,Richie Ginther,15,0,3,40,Oil pressure
+1961,French Grand Prix,Stirling Moss,16,0,4,31,Brakes
+1961,French Grand Prix,Willy Mairesse,17,0,20,27,Engine
+1961,French Grand Prix,Carel Godin de Beaufort,18,0,17,23,Overheating
+1961,French Grand Prix,Lucien Bianchi,19,0,19,21,Overheating
+1961,French Grand Prix,Wolfgang von Trips,20,0,2,18,Engine
+1961,French Grand Prix,Giorgio Scarlatti,21,0,26,15,Engine
+1961,French Grand Prix,Jack Brabham,22,0,14,14,Oil pressure
+1961,French Grand Prix,Bernard Collomb,23,0,21,6,Engine
+1961,French Grand Prix,John Surtees,24,0,7,4,Accident
+1961,French Grand Prix,Tony Brooks,25,0,11,4,Overheating
+1961,French Grand Prix,Jackie Lewis,26,0,18,4,Overheating
+1961,French Grand Prix,Wolfgang Seidel,27,0,0,0,Withdrew
+1961,French Grand Prix,Juan Manuel Bordeu,28,0,0,0,Withdrew
+1961,French Grand Prix,Hans Herrmann,29,0,0,0,Withdrew
+1961,French Grand Prix,Olivier Gendebien,30,0,0,0,Withdrew
+1961,French Grand Prix,Brian Naylor,31,0,0,0,Withdrew
+1961,British Grand Prix,Wolfgang von Trips,1,9,4,75,RAS
+1961,British Grand Prix,Phil Hill,2,6,1,75,RAS
+1961,British Grand Prix,Richie Ginther,3,4,2,75,RAS
+1961,British Grand Prix,Jack Brabham,4,3,9,75,RAS
+1961,British Grand Prix,Jo Bonnier,5,2,3,75,RAS
+1961,British Grand Prix,Roy Salvadori,6,1,13,75,RAS
+1961,British Grand Prix,Dan Gurney,7,0,12,74,RAS
+1961,British Grand Prix,Bruce McLaren,8,0,14,74,RAS
+1961,British Grand Prix,Tony Brooks,9,0,6,73,RAS
+1961,British Grand Prix,Innes Ireland,10,0,7,72,RAS
+1961,British Grand Prix,Masten Gregory,11,0,16,71,RAS
+1961,British Grand Prix,Lorenzo Bandini,12,0,21,71,RAS
+1961,British Grand Prix,Tony Maggs,13,0,24,69,RAS
+1961,British Grand Prix,Ian Burgess,14,0,25,69,RAS
+1961,British Grand Prix,Keith Greene,15,0,26,69,RAS
+1961,British Grand Prix,Carel Godin de Beaufort,16,0,18,69,RAS
+1961,British Grand Prix,Wolfgang Seidel,17,0,22,58,RAS
+1961,British Grand Prix,Jim Clark,18,0,8,62,Oil leak
+1961,British Grand Prix,Stirling Moss,19,0,20,56,DQ
+1961,British Grand Prix,Jack Fairman,19,0,20,56,DQ
+1961,British Grand Prix,Lucien Bianchi,20,0,30,45,Gearbox
+1961,British Grand Prix,Stirling Moss,21,0,5,44,Brakes
+1961,British Grand Prix,Graham Hill,22,0,11,43,Engine
+1961,British Grand Prix,Giancarlo Baghetti,23,0,19,27,Accident
+1961,British Grand Prix,Tony Marsh,24,0,27,25,Ignition
+1961,British Grand Prix,John Surtees,25,0,10,23,Differential
+1961,British Grand Prix,Tim Parnell,26,0,29,12,Clutch
+1961,British Grand Prix,Jackie Lewis,27,0,15,7,Handling
+1961,British Grand Prix,Gerry Ashmore,28,0,26,7,Ignition
+1961,British Grand Prix,Henry Taylor,29,0,17,5,Accident
+1961,British Grand Prix,Massimo Natili,30,0,28,0,Gearbox
+1961,British Grand Prix,Olivier Gendebien,31,0,0,0,Withdrew
+1961,German Grand Prix,Stirling Moss,1,9,3,15,RAS
+1961,German Grand Prix,Wolfgang von Trips,2,6,5,15,RAS
+1961,German Grand Prix,Phil Hill,3,4,1,15,RAS
+1961,German Grand Prix,Jim Clark,4,3,8,15,RAS
+1961,German Grand Prix,John Surtees,5,2,10,15,RAS
+1961,German Grand Prix,Bruce McLaren,6,1,12,15,RAS
+1961,German Grand Prix,Dan Gurney,7,0,7,15,RAS
+1961,German Grand Prix,Richie Ginther,8,0,14,15,RAS
+1961,German Grand Prix,Jackie Lewis,9,0,18,15,RAS
+1961,German Grand Prix,Roy Salvadori,10,0,15,15,RAS
+1961,German Grand Prix,Tony Maggs,11,0,22,14,RAS
+1961,German Grand Prix,Ian Burgess,12,0,24,14,RAS
+1961,German Grand Prix,Hans Herrmann,13,0,11,14,RAS
+1961,German Grand Prix,Carel Godin de Beaufort,14,0,17,14,RAS
+1961,German Grand Prix,Tony Marsh,15,0,20,13,RAS
+1961,German Grand Prix,Gerry Ashmore,16,0,25,13,RAS
+1961,German Grand Prix,Willy Mairesse,17,0,13,13,Accident
+1961,German Grand Prix,Maurice Trintignant,18,0,21,12,Engine
+1961,German Grand Prix,Bernard Collomb,19,0,26,11,Not classified
+1961,German Grand Prix,Lorenzo Bandini,20,0,19,10,Engine
+1961,German Grand Prix,Tony Brooks,21,0,9,6,Engine
+1961,German Grand Prix,Jo Bonnier,22,0,4,5,Engine
+1961,German Grand Prix,Wolfgang Seidel,23,0,23,3,Handling
+1961,German Grand Prix,Graham Hill,24,0,16,1,Accident
+1961,German Grand Prix,Innes Ireland,25,0,6,1,Heat shield fire
+1961,German Grand Prix,Jack Brabham,26,0,2,0,Accident
+1961,German Grand Prix,Edgar Barth,27,0,0,0,Withdrew
+1961,German Grand Prix,Masten Gregory,28,0,0,0,Withdrew
+1961,German Grand Prix,Michael May,29,0,0,0,Withdrew
+1961,German Grand Prix,Peter Monteverdi,30,0,0,0,Withdrew
+1961,German Grand Prix,Renato Pirocchi,31,0,0,0,Withdrew
+1961,German Grand Prix,Geoff Duke,32,0,0,0,Withdrew
+1961,German Grand Prix,John Campbell-Jones,33,0,0,0,Withdrew
+1961,Italian Grand Prix,Phil Hill,1,9,4,43,RAS
+1961,Italian Grand Prix,Dan Gurney,2,6,12,43,RAS
+1961,Italian Grand Prix,Bruce McLaren,3,4,14,43,RAS
+1961,Italian Grand Prix,Jackie Lewis,4,3,16,43,RAS
+1961,Italian Grand Prix,Tony Brooks,5,2,13,43,RAS
+1961,Italian Grand Prix,Roy Salvadori,6,1,18,42,RAS
+1961,Italian Grand Prix,Carel Godin de Beaufort,7,0,15,41,RAS
+1961,Italian Grand Prix,Lorenzo Bandini,8,0,21,41,RAS
+1961,Italian Grand Prix,Maurice Trintignant,9,0,22,41,RAS
+1961,Italian Grand Prix,Tim Parnell,10,0,27,40,RAS
+1961,Italian Grand Prix,Henry Taylor,11,0,23,39,RAS
+1961,Italian Grand Prix,Renato Pirocchi,12,0,29,38,RAS
+1961,Italian Grand Prix,Stirling Moss,13,0,11,36,Wheel bearing
+1961,Italian Grand Prix,Richie Ginther,14,0,3,23,Engine
+1961,Italian Grand Prix,Gaetano Starrabba,15,0,30,19,Engine
+1961,Italian Grand Prix,Jo Bonnier,16,0,8,14,Suspension
+1961,Italian Grand Prix,Ricardo Rodríguez,17,0,2,13,Fuel system
+1961,Italian Grand Prix,Giancarlo Baghetti,18,0,6,13,Engine
+1961,Italian Grand Prix,Nino Vaccarella,19,0,20,13,Engine
+1961,Italian Grand Prix,Masten Gregory,20,0,17,11,Suspension
+1961,Italian Grand Prix,Graham Hill,21,0,5,10,Engine
+1961,Italian Grand Prix,Jack Brabham,22,0,10,8,Overheating
+1961,Italian Grand Prix,Brian Naylor,23,0,31,6,Engine
+1961,Italian Grand Prix,Innes Ireland,24,0,9,5,Chassis
+1961,Italian Grand Prix,Jack Fairman,25,0,26,5,Engine
+1961,Italian Grand Prix,John Surtees,26,0,19,2,Accident
+1961,Italian Grand Prix,Wolfgang von Trips,27,0,1,1,Accident
+1961,Italian Grand Prix,Jim Clark,28,0,7,1,Accident
+1961,Italian Grand Prix,Roberto Bussinello,29,0,24,1,Engine
+1961,Italian Grand Prix,Wolfgang Seidel,30,0,28,1,Engine
+1961,Italian Grand Prix,Roberto Lippi,31,0,32,1,Engine
+1961,Italian Grand Prix,Gerry Ashmore,32,0,25,0,Accident
+1961,Italian Grand Prix,Edgar Barth,34,0,0,0,Withdrew
+1961,Italian Grand Prix,Massimo Natili,35,0,0,0,Withdrew
+1961,Italian Grand Prix,Alfonso Thiele,36,0,0,0,Withdrew
+1961,Italian Grand Prix,Ernesto Prinoth,37,0,0,0,Withdrew
+1961,Italian Grand Prix,Menato Boffa,38,0,0,0,Withdrew
+1961,Italian Grand Prix,Michael May,39,0,0,0,Withdrew
+1961,United States Grand Prix,Innes Ireland,1,9,8,100,RAS
+1961,United States Grand Prix,Dan Gurney,2,6,7,100,RAS
+1961,United States Grand Prix,Tony Brooks,3,4,5,100,RAS
+1961,United States Grand Prix,Bruce McLaren,4,3,4,100,RAS
+1961,United States Grand Prix,Graham Hill,5,2,2,99,RAS
+1961,United States Grand Prix,Jo Bonnier,6,1,10,98,RAS
+1961,United States Grand Prix,Jim Clark,7,0,6,96,RAS
+1961,United States Grand Prix,Roger Penske,8,0,16,96,RAS
+1961,United States Grand Prix,Peter Ryan,9,0,13,96,RAS
+1961,United States Grand Prix,Hap Sharp,10,0,17,93,RAS
+1961,United States Grand Prix,Masten Gregory,11,0,15,92,RAS
+1961,United States Grand Prix,Olivier Gendebien,11,0,15,92,RAS
+1961,United States Grand Prix,Roy Salvadori,12,0,12,96,Engine
+1961,United States Grand Prix,Jim Hall,13,0,18,76,Fuel leak
+1961,United States Grand Prix,Lloyd Ruby,14,0,19,76,Magneto
+1961,United States Grand Prix,Stirling Moss,15,0,3,58,Engine
+1961,United States Grand Prix,Jack Brabham,16,0,1,57,Overheating
+1961,United States Grand Prix,Masten Gregory,17,0,11,23,Gearbox
+1961,United States Grand Prix,Walt Hansgen,18,0,14,14,Accident
+1961,United States Grand Prix,John Surtees,19,0,9,0,Engine
+1961,United States Grand Prix,Ken Miles,20,0,0,0,Withdrew

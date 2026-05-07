@@ -1,0 +1,421 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2018,Australian Grand Prix,Sebastian Vettel,1,25,3,58,RAS
+2018,Australian Grand Prix,Lewis Hamilton,2,18,1,58,RAS
+2018,Australian Grand Prix,Kimi Räikkönen,3,15,2,58,RAS
+2018,Australian Grand Prix,Daniel Ricciardo,4,12,8,58,RAS
+2018,Australian Grand Prix,Fernando Alonso,5,10,10,58,RAS
+2018,Australian Grand Prix,Max Verstappen,6,8,4,58,RAS
+2018,Australian Grand Prix,Nico Hülkenberg,7,6,7,58,RAS
+2018,Australian Grand Prix,Valtteri Bottas,8,4,15,58,RAS
+2018,Australian Grand Prix,Stoffel Vandoorne,9,2,11,58,RAS
+2018,Australian Grand Prix,Carlos Sainz,10,1,9,58,RAS
+2018,Australian Grand Prix,Sergio Pérez,11,0,12,58,RAS
+2018,Australian Grand Prix,Esteban Ocon,12,0,14,58,RAS
+2018,Australian Grand Prix,Charles Leclerc,13,0,18,58,RAS
+2018,Australian Grand Prix,Lance Stroll,14,0,13,58,RAS
+2018,Australian Grand Prix,Brendon Hartley,15,0,16,57,RAS
+2018,Australian Grand Prix,Romain Grosjean,16,0,6,24,Wheel
+2018,Australian Grand Prix,Kevin Magnussen,17,0,5,22,Wheel
+2018,Australian Grand Prix,Pierre Gasly,18,0,20,13,Engine
+2018,Australian Grand Prix,Marcus Ericsson,19,0,17,5,Steering
+2018,Australian Grand Prix,Sergey Sirotkin,20,0,19,4,Brakes
+2018,Bahrain Grand Prix,Sebastian Vettel,1,25,1,57,RAS
+2018,Bahrain Grand Prix,Valtteri Bottas,2,18,3,57,RAS
+2018,Bahrain Grand Prix,Lewis Hamilton,3,15,9,57,RAS
+2018,Bahrain Grand Prix,Pierre Gasly,4,12,5,57,RAS
+2018,Bahrain Grand Prix,Kevin Magnussen,5,10,6,57,RAS
+2018,Bahrain Grand Prix,Nico Hülkenberg,6,8,7,57,RAS
+2018,Bahrain Grand Prix,Fernando Alonso,7,6,13,56,RAS
+2018,Bahrain Grand Prix,Stoffel Vandoorne,8,4,14,56,RAS
+2018,Bahrain Grand Prix,Marcus Ericsson,9,2,17,56,RAS
+2018,Bahrain Grand Prix,Esteban Ocon,10,1,8,56,RAS
+2018,Bahrain Grand Prix,Carlos Sainz,11,0,10,56,RAS
+2018,Bahrain Grand Prix,Charles Leclerc,12,0,19,56,RAS
+2018,Bahrain Grand Prix,Romain Grosjean,13,0,16,56,RAS
+2018,Bahrain Grand Prix,Lance Stroll,14,0,20,56,RAS
+2018,Bahrain Grand Prix,Sergey Sirotkin,15,0,18,56,RAS
+2018,Bahrain Grand Prix,Sergio Pérez,16,0,12,56,RAS
+2018,Bahrain Grand Prix,Brendon Hartley,17,0,11,56,RAS
+2018,Bahrain Grand Prix,Kimi Räikkönen,18,0,2,35,Wheel
+2018,Bahrain Grand Prix,Max Verstappen,19,0,15,3,Puncture
+2018,Bahrain Grand Prix,Daniel Ricciardo,20,0,4,1,Electrical
+2018,Chinese Grand Prix,Daniel Ricciardo,1,25,6,56,RAS
+2018,Chinese Grand Prix,Valtteri Bottas,2,18,3,56,RAS
+2018,Chinese Grand Prix,Kimi Räikkönen,3,15,2,56,RAS
+2018,Chinese Grand Prix,Lewis Hamilton,4,12,4,56,RAS
+2018,Chinese Grand Prix,Max Verstappen,5,10,5,56,RAS
+2018,Chinese Grand Prix,Nico Hülkenberg,6,8,7,56,RAS
+2018,Chinese Grand Prix,Fernando Alonso,7,6,13,56,RAS
+2018,Chinese Grand Prix,Sebastian Vettel,8,4,1,56,RAS
+2018,Chinese Grand Prix,Carlos Sainz,9,2,9,56,RAS
+2018,Chinese Grand Prix,Kevin Magnussen,10,1,11,56,RAS
+2018,Chinese Grand Prix,Esteban Ocon,11,0,12,56,RAS
+2018,Chinese Grand Prix,Sergio Pérez,12,0,8,56,RAS
+2018,Chinese Grand Prix,Stoffel Vandoorne,13,0,14,56,RAS
+2018,Chinese Grand Prix,Lance Stroll,14,0,18,56,RAS
+2018,Chinese Grand Prix,Sergey Sirotkin,15,0,16,56,RAS
+2018,Chinese Grand Prix,Marcus Ericsson,16,0,20,56,RAS
+2018,Chinese Grand Prix,Romain Grosjean,17,0,10,56,RAS
+2018,Chinese Grand Prix,Pierre Gasly,18,0,17,56,RAS
+2018,Chinese Grand Prix,Charles Leclerc,19,0,19,56,RAS
+2018,Chinese Grand Prix,Brendon Hartley,20,0,15,51,Collision damage
+2018,Azerbaijan Grand Prix,Lewis Hamilton,1,25,2,51,RAS
+2018,Azerbaijan Grand Prix,Kimi Räikkönen,2,18,6,51,RAS
+2018,Azerbaijan Grand Prix,Sergio Pérez,3,15,8,51,RAS
+2018,Azerbaijan Grand Prix,Sebastian Vettel,4,12,1,51,RAS
+2018,Azerbaijan Grand Prix,Carlos Sainz,5,10,9,51,RAS
+2018,Azerbaijan Grand Prix,Charles Leclerc,6,8,13,51,RAS
+2018,Azerbaijan Grand Prix,Fernando Alonso,7,6,12,51,RAS
+2018,Azerbaijan Grand Prix,Lance Stroll,8,4,10,51,RAS
+2018,Azerbaijan Grand Prix,Stoffel Vandoorne,9,2,16,51,RAS
+2018,Azerbaijan Grand Prix,Brendon Hartley,10,1,19,51,RAS
+2018,Azerbaijan Grand Prix,Marcus Ericsson,11,0,18,51,RAS
+2018,Azerbaijan Grand Prix,Pierre Gasly,12,0,17,51,RAS
+2018,Azerbaijan Grand Prix,Kevin Magnussen,13,0,15,51,RAS
+2018,Azerbaijan Grand Prix,Valtteri Bottas,14,0,3,48,Puncture
+2018,Azerbaijan Grand Prix,Romain Grosjean,15,0,20,42,Accident
+2018,Azerbaijan Grand Prix,Max Verstappen,16,0,5,39,Collision
+2018,Azerbaijan Grand Prix,Daniel Ricciardo,17,0,4,39,Collision
+2018,Azerbaijan Grand Prix,Nico Hülkenberg,18,0,14,10,Accident
+2018,Azerbaijan Grand Prix,Esteban Ocon,19,0,7,0,Collision
+2018,Azerbaijan Grand Prix,Sergey Sirotkin,20,0,11,0,Collision
+2018,Spanish Grand Prix,Lewis Hamilton,1,25,1,66,RAS
+2018,Spanish Grand Prix,Valtteri Bottas,2,18,2,66,RAS
+2018,Spanish Grand Prix,Max Verstappen,3,15,5,66,RAS
+2018,Spanish Grand Prix,Sebastian Vettel,4,12,3,66,RAS
+2018,Spanish Grand Prix,Daniel Ricciardo,5,10,6,66,RAS
+2018,Spanish Grand Prix,Kevin Magnussen,6,8,7,65,RAS
+2018,Spanish Grand Prix,Carlos Sainz,7,6,9,65,RAS
+2018,Spanish Grand Prix,Fernando Alonso,8,4,8,65,RAS
+2018,Spanish Grand Prix,Sergio Pérez,9,2,15,64,RAS
+2018,Spanish Grand Prix,Charles Leclerc,10,1,14,64,RAS
+2018,Spanish Grand Prix,Lance Stroll,11,0,18,64,RAS
+2018,Spanish Grand Prix,Brendon Hartley,12,0,20,64,RAS
+2018,Spanish Grand Prix,Marcus Ericsson,13,0,17,64,RAS
+2018,Spanish Grand Prix,Sergey Sirotkin,14,0,19,63,RAS
+2018,Spanish Grand Prix,Stoffel Vandoorne,15,0,11,45,Gearbox
+2018,Spanish Grand Prix,Esteban Ocon,16,0,13,38,Oil leak
+2018,Spanish Grand Prix,Kimi Räikkönen,17,0,4,25,Turbo
+2018,Spanish Grand Prix,Romain Grosjean,18,0,10,0,Collision
+2018,Spanish Grand Prix,Pierre Gasly,19,0,12,0,Collision
+2018,Spanish Grand Prix,Nico Hülkenberg,20,0,16,0,Collision
+2018,Monaco Grand Prix,Daniel Ricciardo,1,25,1,78,RAS
+2018,Monaco Grand Prix,Sebastian Vettel,2,18,2,78,RAS
+2018,Monaco Grand Prix,Lewis Hamilton,3,15,3,78,RAS
+2018,Monaco Grand Prix,Kimi Räikkönen,4,12,4,78,RAS
+2018,Monaco Grand Prix,Valtteri Bottas,5,10,5,78,RAS
+2018,Monaco Grand Prix,Esteban Ocon,6,8,6,78,RAS
+2018,Monaco Grand Prix,Pierre Gasly,7,6,10,78,RAS
+2018,Monaco Grand Prix,Nico Hülkenberg,8,4,11,78,RAS
+2018,Monaco Grand Prix,Max Verstappen,9,2,20,78,RAS
+2018,Monaco Grand Prix,Carlos Sainz,10,1,8,78,RAS
+2018,Monaco Grand Prix,Marcus Ericsson,11,0,16,78,RAS
+2018,Monaco Grand Prix,Sergio Pérez,12,0,9,78,RAS
+2018,Monaco Grand Prix,Kevin Magnussen,13,0,19,78,RAS
+2018,Monaco Grand Prix,Stoffel Vandoorne,14,0,12,77,RAS
+2018,Monaco Grand Prix,Romain Grosjean,15,0,18,77,RAS
+2018,Monaco Grand Prix,Sergey Sirotkin,16,0,13,77,RAS
+2018,Monaco Grand Prix,Lance Stroll,17,0,17,76,RAS
+2018,Monaco Grand Prix,Charles Leclerc,18,0,14,70,Collision
+2018,Monaco Grand Prix,Brendon Hartley,19,0,15,70,Collision
+2018,Monaco Grand Prix,Fernando Alonso,20,0,7,52,Gearbox
+2018,Canadian Grand Prix,Sebastian Vettel,1,25,1,68,RAS
+2018,Canadian Grand Prix,Valtteri Bottas,2,18,2,68,RAS
+2018,Canadian Grand Prix,Max Verstappen,3,15,3,68,RAS
+2018,Canadian Grand Prix,Daniel Ricciardo,4,12,6,68,RAS
+2018,Canadian Grand Prix,Lewis Hamilton,5,10,4,68,RAS
+2018,Canadian Grand Prix,Kimi Räikkönen,6,8,5,68,RAS
+2018,Canadian Grand Prix,Nico Hülkenberg,7,6,7,67,RAS
+2018,Canadian Grand Prix,Carlos Sainz,8,4,9,67,RAS
+2018,Canadian Grand Prix,Esteban Ocon,9,2,8,67,RAS
+2018,Canadian Grand Prix,Charles Leclerc,10,1,13,67,RAS
+2018,Canadian Grand Prix,Pierre Gasly,11,0,16,67,RAS
+2018,Canadian Grand Prix,Romain Grosjean,12,0,20,67,RAS
+2018,Canadian Grand Prix,Kevin Magnussen,13,0,11,67,RAS
+2018,Canadian Grand Prix,Sergio Pérez,14,0,10,67,RAS
+2018,Canadian Grand Prix,Marcus Ericsson,15,0,19,66,RAS
+2018,Canadian Grand Prix,Stoffel Vandoorne,16,0,15,66,RAS
+2018,Canadian Grand Prix,Sergey Sirotkin,17,0,18,66,RAS
+2018,Canadian Grand Prix,Fernando Alonso,18,0,14,40,Exhaust
+2018,Canadian Grand Prix,Brendon Hartley,19,0,12,0,Collision
+2018,Canadian Grand Prix,Lance Stroll,20,0,17,0,Collision
+2018,French Grand Prix,Lewis Hamilton,1,25,1,53,RAS
+2018,French Grand Prix,Max Verstappen,2,18,4,53,RAS
+2018,French Grand Prix,Kimi Räikkönen,3,15,6,53,RAS
+2018,French Grand Prix,Daniel Ricciardo,4,12,5,53,RAS
+2018,French Grand Prix,Sebastian Vettel,5,10,3,53,RAS
+2018,French Grand Prix,Kevin Magnussen,6,8,9,53,RAS
+2018,French Grand Prix,Valtteri Bottas,7,6,2,53,RAS
+2018,French Grand Prix,Carlos Sainz,8,4,7,53,RAS
+2018,French Grand Prix,Nico Hülkenberg,9,2,12,53,RAS
+2018,French Grand Prix,Charles Leclerc,10,1,8,53,RAS
+2018,French Grand Prix,Romain Grosjean,11,0,10,52,RAS
+2018,French Grand Prix,Stoffel Vandoorne,12,0,17,52,RAS
+2018,French Grand Prix,Marcus Ericsson,13,0,15,52,RAS
+2018,French Grand Prix,Brendon Hartley,14,0,20,52,RAS
+2018,French Grand Prix,Sergey Sirotkin,15,0,18,52,RAS
+2018,French Grand Prix,Fernando Alonso,16,0,16,50,Wheel
+2018,French Grand Prix,Lance Stroll,17,0,19,48,Puncture
+2018,French Grand Prix,Sergio Pérez,18,0,13,27,Engine
+2018,French Grand Prix,Esteban Ocon,19,0,11,0,Collision
+2018,French Grand Prix,Pierre Gasly,20,0,14,0,Collision
+2018,Austrian Grand Prix,Max Verstappen,1,25,4,71,RAS
+2018,Austrian Grand Prix,Kimi Räikkönen,2,18,3,71,RAS
+2018,Austrian Grand Prix,Sebastian Vettel,3,15,6,71,RAS
+2018,Austrian Grand Prix,Romain Grosjean,4,12,5,70,RAS
+2018,Austrian Grand Prix,Kevin Magnussen,5,10,8,70,RAS
+2018,Austrian Grand Prix,Esteban Ocon,6,8,11,70,RAS
+2018,Austrian Grand Prix,Sergio Pérez,7,6,16,70,RAS
+2018,Austrian Grand Prix,Fernando Alonso,8,4,13,70,RAS
+2018,Austrian Grand Prix,Charles Leclerc,9,2,18,70,RAS
+2018,Austrian Grand Prix,Marcus Ericsson,10,1,20,70,RAS
+2018,Austrian Grand Prix,Pierre Gasly,11,0,12,70,RAS
+2018,Austrian Grand Prix,Carlos Sainz,12,0,9,70,RAS
+2018,Austrian Grand Prix,Sergey Sirotkin,13,0,17,69,RAS
+2018,Austrian Grand Prix,Lance Stroll,14,0,14,69,RAS
+2018,Austrian Grand Prix,Stoffel Vandoorne,15,0,15,65,Collision damage
+2018,Austrian Grand Prix,Lewis Hamilton,16,0,2,62,Fuel pressure
+2018,Austrian Grand Prix,Brendon Hartley,17,0,19,54,Hydraulics
+2018,Austrian Grand Prix,Daniel Ricciardo,18,0,7,53,Exhaust
+2018,Austrian Grand Prix,Valtteri Bottas,19,0,1,13,Hydraulics
+2018,Austrian Grand Prix,Nico Hülkenberg,20,0,10,11,Engine
+2018,British Grand Prix,Sebastian Vettel,1,25,2,52,RAS
+2018,British Grand Prix,Lewis Hamilton,2,18,1,52,RAS
+2018,British Grand Prix,Kimi Räikkönen,3,15,3,52,RAS
+2018,British Grand Prix,Valtteri Bottas,4,12,4,52,RAS
+2018,British Grand Prix,Daniel Ricciardo,5,10,6,52,RAS
+2018,British Grand Prix,Nico Hülkenberg,6,8,11,52,RAS
+2018,British Grand Prix,Esteban Ocon,7,6,10,52,RAS
+2018,British Grand Prix,Fernando Alonso,8,4,13,52,RAS
+2018,British Grand Prix,Kevin Magnussen,9,2,7,52,RAS
+2018,British Grand Prix,Sergio Pérez,10,1,12,52,RAS
+2018,British Grand Prix,Stoffel Vandoorne,11,0,17,52,RAS
+2018,British Grand Prix,Lance Stroll,12,0,19,52,RAS
+2018,British Grand Prix,Pierre Gasly,13,0,14,52,RAS
+2018,British Grand Prix,Sergey Sirotkin,14,0,18,52,RAS
+2018,British Grand Prix,Max Verstappen,15,0,5,46,Brakes
+2018,British Grand Prix,Romain Grosjean,16,0,8,37,Collision
+2018,British Grand Prix,Carlos Sainz,17,0,16,37,Collision
+2018,British Grand Prix,Marcus Ericsson,18,0,15,31,Accident
+2018,British Grand Prix,Charles Leclerc,19,0,9,18,Tyre
+2018,British Grand Prix,Brendon Hartley,20,0,0,1,Power Unit
+2018,German Grand Prix,Lewis Hamilton,1,25,14,67,RAS
+2018,German Grand Prix,Valtteri Bottas,2,18,2,67,RAS
+2018,German Grand Prix,Kimi Räikkönen,3,15,3,67,RAS
+2018,German Grand Prix,Max Verstappen,4,12,4,67,RAS
+2018,German Grand Prix,Nico Hülkenberg,5,10,7,67,RAS
+2018,German Grand Prix,Romain Grosjean,6,8,6,67,RAS
+2018,German Grand Prix,Sergio Pérez,7,6,10,67,RAS
+2018,German Grand Prix,Esteban Ocon,8,4,15,67,RAS
+2018,German Grand Prix,Marcus Ericsson,9,2,13,67,RAS
+2018,German Grand Prix,Brendon Hartley,10,1,17,67,RAS
+2018,German Grand Prix,Kevin Magnussen,11,0,5,67,RAS
+2018,German Grand Prix,Carlos Sainz,12,0,8,67,RAS
+2018,German Grand Prix,Stoffel Vandoorne,13,0,19,67,RAS
+2018,German Grand Prix,Pierre Gasly,14,0,16,66,RAS
+2018,German Grand Prix,Charles Leclerc,15,0,9,66,RAS
+2018,German Grand Prix,Fernando Alonso,16,0,11,65,DNF
+2018,German Grand Prix,Lance Stroll,17,0,18,53,Engine
+2018,German Grand Prix,Sebastian Vettel,18,0,1,51,Accident
+2018,German Grand Prix,Sergey Sirotkin,19,0,12,51,Engine
+2018,German Grand Prix,Daniel Ricciardo,20,0,20,27,Engine
+2018,Hungarian Grand Prix,Lewis Hamilton,1,25,1,70,RAS
+2018,Hungarian Grand Prix,Sebastian Vettel,2,18,4,70,RAS
+2018,Hungarian Grand Prix,Kimi Räikkönen,3,15,3,70,RAS
+2018,Hungarian Grand Prix,Daniel Ricciardo,4,12,12,70,RAS
+2018,Hungarian Grand Prix,Valtteri Bottas,5,10,2,70,RAS
+2018,Hungarian Grand Prix,Pierre Gasly,6,8,6,70,RAS
+2018,Hungarian Grand Prix,Kevin Magnussen,7,6,9,69,RAS
+2018,Hungarian Grand Prix,Fernando Alonso,8,4,11,69,RAS
+2018,Hungarian Grand Prix,Carlos Sainz,9,2,5,69,RAS
+2018,Hungarian Grand Prix,Romain Grosjean,10,1,10,69,RAS
+2018,Hungarian Grand Prix,Brendon Hartley,11,0,8,69,RAS
+2018,Hungarian Grand Prix,Nico Hülkenberg,12,0,13,69,RAS
+2018,Hungarian Grand Prix,Esteban Ocon,13,0,18,69,RAS
+2018,Hungarian Grand Prix,Sergio Pérez,14,0,19,69,RAS
+2018,Hungarian Grand Prix,Marcus Ericsson,15,0,14,68,RAS
+2018,Hungarian Grand Prix,Sergey Sirotkin,16,0,20,68,RAS
+2018,Hungarian Grand Prix,Lance Stroll,17,0,15,68,RAS
+2018,Hungarian Grand Prix,Stoffel Vandoorne,18,0,16,49,Gearbox
+2018,Hungarian Grand Prix,Max Verstappen,19,0,7,5,Power loss
+2018,Hungarian Grand Prix,Charles Leclerc,20,0,17,0,Suspension
+2018,Belgian Grand Prix,Sebastian Vettel,1,25,2,44,RAS
+2018,Belgian Grand Prix,Lewis Hamilton,2,18,1,44,RAS
+2018,Belgian Grand Prix,Max Verstappen,3,15,7,44,RAS
+2018,Belgian Grand Prix,Valtteri Bottas,4,12,19,44,RAS
+2018,Belgian Grand Prix,Sergio Pérez,5,10,4,44,RAS
+2018,Belgian Grand Prix,Esteban Ocon,6,8,3,44,RAS
+2018,Belgian Grand Prix,Romain Grosjean,7,6,5,44,RAS
+2018,Belgian Grand Prix,Kevin Magnussen,8,4,9,44,RAS
+2018,Belgian Grand Prix,Pierre Gasly,9,2,10,44,RAS
+2018,Belgian Grand Prix,Marcus Ericsson,10,1,13,43,RAS
+2018,Belgian Grand Prix,Carlos Sainz,11,0,14,43,RAS
+2018,Belgian Grand Prix,Sergey Sirotkin,12,0,16,43,RAS
+2018,Belgian Grand Prix,Lance Stroll,13,0,17,43,RAS
+2018,Belgian Grand Prix,Brendon Hartley,14,0,11,43,RAS
+2018,Belgian Grand Prix,Stoffel Vandoorne,15,0,18,43,RAS
+2018,Belgian Grand Prix,Daniel Ricciardo,16,0,8,28,DNF
+2018,Belgian Grand Prix,Kimi Räikkönen,17,0,6,8,Brakes
+2018,Belgian Grand Prix,Charles Leclerc,18,0,12,0,Accident
+2018,Belgian Grand Prix,Fernando Alonso,19,0,15,0,Accident
+2018,Belgian Grand Prix,Nico Hülkenberg,20,0,20,0,Accident
+2018,Italian Grand Prix,Lewis Hamilton,1,25,3,53,RAS
+2018,Italian Grand Prix,Kimi Räikkönen,2,18,1,53,RAS
+2018,Italian Grand Prix,Valtteri Bottas,3,15,4,53,RAS
+2018,Italian Grand Prix,Sebastian Vettel,4,12,2,53,RAS
+2018,Italian Grand Prix,Max Verstappen,5,10,5,53,RAS
+2018,Italian Grand Prix,Esteban Ocon,6,8,8,53,RAS
+2018,Italian Grand Prix,Sergio Pérez,7,6,14,53,RAS
+2018,Italian Grand Prix,Carlos Sainz,8,4,7,53,RAS
+2018,Italian Grand Prix,Lance Stroll,9,2,10,52,RAS
+2018,Italian Grand Prix,Sergey Sirotkin,10,1,12,52,RAS
+2018,Italian Grand Prix,Charles Leclerc,11,0,15,52,RAS
+2018,Italian Grand Prix,Stoffel Vandoorne,12,0,17,52,RAS
+2018,Italian Grand Prix,Nico Hülkenberg,13,0,20,52,RAS
+2018,Italian Grand Prix,Pierre Gasly,14,0,9,52,RAS
+2018,Italian Grand Prix,Marcus Ericsson,15,0,18,52,RAS
+2018,Italian Grand Prix,Kevin Magnussen,16,0,11,52,RAS
+2018,Italian Grand Prix,Daniel Ricciardo,17,0,19,23,Engine
+2018,Italian Grand Prix,Fernando Alonso,18,0,13,9,Engine
+2018,Italian Grand Prix,Brendon Hartley,19,0,16,0,Brakes
+2018,Italian Grand Prix,Romain Grosjean,20,0,6,53,DQ
+2018,Singapore Grand Prix,Lewis Hamilton,1,25,1,61,RAS
+2018,Singapore Grand Prix,Max Verstappen,2,18,2,61,RAS
+2018,Singapore Grand Prix,Sebastian Vettel,3,15,3,61,RAS
+2018,Singapore Grand Prix,Valtteri Bottas,4,12,4,61,RAS
+2018,Singapore Grand Prix,Kimi Räikkönen,5,10,5,61,RAS
+2018,Singapore Grand Prix,Daniel Ricciardo,6,8,6,61,RAS
+2018,Singapore Grand Prix,Fernando Alonso,7,6,11,61,RAS
+2018,Singapore Grand Prix,Carlos Sainz,8,4,12,60,RAS
+2018,Singapore Grand Prix,Charles Leclerc,9,2,13,60,RAS
+2018,Singapore Grand Prix,Nico Hülkenberg,10,1,10,60,RAS
+2018,Singapore Grand Prix,Marcus Ericsson,11,0,14,60,RAS
+2018,Singapore Grand Prix,Stoffel Vandoorne,12,0,18,60,RAS
+2018,Singapore Grand Prix,Pierre Gasly,13,0,15,60,RAS
+2018,Singapore Grand Prix,Lance Stroll,14,0,20,60,RAS
+2018,Singapore Grand Prix,Romain Grosjean,15,0,8,60,RAS
+2018,Singapore Grand Prix,Sergio Pérez,16,0,7,60,RAS
+2018,Singapore Grand Prix,Brendon Hartley,17,0,17,60,RAS
+2018,Singapore Grand Prix,Kevin Magnussen,18,0,16,59,RAS
+2018,Singapore Grand Prix,Sergey Sirotkin,19,0,19,59,RAS
+2018,Singapore Grand Prix,Esteban Ocon,20,0,9,0,Collision
+2018,Russian Grand Prix,Lewis Hamilton,1,25,2,53,RAS
+2018,Russian Grand Prix,Valtteri Bottas,2,18,1,53,RAS
+2018,Russian Grand Prix,Sebastian Vettel,3,15,3,53,RAS
+2018,Russian Grand Prix,Kimi Räikkönen,4,12,4,53,RAS
+2018,Russian Grand Prix,Max Verstappen,5,10,19,53,RAS
+2018,Russian Grand Prix,Daniel Ricciardo,6,8,18,53,RAS
+2018,Russian Grand Prix,Charles Leclerc,7,6,7,53,RAS
+2018,Russian Grand Prix,Kevin Magnussen,8,4,5,52,RAS
+2018,Russian Grand Prix,Esteban Ocon,9,2,6,52,RAS
+2018,Russian Grand Prix,Sergio Pérez,10,1,8,52,RAS
+2018,Russian Grand Prix,Romain Grosjean,11,0,9,52,RAS
+2018,Russian Grand Prix,Nico Hülkenberg,12,0,12,52,RAS
+2018,Russian Grand Prix,Marcus Ericsson,13,0,10,52,RAS
+2018,Russian Grand Prix,Fernando Alonso,14,0,16,52,RAS
+2018,Russian Grand Prix,Lance Stroll,15,0,14,52,RAS
+2018,Russian Grand Prix,Stoffel Vandoorne,16,0,15,51,RAS
+2018,Russian Grand Prix,Carlos Sainz,17,0,11,51,RAS
+2018,Russian Grand Prix,Sergey Sirotkin,18,0,13,51,RAS
+2018,Russian Grand Prix,Pierre Gasly,19,0,17,4,Brakes
+2018,Russian Grand Prix,Brendon Hartley,20,0,20,4,Brakes
+2018,Japanese Grand Prix,Lewis Hamilton,1,25,1,53,RAS
+2018,Japanese Grand Prix,Valtteri Bottas,2,18,2,53,RAS
+2018,Japanese Grand Prix,Max Verstappen,3,15,3,53,RAS
+2018,Japanese Grand Prix,Daniel Ricciardo,4,12,15,53,RAS
+2018,Japanese Grand Prix,Kimi Räikkönen,5,10,4,53,RAS
+2018,Japanese Grand Prix,Sebastian Vettel,6,8,8,53,RAS
+2018,Japanese Grand Prix,Sergio Pérez,7,6,9,53,RAS
+2018,Japanese Grand Prix,Romain Grosjean,8,4,5,53,RAS
+2018,Japanese Grand Prix,Esteban Ocon,9,2,11,53,RAS
+2018,Japanese Grand Prix,Carlos Sainz,10,1,13,52,RAS
+2018,Japanese Grand Prix,Pierre Gasly,11,0,7,52,RAS
+2018,Japanese Grand Prix,Marcus Ericsson,12,0,20,52,RAS
+2018,Japanese Grand Prix,Brendon Hartley,13,0,6,52,RAS
+2018,Japanese Grand Prix,Fernando Alonso,14,0,18,52,RAS
+2018,Japanese Grand Prix,Stoffel Vandoorne,15,0,19,52,RAS
+2018,Japanese Grand Prix,Sergey Sirotkin,16,0,17,52,RAS
+2018,Japanese Grand Prix,Lance Stroll,17,0,14,52,RAS
+2018,Japanese Grand Prix,Charles Leclerc,18,0,10,38,Mechanical
+2018,Japanese Grand Prix,Nico Hülkenberg,19,0,16,37,Engine
+2018,Japanese Grand Prix,Kevin Magnussen,20,0,12,8,Collision damage
+2018,United States Grand Prix,Kimi Räikkönen,1,25,2,56,RAS
+2018,United States Grand Prix,Max Verstappen,2,18,18,56,RAS
+2018,United States Grand Prix,Lewis Hamilton,3,15,1,56,RAS
+2018,United States Grand Prix,Sebastian Vettel,4,12,5,56,RAS
+2018,United States Grand Prix,Valtteri Bottas,5,10,3,56,RAS
+2018,United States Grand Prix,Nico Hülkenberg,6,8,7,56,RAS
+2018,United States Grand Prix,Carlos Sainz,7,6,11,56,RAS
+2018,United States Grand Prix,Sergio Pérez,8,4,10,56,RAS
+2018,United States Grand Prix,Brendon Hartley,9,2,20,55,RAS
+2018,United States Grand Prix,Marcus Ericsson,10,1,16,55,RAS
+2018,United States Grand Prix,Stoffel Vandoorne,11,0,17,55,RAS
+2018,United States Grand Prix,Pierre Gasly,12,0,19,55,RAS
+2018,United States Grand Prix,Sergey Sirotkin,13,0,14,55,RAS
+2018,United States Grand Prix,Lance Stroll,14,0,15,54,RAS
+2018,United States Grand Prix,Charles Leclerc,15,0,9,31,Collision damage
+2018,United States Grand Prix,Daniel Ricciardo,16,0,4,8,Battery
+2018,United States Grand Prix,Romain Grosjean,17,0,8,2,Collision damage
+2018,United States Grand Prix,Fernando Alonso,18,0,13,1,Collision
+2018,United States Grand Prix,Esteban Ocon,19,0,6,56,DQ
+2018,United States Grand Prix,Kevin Magnussen,20,0,12,56,DQ
+2018,Mexican Grand Prix,Max Verstappen,1,25,2,71,RAS
+2018,Mexican Grand Prix,Sebastian Vettel,2,18,4,71,RAS
+2018,Mexican Grand Prix,Kimi Räikkönen,3,15,6,71,RAS
+2018,Mexican Grand Prix,Lewis Hamilton,4,12,3,71,RAS
+2018,Mexican Grand Prix,Valtteri Bottas,5,10,5,70,RAS
+2018,Mexican Grand Prix,Nico Hülkenberg,6,8,7,69,RAS
+2018,Mexican Grand Prix,Charles Leclerc,7,6,9,69,RAS
+2018,Mexican Grand Prix,Stoffel Vandoorne,8,4,15,69,RAS
+2018,Mexican Grand Prix,Marcus Ericsson,9,2,10,69,RAS
+2018,Mexican Grand Prix,Pierre Gasly,10,1,20,69,RAS
+2018,Mexican Grand Prix,Esteban Ocon,11,0,11,69,RAS
+2018,Mexican Grand Prix,Lance Stroll,12,0,17,69,RAS
+2018,Mexican Grand Prix,Sergey Sirotkin,13,0,19,69,RAS
+2018,Mexican Grand Prix,Brendon Hartley,14,0,14,69,RAS
+2018,Mexican Grand Prix,Kevin Magnussen,15,0,16,69,RAS
+2018,Mexican Grand Prix,Romain Grosjean,16,0,18,68,RAS
+2018,Mexican Grand Prix,Daniel Ricciardo,17,0,1,61,Engine
+2018,Mexican Grand Prix,Sergio Pérez,18,0,13,38,Brakes
+2018,Mexican Grand Prix,Carlos Sainz,19,0,8,28,Suspension
+2018,Mexican Grand Prix,Fernando Alonso,20,0,12,3,Engine
+2018,Brazilian Grand Prix,Lewis Hamilton,1,25,1,71,RAS
+2018,Brazilian Grand Prix,Max Verstappen,2,18,5,71,RAS
+2018,Brazilian Grand Prix,Kimi Räikkönen,3,15,4,71,RAS
+2018,Brazilian Grand Prix,Daniel Ricciardo,4,12,11,71,RAS
+2018,Brazilian Grand Prix,Valtteri Bottas,5,10,3,71,RAS
+2018,Brazilian Grand Prix,Sebastian Vettel,6,8,2,71,RAS
+2018,Brazilian Grand Prix,Charles Leclerc,7,6,7,71,RAS
+2018,Brazilian Grand Prix,Romain Grosjean,8,4,8,71,RAS
+2018,Brazilian Grand Prix,Kevin Magnussen,9,2,10,71,RAS
+2018,Brazilian Grand Prix,Sergio Pérez,10,1,12,70,RAS
+2018,Brazilian Grand Prix,Brendon Hartley,11,0,16,70,RAS
+2018,Brazilian Grand Prix,Carlos Sainz,12,0,15,70,RAS
+2018,Brazilian Grand Prix,Pierre Gasly,13,0,9,70,RAS
+2018,Brazilian Grand Prix,Stoffel Vandoorne,14,0,20,70,RAS
+2018,Brazilian Grand Prix,Esteban Ocon,15,0,18,70,RAS
+2018,Brazilian Grand Prix,Sergey Sirotkin,16,0,14,69,RAS
+2018,Brazilian Grand Prix,Fernando Alonso,17,0,17,69,RAS
+2018,Brazilian Grand Prix,Lance Stroll,18,0,19,69,RAS
+2018,Brazilian Grand Prix,Nico Hülkenberg,19,0,13,32,Overheating
+2018,Brazilian Grand Prix,Marcus Ericsson,20,0,6,20,Collision
+2018,Abu Dhabi Grand Prix,Lewis Hamilton,1,25,1,55,RAS
+2018,Abu Dhabi Grand Prix,Sebastian Vettel,2,18,3,55,RAS
+2018,Abu Dhabi Grand Prix,Max Verstappen,3,15,6,55,RAS
+2018,Abu Dhabi Grand Prix,Daniel Ricciardo,4,12,5,55,RAS
+2018,Abu Dhabi Grand Prix,Valtteri Bottas,5,10,2,55,RAS
+2018,Abu Dhabi Grand Prix,Carlos Sainz,6,8,11,55,RAS
+2018,Abu Dhabi Grand Prix,Charles Leclerc,7,6,8,55,RAS
+2018,Abu Dhabi Grand Prix,Sergio Pérez,8,4,14,55,RAS
+2018,Abu Dhabi Grand Prix,Romain Grosjean,9,2,7,54,RAS
+2018,Abu Dhabi Grand Prix,Kevin Magnussen,10,1,13,54,RAS
+2018,Abu Dhabi Grand Prix,Fernando Alonso,11,0,15,54,RAS
+2018,Abu Dhabi Grand Prix,Brendon Hartley,12,0,16,54,RAS
+2018,Abu Dhabi Grand Prix,Lance Stroll,13,0,20,54,RAS
+2018,Abu Dhabi Grand Prix,Stoffel Vandoorne,14,0,18,54,RAS
+2018,Abu Dhabi Grand Prix,Sergey Sirotkin,15,0,19,54,RAS
+2018,Abu Dhabi Grand Prix,Pierre Gasly,16,0,17,46,Engine
+2018,Abu Dhabi Grand Prix,Esteban Ocon,17,0,9,44,Engine
+2018,Abu Dhabi Grand Prix,Marcus Ericsson,18,0,12,24,Power loss
+2018,Abu Dhabi Grand Prix,Kimi Räikkönen,19,0,4,6,Power loss
+2018,Abu Dhabi Grand Prix,Nico Hülkenberg,20,0,10,0,Collision

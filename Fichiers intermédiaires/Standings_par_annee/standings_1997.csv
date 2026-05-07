@@ -1,0 +1,375 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1997,Australian Grand Prix,David Coulthard,1,10,4,58,RAS
+1997,Australian Grand Prix,Michael Schumacher,2,6,3,58,RAS
+1997,Australian Grand Prix,Mika Häkkinen,3,4,6,58,RAS
+1997,Australian Grand Prix,Gerhard Berger,4,3,10,58,RAS
+1997,Australian Grand Prix,Olivier Panis,5,2,9,58,RAS
+1997,Australian Grand Prix,Nicola Larini,6,1,13,58,RAS
+1997,Australian Grand Prix,Shinji Nakano,7,0,16,56,RAS
+1997,Australian Grand Prix,Heinz-Harald Frentzen,8,0,2,55,Brakes
+1997,Australian Grand Prix,Jarno Trulli,9,0,17,55,RAS
+1997,Australian Grand Prix,Pedro Diniz,10,0,22,54,RAS
+1997,Australian Grand Prix,Rubens Barrichello,11,0,11,49,Engine
+1997,Australian Grand Prix,Mika Salo,12,0,18,42,Engine
+1997,Australian Grand Prix,Jan Magnussen,13,0,19,36,Suspension
+1997,Australian Grand Prix,Jean Alesi,14,0,8,34,Fuel
+1997,Australian Grand Prix,Ukyo Katayama,15,0,15,32,Electrical
+1997,Australian Grand Prix,Giancarlo Fisichella,16,0,14,14,Spun off
+1997,Australian Grand Prix,Jos Verstappen,17,0,21,2,Spun off
+1997,Australian Grand Prix,Ralf Schumacher,18,0,12,1,Gearbox
+1997,Australian Grand Prix,Jacques Villeneuve,19,0,1,0,Collision
+1997,Australian Grand Prix,Eddie Irvine,20,0,5,0,Collision
+1997,Australian Grand Prix,Johnny Herbert,21,0,7,0,Collision
+1997,Australian Grand Prix,Damon Hill,22,0,20,0,Throttle
+1997,Brazilian Grand Prix,Jacques Villeneuve,1,10,1,72,RAS
+1997,Brazilian Grand Prix,Gerhard Berger,2,6,3,72,RAS
+1997,Brazilian Grand Prix,Olivier Panis,3,4,5,72,RAS
+1997,Brazilian Grand Prix,Mika Häkkinen,4,3,4,72,RAS
+1997,Brazilian Grand Prix,Michael Schumacher,5,2,2,72,RAS
+1997,Brazilian Grand Prix,Jean Alesi,6,1,6,72,RAS
+1997,Brazilian Grand Prix,Johnny Herbert,7,0,13,72,RAS
+1997,Brazilian Grand Prix,Giancarlo Fisichella,8,0,7,72,RAS
+1997,Brazilian Grand Prix,Heinz-Harald Frentzen,9,0,8,72,RAS
+1997,Brazilian Grand Prix,David Coulthard,10,0,12,71,RAS
+1997,Brazilian Grand Prix,Nicola Larini,11,0,19,71,RAS
+1997,Brazilian Grand Prix,Jarno Trulli,12,0,17,71,RAS
+1997,Brazilian Grand Prix,Mika Salo,13,0,22,71,RAS
+1997,Brazilian Grand Prix,Shinji Nakano,14,0,15,71,RAS
+1997,Brazilian Grand Prix,Jos Verstappen,15,0,21,70,RAS
+1997,Brazilian Grand Prix,Eddie Irvine,16,0,14,70,RAS
+1997,Brazilian Grand Prix,Damon Hill,17,0,9,68,Engine
+1997,Brazilian Grand Prix,Ukyo Katayama,18,0,18,67,RAS
+1997,Brazilian Grand Prix,Ralf Schumacher,19,0,10,52,Electrical
+1997,Brazilian Grand Prix,Rubens Barrichello,20,0,11,16,Suspension
+1997,Brazilian Grand Prix,Pedro Diniz,21,0,16,15,Suspension
+1997,Brazilian Grand Prix,Jan Magnussen,22,0,20,0,Accident
+1997,Argentine Grand Prix,Jacques Villeneuve,1,10,1,72,RAS
+1997,Argentine Grand Prix,Eddie Irvine,2,6,7,72,RAS
+1997,Argentine Grand Prix,Ralf Schumacher,3,4,6,72,RAS
+1997,Argentine Grand Prix,Johnny Herbert,4,3,8,72,RAS
+1997,Argentine Grand Prix,Mika Häkkinen,5,2,17,72,RAS
+1997,Argentine Grand Prix,Gerhard Berger,6,1,12,72,RAS
+1997,Argentine Grand Prix,Jean Alesi,7,0,11,72,RAS
+1997,Argentine Grand Prix,Mika Salo,8,0,19,71,RAS
+1997,Argentine Grand Prix,Jarno Trulli,9,0,18,71,RAS
+1997,Argentine Grand Prix,Jan Magnussen,10,0,15,66,Engine
+1997,Argentine Grand Prix,Nicola Larini,11,0,14,63,Spun off
+1997,Argentine Grand Prix,Pedro Diniz,12,0,22,50,Engine
+1997,Argentine Grand Prix,Shinji Nakano,13,0,20,49,Engine
+1997,Argentine Grand Prix,Jos Verstappen,14,0,16,43,Engine
+1997,Argentine Grand Prix,Ukyo Katayama,15,0,21,37,Spun off
+1997,Argentine Grand Prix,Damon Hill,16,0,13,33,Engine
+1997,Argentine Grand Prix,Giancarlo Fisichella,17,0,9,24,Collision
+1997,Argentine Grand Prix,Rubens Barrichello,18,0,5,24,Hydraulics
+1997,Argentine Grand Prix,Olivier Panis,19,0,3,18,Electrical
+1997,Argentine Grand Prix,Heinz-Harald Frentzen,20,0,2,5,Clutch
+1997,Argentine Grand Prix,Michael Schumacher,21,0,4,0,Collision
+1997,Argentine Grand Prix,David Coulthard,22,0,10,0,Collision
+1997,San Marino Grand Prix,Heinz-Harald Frentzen,1,10,2,62,RAS
+1997,San Marino Grand Prix,Michael Schumacher,2,6,3,62,RAS
+1997,San Marino Grand Prix,Eddie Irvine,3,4,9,62,RAS
+1997,San Marino Grand Prix,Giancarlo Fisichella,4,3,6,62,RAS
+1997,San Marino Grand Prix,Jean Alesi,5,2,14,61,RAS
+1997,San Marino Grand Prix,Mika Häkkinen,6,1,8,61,RAS
+1997,San Marino Grand Prix,Nicola Larini,7,0,12,61,RAS
+1997,San Marino Grand Prix,Olivier Panis,8,0,4,61,RAS
+1997,San Marino Grand Prix,Mika Salo,9,0,19,60,RAS
+1997,San Marino Grand Prix,Jos Verstappen,10,0,21,60,RAS
+1997,San Marino Grand Prix,Ukyo Katayama,11,0,22,59,RAS
+1997,San Marino Grand Prix,Pedro Diniz,12,0,17,53,Gearbox
+1997,San Marino Grand Prix,Jacques Villeneuve,13,0,1,40,Gearbox
+1997,San Marino Grand Prix,David Coulthard,14,0,10,38,Engine
+1997,San Marino Grand Prix,Rubens Barrichello,15,0,13,32,Engine
+1997,San Marino Grand Prix,Johnny Herbert,16,0,7,18,Electrical
+1997,San Marino Grand Prix,Ralf Schumacher,17,0,5,17,Transmission
+1997,San Marino Grand Prix,Shinji Nakano,18,0,18,11,Collision
+1997,San Marino Grand Prix,Damon Hill,19,0,15,11,Collision
+1997,San Marino Grand Prix,Gerhard Berger,20,0,11,4,Spun off
+1997,San Marino Grand Prix,Jan Magnussen,21,0,16,2,Spun off
+1997,San Marino Grand Prix,Jarno Trulli,22,0,20,0,Gearbox
+1997,Monaco Grand Prix,Michael Schumacher,1,10,2,62,RAS
+1997,Monaco Grand Prix,Rubens Barrichello,2,6,10,62,RAS
+1997,Monaco Grand Prix,Eddie Irvine,3,4,15,62,RAS
+1997,Monaco Grand Prix,Olivier Panis,4,3,12,62,RAS
+1997,Monaco Grand Prix,Mika Salo,5,2,14,61,RAS
+1997,Monaco Grand Prix,Giancarlo Fisichella,6,1,4,61,RAS
+1997,Monaco Grand Prix,Jan Magnussen,7,0,19,61,RAS
+1997,Monaco Grand Prix,Jos Verstappen,8,0,22,60,RAS
+1997,Monaco Grand Prix,Gerhard Berger,9,0,17,60,RAS
+1997,Monaco Grand Prix,Ukyo Katayama,10,0,20,60,RAS
+1997,Monaco Grand Prix,Heinz-Harald Frentzen,11,0,1,39,Spun off
+1997,Monaco Grand Prix,Shinji Nakano,12,0,21,36,Spun off
+1997,Monaco Grand Prix,Nicola Larini,13,0,11,24,Spun off
+1997,Monaco Grand Prix,Jean Alesi,14,0,9,16,Spun off
+1997,Monaco Grand Prix,Jacques Villeneuve,15,0,3,16,Spun off
+1997,Monaco Grand Prix,Ralf Schumacher,16,0,6,10,Spun off
+1997,Monaco Grand Prix,Johnny Herbert,17,0,7,9,Spun off
+1997,Monaco Grand Prix,Jarno Trulli,18,0,18,7,Spun off
+1997,Monaco Grand Prix,David Coulthard,19,0,5,1,Spun off
+1997,Monaco Grand Prix,Mika Häkkinen,20,0,8,1,Collision
+1997,Monaco Grand Prix,Damon Hill,21,0,13,1,Collision
+1997,Monaco Grand Prix,Pedro Diniz,22,0,16,0,Spun off
+1997,Spanish Grand Prix,Jacques Villeneuve,1,10,1,64,RAS
+1997,Spanish Grand Prix,Olivier Panis,2,6,12,64,RAS
+1997,Spanish Grand Prix,Jean Alesi,3,4,4,64,RAS
+1997,Spanish Grand Prix,Michael Schumacher,4,3,7,64,RAS
+1997,Spanish Grand Prix,Johnny Herbert,5,2,10,64,RAS
+1997,Spanish Grand Prix,David Coulthard,6,1,3,64,RAS
+1997,Spanish Grand Prix,Mika Häkkinen,7,0,5,64,RAS
+1997,Spanish Grand Prix,Heinz-Harald Frentzen,8,0,2,64,RAS
+1997,Spanish Grand Prix,Giancarlo Fisichella,9,0,8,64,RAS
+1997,Spanish Grand Prix,Gerhard Berger,10,0,6,64,RAS
+1997,Spanish Grand Prix,Jos Verstappen,11,0,19,63,RAS
+1997,Spanish Grand Prix,Eddie Irvine,12,0,11,63,RAS
+1997,Spanish Grand Prix,Jan Magnussen,13,0,22,63,RAS
+1997,Spanish Grand Prix,Gianni Morbidelli,14,0,13,62,RAS
+1997,Spanish Grand Prix,Jarno Trulli,15,0,18,62,RAS
+1997,Spanish Grand Prix,Pedro Diniz,16,0,21,53,Engine
+1997,Spanish Grand Prix,Ralf Schumacher,17,0,9,50,Engine
+1997,Spanish Grand Prix,Rubens Barrichello,18,0,17,37,Engine
+1997,Spanish Grand Prix,Mika Salo,19,0,14,35,Puncture
+1997,Spanish Grand Prix,Shinji Nakano,20,0,16,34,Gearbox
+1997,Spanish Grand Prix,Damon Hill,21,0,15,17,Engine
+1997,Spanish Grand Prix,Ukyo Katayama,22,0,20,11,Gearbox
+1997,Canadian Grand Prix,Michael Schumacher,1,10,1,54,RAS
+1997,Canadian Grand Prix,Jean Alesi,2,6,8,54,RAS
+1997,Canadian Grand Prix,Giancarlo Fisichella,3,4,6,54,RAS
+1997,Canadian Grand Prix,Heinz-Harald Frentzen,4,3,4,54,RAS
+1997,Canadian Grand Prix,Johnny Herbert,5,2,13,54,RAS
+1997,Canadian Grand Prix,Shinji Nakano,6,1,19,54,RAS
+1997,Canadian Grand Prix,David Coulthard,7,0,5,54,RAS
+1997,Canadian Grand Prix,Pedro Diniz,8,0,16,53,RAS
+1997,Canadian Grand Prix,Damon Hill,9,0,15,53,RAS
+1997,Canadian Grand Prix,Gianni Morbidelli,10,0,18,53,RAS
+1997,Canadian Grand Prix,Olivier Panis,11,0,10,51,Spun off
+1997,Canadian Grand Prix,Mika Salo,12,0,17,46,Engine
+1997,Canadian Grand Prix,Jos Verstappen,13,0,14,42,Gearbox
+1997,Canadian Grand Prix,Alexander Wurz,14,0,11,35,Transmission
+1997,Canadian Grand Prix,Rubens Barrichello,15,0,3,33,Gearbox
+1997,Canadian Grand Prix,Jarno Trulli,16,0,20,32,Engine
+1997,Canadian Grand Prix,Ralf Schumacher,17,0,7,14,Accident
+1997,Canadian Grand Prix,Ukyo Katayama,18,0,22,5,Spun off
+1997,Canadian Grand Prix,Jacques Villeneuve,19,0,2,1,Accident
+1997,Canadian Grand Prix,Mika Häkkinen,20,0,9,0,Engine
+1997,Canadian Grand Prix,Eddie Irvine,21,0,12,0,Accident
+1997,Canadian Grand Prix,Jan Magnussen,22,0,21,0,Spun off
+1997,French Grand Prix,Michael Schumacher,1,10,1,72,RAS
+1997,French Grand Prix,Heinz-Harald Frentzen,2,6,2,72,RAS
+1997,French Grand Prix,Eddie Irvine,3,4,5,72,RAS
+1997,French Grand Prix,Jacques Villeneuve,4,3,4,72,RAS
+1997,French Grand Prix,Jean Alesi,5,2,8,72,RAS
+1997,French Grand Prix,Ralf Schumacher,6,1,3,72,RAS
+1997,French Grand Prix,David Coulthard,7,0,9,71,Collision
+1997,French Grand Prix,Johnny Herbert,8,0,14,71,RAS
+1997,French Grand Prix,Giancarlo Fisichella,9,0,11,71,RAS
+1997,French Grand Prix,Jarno Trulli,10,0,6,70,RAS
+1997,French Grand Prix,Ukyo Katayama,11,0,21,70,RAS
+1997,French Grand Prix,Damon Hill,12,0,17,69,RAS
+1997,French Grand Prix,Mika Salo,13,0,19,61,Electrical
+1997,French Grand Prix,Alexander Wurz,14,0,7,60,Spun off
+1997,French Grand Prix,Pedro Diniz,15,0,16,58,Spun off
+1997,French Grand Prix,Norberto Fontana,16,0,20,40,Spun off
+1997,French Grand Prix,Rubens Barrichello,17,0,13,36,Engine
+1997,French Grand Prix,Jan Magnussen,18,0,15,33,Brakes
+1997,French Grand Prix,Mika Häkkinen,19,0,10,18,Engine
+1997,French Grand Prix,Jos Verstappen,20,0,18,15,Spun off
+1997,French Grand Prix,Shinji Nakano,21,0,12,7,Spun off
+1997,French Grand Prix,Tarso Marques,22,0,22,5,Engine
+1997,British Grand Prix,Jacques Villeneuve,1,10,1,59,RAS
+1997,British Grand Prix,Jean Alesi,2,6,11,59,RAS
+1997,British Grand Prix,Alexander Wurz,3,4,8,59,RAS
+1997,British Grand Prix,David Coulthard,4,3,6,59,RAS
+1997,British Grand Prix,Ralf Schumacher,5,2,5,59,RAS
+1997,British Grand Prix,Damon Hill,6,1,12,59,RAS
+1997,British Grand Prix,Giancarlo Fisichella,7,0,10,58,RAS
+1997,British Grand Prix,Jarno Trulli,8,0,13,58,RAS
+1997,British Grand Prix,Norberto Fontana,9,0,14,58,RAS
+1997,British Grand Prix,Tarso Marques,10,0,21,58,RAS
+1997,British Grand Prix,Shinji Nakano,11,0,15,57,Engine
+1997,British Grand Prix,Mika Häkkinen,12,0,3,52,Engine
+1997,British Grand Prix,Jan Magnussen,13,0,16,50,Engine
+1997,British Grand Prix,Jos Verstappen,14,0,20,45,Engine
+1997,British Grand Prix,Eddie Irvine,15,0,7,44,Halfshaft
+1997,British Grand Prix,Mika Salo,16,0,18,44,Engine
+1997,British Grand Prix,Johnny Herbert,17,0,9,42,Electrical
+1997,British Grand Prix,Michael Schumacher,18,0,4,38,Wheel
+1997,British Grand Prix,Rubens Barrichello,19,0,22,37,Engine
+1997,British Grand Prix,Pedro Diniz,20,0,17,29,Engine
+1997,British Grand Prix,Heinz-Harald Frentzen,21,0,2,0,Collision
+1997,British Grand Prix,Ukyo Katayama,22,0,19,0,Spun off
+1997,German Grand Prix,Gerhard Berger,1,10,1,45,RAS
+1997,German Grand Prix,Michael Schumacher,2,6,4,45,RAS
+1997,German Grand Prix,Mika Häkkinen,3,4,3,45,RAS
+1997,German Grand Prix,Jarno Trulli,4,3,11,45,RAS
+1997,German Grand Prix,Ralf Schumacher,5,2,7,45,RAS
+1997,German Grand Prix,Jean Alesi,6,1,6,45,RAS
+1997,German Grand Prix,Shinji Nakano,7,0,17,45,RAS
+1997,German Grand Prix,Damon Hill,8,0,13,44,RAS
+1997,German Grand Prix,Norberto Fontana,9,0,18,44,RAS
+1997,German Grand Prix,Jos Verstappen,10,0,20,44,RAS
+1997,German Grand Prix,Giancarlo Fisichella,11,0,2,40,RAS
+1997,German Grand Prix,Rubens Barrichello,12,0,12,33,Engine
+1997,German Grand Prix,Mika Salo,13,0,19,33,Clutch
+1997,German Grand Prix,Jacques Villeneuve,14,0,9,33,Spun off
+1997,German Grand Prix,Jan Magnussen,15,0,15,27,Engine
+1997,German Grand Prix,Ukyo Katayama,16,0,22,23,Out of fuel
+1997,German Grand Prix,Johnny Herbert,17,0,14,8,Accident
+1997,German Grand Prix,Pedro Diniz,18,0,16,8,Accident
+1997,German Grand Prix,David Coulthard,19,0,8,1,Transmission
+1997,German Grand Prix,Heinz-Harald Frentzen,20,0,5,1,Collision
+1997,German Grand Prix,Eddie Irvine,21,0,10,1,Collision
+1997,German Grand Prix,Tarso Marques,22,0,21,0,Gearbox
+1997,Hungarian Grand Prix,Jacques Villeneuve,1,10,2,77,RAS
+1997,Hungarian Grand Prix,Damon Hill,2,6,3,77,RAS
+1997,Hungarian Grand Prix,Johnny Herbert,3,4,10,77,RAS
+1997,Hungarian Grand Prix,Michael Schumacher,4,3,1,77,RAS
+1997,Hungarian Grand Prix,Ralf Schumacher,5,2,14,77,RAS
+1997,Hungarian Grand Prix,Shinji Nakano,6,1,16,77,RAS
+1997,Hungarian Grand Prix,Jarno Trulli,7,0,12,77,RAS
+1997,Hungarian Grand Prix,Gerhard Berger,8,0,7,77,RAS
+1997,Hungarian Grand Prix,Eddie Irvine,9,0,5,76,Spun off
+1997,Hungarian Grand Prix,Ukyo Katayama,10,0,20,76,RAS
+1997,Hungarian Grand Prix,Jean Alesi,11,0,9,76,RAS
+1997,Hungarian Grand Prix,Tarso Marques,12,0,22,75,RAS
+1997,Hungarian Grand Prix,Mika Salo,13,0,21,75,RAS
+1997,Hungarian Grand Prix,David Coulthard,14,0,8,65,Electrical
+1997,Hungarian Grand Prix,Jos Verstappen,15,0,18,61,Gearbox
+1997,Hungarian Grand Prix,Pedro Diniz,16,0,19,53,Electrical
+1997,Hungarian Grand Prix,Giancarlo Fisichella,17,0,13,42,Spun off
+1997,Hungarian Grand Prix,Heinz-Harald Frentzen,18,0,6,29,Fuel
+1997,Hungarian Grand Prix,Rubens Barrichello,19,0,11,29,Engine
+1997,Hungarian Grand Prix,Mika Häkkinen,20,0,4,12,Hydraulics
+1997,Hungarian Grand Prix,Gianni Morbidelli,21,0,15,7,Engine
+1997,Hungarian Grand Prix,Jan Magnussen,22,0,17,5,Accident
+1997,Belgian Grand Prix,Michael Schumacher,1,10,3,44,RAS
+1997,Belgian Grand Prix,Giancarlo Fisichella,2,6,4,44,RAS
+1997,Belgian Grand Prix,Heinz-Harald Frentzen,3,4,7,44,RAS
+1997,Belgian Grand Prix,Johnny Herbert,4,3,11,44,RAS
+1997,Belgian Grand Prix,Jacques Villeneuve,5,2,1,44,RAS
+1997,Belgian Grand Prix,Gerhard Berger,6,1,15,44,RAS
+1997,Belgian Grand Prix,Pedro Diniz,7,0,8,44,RAS
+1997,Belgian Grand Prix,Jean Alesi,8,0,2,44,RAS
+1997,Belgian Grand Prix,Gianni Morbidelli,9,0,13,44,RAS
+1997,Belgian Grand Prix,Eddie Irvine,10,0,17,43,RAS
+1997,Belgian Grand Prix,Mika Salo,11,0,19,43,RAS
+1997,Belgian Grand Prix,Jan Magnussen,12,0,18,43,RAS
+1997,Belgian Grand Prix,Damon Hill,13,0,9,42,RAS
+1997,Belgian Grand Prix,Ukyo Katayama,14,0,20,42,RAS
+1997,Belgian Grand Prix,Jarno Trulli,15,0,14,42,RAS
+1997,Belgian Grand Prix,Mika Häkkinen,16,0,5,44,DQ
+1997,Belgian Grand Prix,Jos Verstappen,17,0,21,25,Spun off
+1997,Belgian Grand Prix,Ralf Schumacher,18,0,6,21,Spun off
+1997,Belgian Grand Prix,David Coulthard,19,0,10,19,Spun off
+1997,Belgian Grand Prix,Tarso Marques,20,0,22,18,Spun off
+1997,Belgian Grand Prix,Rubens Barrichello,21,0,12,8,Steering
+1997,Belgian Grand Prix,Shinji Nakano,22,0,16,5,Electrical
+1997,Italian Grand Prix,David Coulthard,1,10,6,53,RAS
+1997,Italian Grand Prix,Jean Alesi,2,6,1,53,RAS
+1997,Italian Grand Prix,Heinz-Harald Frentzen,3,4,2,53,RAS
+1997,Italian Grand Prix,Giancarlo Fisichella,4,3,3,53,RAS
+1997,Italian Grand Prix,Jacques Villeneuve,5,2,4,53,RAS
+1997,Italian Grand Prix,Michael Schumacher,6,1,9,53,RAS
+1997,Italian Grand Prix,Gerhard Berger,7,0,7,53,RAS
+1997,Italian Grand Prix,Eddie Irvine,8,0,10,53,RAS
+1997,Italian Grand Prix,Mika Häkkinen,9,0,5,53,RAS
+1997,Italian Grand Prix,Jarno Trulli,10,0,16,53,RAS
+1997,Italian Grand Prix,Shinji Nakano,11,0,15,53,RAS
+1997,Italian Grand Prix,Gianni Morbidelli,12,0,18,52,RAS
+1997,Italian Grand Prix,Rubens Barrichello,13,0,11,52,RAS
+1997,Italian Grand Prix,Tarso Marques,14,0,22,50,RAS
+1997,Italian Grand Prix,Damon Hill,15,0,14,46,Engine
+1997,Italian Grand Prix,Ralf Schumacher,16,0,8,39,Collision
+1997,Italian Grand Prix,Johnny Herbert,17,0,12,38,Collision
+1997,Italian Grand Prix,Mika Salo,18,0,19,33,Engine
+1997,Italian Grand Prix,Jan Magnussen,19,0,13,31,Transmission
+1997,Italian Grand Prix,Jos Verstappen,20,0,20,12,Gearbox
+1997,Italian Grand Prix,Ukyo Katayama,21,0,21,8,Spun off
+1997,Italian Grand Prix,Pedro Diniz,22,0,17,4,Suspension
+1997,Austrian Grand Prix,Jacques Villeneuve,1,10,1,71,RAS
+1997,Austrian Grand Prix,David Coulthard,2,6,10,71,RAS
+1997,Austrian Grand Prix,Heinz-Harald Frentzen,3,4,4,71,RAS
+1997,Austrian Grand Prix,Giancarlo Fisichella,4,3,14,71,RAS
+1997,Austrian Grand Prix,Ralf Schumacher,5,2,11,71,RAS
+1997,Austrian Grand Prix,Michael Schumacher,6,1,9,71,RAS
+1997,Austrian Grand Prix,Damon Hill,7,0,7,71,RAS
+1997,Austrian Grand Prix,Johnny Herbert,8,0,12,71,RAS
+1997,Austrian Grand Prix,Gianni Morbidelli,9,0,13,71,RAS
+1997,Austrian Grand Prix,Gerhard Berger,10,0,18,70,RAS
+1997,Austrian Grand Prix,Ukyo Katayama,11,0,19,69,RAS
+1997,Austrian Grand Prix,Jos Verstappen,12,0,20,69,RAS
+1997,Austrian Grand Prix,Pedro Diniz,13,0,17,67,RAS
+1997,Austrian Grand Prix,Rubens Barrichello,14,0,5,64,Spun off
+1997,Austrian Grand Prix,Jarno Trulli,15,0,3,58,Engine
+1997,Austrian Grand Prix,Jan Magnussen,16,0,6,58,Engine
+1997,Austrian Grand Prix,Shinji Nakano,17,0,16,57,Engine
+1997,Austrian Grand Prix,Mika Salo,18,0,21,48,Gearbox
+1997,Austrian Grand Prix,Eddie Irvine,19,0,8,38,Collision
+1997,Austrian Grand Prix,Jean Alesi,20,0,15,37,Collision
+1997,Austrian Grand Prix,Mika Häkkinen,21,0,2,1,Engine
+1997,Austrian Grand Prix,Tarso Marques,22,0,0,0,Underweight
+1997,Luxembourg Grand Prix,Jacques Villeneuve,1,10,2,67,RAS
+1997,Luxembourg Grand Prix,Jean Alesi,2,6,10,67,RAS
+1997,Luxembourg Grand Prix,Heinz-Harald Frentzen,3,4,3,67,RAS
+1997,Luxembourg Grand Prix,Gerhard Berger,4,3,7,67,RAS
+1997,Luxembourg Grand Prix,Pedro Diniz,5,2,15,67,RAS
+1997,Luxembourg Grand Prix,Olivier Panis,6,1,11,67,RAS
+1997,Luxembourg Grand Prix,Johnny Herbert,7,0,16,67,RAS
+1997,Luxembourg Grand Prix,Damon Hill,8,0,13,67,RAS
+1997,Luxembourg Grand Prix,Gianni Morbidelli,9,0,19,66,RAS
+1997,Luxembourg Grand Prix,Mika Salo,10,0,20,66,RAS
+1997,Luxembourg Grand Prix,Jos Verstappen,11,0,21,50,Spun off
+1997,Luxembourg Grand Prix,Mika Häkkinen,12,0,1,43,Engine
+1997,Luxembourg Grand Prix,Rubens Barrichello,13,0,9,43,Gearbox
+1997,Luxembourg Grand Prix,David Coulthard,14,0,6,42,Engine
+1997,Luxembourg Grand Prix,Jan Magnussen,15,0,12,40,Halfshaft
+1997,Luxembourg Grand Prix,Eddie Irvine,16,0,14,22,Engine
+1997,Luxembourg Grand Prix,Shinji Nakano,17,0,17,16,Engine
+1997,Luxembourg Grand Prix,Michael Schumacher,18,0,5,2,Suspension
+1997,Luxembourg Grand Prix,Tarso Marques,19,0,18,1,Engine
+1997,Luxembourg Grand Prix,Ukyo Katayama,20,0,22,1,Collision
+1997,Luxembourg Grand Prix,Giancarlo Fisichella,21,0,4,0,Collision
+1997,Luxembourg Grand Prix,Ralf Schumacher,22,0,8,0,Collision
+1997,Japanese Grand Prix,Michael Schumacher,1,10,2,53,RAS
+1997,Japanese Grand Prix,Heinz-Harald Frentzen,2,6,6,53,RAS
+1997,Japanese Grand Prix,Eddie Irvine,3,4,3,53,RAS
+1997,Japanese Grand Prix,Mika Häkkinen,4,3,4,53,RAS
+1997,Japanese Grand Prix,Jean Alesi,5,2,7,53,RAS
+1997,Japanese Grand Prix,Johnny Herbert,6,1,8,53,RAS
+1997,Japanese Grand Prix,Giancarlo Fisichella,7,0,9,53,RAS
+1997,Japanese Grand Prix,Gerhard Berger,8,0,5,53,RAS
+1997,Japanese Grand Prix,Ralf Schumacher,9,0,13,53,RAS
+1997,Japanese Grand Prix,David Coulthard,10,0,11,52,Engine
+1997,Japanese Grand Prix,Damon Hill,11,0,17,52,RAS
+1997,Japanese Grand Prix,Pedro Diniz,12,0,16,52,RAS
+1997,Japanese Grand Prix,Jos Verstappen,13,0,21,52,RAS
+1997,Japanese Grand Prix,Jacques Villeneuve,14,0,1,53,DQ
+1997,Japanese Grand Prix,Tarso Marques,15,0,20,46,Gearbox
+1997,Japanese Grand Prix,Mika Salo,16,0,22,46,Engine
+1997,Japanese Grand Prix,Olivier Panis,17,0,10,36,Engine
+1997,Japanese Grand Prix,Shinji Nakano,18,0,15,22,Wheel bearing
+1997,Japanese Grand Prix,Ukyo Katayama,19,0,19,8,Engine
+1997,Japanese Grand Prix,Rubens Barrichello,20,0,12,6,Spun off
+1997,Japanese Grand Prix,Jan Magnussen,21,0,14,3,Spun off
+1997,Japanese Grand Prix,Gianni Morbidelli,22,0,0,0,Injury
+1997,European Grand Prix,Mika Häkkinen,1,10,5,69,RAS
+1997,European Grand Prix,David Coulthard,2,6,6,69,RAS
+1997,European Grand Prix,Jacques Villeneuve,3,4,1,69,RAS
+1997,European Grand Prix,Gerhard Berger,4,3,8,69,RAS
+1997,European Grand Prix,Eddie Irvine,5,2,7,69,RAS
+1997,European Grand Prix,Heinz-Harald Frentzen,6,1,3,69,RAS
+1997,European Grand Prix,Olivier Panis,7,0,9,69,RAS
+1997,European Grand Prix,Johnny Herbert,8,0,14,69,RAS
+1997,European Grand Prix,Jan Magnussen,9,0,11,69,RAS
+1997,European Grand Prix,Shinji Nakano,10,0,15,69,RAS
+1997,European Grand Prix,Giancarlo Fisichella,11,0,17,68,RAS
+1997,European Grand Prix,Mika Salo,12,0,21,68,RAS
+1997,European Grand Prix,Jean Alesi,13,0,10,68,RAS
+1997,European Grand Prix,Norberto Fontana,14,0,18,68,RAS
+1997,European Grand Prix,Tarso Marques,15,0,20,68,RAS
+1997,European Grand Prix,Jos Verstappen,16,0,22,68,RAS
+1997,European Grand Prix,Ukyo Katayama,17,0,19,68,RAS
+1997,European Grand Prix,Michael Schumacher,18,0,2,47,Collision
+1997,European Grand Prix,Damon Hill,19,0,4,47,Gearbox
+1997,European Grand Prix,Ralf Schumacher,20,0,16,44,Water leak
+1997,European Grand Prix,Rubens Barrichello,21,0,12,30,Gearbox
+1997,European Grand Prix,Pedro Diniz,22,0,13,11,Spun off

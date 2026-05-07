@@ -1,0 +1,379 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2015,Australian Grand Prix,Lewis Hamilton,1,25,1,58,RAS
+2015,Australian Grand Prix,Nico Rosberg,2,18,2,58,RAS
+2015,Australian Grand Prix,Sebastian Vettel,3,15,4,58,RAS
+2015,Australian Grand Prix,Felipe Massa,4,12,3,58,RAS
+2015,Australian Grand Prix,Felipe Nasr,5,10,10,58,RAS
+2015,Australian Grand Prix,Daniel Ricciardo,6,8,6,57,RAS
+2015,Australian Grand Prix,Nico Hülkenberg,7,6,13,57,RAS
+2015,Australian Grand Prix,Marcus Ericsson,8,4,15,57,RAS
+2015,Australian Grand Prix,Carlos Sainz,9,2,7,57,RAS
+2015,Australian Grand Prix,Sergio Pérez,10,1,14,57,RAS
+2015,Australian Grand Prix,Jenson Button,11,0,16,56,RAS
+2015,Australian Grand Prix,Kimi Räikkönen,12,0,5,40,Wheel
+2015,Australian Grand Prix,Max Verstappen,13,0,11,32,Engine
+2015,Australian Grand Prix,Romain Grosjean,14,0,8,0,Power loss
+2015,Australian Grand Prix,Pastor Maldonado,15,0,9,0,Accident
+2015,Australian Grand Prix,Daniil Kvyat,16,0,12,0,Withdrew
+2015,Australian Grand Prix,Kevin Magnussen,17,0,17,0,Withdrew
+2015,Australian Grand Prix,Valtteri Bottas,18,0,0,0,Withdrew
+2015,Malaysian Grand Prix,Sebastian Vettel,1,25,2,56,RAS
+2015,Malaysian Grand Prix,Lewis Hamilton,2,18,1,56,RAS
+2015,Malaysian Grand Prix,Nico Rosberg,3,15,3,56,RAS
+2015,Malaysian Grand Prix,Kimi Räikkönen,4,12,11,56,RAS
+2015,Malaysian Grand Prix,Valtteri Bottas,5,10,8,56,RAS
+2015,Malaysian Grand Prix,Felipe Massa,6,8,7,56,RAS
+2015,Malaysian Grand Prix,Max Verstappen,7,6,6,56,RAS
+2015,Malaysian Grand Prix,Carlos Sainz,8,4,15,55,RAS
+2015,Malaysian Grand Prix,Daniil Kvyat,9,2,5,55,RAS
+2015,Malaysian Grand Prix,Daniel Ricciardo,10,1,4,55,RAS
+2015,Malaysian Grand Prix,Romain Grosjean,11,0,10,55,RAS
+2015,Malaysian Grand Prix,Felipe Nasr,12,0,16,55,RAS
+2015,Malaysian Grand Prix,Sergio Pérez,13,0,14,55,RAS
+2015,Malaysian Grand Prix,Nico Hülkenberg,14,0,13,55,RAS
+2015,Malaysian Grand Prix,Roberto Merhi,15,0,19,53,RAS
+2015,Malaysian Grand Prix,Pastor Maldonado,16,0,12,47,DNF
+2015,Malaysian Grand Prix,Jenson Button,17,0,17,41,Turbo
+2015,Malaysian Grand Prix,Fernando Alonso,18,0,18,21,ERS
+2015,Malaysian Grand Prix,Marcus Ericsson,19,0,9,3,Spun off
+2015,Malaysian Grand Prix,Will Stevens,20,0,0,0,Fuel system
+2015,Chinese Grand Prix,Lewis Hamilton,1,25,1,56,RAS
+2015,Chinese Grand Prix,Nico Rosberg,2,18,2,56,RAS
+2015,Chinese Grand Prix,Sebastian Vettel,3,15,3,56,RAS
+2015,Chinese Grand Prix,Kimi Räikkönen,4,12,6,56,RAS
+2015,Chinese Grand Prix,Felipe Massa,5,10,4,56,RAS
+2015,Chinese Grand Prix,Valtteri Bottas,6,8,5,56,RAS
+2015,Chinese Grand Prix,Romain Grosjean,7,6,8,56,RAS
+2015,Chinese Grand Prix,Felipe Nasr,8,4,9,56,RAS
+2015,Chinese Grand Prix,Daniel Ricciardo,9,2,7,56,RAS
+2015,Chinese Grand Prix,Marcus Ericsson,10,1,10,55,RAS
+2015,Chinese Grand Prix,Sergio Pérez,11,0,15,55,RAS
+2015,Chinese Grand Prix,Fernando Alonso,12,0,18,55,RAS
+2015,Chinese Grand Prix,Carlos Sainz,13,0,14,55,RAS
+2015,Chinese Grand Prix,Jenson Button,14,0,17,55,RAS
+2015,Chinese Grand Prix,Will Stevens,15,0,19,54,RAS
+2015,Chinese Grand Prix,Roberto Merhi,16,0,20,54,RAS
+2015,Chinese Grand Prix,Max Verstappen,17,0,13,52,Transmission
+2015,Chinese Grand Prix,Pastor Maldonado,18,0,11,49,Brakes
+2015,Chinese Grand Prix,Daniil Kvyat,19,0,12,15,Power Unit
+2015,Chinese Grand Prix,Nico Hülkenberg,20,0,16,9,Gearbox
+2015,Bahrain Grand Prix,Lewis Hamilton,1,25,1,57,RAS
+2015,Bahrain Grand Prix,Kimi Räikkönen,2,18,4,57,RAS
+2015,Bahrain Grand Prix,Nico Rosberg,3,15,3,57,RAS
+2015,Bahrain Grand Prix,Valtteri Bottas,4,12,5,57,RAS
+2015,Bahrain Grand Prix,Sebastian Vettel,5,10,2,57,RAS
+2015,Bahrain Grand Prix,Daniel Ricciardo,6,8,7,57,RAS
+2015,Bahrain Grand Prix,Romain Grosjean,7,6,10,57,RAS
+2015,Bahrain Grand Prix,Sergio Pérez,8,4,11,56,RAS
+2015,Bahrain Grand Prix,Daniil Kvyat,9,2,17,56,RAS
+2015,Bahrain Grand Prix,Felipe Massa,10,1,6,56,RAS
+2015,Bahrain Grand Prix,Fernando Alonso,11,0,14,56,RAS
+2015,Bahrain Grand Prix,Felipe Nasr,12,0,12,56,RAS
+2015,Bahrain Grand Prix,Nico Hülkenberg,13,0,8,56,RAS
+2015,Bahrain Grand Prix,Marcus Ericsson,14,0,13,56,RAS
+2015,Bahrain Grand Prix,Pastor Maldonado,15,0,16,56,RAS
+2015,Bahrain Grand Prix,Will Stevens,16,0,18,55,RAS
+2015,Bahrain Grand Prix,Roberto Merhi,17,0,19,54,RAS
+2015,Bahrain Grand Prix,Max Verstappen,18,0,15,34,Electrical
+2015,Bahrain Grand Prix,Carlos Sainz,19,0,9,29,Engine
+2015,Bahrain Grand Prix,Jenson Button,20,0,20,0,ERS
+2015,Spanish Grand Prix,Nico Rosberg,1,25,1,66,RAS
+2015,Spanish Grand Prix,Lewis Hamilton,2,18,2,66,RAS
+2015,Spanish Grand Prix,Sebastian Vettel,3,15,3,66,RAS
+2015,Spanish Grand Prix,Valtteri Bottas,4,12,4,66,RAS
+2015,Spanish Grand Prix,Kimi Räikkönen,5,10,7,66,RAS
+2015,Spanish Grand Prix,Felipe Massa,6,8,9,66,RAS
+2015,Spanish Grand Prix,Daniel Ricciardo,7,6,10,65,RAS
+2015,Spanish Grand Prix,Romain Grosjean,8,4,11,65,RAS
+2015,Spanish Grand Prix,Carlos Sainz,9,2,5,65,RAS
+2015,Spanish Grand Prix,Daniil Kvyat,10,1,8,65,RAS
+2015,Spanish Grand Prix,Max Verstappen,11,0,6,65,RAS
+2015,Spanish Grand Prix,Felipe Nasr,12,0,15,65,RAS
+2015,Spanish Grand Prix,Sergio Pérez,13,0,18,65,RAS
+2015,Spanish Grand Prix,Marcus Ericsson,14,0,16,65,RAS
+2015,Spanish Grand Prix,Nico Hülkenberg,15,0,17,65,RAS
+2015,Spanish Grand Prix,Jenson Button,16,0,14,65,RAS
+2015,Spanish Grand Prix,Will Stevens,17,0,19,63,RAS
+2015,Spanish Grand Prix,Roberto Merhi,18,0,20,62,RAS
+2015,Spanish Grand Prix,Pastor Maldonado,19,0,12,45,Accident
+2015,Spanish Grand Prix,Fernando Alonso,20,0,13,26,Brakes
+2015,Monaco Grand Prix,Nico Rosberg,1,25,2,78,RAS
+2015,Monaco Grand Prix,Sebastian Vettel,2,18,3,78,RAS
+2015,Monaco Grand Prix,Lewis Hamilton,3,15,1,78,RAS
+2015,Monaco Grand Prix,Daniil Kvyat,4,12,5,78,RAS
+2015,Monaco Grand Prix,Daniel Ricciardo,5,10,4,78,RAS
+2015,Monaco Grand Prix,Kimi Räikkönen,6,8,6,78,RAS
+2015,Monaco Grand Prix,Sergio Pérez,7,6,7,78,RAS
+2015,Monaco Grand Prix,Jenson Button,8,4,10,78,RAS
+2015,Monaco Grand Prix,Felipe Nasr,9,2,14,78,RAS
+2015,Monaco Grand Prix,Carlos Sainz,10,1,0,78,RAS
+2015,Monaco Grand Prix,Nico Hülkenberg,11,0,11,78,RAS
+2015,Monaco Grand Prix,Romain Grosjean,12,0,15,78,RAS
+2015,Monaco Grand Prix,Marcus Ericsson,13,0,17,78,RAS
+2015,Monaco Grand Prix,Valtteri Bottas,14,0,16,78,RAS
+2015,Monaco Grand Prix,Felipe Massa,15,0,12,77,RAS
+2015,Monaco Grand Prix,Roberto Merhi,16,0,19,76,RAS
+2015,Monaco Grand Prix,Will Stevens,17,0,18,76,RAS
+2015,Monaco Grand Prix,Max Verstappen,18,0,9,62,Accident
+2015,Monaco Grand Prix,Fernando Alonso,19,0,13,41,Gearbox
+2015,Monaco Grand Prix,Pastor Maldonado,20,0,8,5,Brakes
+2015,Canadian Grand Prix,Lewis Hamilton,1,25,1,70,RAS
+2015,Canadian Grand Prix,Nico Rosberg,2,18,2,70,RAS
+2015,Canadian Grand Prix,Valtteri Bottas,3,15,4,70,RAS
+2015,Canadian Grand Prix,Kimi Räikkönen,4,12,3,70,RAS
+2015,Canadian Grand Prix,Sebastian Vettel,5,10,18,70,RAS
+2015,Canadian Grand Prix,Felipe Massa,6,8,15,70,RAS
+2015,Canadian Grand Prix,Pastor Maldonado,7,6,6,70,RAS
+2015,Canadian Grand Prix,Nico Hülkenberg,8,4,7,69,RAS
+2015,Canadian Grand Prix,Daniil Kvyat,9,2,8,69,RAS
+2015,Canadian Grand Prix,Romain Grosjean,10,1,5,69,RAS
+2015,Canadian Grand Prix,Sergio Pérez,11,0,10,69,RAS
+2015,Canadian Grand Prix,Carlos Sainz,12,0,11,69,RAS
+2015,Canadian Grand Prix,Daniel Ricciardo,13,0,9,69,RAS
+2015,Canadian Grand Prix,Marcus Ericsson,14,0,12,69,RAS
+2015,Canadian Grand Prix,Max Verstappen,15,0,19,69,RAS
+2015,Canadian Grand Prix,Felipe Nasr,16,0,14,68,RAS
+2015,Canadian Grand Prix,Will Stevens,17,0,17,66,RAS
+2015,Canadian Grand Prix,Roberto Merhi,18,0,16,57,DNF
+2015,Canadian Grand Prix,Jenson Button,19,0,20,54,DNF
+2015,Canadian Grand Prix,Fernando Alonso,20,0,13,44,Engine
+2015,Austrian Grand Prix,Nico Rosberg,1,25,2,71,RAS
+2015,Austrian Grand Prix,Lewis Hamilton,2,18,1,71,RAS
+2015,Austrian Grand Prix,Felipe Massa,3,15,4,71,RAS
+2015,Austrian Grand Prix,Sebastian Vettel,4,12,3,71,RAS
+2015,Austrian Grand Prix,Valtteri Bottas,5,10,6,71,RAS
+2015,Austrian Grand Prix,Nico Hülkenberg,6,8,5,71,RAS
+2015,Austrian Grand Prix,Pastor Maldonado,7,6,10,70,RAS
+2015,Austrian Grand Prix,Max Verstappen,8,4,7,70,RAS
+2015,Austrian Grand Prix,Sergio Pérez,9,2,13,70,RAS
+2015,Austrian Grand Prix,Daniel Ricciardo,10,1,18,70,RAS
+2015,Austrian Grand Prix,Felipe Nasr,11,0,8,70,RAS
+2015,Austrian Grand Prix,Daniil Kvyat,12,0,15,70,RAS
+2015,Austrian Grand Prix,Marcus Ericsson,13,0,11,69,RAS
+2015,Austrian Grand Prix,Roberto Merhi,14,0,16,68,RAS
+2015,Austrian Grand Prix,Romain Grosjean,15,0,9,35,Gearbox
+2015,Austrian Grand Prix,Carlos Sainz,16,0,12,35,Power loss
+2015,Austrian Grand Prix,Jenson Button,17,0,20,8,DNF
+2015,Austrian Grand Prix,Will Stevens,18,0,17,1,Oil leak
+2015,Austrian Grand Prix,Kimi Räikkönen,19,0,14,0,Collision
+2015,Austrian Grand Prix,Fernando Alonso,20,0,19,0,Collision
+2015,British Grand Prix,Lewis Hamilton,1,25,1,52,RAS
+2015,British Grand Prix,Nico Rosberg,2,18,2,52,RAS
+2015,British Grand Prix,Sebastian Vettel,3,15,6,52,RAS
+2015,British Grand Prix,Felipe Massa,4,12,3,52,RAS
+2015,British Grand Prix,Valtteri Bottas,5,10,4,52,RAS
+2015,British Grand Prix,Daniil Kvyat,6,8,7,52,RAS
+2015,British Grand Prix,Nico Hülkenberg,7,6,9,52,RAS
+2015,British Grand Prix,Kimi Räikkönen,8,4,5,51,RAS
+2015,British Grand Prix,Sergio Pérez,9,2,11,51,RAS
+2015,British Grand Prix,Fernando Alonso,10,1,17,51,RAS
+2015,British Grand Prix,Marcus Ericsson,11,0,15,51,RAS
+2015,British Grand Prix,Roberto Merhi,12,0,20,49,RAS
+2015,British Grand Prix,Will Stevens,13,0,19,49,RAS
+2015,British Grand Prix,Carlos Sainz,14,0,8,31,Electrical
+2015,British Grand Prix,Daniel Ricciardo,15,0,10,21,Electrical
+2015,British Grand Prix,Max Verstappen,16,0,13,3,Spun off
+2015,British Grand Prix,Romain Grosjean,17,0,12,0,Collision
+2015,British Grand Prix,Pastor Maldonado,18,0,14,0,Collision
+2015,British Grand Prix,Jenson Button,19,0,18,0,Collision
+2015,British Grand Prix,Felipe Nasr,20,0,16,0,Gearbox
+2015,Hungarian Grand Prix,Sebastian Vettel,1,25,3,69,RAS
+2015,Hungarian Grand Prix,Daniil Kvyat,2,18,7,69,RAS
+2015,Hungarian Grand Prix,Daniel Ricciardo,3,15,4,69,RAS
+2015,Hungarian Grand Prix,Max Verstappen,4,12,9,69,RAS
+2015,Hungarian Grand Prix,Fernando Alonso,5,10,15,69,RAS
+2015,Hungarian Grand Prix,Lewis Hamilton,6,8,1,69,RAS
+2015,Hungarian Grand Prix,Romain Grosjean,7,6,10,69,RAS
+2015,Hungarian Grand Prix,Nico Rosberg,8,4,2,69,RAS
+2015,Hungarian Grand Prix,Jenson Button,9,2,16,69,RAS
+2015,Hungarian Grand Prix,Marcus Ericsson,10,1,17,69,RAS
+2015,Hungarian Grand Prix,Felipe Nasr,11,0,18,69,RAS
+2015,Hungarian Grand Prix,Felipe Massa,12,0,8,69,RAS
+2015,Hungarian Grand Prix,Valtteri Bottas,13,0,6,69,RAS
+2015,Hungarian Grand Prix,Pastor Maldonado,14,0,14,69,RAS
+2015,Hungarian Grand Prix,Roberto Merhi,15,0,19,67,RAS
+2015,Hungarian Grand Prix,Will Stevens,16,0,20,65,RAS
+2015,Hungarian Grand Prix,Carlos Sainz,17,0,12,60,Electrical
+2015,Hungarian Grand Prix,Kimi Räikkönen,18,0,5,55,Power Unit
+2015,Hungarian Grand Prix,Sergio Pérez,19,0,13,53,Suspension
+2015,Hungarian Grand Prix,Nico Hülkenberg,20,0,11,41,Front wing
+2015,Belgian Grand Prix,Lewis Hamilton,1,25,1,43,RAS
+2015,Belgian Grand Prix,Nico Rosberg,2,18,2,43,RAS
+2015,Belgian Grand Prix,Romain Grosjean,3,15,9,43,RAS
+2015,Belgian Grand Prix,Daniil Kvyat,4,12,12,43,RAS
+2015,Belgian Grand Prix,Sergio Pérez,5,10,4,43,RAS
+2015,Belgian Grand Prix,Felipe Massa,6,8,6,43,RAS
+2015,Belgian Grand Prix,Kimi Räikkönen,7,6,16,43,RAS
+2015,Belgian Grand Prix,Max Verstappen,8,4,18,43,RAS
+2015,Belgian Grand Prix,Valtteri Bottas,9,2,3,43,Power Unit
+2015,Belgian Grand Prix,Marcus Ericsson,10,1,13,43,RAS
+2015,Belgian Grand Prix,Felipe Nasr,11,0,14,43,RAS
+2015,Belgian Grand Prix,Sebastian Vettel,12,0,8,42,Tyre
+2015,Belgian Grand Prix,Fernando Alonso,13,0,20,42,RAS
+2015,Belgian Grand Prix,Jenson Button,14,0,19,42,RAS
+2015,Belgian Grand Prix,Roberto Merhi,15,0,17,42,RAS
+2015,Belgian Grand Prix,Will Stevens,16,0,15,42,RAS
+2015,Belgian Grand Prix,Carlos Sainz,17,0,10,32,Power Unit
+2015,Belgian Grand Prix,Daniel Ricciardo,18,0,5,19,Power Unit
+2015,Belgian Grand Prix,Pastor Maldonado,19,0,7,2,Engine
+2015,Belgian Grand Prix,Nico Hülkenberg,20,0,11,0,Power loss
+2015,Italian Grand Prix,Lewis Hamilton,1,25,1,53,RAS
+2015,Italian Grand Prix,Sebastian Vettel,2,18,3,53,RAS
+2015,Italian Grand Prix,Felipe Massa,3,15,5,53,RAS
+2015,Italian Grand Prix,Valtteri Bottas,4,12,6,53,RAS
+2015,Italian Grand Prix,Kimi Räikkönen,5,10,2,53,RAS
+2015,Italian Grand Prix,Sergio Pérez,6,8,7,53,RAS
+2015,Italian Grand Prix,Nico Hülkenberg,7,6,9,52,RAS
+2015,Italian Grand Prix,Daniel Ricciardo,8,4,19,52,RAS
+2015,Italian Grand Prix,Marcus Ericsson,9,2,12,52,RAS
+2015,Italian Grand Prix,Daniil Kvyat,10,1,18,52,RAS
+2015,Italian Grand Prix,Carlos Sainz,11,0,17,52,RAS
+2015,Italian Grand Prix,Max Verstappen,12,0,20,52,RAS
+2015,Italian Grand Prix,Felipe Nasr,13,0,17,52,RAS
+2015,Italian Grand Prix,Jenson Button,14,0,15,52,RAS
+2015,Italian Grand Prix,Will Stevens,15,0,13,51,RAS
+2015,Italian Grand Prix,Roberto Merhi,16,0,14,51,RAS
+2015,Italian Grand Prix,Nico Rosberg,17,0,4,50,RAS
+2015,Italian Grand Prix,Fernando Alonso,18,0,16,47,RAS
+2015,Italian Grand Prix,Romain Grosjean,19,0,8,1,Collision damage
+2015,Italian Grand Prix,Pastor Maldonado,20,0,10,1,Collision damage
+2015,Singapore Grand Prix,Sebastian Vettel,1,25,1,61,RAS
+2015,Singapore Grand Prix,Daniel Ricciardo,2,18,2,61,RAS
+2015,Singapore Grand Prix,Kimi Räikkönen,3,15,3,61,RAS
+2015,Singapore Grand Prix,Nico Rosberg,4,12,6,61,RAS
+2015,Singapore Grand Prix,Valtteri Bottas,5,10,7,61,RAS
+2015,Singapore Grand Prix,Daniil Kvyat,6,8,4,61,RAS
+2015,Singapore Grand Prix,Sergio Pérez,7,6,13,61,RAS
+2015,Singapore Grand Prix,Max Verstappen,8,4,8,61,RAS
+2015,Singapore Grand Prix,Carlos Sainz,9,2,14,61,RAS
+2015,Singapore Grand Prix,Felipe Nasr,10,1,16,61,RAS
+2015,Singapore Grand Prix,Marcus Ericsson,11,0,17,61,RAS
+2015,Singapore Grand Prix,Pastor Maldonado,12,0,18,61,RAS
+2015,Singapore Grand Prix,Romain Grosjean,13,0,10,59,Tyre
+2015,Singapore Grand Prix,Alexander Rossi,14,0,20,59,RAS
+2015,Singapore Grand Prix,Will Stevens,15,0,19,59,RAS
+2015,Singapore Grand Prix,Jenson Button,16,0,15,52,Gearbox
+2015,Singapore Grand Prix,Fernando Alonso,17,0,12,33,Gearbox
+2015,Singapore Grand Prix,Lewis Hamilton,18,0,5,32,Throttle
+2015,Singapore Grand Prix,Felipe Massa,19,0,9,30,Gearbox
+2015,Singapore Grand Prix,Nico Hülkenberg,20,0,11,12,Collision
+2015,Japanese Grand Prix,Lewis Hamilton,1,25,2,53,RAS
+2015,Japanese Grand Prix,Nico Rosberg,2,18,1,53,RAS
+2015,Japanese Grand Prix,Sebastian Vettel,3,15,4,53,RAS
+2015,Japanese Grand Prix,Kimi Räikkönen,4,12,6,53,RAS
+2015,Japanese Grand Prix,Valtteri Bottas,5,10,3,53,RAS
+2015,Japanese Grand Prix,Nico Hülkenberg,6,8,13,53,RAS
+2015,Japanese Grand Prix,Romain Grosjean,7,6,8,53,RAS
+2015,Japanese Grand Prix,Pastor Maldonado,8,4,11,53,RAS
+2015,Japanese Grand Prix,Max Verstappen,9,2,17,53,RAS
+2015,Japanese Grand Prix,Carlos Sainz,10,1,10,52,RAS
+2015,Japanese Grand Prix,Fernando Alonso,11,0,12,52,RAS
+2015,Japanese Grand Prix,Sergio Pérez,12,0,9,52,RAS
+2015,Japanese Grand Prix,Daniil Kvyat,13,0,20,52,RAS
+2015,Japanese Grand Prix,Marcus Ericsson,14,0,15,52,RAS
+2015,Japanese Grand Prix,Daniel Ricciardo,15,0,7,52,RAS
+2015,Japanese Grand Prix,Jenson Button,16,0,14,52,RAS
+2015,Japanese Grand Prix,Felipe Massa,17,0,5,51,RAS
+2015,Japanese Grand Prix,Alexander Rossi,18,0,19,51,RAS
+2015,Japanese Grand Prix,Will Stevens,19,0,18,50,RAS
+2015,Japanese Grand Prix,Felipe Nasr,20,0,16,49,DNF
+2015,Russian Grand Prix,Lewis Hamilton,1,25,2,53,RAS
+2015,Russian Grand Prix,Sebastian Vettel,2,18,4,53,RAS
+2015,Russian Grand Prix,Sergio Pérez,3,15,7,53,RAS
+2015,Russian Grand Prix,Felipe Massa,4,12,15,53,RAS
+2015,Russian Grand Prix,Daniil Kvyat,5,10,11,53,RAS
+2015,Russian Grand Prix,Felipe Nasr,6,8,12,53,RAS
+2015,Russian Grand Prix,Pastor Maldonado,7,6,14,53,RAS
+2015,Russian Grand Prix,Kimi Räikkönen,8,4,5,53,RAS
+2015,Russian Grand Prix,Jenson Button,9,2,13,53,RAS
+2015,Russian Grand Prix,Max Verstappen,10,1,9,53,RAS
+2015,Russian Grand Prix,Fernando Alonso,11,0,19,53,RAS
+2015,Russian Grand Prix,Valtteri Bottas,12,0,3,52,Collision
+2015,Russian Grand Prix,Roberto Merhi,13,0,18,52,RAS
+2015,Russian Grand Prix,Will Stevens,14,0,17,51,RAS
+2015,Russian Grand Prix,Daniel Ricciardo,15,0,10,47,Suspension
+2015,Russian Grand Prix,Carlos Sainz,16,0,20,45,Brakes
+2015,Russian Grand Prix,Romain Grosjean,17,0,8,11,Accident
+2015,Russian Grand Prix,Nico Rosberg,18,0,1,7,Throttle
+2015,Russian Grand Prix,Nico Hülkenberg,19,0,6,0,Collision
+2015,Russian Grand Prix,Marcus Ericsson,20,0,17,0,Collision
+2015,United States Grand Prix,Lewis Hamilton,1,25,2,56,RAS
+2015,United States Grand Prix,Nico Rosberg,2,18,1,56,RAS
+2015,United States Grand Prix,Sebastian Vettel,3,15,13,56,RAS
+2015,United States Grand Prix,Max Verstappen,4,12,8,56,RAS
+2015,United States Grand Prix,Sergio Pérez,5,10,5,56,RAS
+2015,United States Grand Prix,Jenson Button,6,8,11,56,RAS
+2015,United States Grand Prix,Carlos Sainz,7,6,20,56,RAS
+2015,United States Grand Prix,Pastor Maldonado,8,4,12,56,RAS
+2015,United States Grand Prix,Felipe Nasr,9,2,15,56,RAS
+2015,United States Grand Prix,Daniel Ricciardo,10,1,3,56,RAS
+2015,United States Grand Prix,Fernando Alonso,11,0,9,56,RAS
+2015,United States Grand Prix,Alexander Rossi,12,0,17,56,RAS
+2015,United States Grand Prix,Daniil Kvyat,13,0,4,41,Accident
+2015,United States Grand Prix,Nico Hülkenberg,14,0,6,35,Accident
+2015,United States Grand Prix,Marcus Ericsson,15,0,14,25,DNF
+2015,United States Grand Prix,Kimi Räikkönen,16,0,18,25,Brake duct
+2015,United States Grand Prix,Felipe Massa,17,0,7,23,DNF
+2015,United States Grand Prix,Romain Grosjean,18,0,10,10,DNF
+2015,United States Grand Prix,Valtteri Bottas,19,0,16,5,DNF
+2015,United States Grand Prix,Will Stevens,20,0,19,1,DNF
+2015,Mexican Grand Prix,Nico Rosberg,1,25,1,71,RAS
+2015,Mexican Grand Prix,Lewis Hamilton,2,18,2,71,RAS
+2015,Mexican Grand Prix,Valtteri Bottas,3,15,6,71,RAS
+2015,Mexican Grand Prix,Daniil Kvyat,4,12,4,71,RAS
+2015,Mexican Grand Prix,Daniel Ricciardo,5,10,5,71,RAS
+2015,Mexican Grand Prix,Felipe Massa,6,8,7,71,RAS
+2015,Mexican Grand Prix,Nico Hülkenberg,7,6,10,71,RAS
+2015,Mexican Grand Prix,Sergio Pérez,8,4,9,71,RAS
+2015,Mexican Grand Prix,Max Verstappen,9,2,8,71,RAS
+2015,Mexican Grand Prix,Romain Grosjean,10,1,12,71,RAS
+2015,Mexican Grand Prix,Pastor Maldonado,11,0,13,71,RAS
+2015,Mexican Grand Prix,Marcus Ericsson,12,0,14,71,RAS
+2015,Mexican Grand Prix,Carlos Sainz,13,0,11,71,RAS
+2015,Mexican Grand Prix,Jenson Button,14,0,20,71,RAS
+2015,Mexican Grand Prix,Alexander Rossi,15,0,16,69,RAS
+2015,Mexican Grand Prix,Will Stevens,16,0,17,69,RAS
+2015,Mexican Grand Prix,Felipe Nasr,17,0,15,57,Brakes
+2015,Mexican Grand Prix,Sebastian Vettel,18,0,3,50,Accident
+2015,Mexican Grand Prix,Kimi Räikkönen,19,0,19,21,Collision
+2015,Mexican Grand Prix,Fernando Alonso,20,0,18,1,DNF
+2015,Brazilian Grand Prix,Nico Rosberg,1,25,1,71,RAS
+2015,Brazilian Grand Prix,Lewis Hamilton,2,18,2,71,RAS
+2015,Brazilian Grand Prix,Sebastian Vettel,3,15,3,71,RAS
+2015,Brazilian Grand Prix,Kimi Räikkönen,4,12,4,71,RAS
+2015,Brazilian Grand Prix,Valtteri Bottas,5,10,7,70,RAS
+2015,Brazilian Grand Prix,Nico Hülkenberg,6,8,5,70,RAS
+2015,Brazilian Grand Prix,Daniil Kvyat,7,6,6,70,RAS
+2015,Brazilian Grand Prix,Romain Grosjean,8,4,14,70,RAS
+2015,Brazilian Grand Prix,Max Verstappen,9,2,9,70,RAS
+2015,Brazilian Grand Prix,Pastor Maldonado,10,1,15,70,RAS
+2015,Brazilian Grand Prix,Daniel Ricciardo,11,0,19,70,RAS
+2015,Brazilian Grand Prix,Sergio Pérez,12,0,11,70,RAS
+2015,Brazilian Grand Prix,Felipe Nasr,13,0,13,70,RAS
+2015,Brazilian Grand Prix,Jenson Button,14,0,16,70,RAS
+2015,Brazilian Grand Prix,Fernando Alonso,15,0,20,70,RAS
+2015,Brazilian Grand Prix,Marcus Ericsson,16,0,12,69,RAS
+2015,Brazilian Grand Prix,Will Stevens,17,0,18,67,RAS
+2015,Brazilian Grand Prix,Alexander Rossi,18,0,17,67,RAS
+2015,Brazilian Grand Prix,Carlos Sainz,19,0,10,0,DNF
+2015,Brazilian Grand Prix,Felipe Massa,20,0,8,70,Excluded
+2015,Abu Dhabi Grand Prix,Nico Rosberg,1,25,1,55,RAS
+2015,Abu Dhabi Grand Prix,Lewis Hamilton,2,18,2,55,RAS
+2015,Abu Dhabi Grand Prix,Kimi Räikkönen,3,15,3,55,RAS
+2015,Abu Dhabi Grand Prix,Sebastian Vettel,4,12,15,55,RAS
+2015,Abu Dhabi Grand Prix,Sergio Pérez,5,10,4,55,RAS
+2015,Abu Dhabi Grand Prix,Daniel Ricciardo,6,8,5,55,RAS
+2015,Abu Dhabi Grand Prix,Nico Hülkenberg,7,6,7,55,RAS
+2015,Abu Dhabi Grand Prix,Felipe Massa,8,4,8,55,RAS
+2015,Abu Dhabi Grand Prix,Romain Grosjean,9,2,18,55,RAS
+2015,Abu Dhabi Grand Prix,Daniil Kvyat,10,1,9,55,RAS
+2015,Abu Dhabi Grand Prix,Carlos Sainz,11,0,10,55,RAS
+2015,Abu Dhabi Grand Prix,Jenson Button,12,0,12,54,RAS
+2015,Abu Dhabi Grand Prix,Valtteri Bottas,13,0,6,54,RAS
+2015,Abu Dhabi Grand Prix,Marcus Ericsson,14,0,17,54,RAS
+2015,Abu Dhabi Grand Prix,Felipe Nasr,15,0,14,54,RAS
+2015,Abu Dhabi Grand Prix,Max Verstappen,16,0,11,54,RAS
+2015,Abu Dhabi Grand Prix,Fernando Alonso,17,0,16,53,RAS
+2015,Abu Dhabi Grand Prix,Will Stevens,18,0,19,53,RAS
+2015,Abu Dhabi Grand Prix,Roberto Merhi,19,0,20,52,RAS
+2015,Abu Dhabi Grand Prix,Pastor Maldonado,20,0,13,0,Collision

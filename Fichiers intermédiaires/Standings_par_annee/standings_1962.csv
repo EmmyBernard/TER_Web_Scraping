@@ -1,0 +1,206 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+1962,Dutch Grand Prix,Graham Hill,1,9,2,80,RAS
+1962,Dutch Grand Prix,Trevor Taylor,2,6,10,80,RAS
+1962,Dutch Grand Prix,Phil Hill,3,4,9,80,RAS
+1962,Dutch Grand Prix,Giancarlo Baghetti,4,3,12,79,RAS
+1962,Dutch Grand Prix,Tony Maggs,5,2,15,78,RAS
+1962,Dutch Grand Prix,Carel Godin de Beaufort,6,1,14,76,RAS
+1962,Dutch Grand Prix,Jo Bonnier,7,0,13,75,RAS
+1962,Dutch Grand Prix,Jackie Lewis,8,0,7,70,RAS
+1962,Dutch Grand Prix,Jim Clark,9,0,3,70,RAS
+1962,Dutch Grand Prix,Ricardo Rodríguez,10,0,11,73,Accident
+1962,Dutch Grand Prix,Richie Ginther,11,0,7,71,Accident
+1962,Dutch Grand Prix,Innes Ireland,12,0,6,61,Accident
+1962,Dutch Grand Prix,Masten Gregory,13,0,16,54,Halfshaft
+1962,Dutch Grand Prix,Wolfgang Seidel,14,0,20,52,Not classified
+1962,Dutch Grand Prix,Dan Gurney,15,0,8,47,Gearbox
+1962,Dutch Grand Prix,Bruce McLaren,16,0,5,21,Gearbox
+1962,Dutch Grand Prix,Roy Salvadori,17,0,17,12,Withdrew
+1962,Dutch Grand Prix,John Surtees,18,0,1,8,Accident
+1962,Dutch Grand Prix,Jack Brabham,19,0,4,4,Accident
+1962,Dutch Grand Prix,Ben Pon,20,0,10,2,Accident
+1962,Dutch Grand Prix,Rob Slotemaker,21,0,0,0,Withdrew
+1962,Dutch Grand Prix,Maurice Trintignant,22,0,0,0,Withdrew
+1962,Monaco Grand Prix,Bruce McLaren,1,9,3,100,RAS
+1962,Monaco Grand Prix,Phil Hill,2,6,9,100,RAS
+1962,Monaco Grand Prix,Lorenzo Bandini,3,4,10,100,RAS
+1962,Monaco Grand Prix,John Surtees,4,3,11,99,RAS
+1962,Monaco Grand Prix,Jo Bonnier,5,2,18,93,RAS
+1962,Monaco Grand Prix,Graham Hill,6,1,2,92,Engine
+1962,Monaco Grand Prix,Willy Mairesse,7,0,4,90,Oil pressure
+1962,Monaco Grand Prix,Jack Brabham,8,0,6,77,Accident
+1962,Monaco Grand Prix,Innes Ireland,9,0,8,64,Fuel pump
+1962,Monaco Grand Prix,Jim Clark,10,0,1,55,Clutch
+1962,Monaco Grand Prix,Roy Salvadori,11,0,12,44,Suspension
+1962,Monaco Grand Prix,Tony Maggs,12,0,19,43,Gearbox
+1962,Monaco Grand Prix,Trevor Taylor,13,0,17,24,Oil leak
+1962,Monaco Grand Prix,Dan Gurney,14,0,5,0,Accident
+1962,Monaco Grand Prix,Maurice Trintignant,15,0,7,0,Accident
+1962,Monaco Grand Prix,Richie Ginther,16,0,14,0,Accident
+1962,Monaco Grand Prix,Ricardo Rodríguez,22,0,0,0,Withdrew
+1962,Monaco Grand Prix,Roberto Bussinello,23,0,0,0,Withdrew
+1962,Monaco Grand Prix,Tony Marsh,24,0,0,0,Withdrew
+1962,Belgian Grand Prix,Jim Clark,1,9,13,32,RAS
+1962,Belgian Grand Prix,Graham Hill,2,6,1,32,RAS
+1962,Belgian Grand Prix,Phil Hill,3,4,4,32,RAS
+1962,Belgian Grand Prix,Ricardo Rodríguez,4,3,7,32,RAS
+1962,Belgian Grand Prix,John Surtees,5,2,11,31,RAS
+1962,Belgian Grand Prix,Jack Brabham,6,1,15,30,RAS
+1962,Belgian Grand Prix,Carel Godin de Beaufort,7,0,13,30,RAS
+1962,Belgian Grand Prix,Maurice Trintignant,8,0,16,30,RAS
+1962,Belgian Grand Prix,Lucien Bianchi,9,0,18,29,RAS
+1962,Belgian Grand Prix,Jo Siffert,10,0,17,29,RAS
+1962,Belgian Grand Prix,John Campbell-Jones,11,0,19,16,RAS
+1962,Belgian Grand Prix,Trevor Taylor,12,0,3,25,Accident
+1962,Belgian Grand Prix,Willy Mairesse,13,0,6,25,Accident
+1962,Belgian Grand Prix,Richie Ginther,14,0,9,22,Gearbox
+1962,Belgian Grand Prix,Tony Maggs,15,0,10,22,Gearbox
+1962,Belgian Grand Prix,Bruce McLaren,16,0,2,19,Wheel bearing
+1962,Belgian Grand Prix,Masten Gregory,17,0,8,13,Withdrew
+1962,Belgian Grand Prix,Innes Ireland,18,0,5,8,Suspension
+1962,Belgian Grand Prix,Giancarlo Baghetti,19,0,14,3,Ignition
+1962,Belgian Grand Prix,Dan Gurney,20,0,0,0,Withdrew
+1962,Belgian Grand Prix,Tony Marsh,21,0,0,0,Withdrew
+1962,Belgian Grand Prix,Jackie Lewis,22,0,0,0,Withdrew
+1962,Belgian Grand Prix,Gerry Ashmore,23,0,0,0,Withdrew
+1962,Belgian Grand Prix,Roy Salvadori,24,0,0,0,Withdrew
+1962,Belgian Grand Prix,Heinz Schiller,25,0,0,0,Withdrew
+1962,Belgian Grand Prix,Jo Bonnier,26,0,0,0,Withdrew
+1962,French Grand Prix,Dan Gurney,1,9,6,54,RAS
+1962,French Grand Prix,Tony Maggs,2,6,11,53,RAS
+1962,French Grand Prix,Richie Ginther,3,4,10,52,RAS
+1962,French Grand Prix,Bruce McLaren,4,3,3,51,RAS
+1962,French Grand Prix,John Surtees,5,2,5,51,RAS
+1962,French Grand Prix,Carel Godin de Beaufort,6,1,17,51,RAS
+1962,French Grand Prix,Maurice Trintignant,7,0,13,50,RAS
+1962,French Grand Prix,Trevor Taylor,8,0,12,48,RAS
+1962,French Grand Prix,Graham Hill,9,0,2,44,RAS
+1962,French Grand Prix,Jo Bonnier,10,0,9,43,Fuel system
+1962,French Grand Prix,Jim Clark,11,0,1,34,Suspension
+1962,French Grand Prix,Jackie Lewis,12,0,16,28,Accident
+1962,French Grand Prix,Roy Salvadori,13,0,14,21,Oil pressure
+1962,French Grand Prix,Masten Gregory,14,0,7,15,Overheating
+1962,French Grand Prix,Jack Brabham,15,0,4,11,Suspension
+1962,French Grand Prix,Jo Siffert,16,0,15,6,Clutch
+1962,French Grand Prix,Innes Ireland,17,0,8,1,Puncture
+1962,French Grand Prix,Peter Arundell,18,0,0,0,Withdrew
+1962,French Grand Prix,Tony Marsh,19,0,0,0,Withdrew
+1962,French Grand Prix,Colin Davis,20,0,0,0,Withdrew
+1962,French Grand Prix,Carlo Abate,21,0,0,0,Withdrew
+1962,French Grand Prix,Ian Burgess,22,0,0,0,Withdrew
+1962,British Grand Prix,Jim Clark,1,9,1,75,RAS
+1962,British Grand Prix,John Surtees,2,6,2,75,RAS
+1962,British Grand Prix,Bruce McLaren,3,4,4,75,RAS
+1962,British Grand Prix,Graham Hill,4,3,5,75,RAS
+1962,British Grand Prix,Jack Brabham,5,2,9,74,RAS
+1962,British Grand Prix,Tony Maggs,6,1,13,74,RAS
+1962,British Grand Prix,Masten Gregory,7,0,14,74,RAS
+1962,British Grand Prix,Trevor Taylor,8,0,10,74,RAS
+1962,British Grand Prix,Dan Gurney,9,0,6,73,RAS
+1962,British Grand Prix,Jackie Lewis,10,0,15,72,RAS
+1962,British Grand Prix,Tony Settember,11,0,19,71,RAS
+1962,British Grand Prix,Ian Burgess,12,0,16,71,RAS
+1962,British Grand Prix,Richie Ginther,13,0,8,70,RAS
+1962,British Grand Prix,Carel Godin de Beaufort,14,0,17,69,RAS
+1962,British Grand Prix,Jay Chamberlain,15,0,20,64,RAS
+1962,British Grand Prix,Innes Ireland,16,0,3,61,RAS
+1962,British Grand Prix,Phil Hill,17,0,12,47,Engine
+1962,British Grand Prix,Roy Salvadori,18,0,11,35,Battery
+1962,British Grand Prix,Jo Bonnier,19,0,7,27,Differential
+1962,British Grand Prix,Wolfgang Seidel,20,0,21,11,Brakes
+1962,British Grand Prix,Tony Shelly,21,0,18,6,Engine
+1962,British Grand Prix,Keith Greene,22,0,0,0,Withdrew
+1962,British Grand Prix,Maurice Trintignant,23,0,0,0,Withdrew
+1962,British Grand Prix,John Campbell-Jones,24,0,0,0,Withdrew
+1962,British Grand Prix,Keith Greene,25,0,0,0,Withdrew
+1962,British Grand Prix,Jo Siffert,26,0,0,0,Withdrew
+1962,German Grand Prix,Graham Hill,1,9,2,15,RAS
+1962,German Grand Prix,John Surtees,2,6,4,15,RAS
+1962,German Grand Prix,Dan Gurney,3,4,1,15,RAS
+1962,German Grand Prix,Jim Clark,4,3,3,15,RAS
+1962,German Grand Prix,Bruce McLaren,5,2,5,15,RAS
+1962,German Grand Prix,Ricardo Rodríguez,6,1,10,15,RAS
+1962,German Grand Prix,Jo Bonnier,7,0,6,15,RAS
+1962,German Grand Prix,Richie Ginther,8,0,7,15,RAS
+1962,German Grand Prix,Tony Maggs,9,0,23,15,RAS
+1962,German Grand Prix,Giancarlo Baghetti,10,0,13,15,RAS
+1962,German Grand Prix,Ian Burgess,11,0,16,15,RAS
+1962,German Grand Prix,Jo Siffert,12,0,17,15,RAS
+1962,German Grand Prix,Carel Godin de Beaufort,13,0,8,15,RAS
+1962,German Grand Prix,Heini Walter,14,0,14,14,RAS
+1962,German Grand Prix,Nino Vaccarella,15,0,15,14,RAS
+1962,German Grand Prix,Lucien Bianchi,16,0,25,14,RAS
+1962,German Grand Prix,Jackie Lewis,17,0,21,10,Suspension
+1962,German Grand Prix,Phil Hill,18,0,12,9,Suspension
+1962,German Grand Prix,Jack Brabham,19,0,24,9,Throttle
+1962,German Grand Prix,Keith Greene,20,0,19,7,Suspension
+1962,German Grand Prix,Roy Salvadori,21,0,9,4,Gearbox
+1962,German Grand Prix,Maurice Trintignant,22,0,11,4,Gearbox
+1962,German Grand Prix,Lorenzo Bandini,23,0,18,4,Accident
+1962,German Grand Prix,Heinz Schiller,24,0,20,4,Oil pressure
+1962,German Grand Prix,Bernard Collomb,25,0,22,2,Gearbox
+1962,German Grand Prix,Trevor Taylor,26,0,26,0,Accident
+1962,German Grand Prix,Tony Marsh,31,0,0,0,Withdrew
+1962,Italian Grand Prix,Graham Hill,1,9,2,86,RAS
+1962,Italian Grand Prix,Richie Ginther,2,6,3,86,RAS
+1962,Italian Grand Prix,Bruce McLaren,3,4,4,86,RAS
+1962,Italian Grand Prix,Willy Mairesse,4,3,10,86,RAS
+1962,Italian Grand Prix,Giancarlo Baghetti,5,2,18,86,RAS
+1962,Italian Grand Prix,Jo Bonnier,6,1,9,85,RAS
+1962,Italian Grand Prix,Tony Maggs,7,0,12,85,RAS
+1962,Italian Grand Prix,Lorenzo Bandini,8,0,17,84,RAS
+1962,Italian Grand Prix,Nino Vaccarella,9,0,14,84,RAS
+1962,Italian Grand Prix,Carel Godin de Beaufort,10,0,20,81,RAS
+1962,Italian Grand Prix,Phil Hill,11,0,15,81,RAS
+1962,Italian Grand Prix,Masten Gregory,12,0,6,77,RAS
+1962,Italian Grand Prix,Dan Gurney,13,0,7,66,Differential
+1962,Italian Grand Prix,Ricardo Rodríguez,14,0,11,63,Ignition
+1962,Italian Grand Prix,Innes Ireland,15,0,5,45,Suspension
+1962,Italian Grand Prix,John Surtees,16,0,8,42,Engine
+1962,Italian Grand Prix,Roy Salvadori,17,0,13,41,Engine
+1962,Italian Grand Prix,Trevor Taylor,18,0,16,25,Gearbox
+1962,Italian Grand Prix,Tony Settember,19,0,21,18,Engine
+1962,Italian Grand Prix,Maurice Trintignant,20,0,19,17,Electrical
+1962,Italian Grand Prix,Jim Clark,21,0,1,12,Gearbox
+1962,Italian Grand Prix,Kurt Kuhnke,31,0,0,0,Withdrew
+1962,United States Grand Prix,Jim Clark,1,9,1,100,RAS
+1962,United States Grand Prix,Graham Hill,2,6,3,100,RAS
+1962,United States Grand Prix,Bruce McLaren,3,4,6,99,RAS
+1962,United States Grand Prix,Jack Brabham,4,3,5,99,RAS
+1962,United States Grand Prix,Dan Gurney,5,2,4,99,RAS
+1962,United States Grand Prix,Masten Gregory,6,1,7,99,RAS
+1962,United States Grand Prix,Tony Maggs,7,0,10,97,RAS
+1962,United States Grand Prix,Innes Ireland,8,0,16,96,RAS
+1962,United States Grand Prix,Roger Penske,9,0,13,96,RAS
+1962,United States Grand Prix,Rob Schroeder,10,0,17,93,RAS
+1962,United States Grand Prix,Hap Sharp,11,0,15,91,RAS
+1962,United States Grand Prix,Trevor Taylor,12,0,8,85,RAS
+1962,United States Grand Prix,Jo Bonnier,13,0,9,79,RAS
+1962,United States Grand Prix,Richie Ginther,14,0,2,35,Engine
+1962,United States Grand Prix,Maurice Trintignant,15,0,19,32,Brakes
+1962,United States Grand Prix,Timmy Mayer,16,0,12,31,Ignition
+1962,United States Grand Prix,John Surtees,17,0,20,19,Engine
+1962,United States Grand Prix,Carel Godin de Beaufort,18,0,14,9,Accident
+1962,United States Grand Prix,Roy Salvadori,19,0,0,0,Withdrew
+1962,United States Grand Prix,Jim Hall,20,0,0,0,Withdrew
+1962,South African Grand Prix,Graham Hill,1,9,2,82,RAS
+1962,South African Grand Prix,Bruce McLaren,2,6,8,82,RAS
+1962,South African Grand Prix,Tony Maggs,3,4,6,82,RAS
+1962,South African Grand Prix,Jack Brabham,4,3,3,82,RAS
+1962,South African Grand Prix,Innes Ireland,5,2,4,81,RAS
+1962,South African Grand Prix,Neville Lederle,6,1,10,78,RAS
+1962,South African Grand Prix,Richie Ginther,7,0,7,78,RAS
+1962,South African Grand Prix,John Love,8,0,12,78,RAS
+1962,South African Grand Prix,Bruce Johnstone,9,0,17,76,RAS
+1962,South African Grand Prix,Ernie Pieterse,10,0,13,71,RAS
+1962,South African Grand Prix,Carel Godin de Beaufort,11,0,16,70,Fuel system
+1962,South African Grand Prix,Jim Clark,12,0,1,62,Oil leak
+1962,South African Grand Prix,Doug Serrurier,13,0,14,62,Radiator
+1962,South African Grand Prix,Roy Salvadori,14,0,11,56,Fuel leak
+1962,South African Grand Prix,Mike Harris,15,0,15,31,Wheel bearing
+1962,South African Grand Prix,John Surtees,16,0,5,26,Engine
+1962,South African Grand Prix,Trevor Taylor,17,0,9,11,Gearbox
+1962,South African Grand Prix,Gary Hocking,18,0,0,0,Withdrew
+1962,South African Grand Prix,Syd van der Vyver,19,0,0,0,Withdrew
+1962,South African Grand Prix,Tony Settember,20,0,0,0,Withdrew
+1962,South African Grand Prix,Sam Tingle,21,0,0,0,Withdrew

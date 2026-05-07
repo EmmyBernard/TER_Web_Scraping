@@ -1,0 +1,419 @@
+sSeason,gpID,driverID,sPos,sPoints,sGrid,sLaps,sInc
+2013,Australian Grand Prix,Kimi Räikkönen,1,25,7,58,RAS
+2013,Australian Grand Prix,Fernando Alonso,2,18,5,58,RAS
+2013,Australian Grand Prix,Sebastian Vettel,3,15,1,58,RAS
+2013,Australian Grand Prix,Felipe Massa,4,12,4,58,RAS
+2013,Australian Grand Prix,Lewis Hamilton,5,10,3,58,RAS
+2013,Australian Grand Prix,Mark Webber,6,8,2,58,RAS
+2013,Australian Grand Prix,Adrian Sutil,7,6,12,58,RAS
+2013,Australian Grand Prix,Paul di Resta,8,4,9,58,RAS
+2013,Australian Grand Prix,Jenson Button,9,2,10,58,RAS
+2013,Australian Grand Prix,Romain Grosjean,10,1,8,58,RAS
+2013,Australian Grand Prix,Sergio Pérez,11,0,15,58,RAS
+2013,Australian Grand Prix,Jean-Éric Vergne,12,0,13,58,RAS
+2013,Australian Grand Prix,Esteban Gutiérrez,13,0,18,57,RAS
+2013,Australian Grand Prix,Valtteri Bottas,14,0,16,57,RAS
+2013,Australian Grand Prix,Jules Bianchi,15,0,19,57,RAS
+2013,Australian Grand Prix,Charles Pic,16,0,22,56,RAS
+2013,Australian Grand Prix,Max Chilton,17,0,20,56,RAS
+2013,Australian Grand Prix,Giedo van der Garde,18,0,21,56,RAS
+2013,Australian Grand Prix,Daniel Ricciardo,19,0,14,39,Hydraulics
+2013,Australian Grand Prix,Nico Rosberg,20,0,6,26,Electrical
+2013,Australian Grand Prix,Pastor Maldonado,21,0,17,24,Spun off
+2013,Australian Grand Prix,Nico Hülkenberg,22,0,11,0,Fuel system
+2013,Malaysian Grand Prix,Sebastian Vettel,1,25,1,56,RAS
+2013,Malaysian Grand Prix,Mark Webber,2,18,5,56,RAS
+2013,Malaysian Grand Prix,Lewis Hamilton,3,15,4,56,RAS
+2013,Malaysian Grand Prix,Nico Rosberg,4,12,6,56,RAS
+2013,Malaysian Grand Prix,Felipe Massa,5,10,2,56,RAS
+2013,Malaysian Grand Prix,Romain Grosjean,6,8,11,56,RAS
+2013,Malaysian Grand Prix,Kimi Räikkönen,7,6,10,56,RAS
+2013,Malaysian Grand Prix,Nico Hülkenberg,8,4,12,56,RAS
+2013,Malaysian Grand Prix,Sergio Pérez,9,2,9,56,RAS
+2013,Malaysian Grand Prix,Jean-Éric Vergne,10,1,17,56,RAS
+2013,Malaysian Grand Prix,Valtteri Bottas,11,0,18,56,RAS
+2013,Malaysian Grand Prix,Esteban Gutiérrez,12,0,14,55,RAS
+2013,Malaysian Grand Prix,Jules Bianchi,13,0,19,55,RAS
+2013,Malaysian Grand Prix,Charles Pic,14,0,20,55,RAS
+2013,Malaysian Grand Prix,Giedo van der Garde,15,0,22,55,RAS
+2013,Malaysian Grand Prix,Max Chilton,16,0,21,54,RAS
+2013,Malaysian Grand Prix,Jenson Button,17,0,7,53,Withdrew
+2013,Malaysian Grand Prix,Daniel Ricciardo,18,0,13,51,DNF
+2013,Malaysian Grand Prix,Pastor Maldonado,19,0,16,45,DNF
+2013,Malaysian Grand Prix,Adrian Sutil,20,0,8,27,Wheel nut
+2013,Malaysian Grand Prix,Paul di Resta,21,0,15,22,Wheel nut
+2013,Malaysian Grand Prix,Fernando Alonso,22,0,3,1,Collision
+2013,Chinese Grand Prix,Fernando Alonso,1,25,3,56,RAS
+2013,Chinese Grand Prix,Kimi Räikkönen,2,18,2,56,RAS
+2013,Chinese Grand Prix,Lewis Hamilton,3,15,1,56,RAS
+2013,Chinese Grand Prix,Sebastian Vettel,4,12,9,56,RAS
+2013,Chinese Grand Prix,Jenson Button,5,10,8,56,RAS
+2013,Chinese Grand Prix,Felipe Massa,6,8,5,56,RAS
+2013,Chinese Grand Prix,Daniel Ricciardo,7,6,7,56,RAS
+2013,Chinese Grand Prix,Paul di Resta,8,4,11,56,RAS
+2013,Chinese Grand Prix,Romain Grosjean,9,2,6,56,RAS
+2013,Chinese Grand Prix,Nico Hülkenberg,10,1,10,56,RAS
+2013,Chinese Grand Prix,Sergio Pérez,11,0,12,56,RAS
+2013,Chinese Grand Prix,Jean-Éric Vergne,12,0,15,56,RAS
+2013,Chinese Grand Prix,Valtteri Bottas,13,0,16,56,RAS
+2013,Chinese Grand Prix,Pastor Maldonado,14,0,14,56,RAS
+2013,Chinese Grand Prix,Jules Bianchi,15,0,18,55,RAS
+2013,Chinese Grand Prix,Charles Pic,16,0,20,55,RAS
+2013,Chinese Grand Prix,Max Chilton,17,0,19,55,RAS
+2013,Chinese Grand Prix,Giedo van der Garde,18,0,21,55,RAS
+2013,Chinese Grand Prix,Nico Rosberg,19,0,4,21,Suspension
+2013,Chinese Grand Prix,Mark Webber,20,0,22,15,Wheel
+2013,Chinese Grand Prix,Adrian Sutil,21,0,13,5,Collision
+2013,Chinese Grand Prix,Esteban Gutiérrez,22,0,17,4,Collision
+2013,Bahrain Grand Prix,Sebastian Vettel,1,25,2,57,RAS
+2013,Bahrain Grand Prix,Kimi Räikkönen,2,18,8,57,RAS
+2013,Bahrain Grand Prix,Romain Grosjean,3,15,11,57,RAS
+2013,Bahrain Grand Prix,Paul di Resta,4,12,5,57,RAS
+2013,Bahrain Grand Prix,Lewis Hamilton,5,10,9,57,RAS
+2013,Bahrain Grand Prix,Sergio Pérez,6,8,12,57,RAS
+2013,Bahrain Grand Prix,Mark Webber,7,6,7,57,RAS
+2013,Bahrain Grand Prix,Fernando Alonso,8,4,3,57,RAS
+2013,Bahrain Grand Prix,Nico Rosberg,9,2,1,57,RAS
+2013,Bahrain Grand Prix,Jenson Button,10,1,10,57,RAS
+2013,Bahrain Grand Prix,Pastor Maldonado,11,0,17,57,RAS
+2013,Bahrain Grand Prix,Nico Hülkenberg,12,0,14,57,RAS
+2013,Bahrain Grand Prix,Adrian Sutil,13,0,6,57,RAS
+2013,Bahrain Grand Prix,Valtteri Bottas,14,0,15,57,RAS
+2013,Bahrain Grand Prix,Felipe Massa,15,0,4,57,RAS
+2013,Bahrain Grand Prix,Daniel Ricciardo,16,0,13,56,RAS
+2013,Bahrain Grand Prix,Charles Pic,17,0,18,56,RAS
+2013,Bahrain Grand Prix,Esteban Gutiérrez,18,0,22,56,RAS
+2013,Bahrain Grand Prix,Jules Bianchi,19,0,19,56,RAS
+2013,Bahrain Grand Prix,Max Chilton,20,0,21,56,RAS
+2013,Bahrain Grand Prix,Giedo van der Garde,21,0,20,55,RAS
+2013,Bahrain Grand Prix,Jean-Éric Vergne,22,0,16,16,Puncture
+2013,Spanish Grand Prix,Fernando Alonso,1,25,5,66,RAS
+2013,Spanish Grand Prix,Kimi Räikkönen,2,18,4,66,RAS
+2013,Spanish Grand Prix,Felipe Massa,3,15,9,66,RAS
+2013,Spanish Grand Prix,Sebastian Vettel,4,12,3,66,RAS
+2013,Spanish Grand Prix,Mark Webber,5,10,7,66,RAS
+2013,Spanish Grand Prix,Nico Rosberg,6,8,1,66,RAS
+2013,Spanish Grand Prix,Paul di Resta,7,6,10,66,RAS
+2013,Spanish Grand Prix,Jenson Button,8,4,14,66,RAS
+2013,Spanish Grand Prix,Sergio Pérez,9,2,8,66,RAS
+2013,Spanish Grand Prix,Daniel Ricciardo,10,1,11,65,RAS
+2013,Spanish Grand Prix,Esteban Gutiérrez,11,0,19,65,RAS
+2013,Spanish Grand Prix,Lewis Hamilton,12,0,2,65,RAS
+2013,Spanish Grand Prix,Adrian Sutil,13,0,13,65,RAS
+2013,Spanish Grand Prix,Pastor Maldonado,14,0,17,65,RAS
+2013,Spanish Grand Prix,Nico Hülkenberg,15,0,15,65,RAS
+2013,Spanish Grand Prix,Valtteri Bottas,16,0,16,65,RAS
+2013,Spanish Grand Prix,Charles Pic,17,0,22,65,RAS
+2013,Spanish Grand Prix,Jules Bianchi,18,0,20,64,RAS
+2013,Spanish Grand Prix,Max Chilton,19,0,21,64,RAS
+2013,Spanish Grand Prix,Jean-Éric Vergne,20,0,12,52,Accident
+2013,Spanish Grand Prix,Giedo van der Garde,21,0,18,21,Wheel
+2013,Spanish Grand Prix,Romain Grosjean,22,0,6,8,Suspension
+2013,Monaco Grand Prix,Nico Rosberg,1,25,1,78,RAS
+2013,Monaco Grand Prix,Sebastian Vettel,2,18,3,78,RAS
+2013,Monaco Grand Prix,Mark Webber,3,15,4,78,RAS
+2013,Monaco Grand Prix,Lewis Hamilton,4,12,2,78,RAS
+2013,Monaco Grand Prix,Adrian Sutil,5,10,8,78,RAS
+2013,Monaco Grand Prix,Jenson Button,6,8,9,78,RAS
+2013,Monaco Grand Prix,Fernando Alonso,7,6,6,78,RAS
+2013,Monaco Grand Prix,Jean-Éric Vergne,8,4,10,78,RAS
+2013,Monaco Grand Prix,Paul di Resta,9,2,17,78,RAS
+2013,Monaco Grand Prix,Kimi Räikkönen,10,1,5,78,RAS
+2013,Monaco Grand Prix,Nico Hülkenberg,11,0,11,78,RAS
+2013,Monaco Grand Prix,Valtteri Bottas,12,0,14,78,RAS
+2013,Monaco Grand Prix,Esteban Gutiérrez,13,0,19,78,RAS
+2013,Monaco Grand Prix,Max Chilton,14,0,22,78,RAS
+2013,Monaco Grand Prix,Giedo van der Garde,15,0,15,78,RAS
+2013,Monaco Grand Prix,Sergio Pérez,16,0,7,72,Suspension
+2013,Monaco Grand Prix,Romain Grosjean,17,0,13,63,Collision
+2013,Monaco Grand Prix,Daniel Ricciardo,18,0,12,61,Collision
+2013,Monaco Grand Prix,Jules Bianchi,19,0,20,58,Brakes
+2013,Monaco Grand Prix,Pastor Maldonado,20,0,16,44,Collision
+2013,Monaco Grand Prix,Felipe Massa,21,0,21,28,Accident
+2013,Monaco Grand Prix,Charles Pic,22,0,18,7,Gearbox
+2013,Canadian Grand Prix,Sebastian Vettel,1,25,1,70,RAS
+2013,Canadian Grand Prix,Fernando Alonso,2,18,6,70,RAS
+2013,Canadian Grand Prix,Lewis Hamilton,3,15,2,70,RAS
+2013,Canadian Grand Prix,Mark Webber,4,12,5,70,RAS
+2013,Canadian Grand Prix,Nico Rosberg,5,10,4,70,RAS
+2013,Canadian Grand Prix,Jean-Éric Vergne,6,8,7,69,RAS
+2013,Canadian Grand Prix,Paul di Resta,7,6,17,69,RAS
+2013,Canadian Grand Prix,Felipe Massa,8,4,16,69,RAS
+2013,Canadian Grand Prix,Kimi Räikkönen,9,2,10,69,RAS
+2013,Canadian Grand Prix,Adrian Sutil,10,1,8,69,RAS
+2013,Canadian Grand Prix,Sergio Pérez,11,0,12,69,RAS
+2013,Canadian Grand Prix,Jenson Button,12,0,14,69,RAS
+2013,Canadian Grand Prix,Romain Grosjean,13,0,22,69,RAS
+2013,Canadian Grand Prix,Valtteri Bottas,14,0,3,69,RAS
+2013,Canadian Grand Prix,Daniel Ricciardo,15,0,11,68,RAS
+2013,Canadian Grand Prix,Pastor Maldonado,16,0,13,68,RAS
+2013,Canadian Grand Prix,Jules Bianchi,17,0,19,68,RAS
+2013,Canadian Grand Prix,Charles Pic,18,0,18,67,RAS
+2013,Canadian Grand Prix,Max Chilton,19,0,20,67,RAS
+2013,Canadian Grand Prix,Esteban Gutiérrez,20,0,15,63,Accident
+2013,Canadian Grand Prix,Nico Hülkenberg,21,0,9,45,Collision
+2013,Canadian Grand Prix,Giedo van der Garde,22,0,21,43,Collision
+2013,British Grand Prix,Nico Rosberg,1,25,2,52,RAS
+2013,British Grand Prix,Mark Webber,2,18,4,52,RAS
+2013,British Grand Prix,Fernando Alonso,3,15,9,52,RAS
+2013,British Grand Prix,Lewis Hamilton,4,12,1,52,RAS
+2013,British Grand Prix,Kimi Räikkönen,5,10,8,52,RAS
+2013,British Grand Prix,Felipe Massa,6,8,11,52,RAS
+2013,British Grand Prix,Adrian Sutil,7,6,6,52,RAS
+2013,British Grand Prix,Daniel Ricciardo,8,4,5,52,RAS
+2013,British Grand Prix,Paul di Resta,9,2,21,52,RAS
+2013,British Grand Prix,Nico Hülkenberg,10,1,14,52,RAS
+2013,British Grand Prix,Pastor Maldonado,11,0,15,52,RAS
+2013,British Grand Prix,Valtteri Bottas,12,0,16,52,RAS
+2013,British Grand Prix,Jenson Button,13,0,10,52,RAS
+2013,British Grand Prix,Esteban Gutiérrez,14,0,17,52,RAS
+2013,British Grand Prix,Charles Pic,15,0,18,52,RAS
+2013,British Grand Prix,Jules Bianchi,16,0,19,52,RAS
+2013,British Grand Prix,Max Chilton,17,0,20,52,RAS
+2013,British Grand Prix,Giedo van der Garde,18,0,22,52,RAS
+2013,British Grand Prix,Romain Grosjean,19,0,7,51,DNF
+2013,British Grand Prix,Sergio Pérez,20,0,13,46,Wheel
+2013,British Grand Prix,Sebastian Vettel,21,0,3,41,Gearbox
+2013,British Grand Prix,Jean-Éric Vergne,22,0,12,35,Tyre
+2013,German Grand Prix,Sebastian Vettel,1,25,2,60,RAS
+2013,German Grand Prix,Kimi Räikkönen,2,18,4,60,RAS
+2013,German Grand Prix,Romain Grosjean,3,15,5,60,RAS
+2013,German Grand Prix,Fernando Alonso,4,12,8,60,RAS
+2013,German Grand Prix,Lewis Hamilton,5,10,1,60,RAS
+2013,German Grand Prix,Jenson Button,6,8,9,60,RAS
+2013,German Grand Prix,Mark Webber,7,6,3,60,RAS
+2013,German Grand Prix,Sergio Pérez,8,4,13,60,RAS
+2013,German Grand Prix,Nico Rosberg,9,2,11,60,RAS
+2013,German Grand Prix,Nico Hülkenberg,10,1,10,60,RAS
+2013,German Grand Prix,Paul di Resta,11,0,12,60,RAS
+2013,German Grand Prix,Daniel Ricciardo,12,0,6,60,RAS
+2013,German Grand Prix,Adrian Sutil,13,0,15,60,RAS
+2013,German Grand Prix,Esteban Gutiérrez,14,0,14,60,RAS
+2013,German Grand Prix,Pastor Maldonado,15,0,18,60,RAS
+2013,German Grand Prix,Valtteri Bottas,16,0,17,59,RAS
+2013,German Grand Prix,Charles Pic,17,0,22,59,RAS
+2013,German Grand Prix,Giedo van der Garde,18,0,20,59,RAS
+2013,German Grand Prix,Max Chilton,19,0,21,59,RAS
+2013,German Grand Prix,Jean-Éric Vergne,20,0,16,22,Hydraulics
+2013,German Grand Prix,Jules Bianchi,21,0,19,21,Engine
+2013,German Grand Prix,Felipe Massa,22,0,7,3,Spun off
+2013,Hungarian Grand Prix,Lewis Hamilton,1,25,1,70,RAS
+2013,Hungarian Grand Prix,Kimi Räikkönen,2,18,6,70,RAS
+2013,Hungarian Grand Prix,Sebastian Vettel,3,15,2,70,RAS
+2013,Hungarian Grand Prix,Mark Webber,4,12,10,70,RAS
+2013,Hungarian Grand Prix,Fernando Alonso,5,10,5,70,RAS
+2013,Hungarian Grand Prix,Romain Grosjean,6,8,3,70,RAS
+2013,Hungarian Grand Prix,Jenson Button,7,6,13,70,RAS
+2013,Hungarian Grand Prix,Felipe Massa,8,4,7,70,RAS
+2013,Hungarian Grand Prix,Sergio Pérez,9,2,9,69,RAS
+2013,Hungarian Grand Prix,Pastor Maldonado,10,1,15,69,RAS
+2013,Hungarian Grand Prix,Nico Hülkenberg,11,0,12,69,RAS
+2013,Hungarian Grand Prix,Jean-Éric Vergne,12,0,14,69,RAS
+2013,Hungarian Grand Prix,Daniel Ricciardo,13,0,8,69,RAS
+2013,Hungarian Grand Prix,Giedo van der Garde,14,0,20,68,RAS
+2013,Hungarian Grand Prix,Charles Pic,15,0,19,68,RAS
+2013,Hungarian Grand Prix,Jules Bianchi,16,0,21,67,RAS
+2013,Hungarian Grand Prix,Max Chilton,17,0,22,67,RAS
+2013,Hungarian Grand Prix,Paul di Resta,18,0,18,66,Hydraulics
+2013,Hungarian Grand Prix,Nico Rosberg,19,0,4,64,Engine
+2013,Hungarian Grand Prix,Valtteri Bottas,20,0,16,42,Hydraulics
+2013,Hungarian Grand Prix,Esteban Gutiérrez,21,0,17,28,Transmission
+2013,Hungarian Grand Prix,Adrian Sutil,22,0,11,19,Hydraulics
+2013,Belgian Grand Prix,Sebastian Vettel,1,25,2,44,RAS
+2013,Belgian Grand Prix,Fernando Alonso,2,18,9,44,RAS
+2013,Belgian Grand Prix,Lewis Hamilton,3,15,1,44,RAS
+2013,Belgian Grand Prix,Nico Rosberg,4,12,4,44,RAS
+2013,Belgian Grand Prix,Mark Webber,5,10,3,44,RAS
+2013,Belgian Grand Prix,Jenson Button,6,8,6,44,RAS
+2013,Belgian Grand Prix,Felipe Massa,7,6,10,44,RAS
+2013,Belgian Grand Prix,Romain Grosjean,8,4,7,44,RAS
+2013,Belgian Grand Prix,Adrian Sutil,9,2,12,44,RAS
+2013,Belgian Grand Prix,Daniel Ricciardo,10,1,19,44,RAS
+2013,Belgian Grand Prix,Sergio Pérez,11,0,13,44,RAS
+2013,Belgian Grand Prix,Jean-Éric Vergne,12,0,18,44,RAS
+2013,Belgian Grand Prix,Nico Hülkenberg,13,0,11,44,RAS
+2013,Belgian Grand Prix,Esteban Gutiérrez,14,0,21,44,RAS
+2013,Belgian Grand Prix,Valtteri Bottas,15,0,20,44,RAS
+2013,Belgian Grand Prix,Giedo van der Garde,16,0,14,43,RAS
+2013,Belgian Grand Prix,Pastor Maldonado,17,0,17,43,RAS
+2013,Belgian Grand Prix,Jules Bianchi,18,0,15,43,RAS
+2013,Belgian Grand Prix,Max Chilton,19,0,16,42,RAS
+2013,Belgian Grand Prix,Paul di Resta,20,0,5,26,Collision
+2013,Belgian Grand Prix,Kimi Räikkönen,21,0,8,25,Brakes
+2013,Belgian Grand Prix,Charles Pic,22,0,22,8,Oil leak
+2013,Italian Grand Prix,Sebastian Vettel,1,25,1,53,RAS
+2013,Italian Grand Prix,Fernando Alonso,2,18,5,53,RAS
+2013,Italian Grand Prix,Mark Webber,3,15,2,53,RAS
+2013,Italian Grand Prix,Felipe Massa,4,12,4,53,RAS
+2013,Italian Grand Prix,Nico Hülkenberg,5,10,3,53,RAS
+2013,Italian Grand Prix,Nico Rosberg,6,8,6,53,RAS
+2013,Italian Grand Prix,Daniel Ricciardo,7,6,7,53,RAS
+2013,Italian Grand Prix,Romain Grosjean,8,4,13,53,RAS
+2013,Italian Grand Prix,Lewis Hamilton,9,2,12,53,RAS
+2013,Italian Grand Prix,Jenson Button,10,1,9,53,RAS
+2013,Italian Grand Prix,Kimi Räikkönen,11,0,11,53,RAS
+2013,Italian Grand Prix,Sergio Pérez,12,0,8,53,RAS
+2013,Italian Grand Prix,Esteban Gutiérrez,13,0,16,53,RAS
+2013,Italian Grand Prix,Pastor Maldonado,14,0,14,53,RAS
+2013,Italian Grand Prix,Valtteri Bottas,15,0,18,53,RAS
+2013,Italian Grand Prix,Adrian Sutil,16,0,17,52,RAS
+2013,Italian Grand Prix,Charles Pic,17,0,20,52,RAS
+2013,Italian Grand Prix,Giedo van der Garde,18,0,19,52,RAS
+2013,Italian Grand Prix,Jules Bianchi,19,0,21,52,RAS
+2013,Italian Grand Prix,Max Chilton,20,0,22,52,RAS
+2013,Italian Grand Prix,Jean-Éric Vergne,21,0,10,14,Transmission
+2013,Italian Grand Prix,Paul di Resta,22,0,15,0,Accident
+2013,Singapore Grand Prix,Sebastian Vettel,1,25,1,61,RAS
+2013,Singapore Grand Prix,Fernando Alonso,2,18,7,61,RAS
+2013,Singapore Grand Prix,Kimi Räikkönen,3,15,13,61,RAS
+2013,Singapore Grand Prix,Nico Rosberg,4,12,2,61,RAS
+2013,Singapore Grand Prix,Lewis Hamilton,5,10,5,61,RAS
+2013,Singapore Grand Prix,Felipe Massa,6,8,6,61,RAS
+2013,Singapore Grand Prix,Jenson Button,7,6,8,61,RAS
+2013,Singapore Grand Prix,Sergio Pérez,8,4,14,61,RAS
+2013,Singapore Grand Prix,Nico Hülkenberg,9,2,11,61,RAS
+2013,Singapore Grand Prix,Adrian Sutil,10,1,15,61,RAS
+2013,Singapore Grand Prix,Pastor Maldonado,11,0,18,61,RAS
+2013,Singapore Grand Prix,Esteban Gutiérrez,12,0,10,61,RAS
+2013,Singapore Grand Prix,Valtteri Bottas,13,0,16,61,RAS
+2013,Singapore Grand Prix,Jean-Éric Vergne,14,0,12,61,RAS
+2013,Singapore Grand Prix,Mark Webber,15,0,4,60,Water pressure
+2013,Singapore Grand Prix,Giedo van der Garde,16,0,20,60,RAS
+2013,Singapore Grand Prix,Max Chilton,17,0,22,60,RAS
+2013,Singapore Grand Prix,Jules Bianchi,18,0,21,60,RAS
+2013,Singapore Grand Prix,Charles Pic,19,0,19,60,RAS
+2013,Singapore Grand Prix,Paul di Resta,20,0,17,54,Accident
+2013,Singapore Grand Prix,Romain Grosjean,21,0,3,37,Pneumatics
+2013,Singapore Grand Prix,Daniel Ricciardo,22,0,9,23,Accident
+2013,Korean Grand Prix,Sebastian Vettel,1,25,1,55,RAS
+2013,Korean Grand Prix,Kimi Räikkönen,2,18,9,55,RAS
+2013,Korean Grand Prix,Romain Grosjean,3,15,3,55,RAS
+2013,Korean Grand Prix,Nico Hülkenberg,4,12,7,55,RAS
+2013,Korean Grand Prix,Lewis Hamilton,5,10,2,55,RAS
+2013,Korean Grand Prix,Fernando Alonso,6,8,5,55,RAS
+2013,Korean Grand Prix,Nico Rosberg,7,6,4,55,RAS
+2013,Korean Grand Prix,Jenson Button,8,4,11,55,RAS
+2013,Korean Grand Prix,Felipe Massa,9,2,6,55,RAS
+2013,Korean Grand Prix,Sergio Pérez,10,1,10,55,RAS
+2013,Korean Grand Prix,Esteban Gutiérrez,11,0,8,55,RAS
+2013,Korean Grand Prix,Valtteri Bottas,12,0,17,55,RAS
+2013,Korean Grand Prix,Pastor Maldonado,13,0,18,55,RAS
+2013,Korean Grand Prix,Charles Pic,14,0,19,55,RAS
+2013,Korean Grand Prix,Giedo van der Garde,15,0,20,55,RAS
+2013,Korean Grand Prix,Jules Bianchi,16,0,22,55,RAS
+2013,Korean Grand Prix,Max Chilton,17,0,21,55,RAS
+2013,Korean Grand Prix,Jean-Éric Vergne,18,0,16,53,RAS
+2013,Korean Grand Prix,Daniel Ricciardo,19,0,12,52,RAS
+2013,Korean Grand Prix,Adrian Sutil,20,0,14,50,Collision
+2013,Korean Grand Prix,Mark Webber,21,0,13,36,Collision
+2013,Korean Grand Prix,Paul di Resta,22,0,15,24,Spun off
+2013,Japanese Grand Prix,Sebastian Vettel,1,25,2,53,RAS
+2013,Japanese Grand Prix,Mark Webber,2,18,1,53,RAS
+2013,Japanese Grand Prix,Romain Grosjean,3,15,4,53,RAS
+2013,Japanese Grand Prix,Fernando Alonso,4,12,8,53,RAS
+2013,Japanese Grand Prix,Kimi Räikkönen,5,10,9,53,RAS
+2013,Japanese Grand Prix,Nico Hülkenberg,6,8,7,53,RAS
+2013,Japanese Grand Prix,Esteban Gutiérrez,7,6,14,53,RAS
+2013,Japanese Grand Prix,Nico Rosberg,8,4,6,53,RAS
+2013,Japanese Grand Prix,Jenson Button,9,2,10,53,RAS
+2013,Japanese Grand Prix,Felipe Massa,10,1,5,53,RAS
+2013,Japanese Grand Prix,Paul di Resta,11,0,12,53,RAS
+2013,Japanese Grand Prix,Jean-Éric Vergne,12,0,17,52,RAS
+2013,Japanese Grand Prix,Daniel Ricciardo,13,0,16,52,RAS
+2013,Japanese Grand Prix,Adrian Sutil,14,0,22,52,RAS
+2013,Japanese Grand Prix,Sergio Pérez,15,0,11,52,RAS
+2013,Japanese Grand Prix,Pastor Maldonado,16,0,15,52,RAS
+2013,Japanese Grand Prix,Valtteri Bottas,17,0,13,52,RAS
+2013,Japanese Grand Prix,Charles Pic,18,0,20,52,RAS
+2013,Japanese Grand Prix,Max Chilton,19,0,18,52,RAS
+2013,Japanese Grand Prix,Lewis Hamilton,20,0,3,7,Puncture
+2013,Japanese Grand Prix,Giedo van der Garde,21,0,19,0,Accident
+2013,Japanese Grand Prix,Jules Bianchi,22,0,21,0,Accident
+2013,Indian Grand Prix,Sebastian Vettel,1,25,1,60,RAS
+2013,Indian Grand Prix,Nico Rosberg,2,18,2,60,RAS
+2013,Indian Grand Prix,Romain Grosjean,3,15,17,60,RAS
+2013,Indian Grand Prix,Felipe Massa,4,12,5,60,RAS
+2013,Indian Grand Prix,Sergio Pérez,5,10,9,60,RAS
+2013,Indian Grand Prix,Lewis Hamilton,6,8,3,60,RAS
+2013,Indian Grand Prix,Kimi Räikkönen,7,6,6,60,RAS
+2013,Indian Grand Prix,Paul di Resta,8,4,12,60,RAS
+2013,Indian Grand Prix,Adrian Sutil,9,2,13,60,RAS
+2013,Indian Grand Prix,Daniel Ricciardo,10,1,11,60,RAS
+2013,Indian Grand Prix,Fernando Alonso,11,0,8,60,RAS
+2013,Indian Grand Prix,Pastor Maldonado,12,0,18,60,RAS
+2013,Indian Grand Prix,Jean-Éric Vergne,13,0,14,59,RAS
+2013,Indian Grand Prix,Jenson Button,14,0,10,59,RAS
+2013,Indian Grand Prix,Esteban Gutiérrez,15,0,16,59,RAS
+2013,Indian Grand Prix,Valtteri Bottas,16,0,15,59,RAS
+2013,Indian Grand Prix,Max Chilton,17,0,22,58,RAS
+2013,Indian Grand Prix,Jules Bianchi,18,0,19,58,RAS
+2013,Indian Grand Prix,Nico Hülkenberg,19,0,7,54,Mechanical
+2013,Indian Grand Prix,Mark Webber,20,0,4,39,Alternator
+2013,Indian Grand Prix,Charles Pic,21,0,21,35,Hydraulics
+2013,Indian Grand Prix,Giedo van der Garde,22,0,20,1,Collision
+2013,Abu Dhabi Grand Prix,Sebastian Vettel,1,25,2,55,RAS
+2013,Abu Dhabi Grand Prix,Mark Webber,2,18,1,55,RAS
+2013,Abu Dhabi Grand Prix,Nico Rosberg,3,15,3,55,RAS
+2013,Abu Dhabi Grand Prix,Romain Grosjean,4,12,6,55,RAS
+2013,Abu Dhabi Grand Prix,Fernando Alonso,5,10,10,55,RAS
+2013,Abu Dhabi Grand Prix,Paul di Resta,6,8,11,55,RAS
+2013,Abu Dhabi Grand Prix,Lewis Hamilton,7,6,4,55,RAS
+2013,Abu Dhabi Grand Prix,Felipe Massa,8,4,7,55,RAS
+2013,Abu Dhabi Grand Prix,Sergio Pérez,9,2,8,55,RAS
+2013,Abu Dhabi Grand Prix,Adrian Sutil,10,1,17,55,RAS
+2013,Abu Dhabi Grand Prix,Pastor Maldonado,11,0,14,55,RAS
+2013,Abu Dhabi Grand Prix,Jenson Button,12,0,12,55,RAS
+2013,Abu Dhabi Grand Prix,Esteban Gutiérrez,13,0,16,55,RAS
+2013,Abu Dhabi Grand Prix,Nico Hülkenberg,14,0,5,54,RAS
+2013,Abu Dhabi Grand Prix,Valtteri Bottas,15,0,15,54,RAS
+2013,Abu Dhabi Grand Prix,Daniel Ricciardo,16,0,9,54,RAS
+2013,Abu Dhabi Grand Prix,Jean-Éric Vergne,17,0,13,54,RAS
+2013,Abu Dhabi Grand Prix,Giedo van der Garde,18,0,18,54,RAS
+2013,Abu Dhabi Grand Prix,Charles Pic,19,0,19,54,RAS
+2013,Abu Dhabi Grand Prix,Jules Bianchi,20,0,21,53,RAS
+2013,Abu Dhabi Grand Prix,Max Chilton,21,0,20,53,RAS
+2013,Abu Dhabi Grand Prix,Kimi Räikkönen,22,0,22,0,Accident
+2013,United States Grand Prix,Sebastian Vettel,1,25,1,56,RAS
+2013,United States Grand Prix,Romain Grosjean,2,18,3,56,RAS
+2013,United States Grand Prix,Mark Webber,3,15,2,56,RAS
+2013,United States Grand Prix,Lewis Hamilton,4,12,5,56,RAS
+2013,United States Grand Prix,Fernando Alonso,5,10,6,56,RAS
+2013,United States Grand Prix,Nico Hülkenberg,6,8,4,56,RAS
+2013,United States Grand Prix,Sergio Pérez,7,6,7,56,RAS
+2013,United States Grand Prix,Valtteri Bottas,8,4,9,56,RAS
+2013,United States Grand Prix,Nico Rosberg,9,2,12,56,RAS
+2013,United States Grand Prix,Jenson Button,10,1,15,56,RAS
+2013,United States Grand Prix,Daniel Ricciardo,11,0,10,56,RAS
+2013,United States Grand Prix,Jean-Éric Vergne,12,0,14,56,RAS
+2013,United States Grand Prix,Felipe Massa,13,0,13,56,RAS
+2013,United States Grand Prix,Esteban Gutiérrez,14,0,20,56,RAS
+2013,United States Grand Prix,Heikki Kovalainen,15,0,8,56,RAS
+2013,United States Grand Prix,Paul di Resta,16,0,11,56,RAS
+2013,United States Grand Prix,Pastor Maldonado,17,0,17,55,RAS
+2013,United States Grand Prix,Jules Bianchi,18,0,19,55,RAS
+2013,United States Grand Prix,Giedo van der Garde,19,0,18,55,RAS
+2013,United States Grand Prix,Charles Pic,20,0,22,55,RAS
+2013,United States Grand Prix,Max Chilton,21,0,21,54,RAS
+2013,United States Grand Prix,Adrian Sutil,22,0,16,0,Accident
+2013,Brazilian Grand Prix,Sebastian Vettel,1,25,1,71,RAS
+2013,Brazilian Grand Prix,Mark Webber,2,18,4,71,RAS
+2013,Brazilian Grand Prix,Fernando Alonso,3,15,3,71,RAS
+2013,Brazilian Grand Prix,Jenson Button,4,12,14,71,RAS
+2013,Brazilian Grand Prix,Nico Rosberg,5,10,2,71,RAS
+2013,Brazilian Grand Prix,Sergio Pérez,6,8,19,71,RAS
+2013,Brazilian Grand Prix,Felipe Massa,7,6,9,71,RAS
+2013,Brazilian Grand Prix,Nico Hülkenberg,8,4,10,71,RAS
+2013,Brazilian Grand Prix,Lewis Hamilton,9,2,5,71,RAS
+2013,Brazilian Grand Prix,Daniel Ricciardo,10,1,7,70,RAS
+2013,Brazilian Grand Prix,Paul di Resta,11,0,12,70,RAS
+2013,Brazilian Grand Prix,Esteban Gutiérrez,12,0,17,70,RAS
+2013,Brazilian Grand Prix,Adrian Sutil,13,0,15,70,RAS
+2013,Brazilian Grand Prix,Heikki Kovalainen,14,0,11,70,RAS
+2013,Brazilian Grand Prix,Jean-Éric Vergne,15,0,8,70,RAS
+2013,Brazilian Grand Prix,Pastor Maldonado,16,0,16,70,RAS
+2013,Brazilian Grand Prix,Jules Bianchi,17,0,21,69,RAS
+2013,Brazilian Grand Prix,Giedo van der Garde,18,0,20,69,RAS
+2013,Brazilian Grand Prix,Max Chilton,19,0,22,69,RAS
+2013,Brazilian Grand Prix,Charles Pic,20,0,18,58,Mechanical
+2013,Brazilian Grand Prix,Valtteri Bottas,21,0,13,45,Accident
+2013,Brazilian Grand Prix,Romain Grosjean,22,0,6,2,Engine
