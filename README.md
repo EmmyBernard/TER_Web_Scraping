@@ -23,12 +23,10 @@ La base initiale comprenait 7 tables (Driver, Grandprix, Circuit, Team, Racedriv
 ### Comparaison de l'architecture
 
 **Base de données initiale :**
-![Schéma de la base de données initiale](docs/schema_initial.png)
-*(Remplacer le lien ci-dessus par le bon chemin vers ta capture de la Figure 2)*
+![Schéma de la base de données initiale](images/base_de_donnees_initiale.png)
 
 **Base de données finale optimisée :**
 ![Schéma de la base de données finale](images/base_de_donnees_finale.png)
-*(Remplacer le lien ci-dessus par le bon chemin vers ta capture de la Figure 3)*
 
 ## 📂 Structure du Projet
 * `Codes Python/` : Contient l'ensemble des scripts Python de scraping (BeautifulSoup, Selenium) et les requêtes API.
